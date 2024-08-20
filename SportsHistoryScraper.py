@@ -18,19 +18,25 @@ def scrapePage(year):
         # Function to print the content of a tbody 
         def write_tbody_content(tbody, index):
             # Create a CSV file for each tbody element
+            header_Type = -1
             if index == 0:
                 csv_filename = os.path.join(directory_path, f'{year}_Total.csv')
+                header_Type = 1
             elif index == 1:
                 csv_filename = os.path.join(directory_path, f'{year}_Team_Total.csv')
+                header_Type = 2
             elif index == 19 and int(year) <= 2021:
                 csv_filename = os.path.join(directory_path, f'{year}_Playoffs.csv')
+                header_Type = 3
             elif index == 20:
                 csv_filename = os.path.join(directory_path, f'{year}_Playoffs.csv')
+                header_Type = 3
             else:
                 csv_filename = os.path.join(directory_path, f'{year}_Week_{index - 1}.csv')
+                header_Type = 4
             with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
                 csvwriter = csv.writer(csvfile)
-                
+                writeHeader(header_Type, csvwriter)
                 # Write each row's data to the CSV file
                 for row in tbody.find_all('tr'):
                     cells = row.find_all('td')
@@ -41,6 +47,49 @@ def scrapePage(year):
             write_tbody_content(tbody, index)
     else:
         print(f"Failed to retrieve the page. Status code: {response.status_code}")
+
+def writeHeader(header_Type, csvwriter):
+    if header_Type == 1 or header_Type == 2:
+        csvwriter.writerow([
+            "Week", 
+            "Favorites_StraightUp", 
+            "Favorites_vs_Spread", 
+            "Home_Records", 
+            "Home_vs_Spread", 
+            "Home_Favorites", 
+            "Home_Favorites_vs_Spread", 
+            "Home_Underdogs", 
+            "Home_Underdogs_vs_Spread", 
+            "Over/Unders"
+        ])
+    elif header_Type == 4:
+        csvwriter.writerow([
+            'Day', 
+            'Date', 
+            'Time(ET)',
+            'At', 
+            'Favorite', 
+            'Score', 
+            'Spread',
+            'At', 
+            'Underdog', 
+            'Over/Under'
+        ])
+    elif header_Type == 3:
+        csvwriter.writerow([
+            'Round', 
+            'Day', 
+            'Date', 
+            'Time(ET)',
+            'At', 
+            'Favorite', 
+            'Score', 
+            'Spread',
+            'At', 
+            'Underdog', 
+            'Over/Under'
+        ])
+
 
 def scrape_All_Years():
     #Doesn't take too long. I don't want it parallel just to keep everything organized nicely
