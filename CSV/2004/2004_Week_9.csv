@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 7, 2004",1:00,,Kansas City Chiefs,L 31-34,L -3,@,Tampa Bay Buccaneers,O 45.5,
 Sun,"Nov 7, 2004",1:02,,New York Jets,L 17-22,L -3,@,Buffalo Bills,O 34,
 Sun,"Nov 7, 2004",1:02,@,Carolina Panthers,L 24-27,L -6,,Oakland Raiders,O 41,

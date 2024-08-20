@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 14, 2021",8:20,,Tampa Bay Buccaneers,W 28-22,L -7,@,Philadelphia Eagles,U 52.5,
 Sun,"Oct 17, 2021",9:30,N,Miami Dolphins,L 20-23,L -3,,Jacksonville Jaguars,U 47,at London
 Sun,"Oct 17, 2021",1:00,@,Baltimore Ravens,W 34-6,W -2.5,,Los Angeles Chargers,U 51.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 7, 2019",8:20,,Los Angeles Chargers,L 24-26,L -1,@,Oakland Raiders,O 49,
 Sun,"Nov 10, 2019",1:00,@,Chicago Bears,W 20-13,W -6,,Detroit Lions,U 38,
 Sun,"Nov 10, 2019",1:00,,Baltimore Ravens,W 49-13,W -10.5,@,Cincinnati Bengals,O 44,

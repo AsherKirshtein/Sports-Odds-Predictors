@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 22, 1959",,@,Baltimore Colts,W 45-14,W -7,,San Francisco 49ers,,
 Sun,"Nov 22, 1959",,,New York Giants,W 30-20,W -5.5,@,Chicago Cardinals,,
 Sun,"Nov 22, 1959",,@,Cleveland Browns,L 20-21,L -9,,Pittsburgh Steelers,,

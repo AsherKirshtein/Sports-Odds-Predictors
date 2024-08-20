@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 21, 2008",1:02,@,Atlanta Falcons,W 38-14,W -6.5,,Kansas City Chiefs,O 37,
 Sun,"Sep 21, 2008",1:02,@,Buffalo Bills,W 24-23,L -10,,Oakland Raiders,O 37.5,
 Sun,"Sep 21, 2008",1:02,@,Chicago Bears,L 24-27 (OT),L -3,,Tampa Bay Buccaneers,O 35,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 20, 1980",12:30,@,Miami Dolphins,L 17-24,L -6,,New York Jets,O 40,
 Sat,"Dec 20, 1980",4:00,,Chicago Bears,W 14-13,P -1,@,Tampa Bay Buccaneers,U 35,
 Sun,"Dec 21, 1980",1:00,,Cleveland Browns,W 27-24,P -3,@,Cincinnati Bengals,O 38,

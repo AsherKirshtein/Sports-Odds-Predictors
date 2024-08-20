@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 1, 1981",1:00,@,Buffalo Bills,W 22-13,W -4,,Cleveland Browns,U 43,
 Sun,"Nov 1, 1981",1:00,@,Cincinnati Bengals,W 34-21,W -4,,Houston Oilers,O 40,
 Sun,"Nov 1, 1981",1:00,@,Miami Dolphins,W 27-10,W -7,,Baltimore Colts,U 48,

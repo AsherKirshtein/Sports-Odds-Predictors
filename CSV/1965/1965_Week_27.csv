@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 12, 1965",,@,Buffalo Bills,W 34-25,W -3.5,,Kansas City Chiefs,,
 Sun,"Dec 12, 1965",,@,Denver Broncos,L 20-28,L PK,,Boston Patriots,,
 Sun,"Dec 12, 1965",,,San Diego Chargers,W 37-26,L -12.5,@,Houston Oilers,,

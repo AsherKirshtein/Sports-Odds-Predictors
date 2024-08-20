@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 17, 1985",1:00,,Los Angeles Rams,L 14-30,L -6,@,Atlanta Falcons,O 40.5,
 Sun,"Nov 17, 1985",1:00,@,Cleveland Browns,W 17-7,W -8,,Buffalo Bills,U 35,
 Sun,"Nov 17, 1985",1:00,@,Dallas Cowboys,L 0-44,L PK,,Chicago Bears,O 35.5,

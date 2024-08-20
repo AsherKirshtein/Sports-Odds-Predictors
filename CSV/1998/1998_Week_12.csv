@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 22, 1998",1:00,@,Atlanta Falcons,W 20-13,L -12,,Chicago Bears,U 41.5,
 Sun,"Nov 22, 1998",1:00,@,Buffalo Bills,W 34-11,W -7,,Indianapolis Colts,O 39.5,
 Sun,"Nov 22, 1998",1:00,@,Dallas Cowboys,W 30-22,W -5.5,,Seattle Seahawks,O 40,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Oct 9, 1965",,@,Cleveland Browns,W 24-19,L -17,,Pittsburgh Steelers,,
 Sat,"Oct 9, 1965",,@,Minnesota Vikings,W 40-14,W -11,,New York Giants,,
 Sun,"Oct 10, 1965",,@,Baltimore Colts,W 31-7,W -10,,Detroit Lions,,

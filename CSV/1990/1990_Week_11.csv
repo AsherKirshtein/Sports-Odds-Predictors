@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 18, 1990",1:00,@,Atlanta Falcons,L 23-24,L -1,,Philadelphia Eagles,P 47,
 Sun,"Nov 18, 1990",1:00,@,Buffalo Bills,W 14-0,L -15,,New England Patriots,U 39,
 Sun,"Nov 18, 1990",1:00,,Houston Oilers,W 35-23,W -3.5,@,Cleveland Browns,O 38,

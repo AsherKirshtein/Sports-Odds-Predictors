@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 9, 2010",8:29,,Indianapolis Colts,W 30-28,L -4,@,Tennessee Titans,O 44,
 Sun,"Dec 12, 2010",1:02,@,Buffalo Bills,W 13-6,W PK,,Cleveland Browns,U 39,
 Sun,"Dec 12, 2010",1:02,@,Jacksonville Jaguars,W 38-31,W -3.5,,Oakland Raiders,O 41.5,

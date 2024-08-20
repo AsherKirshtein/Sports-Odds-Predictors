@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 19, 1993",1:00,@,New England Patriots,L 14-17,L -2.5,,Seattle Seahawks,U 32,
 Sun,"Sep 19, 1993",1:00,@,New Orleans Saints,W 14-3,W -5,,Detroit Lions,U 41,
 Sun,"Sep 19, 1993",1:00,@,New York Giants,W 20-10,W -7,,Los Angeles Rams,U 37,

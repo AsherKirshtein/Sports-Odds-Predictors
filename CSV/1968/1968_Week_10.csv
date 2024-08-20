@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 13, 1968",,,New York Giants,L 21-24,L -14,@,Atlanta Falcons,,
 Sun,"Oct 13, 1968",,@,Chicago Bears,L 10-28,L PK,,Detroit Lions,,
 Sun,"Oct 13, 1968",,@,Cleveland Browns,L 21-27,L -4,,St Louis Cardinals,,

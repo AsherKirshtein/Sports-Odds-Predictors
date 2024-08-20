@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Oct 24, 1953",,@,Pittsburgh Steelers,W 31-14,W -7,,Green Bay Packers,,
 Sun,"Oct 25, 1953",,,Washington Redskins,L 17-27,L -3.5,@,Baltimore Colts,,
 Sun,"Oct 25, 1953",,,Philadelphia Eagles,W 56-17,W -3,@,Chicago Cardinals,,

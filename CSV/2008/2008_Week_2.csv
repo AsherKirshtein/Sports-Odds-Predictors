@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 14, 2008",1:00,@,Kansas City Chiefs,L 8-23,L -3.5,,Oakland Raiders,U 36,
 Sun,"Sep 14, 2008",1:00,,New York Giants,W 41-13,W -8,@,St Louis Rams,O 43.5,
 Sun,"Sep 14, 2008",1:02,@,Cincinnati Bengals,L 7-24,L -1,,Tennessee Titans,U 37,

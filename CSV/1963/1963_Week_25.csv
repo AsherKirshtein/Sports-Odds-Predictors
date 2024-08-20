@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 7, 1963",,,Green Bay Packers,W 31-14,W -10.5,@,Los Angeles Rams,,
 Sun,"Dec 8, 1963",,@,Baltimore Colts,W 41-10,W -7.5,,Minnesota Vikings,,
 Sun,"Dec 8, 1963",,@,Chicago Bears,W 27-7,W -17,,San Francisco 49ers,,

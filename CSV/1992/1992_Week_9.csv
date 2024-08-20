@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 1, 1992",1:00,@,Atlanta Falcons,W 30-28,L -5,,Los Angeles Rams,O 42,
 Sun,"Nov 1, 1992",1:00,@,Buffalo Bills,W 16-7,L -19,,New England Patriots,U 40,
 Sun,"Nov 1, 1992",1:00,@,Detroit Lions,L 13-27,L -10,,Green Bay Packers,O 39,

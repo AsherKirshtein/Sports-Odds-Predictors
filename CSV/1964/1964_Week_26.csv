@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 5, 1964",,,Green Bay Packers,W 17-3,W -4,@,Chicago Bears,,
 Sun,"Dec 6, 1964",,@,Baltimore Colts,L 14-31,L -9.5,,Detroit Lions,,
 Sun,"Dec 6, 1964",,,Minnesota Vikings,W 30-21,W -7.5,@,New York Giants,,

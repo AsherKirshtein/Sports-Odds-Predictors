@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 26, 1998",12:30,,Minnesota Vikings,W 26-16,W -7,@,Tennessee Oilers,U 48,
 Sat,"Dec 26, 1998",4:00,@,Oakland Raiders,L 24-31,L -3,,Kansas City Chiefs,O 39.5,
 Sun,"Dec 27, 1998",1:00,@,Atlanta Falcons,W 38-16,W -3,,Miami Dolphins,O 41.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 17, 1995",1:00,@,Buffalo Bills,W 20-14,W -4,,Indianapolis Colts,U 40,
 Sun,"Sep 17, 1995",1:00,,St Louis Rams,W 31-10,W -3,@,Carolina Panthers,O 36.5,
 Sun,"Sep 17, 1995",1:00,@,Detroit Lions,L 17-20,L -6.5,,Arizona Cardinals,P 37,

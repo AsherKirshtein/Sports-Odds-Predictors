@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 25, 1959",,@,Baltimore Colts,W 38-21,W -13.5,,Green Bay Packers,,
 Sun,"Oct 25, 1959",,@,Cleveland Browns,W 34-7,W -7,,Washington Redskins,,
 Sun,"Oct 25, 1959",,@,Los Angeles Rams,L 7-17,L -11.5,,Detroit Lions,,

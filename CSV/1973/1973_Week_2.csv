@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 23, 1973",1:00,@,Cincinnati Bengals,W 24-10,W -10,,Houston Oilers,,
 Sun,"Sep 23, 1973",1:00,,Kansas City Chiefs,W 10-7,L -7,@,New England Patriots,,
 Sun,"Sep 23, 1973",1:00,@,New York Giants,T 23-23,L -15,,Philadelphia Eagles,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 22, 1979",12:30,,Chicago Bears,L 0-20,L -6,@,Detroit Lions,U 36,
 Thu,"Nov 22, 1979",4:00,@,Dallas Cowboys,L 24-30,L -1,,Houston Oilers,O 41,
 Sun,"Nov 25, 1979",1:00,,New Orleans Saints,W 37-6,W -2,@,Atlanta Falcons,P 43,

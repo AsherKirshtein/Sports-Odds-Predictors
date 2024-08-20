@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 5, 1980",1:00,,Detroit Lions,L 28-43,L -2,@,Atlanta Falcons,O 42,
 Sun,"Oct 5, 1980",1:00,@,Cleveland Browns,L 16-19,L -4,,Denver Broncos,U 42,
 Sun,"Oct 5, 1980",1:00,,Cincinnati Bengals,L 9-14,L -7,@,Green Bay Packers,U 38,

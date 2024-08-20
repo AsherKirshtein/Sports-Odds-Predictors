@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 15, 1983",8:30,@,Cleveland Browns,W 17-7,W -3,,Cincinnati Bengals,U 40.5,
 Sun,"Sep 18, 1983",1:00,@,Buffalo Bills,W 28-23,P -5,,Baltimore Colts,O 33,
 Sun,"Sep 18, 1983",1:00,@,Detroit Lions,L 14-30,L -3,,Atlanta Falcons,O 38.5,

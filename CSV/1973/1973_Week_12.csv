@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 2, 1973",1:00,@,Atlanta Falcons,L 6-17,L -13.5,,Buffalo Bills,,
 Sun,"Dec 2, 1973",1:00,,Minnesota Vikings,L 0-27,L -6.5,@,Cincinnati Bengals,,
 Sun,"Dec 2, 1973",1:00,@,New England Patriots,W 30-14,W -8,,San Diego Chargers,,

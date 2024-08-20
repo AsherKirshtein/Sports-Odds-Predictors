@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 17, 2020",8:20,@,Las Vegas Raiders,L 27-30 (OT),L -3.5,,Los Angeles Chargers,O 52.5,
 Sat,"Dec 19, 2020",4:30,,Buffalo Bills,W 48-19,W -5.5,@,Denver Broncos,O 49,
 Sat,"Dec 19, 2020",8:15,@,Green Bay Packers,W 24-16,P -8,,Carolina Panthers,U 51.5,

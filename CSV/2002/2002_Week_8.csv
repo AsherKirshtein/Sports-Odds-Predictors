@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 27, 2002",1:00,,Oakland Raiders,L 10-20,L -2.5,@,Kansas City Chiefs,U 55.5,
 Sun,"Oct 27, 2002",1:00,@,Minnesota Vikings,W 25-7,W -2,,Chicago Bears,U 46,
 Sun,"Oct 27, 2002",1:02,,Pittsburgh Steelers,W 31-18,W -3,@,Baltimore Ravens,O 37.5,

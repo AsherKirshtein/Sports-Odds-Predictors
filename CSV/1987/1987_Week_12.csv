@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 6, 1987",1:00,@,Cincinnati Bengals,W 30-27 (OT),L -4.5,,Kansas City Chiefs,O 44.5,
 Sun,"Dec 6, 1987",1:00,@,Cleveland Browns,L 7-9,L -8,,Indianapolis Colts,U 42,
 Sun,"Dec 6, 1987",1:00,@,Dallas Cowboys,L 10-21,L -9.5,,Atlanta Falcons,U 44,

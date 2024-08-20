@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 10, 1991",1:00,@,Cincinnati Bengals,L 27-33 (OT),L -1.5,,Pittsburgh Steelers,O 38,
 Sun,"Nov 10, 1991",1:00,,Philadelphia Eagles,W 32-30,P -2,@,Cleveland Browns,O 33,
 Sun,"Nov 10, 1991",1:00,,Buffalo Bills,W 34-24,W -7,@,Green Bay Packers,O 37,at Milwaukee

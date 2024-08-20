@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 15, 2022",8:15,,San Francisco 49ers,W 21-13,W -3,@,Seattle Seahawks,U 43,
 Sat,"Dec 17, 2022",1:00,@,Minnesota Vikings,W 39-36 (OT),L -3.5,,Indianapolis Colts,O 47.5,
 Sat,"Dec 17, 2022",4:30,@,Cleveland Browns,W 13-3,W -3,,Baltimore Ravens,U 38,

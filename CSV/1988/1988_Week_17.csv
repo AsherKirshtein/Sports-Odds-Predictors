@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sat,"Dec 24, 1988",1:30,@,Cleveland Browns (4),L 23-24,L -3,,Houston Oilers (5),O 38
 NFC Wild Card,Mon,"Dec 26, 1988",2:30,@,Minnesota Vikings (4),W 28-17,W -4.5,,Los Angeles Rams (5),O 42
 NFC Divisional,Sat,"Dec 31, 1988",12:30,@,Chicago Bears (1),W 20-12,W -5.5,,Philadelphia Eagles (3),U 38

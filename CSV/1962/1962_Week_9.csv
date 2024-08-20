@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Fri,"Oct 5, 1962",,@,Denver Broncos,W 44-7,W -13,,Oakland Raiders,,
 Sat,"Oct 6, 1962",,,Boston Patriots,W 43-14,W -9,@,New York Titans,,
 Sun,"Oct 7, 1962",,@,Houston Oilers,W 17-14,L -16,,Buffalo Bills,,

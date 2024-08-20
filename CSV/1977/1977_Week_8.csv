@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 6, 1977",1:00,@,Atlanta Falcons,L 3-10,L -4,,San Francisco 49ers,,
 Sun,"Nov 6, 1977",1:00,@,Cleveland Browns,L 7-10,L -3.5,,Cincinnati Bengals,,
 Sun,"Nov 6, 1977",1:00,@,New England Patriots,L 14-24,L -18,,Buffalo Bills,,

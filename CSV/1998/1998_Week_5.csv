@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 4, 1998",1:00,@,Atlanta Falcons,W 51-23,W -3,,Carolina Panthers,O 39,
 Sun,"Oct 4, 1998",1:00,,San Francisco 49ers,L 21-26,L -10,@,Buffalo Bills,O 45,
 Sun,"Oct 4, 1998",1:00,@,Chicago Bears,W 31-27,W -2,,Detroit Lions,O 38,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 22, 1996",1:00,,San Francisco 49ers,L 7-23,L -9,@,Carolina Panthers,U 42,
 Sun,"Sep 22, 1996",1:00,@,Kansas City Chiefs,W 17-14,L -5,,Denver Broncos,U 40.5,
 Sun,"Sep 22, 1996",1:00,,Green Bay Packers,L 21-30,L -6.5,@,Minnesota Vikings,O 44.5,

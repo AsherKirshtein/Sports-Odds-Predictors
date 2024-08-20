@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 27, 2012",8:30,@,Baltimore Ravens,W 23-16,L -11.5,,Cleveland Browns,U 43.5,
 Sun,"Sep 30, 2012",1:00,,Seattle Seahawks,L 13-19,L -2.5,@,St Louis Rams,U 39,
 Sun,"Sep 30, 2012",1:02,,New England Patriots,W 52-28,W -4.5,@,Buffalo Bills,O 48.5,

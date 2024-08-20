@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 12, 1989",1:00,@,Buffalo Bills,W 30-7,W -6.5,,Indianapolis Colts,U 40,
 Sun,"Nov 12, 1989",1:00,,Green Bay Packers,L 22-31,L -1.5,@,Detroit Lions,O 43.5,
 Sun,"Nov 12, 1989",1:00,@,Kansas City Chiefs,L 13-16,L PK,,Denver Broncos,U 39.5,

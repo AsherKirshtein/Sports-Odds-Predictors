@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 15, 1974",1:00,@,Cincinnati Bengals,W 33-7,W -7,,Cleveland Browns,,
 Sun,"Sep 15, 1974",1:00,,Miami Dolphins,L 24-34,L -14,@,New England Patriots,,
 Sun,"Sep 15, 1974",1:00,,Washington Redskins,W 13-10,L -7,@,New York Giants,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 17, 1963",,,Green Bay Packers,L 7-26,L -4,@,Chicago Bears,,
 Sun,"Nov 17, 1963",,@,Cleveland Browns,L 14-20,L -8,,St Louis Cardinals,,
 Sun,"Nov 17, 1963",,@,Dallas Cowboys,W 27-20,W -5.5,,Philadelphia Eagles,,

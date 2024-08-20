@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 4, 1976",1:00,,Baltimore Colts,L 17-24,L -2,@,St Louis Cardinals,,
 Sat,"Dec 4, 1976",3:30,@,Los Angeles Rams,W 59-0,W -14,,Atlanta Falcons,,
 Sun,"Dec 5, 1976",1:00,@,Cleveland Browns,W 13-10,L -6,,Houston Oilers,,

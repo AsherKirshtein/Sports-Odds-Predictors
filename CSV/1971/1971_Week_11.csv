@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 25, 1971",12:00,@,Detroit Lions,W 32-21,W PK,,Kansas City Chiefs,,
 Thu,"Nov 25, 1971",3:30,@,Dallas Cowboys,W 28-21,W -3,,Los Angeles Rams,,
 Sun,"Nov 28, 1971",1:00,@,Buffalo Bills,W 27-20,W PK,,New England Patriots,,

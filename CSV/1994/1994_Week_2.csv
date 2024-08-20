@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 11, 1994",1:00,@,Atlanta Falcons,W 31-13,W -8.5,,Los Angeles Rams,O 43.5,
 Sun,"Sep 11, 1994",1:00,@,Cleveland Browns,L 10-17,L -2.5,,Pittsburgh Steelers,U 38,
 Sun,"Sep 11, 1994",1:00,@,Green Bay Packers,L 14-24,L -3,,Miami Dolphins,U 43,at Milwaukee

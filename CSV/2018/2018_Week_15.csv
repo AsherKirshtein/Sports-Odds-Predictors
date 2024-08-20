@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 13, 2018",8:20,@,Kansas City Chiefs,L 28-29,L -3.5,,Los Angeles Chargers,O 54,
 Sat,"Dec 15, 2018",4:30,,Houston Texans,W 29-22,P -7,@,New York Jets,O 44,
 Sat,"Dec 15, 2018",8:20,@,Denver Broncos,L 16-17,L -1,,Cleveland Browns,U 47,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 16, 1984",1:00,@,Green Bay Packers,L 7-9,L -2,,Chicago Bears,U 43.5,
 Sun,"Sep 16, 1984",1:00,,St Louis Cardinals,W 34-33,L -5.5,@,Indianapolis Colts,O 44.5,
 Sun,"Sep 16, 1984",1:00,,Los Angeles Raiders,W 22-20,L -4,@,Kansas City Chiefs,U 47,

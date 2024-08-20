@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 15, 2011",8:29,@,Atlanta Falcons,W 41-14,W -13.5,,Jacksonville Jaguars,O 42,
 Sat,"Dec 17, 2011",8:29,,Dallas Cowboys,W 31-15,W -7,@,Tampa Bay Buccaneers,U 47,
 Sun,"Dec 18, 2011",1:00,,Cincinnati Bengals,W 20-13,P -7,@,St Louis Rams,U 39,

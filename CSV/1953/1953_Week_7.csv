@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Nov 7, 1953",,@,Detroit Lions,W 17-7,L -14,,Baltimore Colts,,
 Sun,"Nov 8, 1953",,@,Chicago Bears,T 21-21,L -6,,Green Bay Packers,,
 Sun,"Nov 8, 1953",,@,Cleveland Browns,W 34-16,W -14,,Pittsburgh Steelers,,

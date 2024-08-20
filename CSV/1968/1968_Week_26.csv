@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 7, 1968",,,Baltimore Colts,W 16-3,W -6.5,@,Green Bay Packers,,
 Sun,"Dec 8, 1968",,,Detroit Lions,W 24-7,W -6,@,Atlanta Falcons,,
 Sun,"Dec 8, 1968",,@,Dallas Cowboys,W 28-7,W -14,,Pittsburgh Steelers,,

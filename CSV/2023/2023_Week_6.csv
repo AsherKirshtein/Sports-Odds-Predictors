@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 12, 2023",8:15,@,Kansas City Chiefs,W 19-8,W -10.5,,Denver Broncos,U 47.5,
 Sun,"Oct 15, 2023",9:30,N,Baltimore Ravens,W 24-16,W -5,,Tennessee Titans,U 42.5,at London
 Sun,"Oct 15, 2023",1:00,@,Atlanta Falcons,L 16-24,L -1.5,,Washington Commanders,U 41.5,

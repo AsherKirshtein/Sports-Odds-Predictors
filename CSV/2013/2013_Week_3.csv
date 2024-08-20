@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 19, 2013",8:29,@,Philadelphia Eagles,L 16-26,L -3.5,,Kansas City Chiefs,U 50,
 Sun,"Sep 22, 2013",1:02,@,Dallas Cowboys,W 31-7,W -3.5,,St Louis Rams,U 47.5,
 Sun,"Sep 22, 2013",1:02,@,New England Patriots,W 23-3,W -7.5,,Tampa Bay Buccaneers,U 44.5,

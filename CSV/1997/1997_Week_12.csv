@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 16, 1997",1:00,@,Baltimore Ravens,T 10-10 (OT),L -2.5,,Philadelphia Eagles,U 41,
 Sun,"Nov 16, 1997",1:00,,Minnesota Vikings,L 15-38,L -1,@,Detroit Lions,O 43,
 Sun,"Nov 16, 1997",1:00,,Green Bay Packers,L 38-41,L -13,@,Indianapolis Colts,O 39.5,

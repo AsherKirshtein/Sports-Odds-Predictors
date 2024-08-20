@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 14, 2023",8:15,@,Philadelphia Eagles,W 34-28,P -6,,Minnesota Vikings,O 49,
 Sun,"Sep 17, 2023",1:00,@,Atlanta Falcons,W 25-24,L -3,,Green Bay Packers,O 40.5,
 Sun,"Sep 17, 2023",1:00,@,Buffalo Bills,W 38-10,W -8,,Las Vegas Raiders,O 47,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 19, 2015",8:26,@,Jacksonville Jaguars,W 19-13,W -2.5,,Tennessee Titans,U 43,
 Sun,"Nov 22, 2015",1:02,@,Atlanta Falcons,L 21-24,L -4.5,,Indianapolis Colts,U 47.5,
 Sun,"Nov 22, 2015",1:02,@,Baltimore Ravens,W 16-13,W -2.5,,St Louis Rams,U 42,

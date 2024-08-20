@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 26, 1964",,@,Detroit Lions,L 24-27,L -3.5,,Chicago Bears,,
 Sun,"Nov 29, 1964",,@,Cleveland Browns,W 38-24,W -13,,Philadelphia Eagles,,
 Sun,"Nov 29, 1964",,,Green Bay Packers,W 45-21,W -10,@,Dallas Cowboys,,

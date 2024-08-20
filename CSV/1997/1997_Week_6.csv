@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 5, 1997",1:00,,Pittsburgh Steelers,W 42-34,W -2,@,Baltimore Ravens,O 43.5,
 Sun,"Oct 5, 1997",1:00,@,Buffalo Bills,W 22-13,W -3.5,,Detroit Lions,U 41,
 Sun,"Oct 5, 1997",1:00,@,Green Bay Packers,W 21-16,L -7,,Tampa Bay Buccaneers,U 39.5,

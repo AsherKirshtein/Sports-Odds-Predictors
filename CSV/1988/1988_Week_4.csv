@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 25, 1988",1:00,@,Buffalo Bills,W 36-28,W -4,,Pittsburgh Steelers,O 38,
 Sun,"Sep 25, 1988",1:00,@,Cincinnati Bengals,W 24-17,W -3.5,,Cleveland Browns,P 41,
 Sun,"Sep 25, 1988",1:00,@,Dallas Cowboys,W 26-20,P -6,,Atlanta Falcons,O 42,

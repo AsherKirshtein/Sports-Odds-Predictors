@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Fri,"Sep 18, 1970",11:00,@,Los Angeles Rams,W 34-13,W -10.5,,St Louis Cardinals,,
 Sat,"Sep 19, 1970",8:00,@,New York Giants,L 16-24,L -3,,Chicago Bears,,
 Sun,"Sep 20, 1970",1:00,,Miami Dolphins,L 14-27,L -7,@,Boston Patriots,,

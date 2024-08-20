@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 22, 1963",,@,Kansas City Chiefs,W 48-0,W -9.5,,New York Jets,,
 Sun,"Dec 22, 1963",,@,Oakland Raiders,W 52-49,L -6.5,,Houston Oilers,,
 Sun,"Dec 22, 1963",,@,San Diego Chargers,W 58-20,W -14,,Denver Broncos,,

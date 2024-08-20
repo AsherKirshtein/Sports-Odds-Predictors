@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 8, 1981",1:00,@,Green Bay Packers,W 26-24,L -3,,New York Giants,O 38,at Milwaukee
 Sun,"Nov 8, 1981",1:00,@,Houston Oilers,W 17-16,W PK,,Oakland Raiders,U 36,
 Sun,"Nov 8, 1981",1:00,@,Minnesota Vikings,W 25-10,W -5,,Tampa Bay Buccaneers,U 40,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 9, 1967",,@,Boston Patriots,L 16-44,L -4,,Buffalo Bills,,
 Sun,"Dec 10, 1967",,,Oakland Raiders,W 19-7,W -7.5,@,Houston Oilers,,
 Sun,"Dec 10, 1967",,,San Diego Chargers,L 24-41,L -12.5,@,Miami Dolphins,,

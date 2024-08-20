@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 5, 1986",1:00,@,Atlanta Falcons,L 0-16,L -6,,Philadelphia Eagles,U 43.5,
 Sun,"Oct 5, 1986",1:00,@,Chicago Bears,W 23-0,W -12.5,,Minnesota Vikings,U 43.5,
 Sun,"Oct 5, 1986",1:00,@,Detroit Lions,W 24-13,W -3,,Houston Oilers,U 41,

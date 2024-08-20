@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 7, 1986",1:00,@,Atlanta Falcons,L 23-28,L -11,,Indianapolis Colts,O 37,
 Sun,"Dec 7, 1986",1:00,,Cleveland Browns,W 21-17,W -3,@,Buffalo Bills,O 37,
 Sun,"Dec 7, 1986",1:00,@,Chicago Bears,W 48-14,W -17,,Tampa Bay Buccaneers,O 35,

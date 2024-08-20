@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 23, 1961",,,Boston Patriots,W 23-21,L -5,@,Buffalo Bills,,
 Sun,"Sep 24, 1961",,@,New York Titans,W 35-28,W -6.5,,Denver Broncos,,
 Sun,"Sep 24, 1961",,,Dallas Texans,W 42-35,L -15,@,Oakland Raiders,,

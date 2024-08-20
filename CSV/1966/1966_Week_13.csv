@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 16, 1966",,,San Diego Chargers,T 17-17,L -1,@,Buffalo Bills,,
 Sun,"Oct 16, 1966",,,New York Jets,L 0-24,L -5,@,Houston Oilers,,
 Sun,"Oct 16, 1966",,@,Kansas City Chiefs,L 13-34,L -14,,Oakland Raiders,,

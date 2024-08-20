@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 12, 2017",8:25,@,Carolina Panthers,L 23-28,L -3,,Philadelphia Eagles,O 44,
 Sun,"Oct 15, 2017",1:00,@,Atlanta Falcons,L 17-20,L -14,,Miami Dolphins,U 46,
 Sun,"Oct 15, 2017",1:00,@,Baltimore Ravens,L 24-27 (OT),L -5.5,,Chicago Bears,O 39.5,

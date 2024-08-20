@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 16, 1961",,@,Boston Patriots,W 45-17,W -6.5,,Denver Broncos,,
 Sun,"Sep 17, 1961",,,New York Titans,L 31-41,L -7,@,Buffalo Bills,,
 Sun,"Sep 17, 1961",,@,San Diego Chargers,W 44-0,W -21,,Oakland Raiders,,

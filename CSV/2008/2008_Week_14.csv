@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 4, 2008",8:15,@,San Diego Chargers,W 34-7,W -9,,Oakland Raiders,P 41,
 Sun,"Dec 7, 2008",1:02,@,Chicago Bears,W 23-10,W -6.5,,Jacksonville Jaguars,U 40,
 Sun,"Dec 7, 2008",1:02,@,Green Bay Packers,L 21-24,L -7,,Houston Texans,U 47.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 13, 2005",1:01,@,Jacksonville Jaguars,W 30-3,W -8,,Baltimore Ravens,U 34,
 Sun,"Nov 13, 2005",1:02,@,Buffalo Bills,W 14-3,W -2.5,,Kansas City Chiefs,U 42.5,
 Sun,"Nov 13, 2005",1:03,@,Chicago Bears,W 17-9,L -12,,San Francisco 49ers,U 33,

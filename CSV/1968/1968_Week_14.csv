@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 27, 1968",,@,Baltimore Colts,W 27-10,W PK,,Los Angeles Rams,,
 Sun,"Oct 27, 1968",,,Minnesota Vikings,L 24-26,L -3,@,Chicago Bears,,
 Sun,"Oct 27, 1968",,@,Cleveland Browns,W 30-7,W -13,,Atlanta Falcons,,

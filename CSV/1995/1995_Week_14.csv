@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 30, 1995",8:00,@,Arizona Cardinals,L 6-10,L -1.5,,New York Giants,U 41,
 Sun,"Dec 3, 1995",1:00,,Indianapolis Colts,L 10-13,L -4.5,@,Carolina Panthers,U 38.5,
 Sun,"Dec 3, 1995",1:00,@,Green Bay Packers,W 24-10,W -10.5,,Cincinnati Bengals,U 45.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Jan 6, 2024",4:30,,Pittsburgh Steelers,W 17-10,W -3,@,Baltimore Ravens,U 34,
 Sat,"Jan 6, 2024",8:15,,Houston Texans,W 23-19,W -1.5,@,Indianapolis Colts,U 47.5,
 Sun,"Jan 7, 2024",1:00,,Tampa Bay Buccaneers,W 9-0,W -4,@,Carolina Panthers,U 36.5,

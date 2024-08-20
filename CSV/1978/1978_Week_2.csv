@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 9, 1978",8:00,,Detroit Lions,W 15-7,W -1,@,Tampa Bay Buccaneers,,
 Sun,"Sep 10, 1978",1:00,,New Orleans Saints,L 17-28,L -1.5,@,Green Bay Packers,,at Milwaukee
 Sun,"Sep 10, 1978",1:00,,Dallas Cowboys,W 34-24,L -11,@,New York Giants,,

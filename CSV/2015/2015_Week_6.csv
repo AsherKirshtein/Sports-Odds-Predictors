@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 15, 2015",8:26,,Atlanta Falcons,L 21-31,L -3,@,New Orleans Saints,O 51,
 Sun,"Oct 18, 2015",1:02,,Cincinnati Bengals,W 34-21,W -3,@,Buffalo Bills,O 43,
 Sun,"Oct 18, 2015",1:02,,Denver Broncos,W 26-23 (OT),L -3.5,@,Cleveland Browns,O 42,

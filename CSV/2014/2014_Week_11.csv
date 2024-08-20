@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 13, 2014",8:26,@,Miami Dolphins,W 22-9,W -5,,Buffalo Bills,U 42,
 Sun,"Nov 16, 2014",1:00,,Denver Broncos,L 7-22,L -9.5,@,St Louis Rams,U 51,
 Sun,"Nov 16, 2014",1:02,@,Chicago Bears,W 21-13,W -2.5,,Minnesota Vikings,U 46.5,

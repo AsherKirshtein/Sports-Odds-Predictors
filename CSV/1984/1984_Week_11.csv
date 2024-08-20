@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 11, 1984",1:00,@,Atlanta Falcons,L 13-17,L -1,,New Orleans Saints,U 41,
 Sun,"Nov 11, 1984",1:00,,Pittsburgh Steelers,L 20-22,L -1,@,Cincinnati Bengals,O 37.5,
 Sun,"Nov 11, 1984",1:00,,San Francisco 49ers,W 41-7,W -6,@,Cleveland Browns,O 35,

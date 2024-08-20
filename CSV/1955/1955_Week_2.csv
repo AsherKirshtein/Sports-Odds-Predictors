@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Oct 1, 1955",,,Detroit Lions,L 13-28,L -7,@,Baltimore Colts,,
 Sat,"Oct 1, 1955",,@,Philadelphia Eagles,L 30-31,L -11,,Washington Redskins,,
 Sun,"Oct 2, 1955",,,New York Giants,L 17-28,L -8,@,Chicago Cardinals,,

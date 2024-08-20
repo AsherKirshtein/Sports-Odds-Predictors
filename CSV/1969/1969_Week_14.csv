@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 2, 1969",,,Los Angeles Rams,W 38-6,W -13,@,Atlanta Falcons,,
 Sun,"Nov 2, 1969",,@,Baltimore Colts,W 41-17,W -6.5,,Washington Redskins,,
 Sun,"Nov 2, 1969",,,Dallas Cowboys,L 10-42,L -6,@,Cleveland Browns,,

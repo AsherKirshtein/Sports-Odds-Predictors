@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Oct 7, 1967",,@,Cleveland Browns,W 21-10,W -10.5,,Pittsburgh Steelers,,
 Sun,"Oct 8, 1967",,,Philadelphia Eagles,W 38-7,W -8,@,Atlanta Falcons,,
 Sun,"Oct 8, 1967",,,Baltimore Colts,W 24-3,W -9,@,Chicago Bears,,

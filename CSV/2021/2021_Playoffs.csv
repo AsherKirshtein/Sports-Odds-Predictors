@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sat,"Jan 15, 2022",4:30,@,Cincinnati Bengals (4),W 26-19,W -5.5,,Las Vegas Raiders (5),U 49
 AFC Wild Card,Sat,"Jan 15, 2022",8:15,@,Buffalo Bills (3),W 47-17,W -4,,New England Patriots (6),O 44
 NFC Wild Card,Sun,"Jan 16, 2022",1:00,@,Tampa Bay Buccaneers (2),W 31-15,W -8.5,,Philadelphia Eagles (7),O 45.5

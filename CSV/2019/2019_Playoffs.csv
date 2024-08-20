@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sat,"Jan 4, 2020",4:35,@,Houston Texans (4),W 22-19 (OT),W -2.5,,Buffalo Bills (5),U 43
 AFC Wild Card,Sat,"Jan 4, 2020",8:15,@,New England Patriots (3),L 13-20,L -4.5,,Tennessee Titans (6),U 45
 NFC Wild Card,Sun,"Jan 5, 2020",1:05,@,New Orleans Saints (3),L 20-26 (OT),L -7.5,,Minnesota Vikings (6),U 50

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 19, 2008",1:00,,Tennessee Titans,W 34-10,W -9,@,Kansas City Chiefs,O 35,
 Sun,"Oct 19, 2008",1:00,,Dallas Cowboys,L 14-34,L -8,@,St Louis Rams,O 45,
 Sun,"Oct 19, 2008",1:02,@,Buffalo Bills,W 23-14,W -1,,San Diego Chargers,U 45,

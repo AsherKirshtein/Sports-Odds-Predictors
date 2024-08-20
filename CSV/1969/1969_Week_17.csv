@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 9, 1969",,,Miami Dolphins,W 17-16,L -2,@,Boston Patriots,,
 Sun,"Nov 9, 1969",,@,Houston Oilers,T 31-31,L -6,,Cincinnati Bengals,,
 Sun,"Nov 9, 1969",,@,Kansas City Chiefs,W 27-3,W -13.5,,San Diego Chargers,,

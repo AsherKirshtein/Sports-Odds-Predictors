@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 3, 1998",8:20,@,Philadelphia Eagles,W 17-14,W -1,,St Louis Rams,U 35,
 Sun,"Dec 6, 1998",1:00,@,Atlanta Falcons,W 28-21,L -12,,Indianapolis Colts,O 46,
 Sun,"Dec 6, 1998",1:00,,San Francisco 49ers,W 31-28 (OT),L -9.5,@,Carolina Panthers,O 48,

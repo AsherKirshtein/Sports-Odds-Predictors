@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 3, 2002",1:00,@,Indianapolis Colts,L 15-23,L -3,,Tennessee Titans,U 47,
 Sun,"Nov 3, 2002",1:01,@,Houston Texans,L 3-38,L -2.5,,Cincinnati Bengals,O 36.5,
 Sun,"Nov 3, 2002",1:01,@,Tampa Bay Buccaneers,W 38-24,W -7.5,,Minnesota Vikings,O 37,

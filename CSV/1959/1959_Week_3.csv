@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 11, 1959",,@,Chicago Bears,L 21-28,L -7.5,,Los Angeles Rams,,
 Sun,"Oct 11, 1959",,@,Cleveland Browns,L 6-10,L -3.5,,New York Giants,,
 Sun,"Oct 11, 1959",,,Baltimore Colts,W 31-24,P -7,@,Detroit Lions,,

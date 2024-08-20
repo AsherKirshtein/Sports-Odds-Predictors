@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 17, 2011",8:30,,New York Jets,L 13-17,L -6.5,@,Denver Broncos,U 38.5,
 Sun,"Nov 20, 2011",1:02,@,Baltimore Ravens,W 31-24,P -7,,Cincinnati Bengals,O 40.5,
 Sun,"Nov 20, 2011",1:02,@,Cleveland Browns,W 14-10,W -1.5,,Jacksonville Jaguars,U 34.5,

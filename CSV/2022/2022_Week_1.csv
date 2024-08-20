@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 8, 2022",8:20,,Buffalo Bills,W 31-10,W -2.5,@,Los Angeles Rams,U 52,
 Sun,"Sep 11, 2022",1:00,,New Orleans Saints,W 27-26,L -5.5,@,Atlanta Falcons,O 43.5,
 Sun,"Sep 11, 2022",1:00,@,Carolina Panthers,L 24-26,L -1.5,,Cleveland Browns,O 42,

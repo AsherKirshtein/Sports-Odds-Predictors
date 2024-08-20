@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 17, 1996",1:00,@,Atlanta Falcons,W 17-15,L -4,,New Orleans Saints,U 44,
 Sun,"Nov 17, 1996",1:00,@,Buffalo Bills,W 31-17,W -7,,Cincinnati Bengals,O 42,
 Sun,"Nov 17, 1996",1:00,@,Detroit Lions,W 17-16,L -4.5,,Seattle Seahawks,U 45,

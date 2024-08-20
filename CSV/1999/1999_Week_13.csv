@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 2, 1999",8:20,@,Jacksonville Jaguars,W 20-6,W -10.5,,Pittsburgh Steelers,U 37,
 Sun,"Dec 5, 1999",1:00,@,Cincinnati Bengals,W 44-30,W -3,,San Francisco 49ers,O 39,
 Sun,"Dec 5, 1999",1:01,@,Detroit Lions,W 33-17,W -3.5,,Washington Redskins,O 49.5,

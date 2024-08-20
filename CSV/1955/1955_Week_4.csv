@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Oct 15, 1955",,,Philadelphia Eagles,L 7-13,L -6.5,@,Pittsburgh Steelers,,
 Sun,"Oct 16, 1955",,@,Chicago Bears,W 38-10,W -3.5,,Baltimore Colts,,
 Sun,"Oct 16, 1955",,@,Detroit Lions,L 24-27,L -3,,San Francisco 49ers,,

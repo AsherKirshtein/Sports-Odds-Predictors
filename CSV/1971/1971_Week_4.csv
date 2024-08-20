@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 10, 1971",1:00,@,Atlanta Falcons,L 9-26,L -6,,St Louis Cardinals,,
 Sun,"Oct 10, 1971",1:00,,Baltimore Colts,W 43-0,W -9,@,Buffalo Bills,,
 Sun,"Oct 10, 1971",1:00,,Miami Dolphins,W 23-13,W -3,@,Cincinnati Bengals,,

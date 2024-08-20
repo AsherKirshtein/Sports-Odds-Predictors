@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 12, 1970",1:15,,Dallas Cowboys,W 6-2,W -2.5,@,Cleveland Browns,,
 Sat,"Dec 12, 1970",4:00,@,Oakland Raiders,W 20-6,W PK,,Kansas City Chiefs,,
 Sun,"Dec 13, 1970",12:00,,Minnesota Vikings,W 35-14,W -11,@,Boston Patriots,,

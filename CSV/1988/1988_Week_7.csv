@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 16, 1988",1:00,@,Chicago Bears,W 17-7,W -7,,Dallas Cowboys,U 38,
 Sun,"Oct 16, 1988",1:00,@,Cleveland Browns,W 19-3,W PK,,Philadelphia Eagles,U 38,
 Sun,"Oct 16, 1988",1:00,@,Indianapolis Colts,W 35-31,L -6,,Tampa Bay Buccaneers,O 38,

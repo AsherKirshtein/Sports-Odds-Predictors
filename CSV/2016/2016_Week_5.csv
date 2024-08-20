@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 6, 2016",8:27,,Arizona Cardinals,W 33-21,W -3.5,@,San Francisco 49ers,O 42.5,
 Sun,"Oct 9, 2016",1:02,,New England Patriots,W 33-13,W -10,@,Cleveland Browns,U 47.5,
 Sun,"Oct 9, 2016",1:02,,Philadelphia Eagles,L 23-24,L -3.5,@,Detroit Lions,O 46,

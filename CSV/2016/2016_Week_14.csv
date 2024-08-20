@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 8, 2016",8:25,@,Kansas City Chiefs,W 21-13,W -3.5,,Oakland Raiders,U 46,
 Sun,"Dec 11, 2016",1:00,,Pittsburgh Steelers,W 27-20,W -1,@,Buffalo Bills,O 45.5,
 Sun,"Dec 11, 2016",1:00,@,Carolina Panthers,W 28-16,W -1,,San Diego Chargers,U 48.5,

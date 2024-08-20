@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 17, 1976",1:00,,Cleveland Browns,W 20-17,L -4.5,@,Atlanta Falcons,,
 Sun,"Oct 17, 1976",1:00,,Baltimore Colts,W 31-13,W -7.5,@,Buffalo Bills,,
 Sun,"Oct 17, 1976",1:00,@,Miami Dolphins,L 17-20 (OT),L -12.5,,Kansas City Chiefs,,

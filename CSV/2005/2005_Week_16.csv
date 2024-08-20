@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 24, 2005",1:00,@,Kansas City Chiefs,W 20-7,W -1,,San Diego Chargers,U 49.5,
 Sat,"Dec 24, 2005",1:02,@,St Louis Rams,L 20-24,L -9,,San Francisco 49ers,O 42,
 Sat,"Dec 24, 2005",1:02,@,Tampa Bay Buccaneers,W 27-24 (OT),P -3,,Atlanta Falcons,O 37.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 20, 2014",8:26,,Kansas City Chiefs,L 20-24,L -7,@,Oakland Raiders,O 42.5,
 Sun,"Nov 23, 2014",1:02,@,Atlanta Falcons,L 24-26,L -2.5,,Cleveland Browns,O 48.5,
 Sun,"Nov 23, 2014",1:02,@,Chicago Bears,W 21-13,W -4.5,,Tampa Bay Buccaneers,U 46.5,

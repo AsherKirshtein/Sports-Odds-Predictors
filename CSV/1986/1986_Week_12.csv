@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 20, 1986",8:00,,Los Angeles Raiders,W 37-31 (OT),L -6.5,@,San Diego Chargers,O 44,
 Sun,"Nov 23, 1986",1:00,@,Chicago Bears,W 12-10,L -14,,Green Bay Packers,U 37,
 Sun,"Nov 23, 1986",1:00,@,Cincinnati Bengals,W 24-20,W -3,,Minnesota Vikings,U 45,

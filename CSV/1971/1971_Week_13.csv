@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 11, 1971",1:00,@,Minnesota Vikings,W 29-10,W -4,,Detroit Lions,,
 Sat,"Dec 11, 1971",4:00,@,Baltimore Colts,W 14-3,W -5,,Miami Dolphins,,
 Sun,"Dec 12, 1971",1:00,@,Buffalo Bills,L 14-20,L PK,,Houston Oilers,,

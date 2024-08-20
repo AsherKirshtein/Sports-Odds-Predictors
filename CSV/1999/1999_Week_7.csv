@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 21, 1999",8:21,,Kansas City Chiefs,W 35-8,W -1,@,Baltimore Ravens,O 36,
 Sun,"Oct 24, 1999",1:00,@,Indianapolis Colts,W 31-10,W -11,,Cincinnati Bengals,U 44,
 Sun,"Oct 24, 1999",1:00,@,Minnesota Vikings,W 40-16,W -7,,San Francisco 49ers,O 48.5,

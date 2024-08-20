@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 11, 1982",12:30,@,New York Giants,W 23-7,W -2,,Philadelphia Eagles,U 37,
 Sat,"Dec 11, 1982",4:00,@,San Francisco 49ers,L 37-41,L -2,,San Diego Chargers,O 47,
 Sun,"Dec 12, 1982",12:00,@,Buffalo Bills,W 13-0,W PK,,Pittsburgh Steelers,U 40,

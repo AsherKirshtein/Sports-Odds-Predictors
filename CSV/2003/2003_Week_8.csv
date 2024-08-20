@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 26, 2003",1:00,@,Minnesota Vikings,L 17-29,L -5.5,,New York Giants,O 44.5,
 Sun,"Oct 26, 2003",1:01,,Tennessee Titans,W 30-17,W -4.5,@,Jacksonville Jaguars,O 43.5,
 Sun,"Oct 26, 2003",1:01,@,Tampa Bay Buccaneers,W 16-0,W -6,,Dallas Cowboys,U 37,

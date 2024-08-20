@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 14, 1963",,@,Dallas Cowboys,L 7-34,L -6,,St Louis Cardinals,,
 Sat,"Sep 14, 1963",,,Detroit Lions,W 23-2,W -6,@,Los Angeles Rams,,
 Sun,"Sep 15, 1963",,,New York Giants,W 37-28,W -1,@,Baltimore Colts,,

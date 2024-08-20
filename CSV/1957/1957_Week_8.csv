@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 17, 1957",,@,Chicago Bears,L 14-29,L -6.5,,Baltimore Colts,,
 Sun,"Nov 17, 1957",,@,Detroit Lions,W 31-10,W -5.5,,San Francisco 49ers,,
 Sun,"Nov 17, 1957",,,Los Angeles Rams,W 31-27,L -4.5,@,Green Bay Packers,,at Milwaukee

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 28, 1962",,,Green Bay Packers,W 17-6,P -11,@,Baltimore Colts,,
 Sun,"Oct 28, 1962",,@,Dallas Cowboys,L 24-28,L -7.5,,St Louis Cardinals,,
 Sun,"Oct 28, 1962",,@,Detroit Lions,W 11-3,W -6.5,,Chicago Bears,,

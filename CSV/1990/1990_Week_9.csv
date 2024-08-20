@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 4, 1990",1:00,@,Cincinnati Bengals,L 7-21,L -7,,New Orleans Saints,U 44,
 Sun,"Nov 4, 1990",1:00,,Washington Redskins,W 41-38 (OT),P -3,@,Detroit Lions,O 43,
 Sun,"Nov 4, 1990",1:00,,San Francisco 49ers,W 24-20,L -7,@,Green Bay Packers,O 43,

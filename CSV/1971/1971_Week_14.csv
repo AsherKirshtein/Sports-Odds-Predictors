@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 18, 1971",4:00,@,Dallas Cowboys,W 31-12,W -16.5,,St Louis Cardinals,,
 Sun,"Dec 19, 1971",1:00,@,Miami Dolphins,W 27-6,W -7,,Green Bay Packers,,
 Sun,"Dec 19, 1971",1:00,,Philadelphia Eagles,W 41-28,W -7,@,New York Giants,,

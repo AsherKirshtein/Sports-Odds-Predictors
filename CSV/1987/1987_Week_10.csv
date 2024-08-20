@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 22, 1987",1:00,@,Chicago Bears,W 30-10,W -12,,Detroit Lions,U 41.5,
 Sun,"Nov 22, 1987",1:00,@,Cincinnati Bengals,L 16-30,L -6,,Pittsburgh Steelers,O 42,
 Sun,"Nov 22, 1987",1:00,,Cleveland Browns,W 40-7,W -2,@,Houston Oilers,P 47,

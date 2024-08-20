@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 17, 1978",1:00,@,Atlanta Falcons,L 16-24,L PK,,Cleveland Browns,,
 Sun,"Sep 17, 1978",1:00,,Pittsburgh Steelers,W 28-3,W -4.5,@,Cincinnati Bengals,,
 Sun,"Sep 17, 1978",1:00,,Chicago Bears,W 19-0,W -2.5,@,Detroit Lions,,

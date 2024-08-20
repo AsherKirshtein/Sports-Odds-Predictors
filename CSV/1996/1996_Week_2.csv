@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 8, 1996",1:00,@,Atlanta Falcons,L 17-23,L -4,,Minnesota Vikings,U 46,
 Sun,"Sep 8, 1996",1:00,@,Buffalo Bills,W 17-10,W -4.5,,New England Patriots,U 41.5,
 Sun,"Sep 8, 1996",1:00,@,Detroit Lions,W 21-6,W -11,,Tampa Bay Buccaneers,U 42,

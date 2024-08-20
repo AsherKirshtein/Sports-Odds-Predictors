@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 NFC Wild Card,Sat,"Jan 2, 1993",12:30,@,Minnesota Vikings (3),L 7-24,L -3.5,,Washington Redskins (6),U 37
 AFC Wild Card,Sat,"Jan 2, 1993",4:00,@,San Diego Chargers (3),W 17-0,W -3,,Kansas City Chiefs (6),U 37
 AFC Wild Card,Sun,"Jan 3, 1993",12:30,@,Buffalo Bills (4),W 41-38 (OT),P -3,,Houston Oilers (5),O 37

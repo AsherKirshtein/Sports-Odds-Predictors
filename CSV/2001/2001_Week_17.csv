@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Jan 6, 2002",12:03,,San Francisco 49ers,W 38-0,W -2.5,@,New Orleans Saints,U 46.5,
 Sun,"Jan 6, 2002",1:00,@,Indianapolis Colts,W 29-10,W -2,,Denver Broncos,U 51,
 Sun,"Jan 6, 2002",1:01,@,Pittsburgh Steelers,W 28-7,W -7,,Cleveland Browns,O 34.5,

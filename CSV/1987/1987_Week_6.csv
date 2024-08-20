@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 25, 1987",1:00,@,Detroit Lions,L 33-34,L -5,,Green Bay Packers,O 39,
 Sun,"Oct 25, 1987",1:00,@,Houston Oilers,W 37-33,P -4,,Atlanta Falcons,O 41,
 Sun,"Oct 25, 1987",1:00,,New England Patriots,L 16-30,L -6.5,@,Indianapolis Colts,O 43,

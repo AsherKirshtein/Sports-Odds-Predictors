@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 12, 2006",1:02,@,Indianapolis Colts,W 17-16,L -12.5,,Buffalo Bills,U 45,
 Sun,"Nov 12, 2006",1:02,@,New England Patriots,L 14-17,L -10.5,,New York Jets,U 38,
 Sun,"Nov 12, 2006",1:02,@,Philadelphia Eagles,W 27-3,W -8,,Washington Redskins,U 41.5,

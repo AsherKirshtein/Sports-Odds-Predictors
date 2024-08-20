@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 9, 1969",,@,Baltimore Colts,W 14-6,W -5,,Green Bay Packers,,
 Sun,"Nov 9, 1969",,@,Chicago Bears,W 38-7,W -7,,Pittsburgh Steelers,,
 Sun,"Nov 9, 1969",,@,Dallas Cowboys,W 33-17,L -17,,New Orleans Saints,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 24, 1966",,@,Dallas Cowboys,W 26-14,W -3.5,,Cleveland Browns,,
 Thu,"Nov 24, 1966",,@,Detroit Lions,L 14-41,L -13,,San Francisco 49ers,,
 Sun,"Nov 27, 1966",,@,Baltimore Colts,L 7-23,L -7.5,,Los Angeles Rams,,

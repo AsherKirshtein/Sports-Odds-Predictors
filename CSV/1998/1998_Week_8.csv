@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 25, 1998",1:00,,Minnesota Vikings,W 34-13,W -5,@,Detroit Lions,P 47,
 Sun,"Oct 25, 1998",1:00,@,Green Bay Packers,W 28-10,W -10.5,,Baltimore Ravens,U 41.5,
 Sun,"Oct 25, 1998",1:00,@,Miami Dolphins,W 12-9 (OT),W -2,,New England Patriots,U 36.5,

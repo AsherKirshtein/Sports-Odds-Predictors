@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 8, 2015",8:26,@,Houston Texans,L 20-27,L -2,,Indianapolis Colts,O 44.5,
 Sun,"Oct 11, 2015",1:02,@,Atlanta Falcons,W 25-19 (OT),L -7,,Washington Redskins,U 48,
 Sun,"Oct 11, 2015",1:02,@,Baltimore Ravens,L 30-33 (OT),L -6,,Cleveland Browns,O 42.5,

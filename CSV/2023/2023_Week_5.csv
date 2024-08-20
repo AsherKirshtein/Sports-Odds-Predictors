@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 5, 2023",8:15,@,Washington Commanders,L 20-40,L -6,,Chicago Bears,O 44.5,
 Sun,"Oct 8, 2023",9:30,N,Buffalo Bills,L 20-25,L -5.5,,Jacksonville Jaguars,U 48.5,at London
 Sun,"Oct 8, 2023",1:00,@,Atlanta Falcons,W 21-19,L -2.5,,Houston Texans,U 42,

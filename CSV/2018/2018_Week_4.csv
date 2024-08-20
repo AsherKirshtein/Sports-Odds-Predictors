@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 27, 2018",8:20,@,Los Angeles Rams,W 38-31,L -7.5,,Minnesota Vikings,O 48.5,
 Sun,"Sep 30, 2018",1:00,@,Atlanta Falcons,L 36-37,L -3.5,,Cincinnati Bengals,O 52.5,
 Sun,"Sep 30, 2018",1:00,@,Chicago Bears,W 48-10,W -3,,Tampa Bay Buccaneers,O 46,

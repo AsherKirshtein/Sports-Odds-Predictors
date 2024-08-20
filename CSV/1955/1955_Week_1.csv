@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 24, 1955",,@,Philadelphia Eagles,W 27-17,P -10,,New York Giants,,
 Sun,"Sep 25, 1955",,,Chicago Bears,L 17-23,L -7,@,Baltimore Colts,,
 Sun,"Sep 25, 1955",,@,Cleveland Browns,L 17-27,L -9,,Washington Redskins,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 19, 2019",8:20,,Tennessee Titans,L 7-20,L -1.5,@,Jacksonville Jaguars,U 38,
 Sun,"Sep 22, 2019",1:00,@,Buffalo Bills,W 21-17,L -5.5,,Cincinnati Bengals,U 43.5,
 Sun,"Sep 22, 2019",1:00,@,Dallas Cowboys,W 31-6,W -22,,Miami Dolphins,U 46.5,

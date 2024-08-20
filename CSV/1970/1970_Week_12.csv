@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 5, 1970",1:15,@,Minnesota Vikings,W 16-13,L -13,,Chicago Bears,,
 Sun,"Dec 6, 1970",1:00,@,Detroit Lions,W 16-3,W -5,,St Louis Cardinals,,
 Sun,"Dec 6, 1970",1:00,@,Miami Dolphins,W 37-20,W -12,,Boston Patriots,,

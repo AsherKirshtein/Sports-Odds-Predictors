@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 14, 1956",,@,Chicago Bears,W 31-7,W -10.5,,San Francisco 49ers,,
 Sun,"Oct 14, 1956",,@,Cleveland Browns,L 9-21,L PK,,New York Giants,,
 Sun,"Oct 14, 1956",,@,Detroit Lions,W 24-21,L -6.5,,Los Angeles Rams,,

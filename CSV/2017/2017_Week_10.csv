@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 9, 2017",8:25,,Seattle Seahawks,W 22-16,P -6,@,Arizona Cardinals,U 40,
 Sun,"Nov 12, 2017",1:00,,New Orleans Saints,W 47-10,W -2,@,Buffalo Bills,O 48.5,
 Sun,"Nov 12, 2017",1:00,@,Chicago Bears,L 16-23,L -4.5,,Green Bay Packers,O 37.5,

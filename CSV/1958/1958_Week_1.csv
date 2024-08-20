@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 28, 1958",,@,Baltimore Colts,W 28-15,W -4,,Detroit Lions,,
 Sun,"Sep 28, 1958",,,New York Giants,W 37-7,W -3.5,@,Chicago Cardinals,,
 Sun,"Sep 28, 1958",,,Chicago Bears,W 34-20,W -7,@,Green Bay Packers,,

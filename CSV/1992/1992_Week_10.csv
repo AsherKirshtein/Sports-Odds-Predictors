@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 8, 1992",1:00,,Dallas Cowboys,W 37-3,W -6.5,@,Detroit Lions,U 41,
 Sun,"Nov 8, 1992",1:00,@,Houston Oilers,L 14-24,L -11,,Cleveland Browns,U 40,
 Sun,"Nov 8, 1992",1:00,,Miami Dolphins,W 28-0,W -6.5,@,Indianapolis Colts,U 38,

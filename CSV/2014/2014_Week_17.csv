@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 28, 2014",1:02,@,Baltimore Ravens,W 20-10,L -13.5,,Cleveland Browns,U 39.5,
 Sun,"Dec 28, 2014",1:02,@,Miami Dolphins,L 24-37,L -6.5,,New York Jets,O 41,
 Sun,"Dec 28, 2014",1:02,@,Minnesota Vikings,W 13-9,L -7,,Chicago Bears,U 46.5,

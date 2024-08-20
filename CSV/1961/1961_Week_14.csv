@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 29, 1961",,@,Baltimore Colts,L 20-21,L -1,,Chicago Bears,,
 Sun,"Oct 29, 1961",,@,Green Bay Packers,W 28-10,L -26,,Minnesota Vikings,,at Milwaukee
 Sun,"Oct 29, 1961",,@,Los Angeles Rams,L 10-28,L -1,,Detroit Lions,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 18, 1965",,@,Los Angeles Rams,L 17-20,L PK,,Baltimore Colts,,
 Sun,"Dec 19, 1965",,@,Chicago Bears,L 17-24,L -13.5,,Minnesota Vikings,,
 Sun,"Dec 19, 1965",,@,New York Giants,L 20-38,L -3.5,,Dallas Cowboys,,

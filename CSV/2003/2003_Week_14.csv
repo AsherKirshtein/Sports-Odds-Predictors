@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 7, 2003",1:00,,Seattle Seahawks,L 7-34,L -1,@,Minnesota Vikings,U 52.5,
 Sun,"Dec 7, 2003",1:01,@,Pittsburgh Steelers,W 27-7,W -5.5,,Oakland Raiders,U 40.5,
 Sun,"Dec 7, 2003",1:02,@,Baltimore Ravens,W 31-13,W -5,,Cincinnati Bengals,O 38.5,

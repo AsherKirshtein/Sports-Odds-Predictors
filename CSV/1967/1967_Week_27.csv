@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 3, 1967",,@,Houston Oilers,W 17-14,L -14,,Miami Dolphins,,
 Sun,"Dec 3, 1967",,@,Kansas City Chiefs,W 23-13,L -15,,Buffalo Bills,,
 Sun,"Dec 3, 1967",,@,New York Jets,L 24-33,L -14,,Denver Broncos,,

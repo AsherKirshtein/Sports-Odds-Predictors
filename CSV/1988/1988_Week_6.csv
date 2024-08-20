@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 9, 1988",1:00,,Los Angeles Rams,W 33-0,W -6.5,@,Atlanta Falcons,U 44,
 Sun,"Oct 9, 1988",1:00,@,Buffalo Bills,W 34-23,W -4.5,,Indianapolis Colts,O 36,
 Sun,"Oct 9, 1988",1:00,@,Cincinnati Bengals,W 36-19,W -6,,New York Jets,O 43,

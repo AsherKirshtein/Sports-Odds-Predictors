@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 14, 1993",7:30,@,Atlanta Falcons,W 30-24,W -1,,Los Angeles Rams,O 43,
 Sun,"Oct 17, 1993",1:00,,Cleveland Browns,W 28-17,W -5.5,@,Cincinnati Bengals,O 34,
 Sun,"Oct 17, 1993",1:00,@,Detroit Lions,W 30-10,W -5.5,,Seattle Seahawks,O 34.5,

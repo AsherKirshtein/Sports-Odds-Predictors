@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 10, 1981",8:30,@,Miami Dolphins,W 30-10,W -2,,Pittsburgh Steelers,U 41,
 Sun,"Sep 13, 1981",1:00,@,Cleveland Browns,L 3-9,L -4,,Houston Oilers,U 43,
 Sun,"Sep 13, 1981",1:00,,Atlanta Falcons,W 31-17,W -4,@,Green Bay Packers,O 39,

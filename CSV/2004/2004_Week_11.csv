@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 21, 2004",1:00,@,Minnesota Vikings,W 22-19,L -8,,Detroit Lions,U 48,
 Sun,"Nov 21, 2004",1:01,@,Tampa Bay Buccaneers,W 35-3,W -8,,San Francisco 49ers,U 42,
 Sun,"Nov 21, 2004",1:02,@,Baltimore Ravens,W 30-10,W -7.5,,Dallas Cowboys,O 36,

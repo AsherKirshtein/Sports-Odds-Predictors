@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 15, 1992",1:00,@,Atlanta Falcons,W 20-17,L -4,,Phoenix Cardinals,U 41.5,
 Sun,"Nov 15, 1992",1:00,@,Cleveland Browns,L 13-14,L -2.5,,San Diego Chargers,U 31,
 Sun,"Nov 15, 1992",1:00,,Philadelphia Eagles,L 24-27,L -8.5,@,Green Bay Packers,O 35,at Milwaukee

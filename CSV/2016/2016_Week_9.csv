@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 3, 2016",8:25,,Atlanta Falcons,W 43-28,W -4.5,@,Tampa Bay Buccaneers,O 49,
 Sun,"Nov 6, 2016",1:00,,Pittsburgh Steelers,L 14-21,L -3.5,@,Baltimore Ravens,U 46,
 Sun,"Nov 6, 2016",1:00,,Dallas Cowboys,W 35-10,W -7,@,Cleveland Browns,U 49,

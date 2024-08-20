@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 17, 1991",1:00,@,Atlanta Falcons,W 43-7,W -6.5,,Tampa Bay Buccaneers,O 38,
 Sun,"Nov 17, 1991",1:00,,Minnesota Vikings,W 35-21,W -2,@,Green Bay Packers,O 36,
 Sun,"Nov 17, 1991",1:00,,Chicago Bears,W 31-17,W -9.5,@,Indianapolis Colts,O 38,

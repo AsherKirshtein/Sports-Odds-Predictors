@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 28, 1973",1:00,@,Cleveland Browns,T 16-16,L -14.5,,San Diego Chargers,,
 Sun,"Oct 28, 1973",1:00,@,Detroit Lions,W 34-0,W -2,,Green Bay Packers,,
 Sun,"Oct 28, 1973",1:00,,Miami Dolphins,W 30-14,W -15,@,New England Patriots,,

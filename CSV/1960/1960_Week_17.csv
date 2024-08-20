@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Fri,"Nov 4, 1960",,@,Boston Patriots,W 34-28,W PK,,Oakland Raiders,,
 Fri,"Nov 4, 1960",,@,New York Titans,L 7-21,L -2.5,,Los Angeles Chargers,,
 Sun,"Nov 6, 1960",,,Dallas Texans,W 45-28,W -2.5,@,Buffalo Bills,,

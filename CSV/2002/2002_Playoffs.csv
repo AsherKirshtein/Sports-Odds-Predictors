@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sat,"Jan 4, 2003",4:39,@,New York Jets (4),W 41-0,W -6,,Indianapolis Colts (5),U 42
 NFC Wild Card,Sat,"Jan 4, 2003",8:08,@,Green Bay Packers (3),L 7-27,L -6.5,,Atlanta Falcons (6),U 40.5
 AFC Wild Card,Sun,"Jan 5, 2003",1:01,@,Pittsburgh Steelers (3),W 36-33,L -8,,Cleveland Browns (6),O 41

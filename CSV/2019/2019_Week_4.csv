@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 26, 2019",8:20,@,Green Bay Packers,L 27-34,L -3.5,,Philadelphia Eagles,O 46,
 Sun,"Sep 29, 2019",1:00,@,Atlanta Falcons,L 10-24,L -3.5,,Tennessee Titans,U 46,
 Sun,"Sep 29, 2019",1:00,@,Baltimore Ravens,L 25-40,L -7.5,,Cleveland Browns,O 47,

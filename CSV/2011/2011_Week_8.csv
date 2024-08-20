@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 30, 2011",1:00,,New Orleans Saints,L 21-31,L -14,@,St Louis Rams,O 48.5,
 Sun,"Oct 30, 2011",1:02,@,Baltimore Ravens,W 30-27,L -11.5,,Arizona Cardinals,O 43,
 Sun,"Oct 30, 2011",1:02,@,Houston Texans,W 24-14,P -10,,Jacksonville Jaguars,U 41,

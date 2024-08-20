@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 6, 1979",8:30,@,Denver Broncos,L 9-13,L -2,,Los Angeles Rams,U 31.5,
 Sun,"Sep 9, 1979",1:00,,Cincinnati Bengals,L 24-51,L -3,@,Buffalo Bills,O 34,
 Sun,"Sep 9, 1979",1:00,@,Chicago Bears,W 26-7,W -6,,Minnesota Vikings,O 31.5,

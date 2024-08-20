@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 20, 1968",,@,Baltimore Colts,L 20-30,L -17.5,,Cleveland Browns,,
 Sun,"Oct 20, 1968",,,Green Bay Packers,T 14-14,L -1,@,Detroit Lions,,
 Sun,"Oct 20, 1968",,@,Los Angeles Rams,W 27-14,L -20,,Atlanta Falcons,,

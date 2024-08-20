@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 3, 1983",6:00,@,San Francisco 49ers,L 17-22,L -3.5,,Philadelphia Eagles,U 40.5,
 Sun,"Sep 4, 1983",12:00,@,New Orleans Saints,W 28-17,W -2.5,,St Louis Cardinals,O 37,
 Sun,"Sep 4, 1983",1:00,,Miami Dolphins,W 12-0,W -4,@,Buffalo Bills,U 36.5,

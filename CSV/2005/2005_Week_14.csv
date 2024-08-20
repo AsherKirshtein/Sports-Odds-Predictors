@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 11, 2005",1:01,,Indianapolis Colts,W 26-18,W -7.5,@,Jacksonville Jaguars,O 43,
 Sun,"Dec 11, 2005",1:02,,New England Patriots,W 35-7,W -3.5,@,Buffalo Bills,O 38,
 Sun,"Dec 11, 2005",1:02,,Oakland Raiders,L 10-26,L -3,@,New York Jets,U 37.5,

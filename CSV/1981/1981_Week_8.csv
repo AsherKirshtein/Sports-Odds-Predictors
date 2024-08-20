@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 25, 1981",1:00,@,Atlanta Falcons,L 24-27 (OT),L -8,,New York Giants,O 43,
 Sun,"Oct 25, 1981",1:00,@,Buffalo Bills,W 9-7,L -5,,Denver Broncos,U 39,
 Sun,"Oct 25, 1981",1:00,@,Cleveland Browns,W 42-28,W -7,,Baltimore Colts,O 46,

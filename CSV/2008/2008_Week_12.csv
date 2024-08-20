@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 20, 2008",8:15,@,Pittsburgh Steelers,W 27-10,W -11.5,,Cincinnati Bengals,O 34.5,
 Sun,"Nov 23, 2008",1:00,,Buffalo Bills,W 54-31,W -3,@,Kansas City Chiefs,O 43.5,
 Sun,"Nov 23, 2008",1:00,,Chicago Bears,W 27-3,W -7,@,St Louis Rams,U 44.5,

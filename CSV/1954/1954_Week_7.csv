@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Nov 6, 1954",,,Detroit Lions,W 27-3,W -17.5,@,Baltimore Colts,,
 Sun,"Nov 7, 1954",,@,Chicago Bears,W 28-23,L -6.5,,Green Bay Packers,,
 Sun,"Nov 7, 1954",,@,Cleveland Browns,W 62-3,W -17,,Washington Redskins,,

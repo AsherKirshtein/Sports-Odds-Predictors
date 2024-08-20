@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 NFC Divisional,Sat,"Dec 22, 1973",1:00,@,Minnesota Vikings,W 27-20,L -8,,Washington Redskins,
 AFC Divisional,Sat,"Dec 22, 1973",4:00,@,Oakland Raiders,W 33-14,W -3.5,,Pittsburgh Steelers,
 AFC Divisional,Sun,"Dec 23, 1973",1:00,@,Miami Dolphins,W 34-16,W -10,,Cincinnati Bengals,

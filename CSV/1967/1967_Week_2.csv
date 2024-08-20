@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 17, 1967",,@,Baltimore Colts,W 38-31,L -17,,Atlanta Falcons,,
 Sun,"Sep 17, 1967",,@,Cleveland Browns,L 14-21,L -2.5,,Dallas Cowboys,,
 Sun,"Sep 17, 1967",,@,Green Bay Packers,T 17-17,L -14,,Detroit Lions,,

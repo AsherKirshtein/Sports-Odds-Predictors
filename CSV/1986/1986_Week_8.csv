@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 26, 1986",1:00,,New England Patriots,W 23-3,W -7,@,Buffalo Bills,U 41,
 Sun,"Oct 26, 1986",1:00,@,Chicago Bears,W 13-7,L -14.5,,Detroit Lions,U 39,
 Sun,"Oct 26, 1986",1:00,,San Francisco 49ers,W 31-17,W -9,@,Green Bay Packers,O 39,at Milwaukee

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 23, 1972",12:00,@,Detroit Lions,W 37-20,W -7.5,,New York Jets,,
 Thu,"Nov 23, 1972",3:30,@,Dallas Cowboys,L 10-31,L -7.5,,San Francisco 49ers,,
 Sun,"Nov 26, 1972",1:00,@,Atlanta Falcons,W 23-20,L -10.5,,Denver Broncos,,

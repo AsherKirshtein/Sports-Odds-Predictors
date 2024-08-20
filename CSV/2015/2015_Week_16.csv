@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 24, 2015",8:26,@,Oakland Raiders,W 23-20 (OT),L -6,,San Diego Chargers,U 46.5,
 Sat,"Dec 26, 2015",8:26,@,Philadelphia Eagles,L 24-38,L -3,,Washington Redskins,O 48,
 Sun,"Dec 27, 2015",1:02,,Carolina Panthers,L 13-20,L -6.5,@,Atlanta Falcons,U 47.5,

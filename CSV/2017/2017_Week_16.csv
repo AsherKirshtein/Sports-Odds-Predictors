@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 23, 2017",4:30,@,Baltimore Ravens,W 23-16,L -13.5,,Indianapolis Colts,U 41,
 Sat,"Dec 23, 2017",8:30,,Minnesota Vikings,W 16-0,W -8.5,@,Green Bay Packers,U 41,
 Sun,"Dec 24, 2017",1:00,@,Carolina Panthers,W 22-19,L -10,,Tampa Bay Buccaneers,U 46.5,

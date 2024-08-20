@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 3, 1965",,@,Baltimore Colts,W 27-24,L -13,,San Francisco 49ers,,
 Sun,"Oct 3, 1965",,@,Detroit Lions,W 14-10,L -6,,Washington Redskins,,
 Sun,"Oct 3, 1965",,@,Green Bay Packers,W 23-14,L -12,,Chicago Bears,,

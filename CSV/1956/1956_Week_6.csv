@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 4, 1956",,@,Chicago Cardinals,W 28-17,W -6.5,,Philadelphia Eagles,,
 Sun,"Nov 4, 1956",,@,Green Bay Packers,L 7-24,L -7.5,,Cleveland Browns,,at Milwaukee
 Sun,"Nov 4, 1956",,,Chicago Bears,W 35-24,W -8,@,Los Angeles Rams,,

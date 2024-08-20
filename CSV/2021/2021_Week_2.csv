@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 16, 2021",8:20,@,Washington Football Team,W 30-29,L -3.5,,New York Giants,O 40.5,
 Sun,"Sep 19, 2021",1:00,,New Orleans Saints,L 7-26,L -3,@,Carolina Panthers,U 44.5,
 Sun,"Sep 19, 2021",1:00,@,Chicago Bears,W 20-17,W -1.5,,Cincinnati Bengals,U 44.5,

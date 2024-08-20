@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 24, 1995",1:00,@,New York Giants,W 45-29,W -3,,New Orleans Saints,O 38,
 Sun,"Sep 24, 1995",1:00,@,Pittsburgh Steelers,L 24-44,L -5.5,,Minnesota Vikings,O 37,
 Sun,"Sep 24, 1995",1:00,@,St Louis Rams,W 34-28,W -1.5,,Chicago Bears,O 37.5,

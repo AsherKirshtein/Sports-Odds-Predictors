@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 15, 1973",1:00,@,Miami Dolphins,W 34-7,W -9,,Detroit Lions,,
 Sat,"Dec 15, 1973",4:00,,Pittsburgh Steelers,W 37-14,W -7.5,@,San Francisco 49ers,,
 Sun,"Dec 16, 1973",1:00,@,Atlanta Falcons,W 14-10,L -13.5,,New Orleans Saints,,

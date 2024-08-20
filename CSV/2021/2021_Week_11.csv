@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 18, 2021",8:20,,New England Patriots,W 25-0,W -7,@,Atlanta Falcons,U 47,
 Sun,"Nov 21, 2021",1:00,@,Buffalo Bills,L 15-41,L -7,,Indianapolis Colts,O 49.5,
 Sun,"Nov 21, 2021",1:00,@,Carolina Panthers,L 21-27,L -3.5,,Washington Football Team,O 43,

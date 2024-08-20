@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 25, 1983",1:00,@,Buffalo Bills,W 30-13,W -7,,Houston Oilers,O 39,
 Sun,"Sep 25, 1983",1:00,@,Dallas Cowboys,W 21-20,L -8.5,,New Orleans Saints,U 46,
 Sun,"Sep 25, 1983",1:00,@,Miami Dolphins,W 14-6,W -7.5,,Kansas City Chiefs,U 37,

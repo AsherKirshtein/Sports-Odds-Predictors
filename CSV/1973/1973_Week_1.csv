@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 16, 1973",1:00,@,Cleveland Browns,W 24-14,W -6.5,,Baltimore Colts,,
 Sun,"Sep 16, 1973",1:00,@,Miami Dolphins,W 21-13,W -7.5,,San Francisco 49ers,,
 Sun,"Sep 16, 1973",1:00,@,New England Patriots,L 13-31,L PK,,Buffalo Bills,,

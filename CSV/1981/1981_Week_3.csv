@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 17, 1981",8:30,@,Buffalo Bills,L 14-20,L -4,,Philadelphia Eagles,U 38,
 Sun,"Sep 20, 1981",1:00,@,Atlanta Falcons,W 34-17,W -9,,San Francisco 49ers,O 41,
 Sun,"Sep 20, 1981",1:00,@,Cincinnati Bengals,L 17-20,L -1,,Cleveland Browns,U 41,

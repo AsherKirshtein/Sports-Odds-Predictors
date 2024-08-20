@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 6, 1974",1:00,@,Cincinnati Bengals,W 28-17,W -4.5,,Washington Redskins,,
 Sun,"Oct 6, 1974",1:00,,Oakland Raiders,W 40-24,W -12,@,Cleveland Browns,,
 Sun,"Oct 6, 1974",1:00,@,New England Patriots,W 42-3,W -14,,Baltimore Colts,,

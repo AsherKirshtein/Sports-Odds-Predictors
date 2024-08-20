@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 26, 1982",1:00,@,Atlanta Falcons,L 7-38,L -3.5,,Green Bay Packers,U 47,
 Sun,"Dec 26, 1982",1:00,@,Cincinnati Bengals,W 24-10,W -10,,Seattle Seahawks,U 40,
 Sun,"Dec 26, 1982",1:00,,Cleveland Browns,W 20-14,W -4,@,Houston Oilers,U 38,

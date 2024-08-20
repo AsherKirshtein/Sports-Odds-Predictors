@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 7, 1986",1:00,@,Chicago Bears,W 41-31,L -10.5,,Cleveland Browns,O 38,
 Sun,"Sep 7, 1986",1:00,@,Green Bay Packers,L 3-31,L -4,,Houston Oilers,U 41.5,
 Sun,"Sep 7, 1986",1:00,@,Minnesota Vikings,L 10-13,L -3.5,,Detroit Lions,U 42.5,

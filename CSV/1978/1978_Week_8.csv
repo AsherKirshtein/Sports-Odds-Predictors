@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 22, 1978",1:00,@,Buffalo Bills,W 5-0,W -3.5,,Cincinnati Bengals,,
 Sun,"Oct 22, 1978",1:00,,Washington Redskins,L 6-17,L -4,@,New York Giants,,
 Sun,"Oct 22, 1978",1:00,@,New York Jets,W 23-10,W -8,,St Louis Cardinals,,

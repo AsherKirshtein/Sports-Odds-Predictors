@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 24, 1968",,@,Boston Patriots,L 10-34,L -1,,Miami Dolphins,,
 Sun,"Nov 24, 1968",,,Oakland Raiders,W 34-0,W -16,@,Cincinnati Bengals,,
 Sun,"Nov 24, 1968",,@,Denver Broncos,W 34-32,N/A,,Buffalo Bills,,

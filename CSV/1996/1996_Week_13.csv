@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 24, 1996",1:00,@,Baltimore Ravens,L 25-28 (OT),L -4,,Jacksonville Jaguars,O 46,
 Sun,"Nov 24, 1996",1:00,@,Buffalo Bills,W 35-10,W -9.5,,New York Jets,O 42,
 Sun,"Nov 24, 1996",1:00,@,Chicago Bears,W 31-14,W -3,,Detroit Lions,O 39,

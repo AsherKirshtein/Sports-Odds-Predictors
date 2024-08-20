@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 25, 2021",12:30,,Chicago Bears,W 16-14,L -3,@,Detroit Lions,U 41,
 Thu,"Nov 25, 2021",4:30,@,Dallas Cowboys,L 33-36 (OT),L -7.5,,Las Vegas Raiders,O 51.5,
 Thu,"Nov 25, 2021",8:20,,Buffalo Bills,W 31-6,W -6.5,@,New Orleans Saints,U 45,

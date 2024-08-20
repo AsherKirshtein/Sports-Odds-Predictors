@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sat,"Dec 22, 1984",4:00,,Los Angeles Raiders (5),L 7-13,L -1.5,@,Seattle Seahawks (4),U 40
 NFC Wild Card,Sun,"Dec 23, 1984",3:30,@,Los Angeles Rams (4),L 13-16,L -4.5,,New York Giants (5),U 38
 AFC Divisional,Sat,"Dec 29, 1984",12:30,@,Miami Dolphins (1),W 31-10,W -5.5,,Seattle Seahawks (4),U 45

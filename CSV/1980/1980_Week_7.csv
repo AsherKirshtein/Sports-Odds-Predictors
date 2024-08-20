@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 19, 1980",1:00,@,Cincinnati Bengals,W 14-0,W -4,,Minnesota Vikings,U 36,
 Sun,"Oct 19, 1980",1:00,@,Cleveland Browns,W 26-21,L -9,,Green Bay Packers,O 37,
 Sun,"Oct 19, 1980",1:00,,Buffalo Bills,L 14-17,L -2,@,Miami Dolphins,U 35,

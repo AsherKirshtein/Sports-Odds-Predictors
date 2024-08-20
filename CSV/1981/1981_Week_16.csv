@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 19, 1981",12:30,,Dallas Cowboys,L 10-13 (OT),L -3,@,New York Giants,U 36,
 Sat,"Dec 19, 1981",4:00,@,Miami Dolphins,W 16-6,W -3,,Buffalo Bills,U 36,
 Sun,"Dec 20, 1981",1:00,,Denver Broncos,L 24-35,L -3,@,Chicago Bears,O 34,

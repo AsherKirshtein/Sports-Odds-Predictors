@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sat,"Jan 8, 1994",12:30,@,Kansas City Chiefs (3),W 27-24 (OT),L -7.5,,Pittsburgh Steelers (6),O 36
 NFC Wild Card,Sat,"Jan 8, 1994",4:00,@,Detroit Lions (3),L 24-28,L -1.5,,Green Bay Packers (6),O 38.5
 NFC Wild Card,Sun,"Jan 9, 1994",12:30,@,New York Giants (4),W 17-10,W -6.5,,Minnesota Vikings (5),U 33

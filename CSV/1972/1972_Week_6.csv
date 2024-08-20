@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 22, 1972",1:00,@,Detroit Lions,W 34-20,W -6.5,,San Diego Chargers,,
 Sun,"Oct 22, 1972",1:00,@,Miami Dolphins,W 24-23,L -13,,Buffalo Bills,,
 Sun,"Oct 22, 1972",1:00,@,New York Giants,W 27-21,L -9,,St Louis Cardinals,,

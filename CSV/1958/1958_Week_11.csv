@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 6, 1958",,,Baltimore Colts,L 28-30,L -2.5,@,Los Angeles Rams,,
 Sun,"Dec 7, 1958",,@,Chicago Bears,W 30-14,W -7.5,,Chicago Cardinals,,
 Sun,"Dec 7, 1958",,,New York Giants,W 19-17,L -2.5,@,Detroit Lions,,

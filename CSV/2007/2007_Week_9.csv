@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 4, 2007",1:00,@,Kansas City Chiefs,L 22-33,L -2.5,,Green Bay Packers,O 37.5,
 Sun,"Nov 4, 2007",1:00,@,Tampa Bay Buccaneers,W 17-10,W -3.5,,Arizona Cardinals,U 39,
 Sun,"Nov 4, 2007",1:02,@,Atlanta Falcons,W 20-16,W -3.5,,San Francisco 49ers,U 37,

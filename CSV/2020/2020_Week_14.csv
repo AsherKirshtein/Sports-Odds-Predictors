@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 10, 2020",8:20,@,Los Angeles Rams,W 24-3,W -5,,New England Patriots,U 43.5,
 Sun,"Dec 13, 2020",1:00,@,Carolina Panthers,L 27-32,L -4,,Denver Broncos,O 46.5,
 Sun,"Dec 13, 2020",1:00,,Houston Texans,L 7-36,L -1,@,Chicago Bears,U 46.5,

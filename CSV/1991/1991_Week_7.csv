@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 13, 1991",1:00,@,Buffalo Bills,W 42-6,W -20,,Indianapolis Colts,O 41,
 Sun,"Oct 13, 1991",1:00,@,Dallas Cowboys,W 35-23,W -6.5,,Cincinnati Bengals,O 40,
 Sun,"Oct 13, 1991",1:00,@,Minnesota Vikings,W 34-7,W -6.5,,Phoenix Cardinals,O 36,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 29, 1979",8:30,@,Miami Dolphins,W 39-24,W -6,,New England Patriots,O 38,
 Sun,"Dec 2, 1979",1:00,,Denver Broncos,W 19-16,W -2,@,Buffalo Bills,U 36,
 Sun,"Dec 2, 1979",1:00,@,Cleveland Browns,W 14-7,W -1,,Houston Oilers,U 44,

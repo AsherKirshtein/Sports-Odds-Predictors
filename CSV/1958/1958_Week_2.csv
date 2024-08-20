@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Oct 4, 1958",,,Chicago Bears,L 38-51,L -3,@,Baltimore Colts,,
 Sat,"Oct 4, 1958",,,Washington Redskins,L 10-37,L -4,@,Chicago Cardinals,,
 Sun,"Oct 5, 1958",,,Detroit Lions,T 13-13,L -2,@,Green Bay Packers,,

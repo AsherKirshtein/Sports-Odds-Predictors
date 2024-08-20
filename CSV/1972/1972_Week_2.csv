@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 24, 1972",1:00,,San Francisco 49ers,L 20-27,L -12,@,Buffalo Bills,,
 Sun,"Sep 24, 1972",1:00,@,Cincinnati Bengals,W 15-10,W -2,,Pittsburgh Steelers,,
 Sun,"Sep 24, 1972",1:00,@,Miami Dolphins,W 34-13,W -15,,Houston Oilers,,

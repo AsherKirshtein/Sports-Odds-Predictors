@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 NFC Wild Card,Sun,"Dec 31, 1989",12:30,@,Philadelphia Eagles (4),L 7-21,L -3,,Los Angeles Rams (5),U 39
 AFC Wild Card,Sun,"Dec 31, 1989",4:00,@,Houston Oilers (4),L 23-26 (OT),L -7,,Pittsburgh Steelers (5),O 43
 AFC Divisional,Sat,"Jan 6, 1990",12:30,@,Cleveland Browns (2),W 34-30,W -3.5,,Buffalo Bills (3),O 36

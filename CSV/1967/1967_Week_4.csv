@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Fri,"Sep 22, 1967",,@,Los Angeles Rams,W 39-3,W -15,,Minnesota Vikings,,
 Sun,"Sep 24, 1967",,@,Dallas Cowboys,W 38-24,W -13,,New York Giants,,
 Sun,"Sep 24, 1967",,,Cleveland Browns,L 14-31,L -4,@,Detroit Lions,,

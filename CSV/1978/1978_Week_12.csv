@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 19, 1978",1:00,@,Minnesota Vikings,L 7-13,L -3.5,,San Diego Chargers,,
 Sun,"Nov 19, 1978",1:00,,Philadelphia Eagles,W 19-17,P -2,@,New York Giants,,
 Sun,"Nov 19, 1978",1:00,,New England Patriots,W 19-17,L -6,@,New York Jets,,

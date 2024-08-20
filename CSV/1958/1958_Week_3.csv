@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 12, 1958",,@,Chicago Bears,W 28-6,W -9,,San Francisco 49ers,,
 Sun,"Oct 12, 1958",,@,Cleveland Browns,W 35-28,L -10,,Chicago Cardinals,,
 Sun,"Oct 12, 1958",,,Los Angeles Rams,W 42-28,W -1,@,Detroit Lions,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 2, 2003",1:02,@,Baltimore Ravens,W 24-17,P -7,,Jacksonville Jaguars,O 37.5,
 Sun,"Nov 2, 2003",1:02,,Carolina Panthers,L 10-14,L -6,@,Houston Texans,U 37,
 Sun,"Nov 2, 2003",1:03,,Oakland Raiders,L 13-23,L -3.5,@,Detroit Lions,U 39.5,

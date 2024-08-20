@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 28, 1957",,@,Detroit Lions,W 18-6,W -7.5,,Green Bay Packers,,
 Sun,"Dec 1, 1957",,@,Baltimore Colts,W 31-14,W -5,,Los Angeles Rams,,
 Sun,"Dec 1, 1957",,@,Chicago Bears,L 3-14,L -8,,Washington Redskins,,

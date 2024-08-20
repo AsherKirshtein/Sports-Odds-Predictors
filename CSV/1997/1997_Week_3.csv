@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 14, 1997",1:00,,Oakland Raiders,W 36-31,W -2.5,@,Atlanta Falcons,O 40,
 Sun,"Sep 14, 1997",1:00,@,Chicago Bears,L 7-32,L -2.5,,Detroit Lions,U 41,
 Sun,"Sep 14, 1997",1:00,@,Green Bay Packers,W 23-18,L -11,,Miami Dolphins,P 41,

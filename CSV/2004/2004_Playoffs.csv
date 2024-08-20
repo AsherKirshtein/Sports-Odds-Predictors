@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 NFC Wild Card,Sat,"Jan 8, 2005",4:37,@,Seattle Seahawks (4),L 20-27,L -4,,St Louis Rams (5),U 51
 AFC Wild Card,Sat,"Jan 8, 2005",8:14,@,San Diego Chargers (3),L 17-20 (OT),L -6.5,,New York Jets (6),U 42.5
 AFC Wild Card,Sun,"Jan 9, 2005",1:07,@,Indianapolis Colts (4),W 49-24,W -10,,Denver Broncos (5),O 56

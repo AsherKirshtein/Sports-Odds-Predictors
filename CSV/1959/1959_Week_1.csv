@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 26, 1959",,@,Los Angeles Rams,L 21-23,L -5,,New York Giants,,
 Sat,"Sep 26, 1959",,,Cleveland Browns,L 7-17,L -3.5,@,Pittsburgh Steelers,,
 Sun,"Sep 27, 1959",,@,Baltimore Colts,W 21-9,W -9.5,,Detroit Lions,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 4, 2021",8:20,@,Indianapolis Colts,W 45-30,W -10.5,,New York Jets,O 46,
 Sun,"Nov 7, 2021",1:00,@,Baltimore Ravens,W 34-31 (OT),L -6,,Minnesota Vikings,O 50.5,
 Sun,"Nov 7, 2021",1:00,,New England Patriots,W 24-6,W -3.5,@,Carolina Panthers,U 41,

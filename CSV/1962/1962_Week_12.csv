@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 21, 1962",,@,Chicago Bears,W 35-15,W -2,,Baltimore Colts,,
 Sun,"Oct 21, 1962",,@,Green Bay Packers,W 31-13,W -9,,San Francisco 49ers,,at Milwaukee
 Sun,"Oct 21, 1962",,@,Los Angeles Rams,L 14-38,L -10.5,,Minnesota Vikings,,

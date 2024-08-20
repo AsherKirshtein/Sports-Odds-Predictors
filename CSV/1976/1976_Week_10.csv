@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 14, 1976",1:00,,San Francisco 49ers,L 16-21,L -10,@,Atlanta Falcons,,
 Sun,"Nov 14, 1976",1:00,@,Cincinnati Bengals,W 31-27,L -13,,Houston Oilers,,
 Sun,"Nov 14, 1976",1:00,@,Cleveland Browns,W 24-3,W -7,,Philadelphia Eagles,,

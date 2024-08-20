@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 16, 2000",12:37,,Washington Redskins,L 3-24,L -1,@,Pittsburgh Steelers,U 37.5,
 Sat,"Dec 16, 2000",4:06,,Oakland Raiders,L 24-27,L -6,@,Seattle Seahawks,O 47.5,
 Sun,"Dec 17, 2000",1:00,,Denver Broncos,L 7-20,L -3,@,Kansas City Chiefs,U 47,

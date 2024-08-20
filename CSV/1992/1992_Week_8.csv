@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 25, 1992",1:00,,Chicago Bears,W 30-10,W -3.5,@,Green Bay Packers,O 37,
 Sun,"Oct 25, 1992",1:00,@,Houston Oilers,W 26-10,L -17,,Cincinnati Bengals,U 44,
 Sun,"Oct 25, 1992",1:00,,Washington Redskins,W 15-13,L -2.5,@,Minnesota Vikings,U 42,

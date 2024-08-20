@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 15, 1972",1:00,@,Cleveland Browns,L 0-17,L -5,,Chicago Bears,,
 Sun,"Oct 15, 1972",1:00,@,Miami Dolphins,W 24-10,W -9,,San Diego Chargers,,
 Sun,"Oct 15, 1972",1:00,,New York Jets,W 41-13,W -7.5,@,New England Patriots,,

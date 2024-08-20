@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 28, 2023",8:15,,Detroit Lions,W 34-20,W -2.5,@,Green Bay Packers,O 45,
 Sun,"Oct 1, 2023",9:30,N,Jacksonville Jaguars,W 23-7,W -3.5,,Atlanta Falcons,U 42.5,at London
 Sun,"Oct 1, 2023",1:00,@,Buffalo Bills,W 48-20,W -2.5,,Miami Dolphins,O 53,

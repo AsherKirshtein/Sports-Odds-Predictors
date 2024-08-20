@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sat,"Jan 6, 2007",4:35,@,Indianapolis Colts (3),W 23-8,W -6.5,,Kansas City Chiefs (6),U 51
 NFC Wild Card,Sat,"Jan 6, 2007",8:09,@,Seattle Seahawks (4),W 21-20,L -2,,Dallas Cowboys (5),U 48.5
 AFC Wild Card,Sun,"Jan 7, 2007",1:05,@,New England Patriots (4),W 37-16,W -9,,New York Jets (5),O 38.5

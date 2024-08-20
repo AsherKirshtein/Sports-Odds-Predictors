@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 6, 2007",8:39,@,Indianapolis Colts,W 41-10,W -5.5,,New Orleans Saints,U 53.5,
 Sun,"Sep 9, 2007",12:59,@,St Louis Rams,L 13-27,L -1,,Carolina Panthers,U 43,
 Sun,"Sep 9, 2007",1:00,@,Minnesota Vikings,W 24-3,W -3,,Atlanta Falcons,U 35.5,

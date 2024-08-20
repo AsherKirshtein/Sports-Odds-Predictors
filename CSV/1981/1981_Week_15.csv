@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 12, 1981",12:30,,New York Jets,W 14-13,L -2.5,@,Cleveland Browns,U 42,
 Sat,"Dec 12, 1981",4:00,@,Detroit Lions,W 45-7,W -4,,Minnesota Vikings,O 43,
 Sun,"Dec 13, 1981",1:00,,Buffalo Bills,W 19-10,W -3.5,@,New England Patriots,U 41,

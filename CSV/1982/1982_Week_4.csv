@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 25, 1982",12:00,@,Detroit Lions,L 6-13,L -4,,New York Giants,U 36,
 Thu,"Nov 25, 1982",4:00,@,Dallas Cowboys,W 31-14,W -6.5,,Cleveland Browns,O 38,
 Sun,"Nov 28, 1982",1:00,@,Atlanta Falcons,L 20-23,L -7,,St Louis Cardinals,O 42,

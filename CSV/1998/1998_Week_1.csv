@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 6, 1998",1:00,,Pittsburgh Steelers,W 20-13,W -3,@,Baltimore Ravens,U 42,
 Sun,"Sep 6, 1998",1:00,@,Carolina Panthers,L 14-19,L -4.5,,Atlanta Falcons,U 38.5,
 Sun,"Sep 6, 1998",1:00,,Jacksonville Jaguars,W 24-23,L -10,@,Chicago Bears,O 41,

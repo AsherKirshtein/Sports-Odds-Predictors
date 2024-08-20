@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 28, 1975",1:00,@,Atlanta Falcons,L 14-17,L -2,,Detroit Lions,,
 Sun,"Sep 28, 1975",1:00,,Minnesota Vikings,W 42-10,W -7.5,@,Cleveland Browns,,
 Sun,"Sep 28, 1975",1:00,,Miami Dolphins,W 22-14,P -8,@,New England Patriots,,

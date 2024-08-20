@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 24, 2011",12:35,,Green Bay Packers,W 27-15,W -4.5,@,Detroit Lions,U 55,
 Thu,"Nov 24, 2011",4:16,@,Dallas Cowboys,W 20-19,L -7,,Miami Dolphins,U 46,
 Thu,"Nov 24, 2011",8:29,@,Baltimore Ravens,W 16-6,W -3.5,,San Francisco 49ers,U 40.5,

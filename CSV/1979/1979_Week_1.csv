@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 1, 1979",8:00,@,Tampa Bay Buccaneers,W 31-16,W -3,,Detroit Lions,O 30,
 Sun,"Sep 2, 1979",1:00,,Miami Dolphins,W 9-7,L -5,@,Buffalo Bills,U 39,
 Sun,"Sep 2, 1979",1:00,@,Minnesota Vikings,W 28-22,L -7,,San Francisco 49ers,O 32,

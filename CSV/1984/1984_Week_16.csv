@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Fri,"Dec 14, 1984",9:00,@,San Francisco 49ers,W 19-16,L -6,,Los Angeles Rams,U 44,
 Sat,"Dec 15, 1984",12:30,@,New York Giants,L 3-10,L -10,,New Orleans Saints,U 38.5,
 Sat,"Dec 15, 1984",4:00,@,Seattle Seahawks,L 14-31,L -4,,Denver Broncos,O 42,

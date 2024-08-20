@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 4, 1962",,,Green Bay Packers,W 38-7,W -11,@,Chicago Bears,,
 Sun,"Nov 4, 1962",,@,Cleveland Browns,T 14-14,L -11,,Philadelphia Eagles,,
 Sun,"Nov 4, 1962",,,Detroit Lions,W 12-3,W -7,@,Los Angeles Rams,,

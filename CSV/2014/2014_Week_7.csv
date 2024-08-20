@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 16, 2014",8:25,@,New England Patriots,W 27-25,L -9.5,,New York Jets,O 44.5,
 Sun,"Oct 19, 2014",1:00,@,Chicago Bears,L 14-27,L -3,,Miami Dolphins,U 47.5,
 Sun,"Oct 19, 2014",1:00,,Seattle Seahawks,L 26-28,L -7,@,St Louis Rams,O 43.5,

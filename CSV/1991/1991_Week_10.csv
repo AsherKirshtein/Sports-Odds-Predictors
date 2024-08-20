@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 3, 1991",1:00,,San Francisco 49ers,L 14-17,L -5,@,Atlanta Falcons,U 39,
 Sun,"Nov 3, 1991",1:00,@,Buffalo Bills,W 22-17,L -17,,New England Patriots,U 41,
 Sun,"Nov 3, 1991",1:00,@,Chicago Bears,W 20-10,W -7,,Detroit Lions,U 32,

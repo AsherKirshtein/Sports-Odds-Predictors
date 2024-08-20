@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 17, 1972",1:00,,New York Jets,W 41-24,W -7,@,Buffalo Bills,,
 Sun,"Sep 17, 1972",1:00,@,Cleveland Browns,L 10-26,L PK,,Green Bay Packers,,
 Sun,"Sep 17, 1972",1:00,,Cincinnati Bengals,W 31-7,W -4,@,New England Patriots,,

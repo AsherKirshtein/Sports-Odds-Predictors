@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 10, 1966",,,Green Bay Packers,W 14-10,W -3.5,@,Baltimore Colts,,
 Sun,"Dec 11, 1966",,,St Louis Cardinals,L 10-16,L -8,@,Atlanta Falcons,,
 Sun,"Dec 11, 1966",,@,Dallas Cowboys,L 31-34,L -13.5,,Washington Redskins,,

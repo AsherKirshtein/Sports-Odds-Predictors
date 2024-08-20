@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Oct 17, 1953",,@,Philadelphia Eagles,W 23-7,W -1.5,,Pittsburgh Steelers,,
 Sun,"Oct 18, 1953",,,San Francisco 49ers,W 35-28,W -5,@,Chicago Bears,,
 Sun,"Oct 18, 1953",,@,Detroit Lions,L 19-31,L -4,,Los Angeles Rams,,

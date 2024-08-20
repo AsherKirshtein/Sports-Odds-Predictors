@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 24, 1977",8:00,,Minnesota Vikings,W 9-3,L -14.5,@,Tampa Bay Buccaneers,,
 Sun,"Sep 25, 1977",1:00,@,Cincinnati Bengals,W 42-20,W -20,,Seattle Seahawks,,
 Sun,"Sep 25, 1977",1:00,,Baltimore Colts,W 20-12,L -14,@,New York Jets,,

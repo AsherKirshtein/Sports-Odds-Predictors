@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 13, 1992",1:00,,Los Angeles Raiders,L 21-24 (OT),L -2.5,@,Cincinnati Bengals,O 37,
 Sun,"Sep 13, 1992",1:00,@,Detroit Lions,W 31-17,W -3.5,,Minnesota Vikings,O 43,
 Sun,"Sep 13, 1992",1:00,@,Kansas City Chiefs,W 26-7,W -10,,Seattle Seahawks,P 33,

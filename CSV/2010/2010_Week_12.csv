@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 25, 2010",12:38,,New England Patriots,W 45-24,W -7.5,@,Detroit Lions,O 50.5,
 Thu,"Nov 25, 2010",4:36,,New Orleans Saints,W 30-27,L -4.5,@,Dallas Cowboys,O 49,
 Thu,"Nov 25, 2010",8:30,@,New York Jets,W 26-10,W -9.5,,Cincinnati Bengals,U 43.5,

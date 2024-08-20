@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 26, 2020",12:30,,Houston Texans,W 41-25,W -3,@,Detroit Lions,O 52.5,
 Thu,"Nov 26, 2020",4:30,@,Dallas Cowboys,L 16-41,L -2.5,,Washington Football Team,O 46,
 Sun,"Nov 29, 2020",1:00,,Las Vegas Raiders,L 6-43,L -3.5,@,Atlanta Falcons,U 53,

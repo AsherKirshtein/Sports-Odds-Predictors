@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 10, 1985",1:00,,Houston Oilers,L 0-20,L -2.5,@,Buffalo Bills,U 37.5,
 Sun,"Nov 10, 1985",1:00,@,Chicago Bears,W 24-3,W -9.5,,Detroit Lions,U 39.5,
 Sun,"Nov 10, 1985",1:00,@,Cincinnati Bengals,W 27-10,W -3,,Cleveland Browns,U 43,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Aug 31, 1997",1:00,@,Buffalo Bills,L 13-34,L -2.5,,Minnesota Vikings,O 37,
 Sun,"Aug 31, 1997",1:00,@,Cincinnati Bengals,W 24-21,L -7.5,,Arizona Cardinals,O 42.5,
 Sun,"Aug 31, 1997",1:00,@,Detroit Lions,W 28-17,W -7.5,,Atlanta Falcons,O 41.5,

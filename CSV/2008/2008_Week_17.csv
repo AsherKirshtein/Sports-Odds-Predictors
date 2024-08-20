@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 28, 2008",1:02,@,Atlanta Falcons,W 31-27,L -14,,St Louis Rams,O 44.5,
 Sun,"Dec 28, 2008",1:02,,New England Patriots,W 13-0,W -5.5,@,Buffalo Bills,U 34.5,
 Sun,"Dec 28, 2008",1:02,@,Cincinnati Bengals,W 16-6,W -1.5,,Kansas City Chiefs,U 40,

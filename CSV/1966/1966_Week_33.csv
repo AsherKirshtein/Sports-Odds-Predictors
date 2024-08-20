@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFL Championship,Sun,"Jan 1, 1967",,,Kansas City Chiefs,W 31-7,W -3.5,@,Buffalo Bills,
 NFL Championship,Sun,"Jan 1, 1967",,,Green Bay Packers,W 34-27,P -7,@,Dallas Cowboys,
 Super Bowl I,Sun,"Jan 15, 1967",,N,Green Bay Packers,W 35-10,W -14,,Kansas City Chiefs,

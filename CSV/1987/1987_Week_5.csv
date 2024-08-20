@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 18, 1987",1:00,,Los Angeles Rams,L 20-24,L -12.5,@,Atlanta Falcons,,
 Sun,"Oct 18, 1987",1:00,@,Chicago Bears,L 17-19,L -5.5,,New Orleans Saints,,
 Sun,"Oct 18, 1987",1:00,,Cleveland Browns,W 34-0,W -5,@,Cincinnati Bengals,,

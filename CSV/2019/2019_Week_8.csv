@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 24, 2019",8:20,@,Minnesota Vikings,W 19-9,L -16.5,,Washington Redskins,U 42,
 Sun,"Oct 27, 2019",1:00,,Seattle Seahawks,W 27-20,L -7.5,@,Atlanta Falcons,U 48.5,
 Sun,"Oct 27, 2019",1:00,@,Buffalo Bills,L 13-31,L -1,,Philadelphia Eagles,O 39.5,

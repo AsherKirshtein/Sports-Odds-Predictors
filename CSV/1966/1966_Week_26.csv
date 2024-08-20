@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 4, 1966",,@,Baltimore Colts,W 21-16,L -6,,Chicago Bears,,
 Sun,"Dec 4, 1966",,@,Cleveland Browns,W 49-40,L -25,,New York Giants,,
 Sun,"Dec 4, 1966",,@,Dallas Cowboys,W 31-17,W -13,,St Louis Cardinals,,

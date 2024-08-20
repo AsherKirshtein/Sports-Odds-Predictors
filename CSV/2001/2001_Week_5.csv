@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 14, 2001",12:00,@,Kansas City Chiefs,L 17-20,L -2.5,,Pittsburgh Steelers,O 36,
 Sun,"Oct 14, 2001",12:02,@,St Louis Rams,W 15-14,L -10.5,,New York Giants,U 45,
 Sun,"Oct 14, 2001",12:03,@,Chicago Bears,W 20-13,P -7,,Arizona Cardinals,U 39.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 9, 2023",8:15,@,Chicago Bears,W 16-13,L -3.5,,Carolina Panthers,U 38.5,
 Sun,"Nov 12, 2023",9:30,N,Indianapolis Colts,W 10-6,W -2.5,,New England Patriots,U 41.5,at Frankfurt
 Sun,"Nov 12, 2023",1:00,@,Baltimore Ravens,L 31-33,L -6,,Cleveland Browns,O 38.5,

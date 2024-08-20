@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 NFC Wild Card,Sat,"Jan 8, 2011",4:35,,New Orleans Saints (5),L 36-41,L -10,@,Seattle Seahawks (4),O 46
 AFC Wild Card,Sat,"Jan 8, 2011",8:15,@,Indianapolis Colts (3),L 16-17,L -2.5,,New York Jets (6),U 44.5
 AFC Wild Card,Sun,"Jan 9, 2011",1:06,,Baltimore Ravens (5),W 30-7,W -3,@,Kansas City Chiefs (4),U 40.5

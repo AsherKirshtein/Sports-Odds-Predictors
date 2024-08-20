@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 22, 2011",8:29,,Houston Texans,L 16-19,L -7,@,Indianapolis Colts,U 40.5,
 Sat,"Dec 24, 2011",1:02,,Denver Broncos,L 14-40,L -3,@,Buffalo Bills,O 43.5,
 Sat,"Dec 24, 2011",1:02,@,Cincinnati Bengals,W 23-16,W -4,,Arizona Cardinals,U 41,

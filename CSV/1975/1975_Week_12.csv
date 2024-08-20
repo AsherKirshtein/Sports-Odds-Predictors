@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 7, 1975",1:00,,Washington Redskins,W 30-27,L -6.5,@,Atlanta Falcons,,
 Sun,"Dec 7, 1975",1:00,@,New England Patriots,L 28-30,L -5.5,,New York Jets,,
 Sun,"Dec 7, 1975",1:00,,Baltimore Colts,W 21-0,W -10,@,New York Giants,,

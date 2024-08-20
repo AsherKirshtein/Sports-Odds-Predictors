@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 24, 1988",12:30,,Minnesota Vikings,W 23-0,W -6.5,@,Detroit Lions,U 38,
 Thu,"Nov 24, 1988",4:00,,Houston Oilers,W 25-17,W -5.5,@,Dallas Cowboys,U 47,
 Sun,"Nov 27, 1988",1:00,@,Atlanta Falcons,W 17-10,W -4.5,,Tampa Bay Buccaneers,U 40,

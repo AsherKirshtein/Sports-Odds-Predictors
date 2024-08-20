@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 14, 1965",,,New York Jets,W 30-20,W -1.5,@,Boston Patriots,,
 Sun,"Nov 14, 1965",,@,Houston Oilers,L 21-31,L -7.5,,Denver Broncos,,
 Sun,"Nov 14, 1965",,,San Diego Chargers,L 7-31,L -6,@,Kansas City Chiefs,,

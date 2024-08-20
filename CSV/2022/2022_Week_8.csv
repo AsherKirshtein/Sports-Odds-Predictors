@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 27, 2022",8:15,@,Tampa Bay Buccaneers,L 22-27,L -1.5,,Baltimore Ravens,O 45.5,
 Sun,"Oct 30, 2022",9:30,N,Jacksonville Jaguars,L 17-21,L -2,,Denver Broncos,U 40.5,at London
 Sun,"Oct 30, 2022",1:00,@,Atlanta Falcons,W 37-34 (OT),L -4,,Carolina Panthers,O 41,

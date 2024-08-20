@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 6, 2007",8:16,@,Washington Redskins,W 24-16,W -3,,Chicago Bears,P 40,
 Sun,"Dec 9, 2007",1:01,,Tampa Bay Buccaneers,L 14-28,L -2.5,@,Houston Texans,O 40,
 Sun,"Dec 9, 2007",1:02,@,Buffalo Bills,W 38-17,W -7,,Miami Dolphins,O 34,

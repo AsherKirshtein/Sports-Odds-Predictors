@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 NFC Divisional,Sat,"Dec 21, 1974",1:00,@,Minnesota Vikings,W 30-14,W -7,,St Louis Cardinals,
 AFC Divisional,Sat,"Dec 21, 1974",4:00,@,Oakland Raiders,W 28-26,L -3,,Miami Dolphins,
 AFC Divisional,Sun,"Dec 22, 1974",1:00,@,Pittsburgh Steelers,W 32-14,W -6.5,,Buffalo Bills,

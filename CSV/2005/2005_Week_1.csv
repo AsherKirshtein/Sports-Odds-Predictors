@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 8, 2005",9:07,@,New England Patriots,W 30-20,W -7.5,,Oakland Raiders,P 50,
 Sun,"Sep 11, 2005",1:00,@,Kansas City Chiefs,W 27-7,W -3,,New York Jets,U 48.5,
 Sun,"Sep 11, 2005",1:05,@,Buffalo Bills,W 22-7,W -4.5,,Houston Texans,U 39,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 4, 1988",1:00,,Minnesota Vikings,L 10-13,L -2.5,@,Buffalo Bills,U 44,
 Sun,"Sep 4, 1988",1:00,@,Chicago Bears,W 34-7,W -3.5,,Miami Dolphins,U 46,
 Sun,"Sep 4, 1988",1:00,@,Cincinnati Bengals,W 21-14,W -5.5,,Phoenix Cardinals,U 47,

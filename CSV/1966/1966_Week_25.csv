@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 24, 1966",,@,Oakland Raiders,L 10-31,L PK,,Buffalo Bills,,
 Sun,"Nov 27, 1966",,,San Diego Chargers,L 17-20,L -12,@,Denver Broncos,,
 Sun,"Nov 27, 1966",,,Boston Patriots,W 20-14,L -11,@,Miami Dolphins,,

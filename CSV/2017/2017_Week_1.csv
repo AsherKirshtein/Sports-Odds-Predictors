@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 7, 2017",8:30,@,New England Patriots,L 27-42,L -8,,Kansas City Chiefs,O 47.5,
 Sun,"Sep 10, 2017",1:00,@,Buffalo Bills,W 21-12,W -7,,New York Jets,U 42,
 Sun,"Sep 10, 2017",1:00,,Atlanta Falcons,W 23-17,L -6.5,@,Chicago Bears,U 48,

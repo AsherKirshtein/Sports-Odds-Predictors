@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 5, 2003",1:00,@,Kansas City Chiefs,W 24-23,L -3.5,,Denver Broncos,O 46.5,
 Sun,"Oct 5, 2003",1:02,@,Buffalo Bills,W 22-16 (OT),L -7,,Cincinnati Bengals,U 40,
 Sun,"Oct 5, 2003",1:02,@,Carolina Panthers,W 19-13,L -7,,New Orleans Saints,U 37.5,

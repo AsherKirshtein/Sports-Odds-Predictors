@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 21, 1956",,@,Chicago Bears,W 58-27,W -11,,Baltimore Colts,,
 Sun,"Oct 21, 1956",,@,Detroit Lions,W 20-17,L -10,,San Francisco 49ers,,
 Sun,"Oct 21, 1956",,,Los Angeles Rams,L 17-42,L -3.5,@,Green Bay Packers,,at Milwaukee

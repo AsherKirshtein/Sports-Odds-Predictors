@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 31, 2017",1:00,@,Detroit Lions,W 35-11,W -7.5,,Green Bay Packers,O 44.5,
 Sun,"Dec 31, 2017",1:00,@,Indianapolis Colts,W 22-13,W -5.5,,Houston Texans,U 41.5,
 Sun,"Dec 31, 2017",1:00,@,Minnesota Vikings,W 23-10,L -13.5,,Chicago Bears,U 38.5,

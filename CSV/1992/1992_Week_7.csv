@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 15, 1992",7:35,@,Minnesota Vikings,W 31-14,W -5.5,,Detroit Lions,O 43,
 Sun,"Oct 18, 1992",1:00,@,Chicago Bears,W 31-14,W -5.5,,Tampa Bay Buccaneers,O 40,
 Sun,"Oct 18, 1992",1:00,@,Cleveland Browns,W 17-6,W -3,,Green Bay Packers,U 33,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 25, 1965",,@,San Diego Chargers,T 20-20,L -7,,Buffalo Bills,,
 Sun,"Nov 28, 1965",,@,Kansas City Chiefs,W 52-21,W -10,,Houston Oilers,,
 Sun,"Nov 28, 1965",,@,New York Jets,L 23-27,L -9,,Boston Patriots,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 13, 2016",8:25,,Denver Broncos,L 13-21,L -3,@,San Diego Chargers,U 44,
 Sun,"Oct 16, 2016",1:02,@,Buffalo Bills,W 45-16,W -7.5,,San Francisco 49ers,O 44,
 Sun,"Oct 16, 2016",1:02,@,Chicago Bears,L 16-17,L -2.5,,Jacksonville Jaguars,U 46,

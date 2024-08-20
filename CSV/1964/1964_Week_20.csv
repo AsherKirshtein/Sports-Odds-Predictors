@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 15, 1964",,@,Baltimore Colts,W 17-14,L -13.5,,Minnesota Vikings,,
 Sun,"Nov 15, 1964",,@,Cleveland Browns,W 37-21,W -7,,Detroit Lions,,
 Sun,"Nov 15, 1964",,@,Dallas Cowboys,L 14-17,L -10,,Philadelphia Eagles,,

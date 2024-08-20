@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 3, 2015",8:26,,Green Bay Packers,W 27-23,W -3,@,Detroit Lions,O 46.5,
 Sun,"Dec 6, 2015",1:00,,Arizona Cardinals,W 27-3,W -4.5,@,St Louis Rams,U 43,
 Sun,"Dec 6, 2015",1:02,@,Buffalo Bills,W 30-21,W -3.5,,Houston Texans,O 41.5,

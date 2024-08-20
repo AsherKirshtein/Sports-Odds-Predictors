@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 14, 2017",8:25,@,Cincinnati Bengals,L 9-13,L -5,,Houston Texans,U 38,
 Sun,"Sep 17, 2017",1:00,@,Baltimore Ravens,W 24-10,W -7.5,,Cleveland Browns,U 39.5,
 Sun,"Sep 17, 2017",1:00,@,Carolina Panthers,W 9-3,L -6.5,,Buffalo Bills,U 43,

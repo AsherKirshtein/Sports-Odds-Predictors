@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Fri,"Nov 17, 1961",,@,Boston Patriots,W 20-17,L -12,,Oakland Raiders,,
 Sun,"Nov 19, 1961",,,Buffalo Bills,W 23-10,W -3.5,@,Denver Broncos,,
 Sun,"Nov 19, 1961",,@,Houston Oilers,W 49-13,W -13.5,,New York Titans,,

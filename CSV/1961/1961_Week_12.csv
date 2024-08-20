@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 22, 1961",,,San Francisco 49ers,L 0-31,L -3.5,@,Chicago Bears,,
 Sun,"Oct 22, 1961",,,Philadelphia Eagles,W 43-7,W -7,@,Dallas Cowboys,,
 Sun,"Oct 22, 1961",,@,Detroit Lions,L 14-17,L -4,,Baltimore Colts,,

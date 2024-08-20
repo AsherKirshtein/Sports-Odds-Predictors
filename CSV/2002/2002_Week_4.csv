@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 29, 2002",1:00,,Miami Dolphins,L 30-48,L -3,@,Kansas City Chiefs,O 44.5,
 Sun,"Sep 29, 2002",1:01,@,Pittsburgh Steelers,W 16-13 (OT),L -6,,Cleveland Browns,U 44,
 Sun,"Sep 29, 2002",1:02,@,Green Bay Packers,W 17-14,L -6.5,,Carolina Panthers,U 41.5,

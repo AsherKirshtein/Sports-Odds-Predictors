@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 21, 2023",8:15,@,Los Angeles Rams,W 30-22,W -4,,New Orleans Saints,O 45.5,
 Sat,"Dec 23, 2023",4:30,,Cincinnati Bengals,L 11-34,L -3,@,Pittsburgh Steelers,O 39,
 Sat,"Dec 23, 2023",8:00,,Buffalo Bills,W 24-22,L -12.5,@,Los Angeles Chargers,O 44.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 29, 2015",8:26,@,New England Patriots,W 36-7,W -7.5,,Miami Dolphins,U 50.5,
 Sun,"Nov 1, 2015",9:36,N,Kansas City Chiefs,W 45-10,W -3.5,,Detroit Lions,O 45,at London
 Sun,"Nov 1, 2015",1:00,,Minnesota Vikings,W 23-20,W -1,@,Chicago Bears,P 43,

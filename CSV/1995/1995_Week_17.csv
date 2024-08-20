@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 23, 1995",12:30,,San Diego Chargers,W 27-17,W -4.5,@,New York Giants,O 38.5,
 Sat,"Dec 23, 1995",4:00,,Detroit Lions,W 37-10,W -7,@,Tampa Bay Buccaneers,O 42,
 Sat,"Dec 23, 1995",8:00,@,Indianapolis Colts,W 10-7,L -6,,New England Patriots,U 42.5,

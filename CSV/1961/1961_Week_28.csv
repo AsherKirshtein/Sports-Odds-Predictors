@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 16, 1961",,@,San Francisco 49ers,L 24-27,L -6.5,,Baltimore Colts,,
 Sun,"Dec 17, 1961",,@,Chicago Bears,W 52-35,W -11,,Minnesota Vikings,,
 Sun,"Dec 17, 1961",,@,Detroit Lions,L 24-27,L -1.5,,Philadelphia Eagles,,

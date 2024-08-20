@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 5, 2019",8:20,,Dallas Cowboys,L 24-31,L -3,@,Chicago Bears,O 43,
 Sun,"Dec 8, 2019",1:00,@,Atlanta Falcons,W 40-20,W -3.5,,Carolina Panthers,O 48,
 Sun,"Dec 8, 2019",1:00,,Baltimore Ravens,W 24-17,W -6.5,@,Buffalo Bills,U 44,

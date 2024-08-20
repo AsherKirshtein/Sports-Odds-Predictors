@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 15, 2000",1:00,@,Kansas City Chiefs,L 17-20,L -3,,Oakland Raiders,U 43.5,
 Sun,"Oct 15, 2000",1:01,@,Buffalo Bills,W 27-24 (OT),L -10,,San Diego Chargers,O 36.5,
 Sun,"Oct 15, 2000",1:01,@,Pittsburgh Steelers,W 15-0,W -8.5,,Cincinnati Bengals,U 37,

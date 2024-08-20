@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 2, 1986",1:00,@,Detroit Lions,L 17-24,L -2.5,,Cincinnati Bengals,U 44,
 Sun,"Nov 2, 1986",1:00,,Cleveland Browns,W 24-9,W -6.5,@,Indianapolis Colts,U 39.5,
 Sun,"Nov 2, 1986",1:00,@,Miami Dolphins,W 28-7,W -7.5,,Houston Oilers,U 46,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sun,"Dec 27, 1981",12:00,@,New York Jets (4),L 27-31,L -3,,Buffalo Bills (5),O 42
 NFC Wild Card,Sun,"Dec 27, 1981",3:30,@,Philadelphia Eagles (4),L 21-27,L -7,,New York Giants (5),O 37
 NFC Divisional,Sat,"Jan 2, 1982",1:00,@,Dallas Cowboys (2),W 38-0,W -8,,Tampa Bay Buccaneers (3),O 37

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 22, 2002",1:00,@,Minnesota Vikings,L 14-21,L -6.5,,Carolina Panthers,U 44.5,
 Sun,"Sep 22, 2002",1:01,,Indianapolis Colts,W 23-3,W -10.5,@,Houston Texans,U 38,
 Sun,"Sep 22, 2002",1:02,@,Miami Dolphins,W 30-3,W -6,,New York Jets,U 40.5,

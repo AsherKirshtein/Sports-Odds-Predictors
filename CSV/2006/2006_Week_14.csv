@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 7, 2006",8:04,@,Pittsburgh Steelers,W 27-7,W -7.5,,Cleveland Browns,U 34.5,
 Sun,"Dec 10, 2006",1:00,@,Kansas City Chiefs,L 10-20,L -3,,Baltimore Ravens,U 37.5,
 Sun,"Dec 10, 2006",1:02,,New York Giants,W 27-13,W -2.5,@,Carolina Panthers,O 39,

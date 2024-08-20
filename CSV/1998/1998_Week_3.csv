@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 20, 1998",1:00,@,Buffalo Bills,L 33-34,L -4.5,,St Louis Rams,O 38.5,
 Sun,"Sep 20, 1998",1:00,,Green Bay Packers,W 13-6,P -7,@,Cincinnati Bengals,U 44.5,
 Sun,"Sep 20, 1998",1:00,@,Kansas City Chiefs,W 23-7,W -10,,San Diego Chargers,U 37,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 11, 2014",8:25,@,St Louis Rams,L 6-12,L -4.5,,Arizona Cardinals,U 40.5,
 Sun,"Dec 14, 2014",1:02,,Pittsburgh Steelers,W 27-20,W -3,@,Atlanta Falcons,U 55,
 Sun,"Dec 14, 2014",1:02,@,Baltimore Ravens,W 20-12,L -13.5,,Jacksonville Jaguars,U 45,

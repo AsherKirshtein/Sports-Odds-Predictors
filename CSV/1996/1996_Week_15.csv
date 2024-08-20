@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 5, 1996",8:00,,Philadelphia Eagles,L 10-37,L -4,@,Indianapolis Colts,O 38,
 Sun,"Dec 8, 1996",1:00,@,Chicago Bears,W 35-9,W -6.5,,St Louis Rams,O 37,
 Sun,"Dec 8, 1996",1:00,@,Cincinnati Bengals,W 21-14,W -3,,Baltimore Ravens,U 47,

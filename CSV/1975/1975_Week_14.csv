@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 20, 1975",12:30,,Minnesota Vikings,W 35-13,W -3.5,@,Buffalo Bills,,
 Sat,"Dec 20, 1975",3:30,@,Miami Dolphins,W 14-13,L -13,,Denver Broncos,,
 Sat,"Dec 20, 1975",9:00,,Pittsburgh Steelers,L 3-10,L -3,@,Los Angeles Rams,,

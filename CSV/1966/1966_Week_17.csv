@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 30, 1966",,@,Boston Patriots,W 24-21,L -3.5,,Oakland Raiders,,
 Sun,"Oct 30, 1966",,@,Kansas City Chiefs,W 48-23,W -6,,Houston Oilers,,
 Sun,"Oct 30, 1966",,@,New York Jets,L 23-33,L -1,,Buffalo Bills,,

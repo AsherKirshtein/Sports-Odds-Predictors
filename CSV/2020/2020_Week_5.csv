@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 8, 2020",8:20,,Tampa Bay Buccaneers,L 19-20,L -3.5,@,Chicago Bears,U 44,
 Sun,"Oct 11, 2020",1:00,@,Atlanta Falcons,L 16-23,L -2.5,,Carolina Panthers,U 53.5,
 Sun,"Oct 11, 2020",1:00,@,Baltimore Ravens,W 27-3,W -12.5,,Cincinnati Bengals,U 49,

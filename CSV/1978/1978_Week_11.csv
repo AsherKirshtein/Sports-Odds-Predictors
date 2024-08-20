@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 12, 1978",1:00,,Miami Dolphins,W 25-24,L -7.5,@,Buffalo Bills,,
 Sun,"Nov 12, 1978",1:00,,Denver Broncos,W 19-7,W -1,@,Cleveland Browns,,
 Sun,"Nov 12, 1978",1:00,@,New England Patriots,L 23-26,L -7,,Houston Oilers,,

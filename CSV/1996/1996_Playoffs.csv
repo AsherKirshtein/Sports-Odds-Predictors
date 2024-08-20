@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sat,"Dec 28, 1996",12:30,@,Buffalo Bills (4),L 27-30,L -8.5,,Jacksonville Jaguars (5),O 38
 NFC Wild Card,Sat,"Dec 28, 1996",4:00,@,Dallas Cowboys (3),W 40-15,W -10,,Minnesota Vikings (6),O 40
 AFC Wild Card,Sun,"Dec 29, 1996",12:30,@,Pittsburgh Steelers (3),W 42-14,W -8,,Indianapolis Colts (6),O 37

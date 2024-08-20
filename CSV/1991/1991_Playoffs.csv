@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sat,"Dec 28, 1991",12:30,@,Kansas City Chiefs (4),W 10-6,L -5,,Los Angeles Raiders (5),U 36
 NFC Wild Card,Sat,"Dec 28, 1991",4:00,@,New Orleans Saints (3),L 20-27,L -6,,Atlanta Falcons (6),O 39
 NFC Wild Card,Sun,"Dec 29, 1991",12:30,@,Chicago Bears (4),L 13-17,L -3,,Dallas Cowboys (5),U 37

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 17, 1989",1:00,@,Atlanta Falcons,W 27-21,W -2.5,,Dallas Cowboys,O 40.5,
 Sun,"Sep 17, 1989",1:00,@,Cincinnati Bengals,W 41-10,W -10,,Pittsburgh Steelers,O 44,
 Sun,"Sep 17, 1989",1:00,@,Cleveland Browns,W 38-24,W -7.5,,New York Jets,O 43,

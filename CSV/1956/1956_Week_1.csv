@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 30, 1956",,,Chicago Bears,L 21-28,L -7,@,Baltimore Colts,,
 Sun,"Sep 30, 1956",,,Cleveland Browns,L 7-9,L -7.5,@,Chicago Cardinals,,
 Sun,"Sep 30, 1956",,@,Green Bay Packers,L 16-20,L -2.5,,Detroit Lions,,

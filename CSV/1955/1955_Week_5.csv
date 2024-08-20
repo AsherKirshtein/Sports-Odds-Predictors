@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 23, 1955",,@,Baltimore Colts,L 13-14,L -6,,Washington Redskins,,
 Sun,"Oct 23, 1955",,,Philadelphia Eagles,T 24-24,L -7,@,Chicago Cardinals,,
 Sun,"Oct 23, 1955",,@,Cleveland Browns,W 41-10,W -7,,Green Bay Packers,,

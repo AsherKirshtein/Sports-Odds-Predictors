@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 28, 1969",,,Oakland Raiders,W 38-23,L -16,@,Boston Patriots,,
 Sun,"Sep 28, 1969",,,Denver Broncos,L 28-41,L -2,@,Buffalo Bills,,
 Sun,"Sep 28, 1969",,,Kansas City Chiefs,L 19-24,L -12,@,Cincinnati Bengals,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 9, 1977",1:00,@,Buffalo Bills,L 19-24,L -6,,New York Jets,,
 Sun,"Oct 9, 1977",1:00,,Oakland Raiders,W 26-10,W -9.5,@,Cleveland Browns,,
 Sun,"Oct 9, 1977",1:00,@,New England Patriots,W 31-0,W -19.5,,Seattle Seahawks,,

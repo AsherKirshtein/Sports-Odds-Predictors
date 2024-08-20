@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 7, 1973",1:00,,San Francisco 49ers,W 13-9,L -5,@,Atlanta Falcons,,
 Sun,"Oct 7, 1973",1:00,@,Buffalo Bills,W 27-26,L -5.5,,Philadelphia Eagles,,
 Sun,"Oct 7, 1973",1:00,,Cincinnati Bengals,L 10-17,L -1,@,Cleveland Browns,,

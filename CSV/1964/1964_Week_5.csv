@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 26, 1964",,@,Buffalo Bills,W 30-3,W PK,,San Diego Chargers,,
 Sun,"Sep 27, 1964",,@,Boston Patriots,W 26-10,W -6,,New York Jets,,
 Sun,"Sep 27, 1964",,,Houston Oilers,W 38-17,W -6,@,Denver Broncos,,

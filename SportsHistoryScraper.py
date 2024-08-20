@@ -67,11 +67,11 @@ def writeHeader(header_Type, csvwriter):
             'Day', 
             'Date', 
             'Time(ET)',
-            'At', 
+            'Location', 
             'Favorite', 
             'Score', 
             'Spread',
-            'At', 
+            'Opponent', 
             'Underdog', 
             'Over/Under'
         ])
@@ -81,11 +81,11 @@ def writeHeader(header_Type, csvwriter):
             'Day', 
             'Date', 
             'Time(ET)',
-            'At', 
+            'Location', 
             'Favorite', 
             'Score', 
             'Spread',
-            'At', 
+            'Opponent', 
             'Underdog', 
             'Over/Under'
         ])

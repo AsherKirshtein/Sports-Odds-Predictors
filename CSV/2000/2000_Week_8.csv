@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 19, 2000",8:35,@,Tampa Bay Buccaneers,L 14-28,L -8,,Detroit Lions,O 37.5,
 Sun,"Oct 22, 2000",1:00,,Denver Broncos,L 21-31,L -10,@,Cincinnati Bengals,O 43,
 Sun,"Oct 22, 2000",1:00,@,Dallas Cowboys,W 48-7,W -7,,Arizona Cardinals,O 41.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 27, 2008",12:37,,Tennessee Titans,W 47-10,W -11,@,Detroit Lions,O 44,
 Thu,"Nov 27, 2008",4:29,@,Dallas Cowboys,W 34-9,W -12,,Seattle Seahawks,U 46.5,
 Thu,"Nov 27, 2008",8:16,@,Philadelphia Eagles,W 48-20,W -3,,Arizona Cardinals,O 49,

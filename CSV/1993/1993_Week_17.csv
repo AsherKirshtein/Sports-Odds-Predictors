@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 25, 1993",5:30,@,San Francisco 49ers,L 7-10,L -7.5,,Houston Oilers,U 47,
 Sun,"Dec 26, 1993",1:00,@,Buffalo Bills,W 16-14,L -7,,New York Jets,U 31,
 Sun,"Dec 26, 1993",1:00,@,Chicago Bears,L 14-20,L -3,,Detroit Lions,O 28,

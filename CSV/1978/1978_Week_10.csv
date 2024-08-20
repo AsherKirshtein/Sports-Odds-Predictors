@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 5, 1978",1:00,@,Atlanta Falcons,W 21-10,W -7,,San Francisco 49ers,,
 Sun,"Nov 5, 1978",1:00,,New England Patriots,W 14-10,L -9,@,Buffalo Bills,,
 Sun,"Nov 5, 1978",1:00,@,Chicago Bears,L 29-31,L -3,,Seattle Seahawks,,

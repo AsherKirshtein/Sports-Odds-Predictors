@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 13, 2007",8:15,,Denver Broncos,L 13-31,L -2.5,@,Houston Texans,U 47.5,
 Sat,"Dec 15, 2007",8:15,,Cincinnati Bengals,L 13-20,L -8.5,@,San Francisco 49ers,U 43,
 Sun,"Dec 16, 2007",1:00,,Tennessee Titans,W 26-17,W -3.5,@,Kansas City Chiefs,O 34.5,

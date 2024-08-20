@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 29, 1957",,@,Baltimore Colts,W 34-14,W -1,,Detroit Lions,,
 Sun,"Sep 29, 1957",,,New York Giants,L 3-6,L -4.5,@,Cleveland Browns,,
 Sun,"Sep 29, 1957",,,Chicago Bears,L 17-21,L -7.5,@,Green Bay Packers,,

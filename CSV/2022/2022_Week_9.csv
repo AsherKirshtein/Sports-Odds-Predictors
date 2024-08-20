@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 3, 2022",8:15,,Philadelphia Eagles,W 29-17,L -13.5,@,Houston Texans,O 45.5,
 Sun,"Nov 6, 2022",1:00,,Los Angeles Chargers,W 20-17,P -3,@,Atlanta Falcons,U 49.5,
 Sun,"Nov 6, 2022",1:00,,Miami Dolphins,W 35-32,L -4,@,Chicago Bears,O 45.5,

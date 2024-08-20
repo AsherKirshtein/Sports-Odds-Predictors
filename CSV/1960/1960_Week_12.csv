@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 30, 1960",,,Baltimore Colts,W 45-7,W -14.5,@,Dallas Cowboys,,
 Sun,"Oct 30, 1960",,@,Los Angeles Rams,W 48-35,W -4,,Detroit Lions,,
 Sun,"Oct 30, 1960",,@,New York Giants,L 13-20,L -10.5,,St Louis Cardinals,,

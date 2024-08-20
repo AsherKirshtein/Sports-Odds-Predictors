@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 24, 2000",1:01,,Tennessee Titans,W 23-20,L -7,@,Pittsburgh Steelers,O 36,
 Sun,"Sep 24, 2000",1:02,,St Louis Rams,W 41-20,W -6.5,@,Atlanta Falcons,O 55,
 Sun,"Sep 24, 2000",1:02,@,Baltimore Ravens,W 37-0,W -11.5,,Cincinnati Bengals,U 38,

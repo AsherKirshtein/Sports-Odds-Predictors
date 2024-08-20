@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 1, 1964",,@,Baltimore Colts,W 37-7,W -16,,San Francisco 49ers,,
 Sun,"Nov 1, 1964",,@,Chicago Bears,L 10-24,L -5,,Dallas Cowboys,,
 Sun,"Nov 1, 1964",,@,Detroit Lions,W 37-17,W -1.5,,Los Angeles Rams,,

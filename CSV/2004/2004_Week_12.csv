@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 25, 2004",12:38,,Indianapolis Colts,W 41-9,W -8.5,@,Detroit Lions,U 54,
 Thu,"Nov 25, 2004",4:36,@,Dallas Cowboys,W 21-7,W -3.5,,Chicago Bears,U 36,
 Sun,"Nov 28, 2004",1:00,@,Kansas City Chiefs,L 31-34,L -3,,San Diego Chargers,O 54,

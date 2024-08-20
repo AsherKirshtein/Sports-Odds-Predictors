@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 29, 1974",1:00,@,Buffalo Bills,W 16-12,L -4.5,,New York Jets,,
 Sun,"Sep 29, 1974",1:00,,Los Angeles Rams,L 14-20,L -12.5,@,New England Patriots,,
 Sun,"Sep 29, 1974",1:00,,Atlanta Falcons,L 13-14,L -3,@,New Orleans Saints,,

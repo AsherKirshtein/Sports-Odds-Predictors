@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 17, 1974",1:00,@,Atlanta Falcons,L 7-17,L -7,,Baltimore Colts,,
 Sun,"Nov 17, 1974",1:00,,Pittsburgh Steelers,W 26-16,W -7,@,Cleveland Browns,,
 Sun,"Nov 17, 1974",1:00,@,Detroit Lions,W 20-19,L -7.5,,New York Giants,,

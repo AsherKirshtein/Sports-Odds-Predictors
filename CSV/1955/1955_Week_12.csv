@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 11, 1955",,@,Chicago Bears,W 17-10,L -7.5,,Philadelphia Eagles,,
 Sun,"Dec 11, 1955",,@,Cleveland Browns,W 35-24,L -13.5,,Chicago Cardinals,,
 Sun,"Dec 11, 1955",,,New York Giants,W 24-19,W -2.5,@,Detroit Lions,,

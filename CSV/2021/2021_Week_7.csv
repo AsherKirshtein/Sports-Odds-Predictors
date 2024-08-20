@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 21, 2021",8:20,@,Cleveland Browns,W 17-14,W -1.5,,Denver Broncos,U 41.5,
 Sun,"Oct 24, 2021",1:00,@,Baltimore Ravens,L 17-41,L -6.5,,Cincinnati Bengals,O 45.5,
 Sun,"Oct 24, 2021",1:00,@,Green Bay Packers,W 24-10,W -8,,Washington Football Team,U 48,

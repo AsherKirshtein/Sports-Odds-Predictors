@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 20, 1964",,@,Boston Patriots,L 14-24,L -2.5,,Buffalo Bills,,
 Sun,"Dec 20, 1964",,@,Houston Oilers,W 34-15,N/A,,Denver Broncos,,
 Sun,"Dec 20, 1964",,@,Kansas City Chiefs,W 24-7,N/A,,New York Jets,,

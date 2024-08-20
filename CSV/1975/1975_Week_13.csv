@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 13, 1975",12:30,@,Pittsburgh Steelers,W 35-14,W -7.5,,Cincinnati Bengals,,
 Sat,"Dec 13, 1975",3:30,@,Dallas Cowboys,W 31-10,W -2.5,,Washington Redskins,,
 Sun,"Dec 14, 1975",1:00,@,Atlanta Falcons,W 31-9,W -7,,San Francisco 49ers,,

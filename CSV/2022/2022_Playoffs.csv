@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 NFC Wild Card,Sat,"Jan 14, 2023",4:30,@,San Francisco 49ers (2),W 41-23,W -9.5,,Seattle Seahawks (7),O 42
 AFC Wild Card,Sat,"Jan 14, 2023",8:15,,Los Angeles Chargers (5),L 30-31,L -2.5,@,Jacksonville Jaguars (4),O 47.5
 AFC Wild Card,Sun,"Jan 15, 2023",1:00,@,Buffalo Bills (2),W 34-31,L -13.5,,Miami Dolphins (7),O 43.5

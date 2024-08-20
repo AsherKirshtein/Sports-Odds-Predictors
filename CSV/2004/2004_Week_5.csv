@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 10, 2004",1:00,@,Indianapolis Colts,W 35-14,W -8.5,,Oakland Raiders,U 52,
 Sun,"Oct 10, 2004",1:02,,Minnesota Vikings,W 34-28 (OT),W -3.5,@,Houston Texans,O 50,
 Sun,"Oct 10, 2004",1:02,@,New England Patriots,W 24-10,W -11,,Miami Dolphins,P 34,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 15, 1987",1:00,@,Cleveland Browns,W 27-21,L -7.5,,Buffalo Bills,O 45,
 Sun,"Nov 15, 1987",1:00,@,Kansas City Chiefs,L 9-16,L -3,,New York Jets,U 44,
 Sun,"Nov 15, 1987",1:00,@,Miami Dolphins,L 21-40,L -7,,Indianapolis Colts,O 46,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Fri,"Dec 25, 2009",7:34,@,Tennessee Titans,L 17-42,L -2,,San Diego Chargers,O 48,
 Sun,"Dec 27, 2009",1:01,@,Cleveland Browns,W 23-9,W -3,,Oakland Raiders,U 37,
 Sun,"Dec 27, 2009",1:02,@,Atlanta Falcons,W 31-3,W -8,,Buffalo Bills,U 40,

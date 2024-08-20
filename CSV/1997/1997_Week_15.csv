@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 4, 1997",8:00,,Tennessee Oilers,L 14-41,L -3,@,Cincinnati Bengals,O 41.5,
 Sun,"Dec 7, 1997",1:00,@,Baltimore Ravens,W 31-24,W -1,,Seattle Seahawks,O 45.5,
 Sun,"Dec 7, 1997",1:00,,Buffalo Bills,L 3-20,L -1.5,@,Chicago Bears,U 37,

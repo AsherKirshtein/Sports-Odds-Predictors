@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 18, 1984",1:00,@,Atlanta Falcons,L 7-23,L -3.5,,Cleveland Browns,U 39,
 Sun,"Nov 18, 1984",1:00,,Dallas Cowboys,L 3-14,L -10,@,Buffalo Bills,U 41,
 Sun,"Nov 18, 1984",1:00,@,Chicago Bears,W 16-14,L -7,,Detroit Lions,U 40,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Oct 5, 1968",,@,Cleveland Browns,W 31-24,L -12,,Pittsburgh Steelers,,
 Sun,"Oct 6, 1968",,,Green Bay Packers,W 38-7,W -14,@,Atlanta Falcons,,
 Sun,"Oct 6, 1968",,@,Baltimore Colts,W 28-7,W -12,,Chicago Bears,,

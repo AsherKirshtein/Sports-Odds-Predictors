@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 16, 2023",8:15,@,Baltimore Ravens,W 34-20,W -3.5,,Cincinnati Bengals,O 46.5,
 Sun,"Nov 19, 2023",1:00,,Dallas Cowboys,W 33-10,W -11,@,Carolina Panthers,O 42.5,
 Sun,"Nov 19, 2023",1:00,@,Cleveland Browns,W 13-10,W -1.5,,Pittsburgh Steelers,U 33.5,

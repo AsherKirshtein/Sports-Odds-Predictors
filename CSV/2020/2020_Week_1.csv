@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 10, 2020",8:20,@,Kansas City Chiefs,W 34-20,W -9.5,,Houston Texans,O 53.5,
 Sun,"Sep 13, 2020",1:00,@,Atlanta Falcons,L 25-38,L -1,,Seattle Seahawks,O 49.5,
 Sun,"Sep 13, 2020",1:00,@,Baltimore Ravens,W 38-6,W -7,,Cleveland Browns,U 47,

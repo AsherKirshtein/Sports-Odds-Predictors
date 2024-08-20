@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 8, 1970",1:00,@,Buffalo Bills,L 14-43,L -5,,Cincinnati Bengals,,
 Sun,"Nov 8, 1970",1:00,,Dallas Cowboys,L 20-23,L -3,@,New York Giants,,
 Sun,"Nov 8, 1970",1:00,,Miami Dolphins,L 17-24,L -3,@,Philadelphia Eagles,,

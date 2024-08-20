@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 27, 2003",12:37,,Green Bay Packers,L 14-22,L -6.5,@,Detroit Lions,U 44,
 Thu,"Nov 27, 2003",4:16,@,Dallas Cowboys,L 21-40,L -3,,Miami Dolphins,O 34.5,
 Sun,"Nov 30, 2003",1:00,@,Indianapolis Colts,L 34-38,L -3.5,,New England Patriots,O 43.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 8, 1979",12:30,,Dallas Cowboys,W 24-17,W -3,@,Philadelphia Eagles,O 40,
 Sat,"Dec 8, 1979",4:00,,Denver Broncos,L 23-28,L -3,@,Seattle Seahawks,O 39,
 Sun,"Dec 9, 1979",1:00,,Los Angeles Rams,W 34-13,W -3,@,Atlanta Falcons,O 39,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 6, 1996",1:00,,New England Patriots,W 46-38,W -2,@,Baltimore Ravens,O 39,
 Sun,"Oct 6, 1996",1:00,,Green Bay Packers,W 37-6,W -7.5,@,Chicago Bears,O 42,
 Sun,"Oct 6, 1996",1:00,@,Detroit Lions,W 28-24,L -10,,Atlanta Falcons,O 44,

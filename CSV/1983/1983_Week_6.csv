@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 9, 1983",1:00,@,Atlanta Falcons,L 17-19,L -2.5,,New Orleans Saints,U 44,
 Sun,"Oct 9, 1983",1:00,@,Chicago Bears,L 14-23,L -1,,Minnesota Vikings,U 44,
 Sun,"Oct 9, 1983",1:00,,New York Jets,L 7-10,L -1,@,Cleveland Browns,U 43.5,

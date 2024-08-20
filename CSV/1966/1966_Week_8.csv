@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Fri,"Sep 30, 1966",,@,Los Angeles Rams,W 34-3,W -9,,San Francisco 49ers,,
 Sun,"Oct 2, 1966",,,Dallas Cowboys,W 47-14,W -16,@,Atlanta Falcons,,
 Sun,"Oct 2, 1966",,@,Green Bay Packers,W 23-14,L -13.5,,Detroit Lions,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 14, 2004",1:00,@,Indianapolis Colts,W 49-14,W -8.5,,Houston Texans,O 54.5,
 Sun,"Nov 14, 2004",1:02,,Kansas City Chiefs,L 20-27,L -3.5,@,New Orleans Saints,U 56.5,
 Sun,"Nov 14, 2004",1:02,,Baltimore Ravens,W 20-17 (OT),W -1,@,New York Jets,O 32,

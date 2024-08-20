@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 14, 1968",,@,Minnesota Vikings,W 47-7,W -13.5,,Atlanta Falcons,,
 Sun,"Sep 15, 1968",,@,Baltimore Colts,W 27-10,W -10,,San Francisco 49ers,,
 Sun,"Sep 15, 1968",,@,Chicago Bears,L 28-38,L -8,,Washington Redskins,,

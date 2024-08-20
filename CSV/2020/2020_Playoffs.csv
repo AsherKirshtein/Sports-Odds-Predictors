@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sat,"Jan 9, 2021",1:05,@,Buffalo Bills (2),W 27-24,L -7,,Indianapolis Colts (7),O 50.5
 NFC Wild Card,Sat,"Jan 9, 2021",4:40,@,Seattle Seahawks (3),L 20-30,L -3,,Los Angeles Rams (6),O 42.5
 NFC Wild Card,Sat,"Jan 9, 2021",8:15,,Tampa Bay Buccaneers (5),W 31-23,L -10,@,Washington Football Team (4),O 45

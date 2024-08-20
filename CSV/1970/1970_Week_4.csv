@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Oct 10, 1970",8:45,@,New York Jets,L 6-20,L -4,,Miami Dolphins,,
 Sun,"Oct 11, 1970",1:00,@,Cleveland Browns,W 30-27,L -10,,Cincinnati Bengals,,
 Sun,"Oct 11, 1970",1:00,@,New York Giants,W 30-23,L -8,,Philadelphia Eagles,,

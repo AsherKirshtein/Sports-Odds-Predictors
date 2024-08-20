@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 5, 1995",1:00,@,Atlanta Falcons,W 34-22,W -1,,Detroit Lions,O 46,
 Sun,"Nov 5, 1995",1:00,@,Cleveland Browns,L 10-37,L -7,,Houston Oilers,O 39,
 Sun,"Nov 5, 1995",1:00,@,Indianapolis Colts,L 10-16,L -4,,Buffalo Bills,U 37.5,

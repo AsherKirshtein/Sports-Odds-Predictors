@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 1, 1998",1:00,@,Atlanta Falcons,W 37-15,W -7,,St Louis Rams,O 41,
 Sun,"Nov 1, 1998",1:00,,Jacksonville Jaguars,W 45-19,W -3.5,@,Baltimore Ravens,O 42,
 Sun,"Nov 1, 1998",1:00,@,Buffalo Bills,W 30-24,W -2.5,,Miami Dolphins,O 35,

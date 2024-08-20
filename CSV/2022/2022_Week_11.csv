@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 17, 2022",8:15,@,Green Bay Packers,L 17-27,L -3,,Tennessee Titans,O 41,
 Sun,"Nov 20, 2022",1:00,@,Atlanta Falcons,W 27-24,W -2.5,,Chicago Bears,O 49,
 Sun,"Nov 20, 2022",1:00,@,Baltimore Ravens,W 13-3,L -13,,Carolina Panthers,U 41.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 30, 2006",8:05,,New York Giants,W 34-28,W -2,@,Washington Redskins,O 43,
 Sun,"Dec 31, 2006",1:00,@,Kansas City Chiefs,W 35-30,W -2.5,,Jacksonville Jaguars,O 37,
 Sun,"Dec 31, 2006",1:02,@,Dallas Cowboys,L 31-39,L -14,,Detroit Lions,O 46,

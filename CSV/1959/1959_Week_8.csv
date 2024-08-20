@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 15, 1959",,@,Chicago Bears,W 14-3,W -2.5,,San Francisco 49ers,,
 Sun,"Nov 15, 1959",,,Los Angeles Rams,L 17-23,L -2.5,@,Detroit Lions,,
 Sun,"Nov 15, 1959",,,Baltimore Colts,W 28-24,L -9,@,Green Bay Packers,,at Milwaukee

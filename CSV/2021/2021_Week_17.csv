@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Jan 2, 2022",1:00,@,Buffalo Bills,W 29-15,L -14.5,,Atlanta Falcons,P 44,
 Sun,"Jan 2, 2022",1:00,@,Chicago Bears,W 29-3,W -6.5,,New York Giants,U 36.5,
 Sun,"Jan 2, 2022",1:00,,Kansas City Chiefs,L 31-34,L -4,@,Cincinnati Bengals,O 51.5,

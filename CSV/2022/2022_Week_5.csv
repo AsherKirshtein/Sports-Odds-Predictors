@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 6, 2022",8:15,@,Denver Broncos,L 9-12 (OT),L -3,,Indianapolis Colts,U 42,
 Sun,"Oct 9, 2022",9:30,N,Green Bay Packers,L 22-27,L -8,,New York Giants,O 41.5,at London
 Sun,"Oct 9, 2022",1:00,@,Buffalo Bills,W 38-3,W -14,,Pittsburgh Steelers,U 45.5,

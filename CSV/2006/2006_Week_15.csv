@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 14, 2006",8:13,@,Seattle Seahawks,L 14-24,L -10,,San Francisco 49ers,P 38,
 Sat,"Dec 16, 2006",8:05,,Dallas Cowboys,W 38-28,W -3.5,@,Atlanta Falcons,O 44.5,
 Sun,"Dec 17, 2006",1:02,@,Baltimore Ravens,W 27-17,L -12,,Cleveland Browns,O 34.5,

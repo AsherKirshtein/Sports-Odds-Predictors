@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 12, 2003",1:00,@,Indianapolis Colts,L 20-23 (OT),L -4,,Carolina Panthers,O 37.5,
 Sun,"Oct 12, 2003",1:01,,Miami Dolphins,W 24-10,W -3.5,@,Jacksonville Jaguars,U 38,
 Sun,"Oct 12, 2003",1:02,@,Green Bay Packers,L 34-40 (OT),L -2.5,,Kansas City Chiefs,O 47.5,

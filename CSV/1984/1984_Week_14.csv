@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 29, 1984",9:00,,Washington Redskins,W 31-17,W -9,@,Minnesota Vikings,O 46,
 Sun,"Dec 2, 1984",1:00,,San Francisco 49ers,W 35-17,W -13,@,Atlanta Falcons,O 40,
 Sun,"Dec 2, 1984",1:00,@,Buffalo Bills,W 21-15,W -1,,Indianapolis Colts,U 36.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 5, 1993",1:00,@,Buffalo Bills,L 24-25,L -7,,Los Angeles Raiders,O 34,
 Sun,"Dec 5, 1993",1:00,@,Chicago Bears,W 30-17,W -1.5,,Green Bay Packers,O 32,
 Sun,"Dec 5, 1993",1:00,,New Orleans Saints,L 13-17,L -4,@,Cleveland Browns,U 33,

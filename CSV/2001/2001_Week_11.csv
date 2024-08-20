@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 22, 2001",12:36,,Green Bay Packers,W 29-27,L -7,@,Detroit Lions,O 47,
 Thu,"Nov 22, 2001",4:15,,Denver Broncos,W 26-24,L -7,@,Dallas Cowboys,O 40.5,
 Sun,"Nov 25, 2001",1:00,@,Indianapolis Colts,L 21-40,L -2.5,,San Francisco 49ers,O 52.5,

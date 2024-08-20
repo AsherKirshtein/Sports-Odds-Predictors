@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 26, 1998",12:30,,Pittsburgh Steelers,L 16-19 (OT),L -2.5,@,Detroit Lions,U 41,
 Thu,"Nov 26, 1998",4:15,,Minnesota Vikings,W 46-36,W -3,@,Dallas Cowboys,O 46.5,
 Sun,"Nov 29, 1998",1:00,@,Baltimore Ravens,W 38-31,W -6,,Indianapolis Colts,O 39,

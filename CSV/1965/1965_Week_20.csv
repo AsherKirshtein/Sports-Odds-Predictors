@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 21, 1965",,@,Baltimore Colts,W 34-24,L -14.5,,Philadelphia Eagles,,
 Sun,"Nov 21, 1965",,,Cleveland Browns,W 24-17,W -5,@,Dallas Cowboys,,
 Sun,"Nov 21, 1965",,,Chicago Bears,W 17-10,W -6.5,@,Detroit Lions,,

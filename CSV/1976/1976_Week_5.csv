@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 10, 1976",1:00,@,Cincinnati Bengals,W 21-0,P -21,,Tampa Bay Buccaneers,,
 Sun,"Oct 10, 1976",1:00,,Pittsburgh Steelers,L 16-18,L -9.5,@,Cleveland Browns,,
 Sun,"Oct 10, 1976",1:00,,New England Patriots,L 10-30,L -7,@,Detroit Lions,,

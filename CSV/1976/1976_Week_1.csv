@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 12, 1976",1:00,,Los Angeles Rams,W 30-14,W -7.5,@,Atlanta Falcons,,
 Sun,"Sep 12, 1976",1:00,@,Cleveland Browns,W 38-17,W -8,,New York Jets,,
 Sun,"Sep 12, 1976",1:00,,Baltimore Colts,W 27-13,W -5.5,@,New England Patriots,,

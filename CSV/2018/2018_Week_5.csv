@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 4, 2018",8:20,@,New England Patriots,W 38-24,W -10.5,,Indianapolis Colts,O 49.5,
 Sun,"Oct 7, 2018",1:00,,Tennessee Titans,L 12-13,L -6,@,Buffalo Bills,U 38.5,
 Sun,"Oct 7, 2018",1:00,@,Carolina Panthers,W 33-31,L -7,,New York Giants,O 43.5,

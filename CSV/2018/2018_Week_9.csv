@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 1, 2018",8:20,,Oakland Raiders,L 3-34,L -1.5,@,San Francisco 49ers,U 44,
 Sun,"Nov 4, 2018",1:00,@,Baltimore Ravens,L 16-23,L -1.5,,Pittsburgh Steelers,U 46.5,
 Sun,"Nov 4, 2018",1:00,,Chicago Bears,W 41-9,W -10.5,@,Buffalo Bills,O 38,

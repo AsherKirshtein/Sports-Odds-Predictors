@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 16, 1967",,,Dallas Cowboys,L 16-24,L -4,@,San Francisco 49ers,,
 Sun,"Dec 17, 1967",,,Chicago Bears,W 23-14,L -10.5,@,Atlanta Falcons,,
 Sun,"Dec 17, 1967",,@,Detroit Lions,W 14-3,W -2,,Minnesota Vikings,,

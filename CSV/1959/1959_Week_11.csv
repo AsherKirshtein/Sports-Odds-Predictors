@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 5, 1959",,,Baltimore Colts,W 34-14,W -6,@,San Francisco 49ers,,
 Sun,"Dec 6, 1959",,@,Chicago Bears,W 27-21,L -6.5,,Pittsburgh Steelers,,
 Sun,"Dec 6, 1959",,@,Detroit Lions,W 45-21,W -4,,Chicago Cardinals,,

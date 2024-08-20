@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 11, 1954",,@,San Francisco 49ers,W 10-7,L -17,,Baltimore Colts,,
 Sun,"Dec 12, 1954",,,Detroit Lions,L 24-28,L -5.5,@,Chicago Bears,,
 Sun,"Dec 12, 1954",,@,Cleveland Browns,W 42-7,W -19,,Pittsburgh Steelers,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 29, 2022",8:15,,Dallas Cowboys,W 27-13,W -12.5,@,Tennessee Titans,O 39.5,
 Sun,"Jan 1, 2023",1:00,@,Atlanta Falcons,W 20-19,L -6,,Arizona Cardinals,U 41,
 Sun,"Jan 1, 2023",1:00,@,Detroit Lions,W 41-10,W -6,,Chicago Bears,U 52.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 15, 1991",1:00,,New York Giants,L 17-20,L -1.5,@,Chicago Bears,O 34,
 Sun,"Sep 15, 1991",1:00,,Cincinnati Bengals,L 13-14,L -3.5,@,Cleveland Browns,U 40,
 Sun,"Sep 15, 1991",1:00,@,Dallas Cowboys,L 0-24,L -3.5,,Philadelphia Eagles,U 38,

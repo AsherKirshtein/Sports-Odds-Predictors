@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 13, 1957",,,San Francisco 49ers,W 21-17,L -7.5,@,Chicago Bears,,
 Sun,"Oct 13, 1957",,@,Cleveland Browns,W 24-7,W -7,,Philadelphia Eagles,,
 Sun,"Oct 13, 1957",,@,Detroit Lions,W 10-7,W PK,,Los Angeles Rams,,

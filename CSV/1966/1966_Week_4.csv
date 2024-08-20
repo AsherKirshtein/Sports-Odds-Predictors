@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Fri,"Sep 16, 1966",,,Chicago Bears,L 17-31,L -2,@,Los Angeles Rams,,
 Sun,"Sep 18, 1966",,,Green Bay Packers,W 21-20,L -5,@,Cleveland Browns,,
 Sun,"Sep 18, 1966",,@,Dallas Cowboys,W 52-7,W -11.5,,New York Giants,,

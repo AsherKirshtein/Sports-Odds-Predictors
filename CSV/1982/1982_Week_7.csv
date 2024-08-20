@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 18, 1982",12:30,@,Miami Dolphins,W 20-19,W PK,,New York Jets,O 35,
 Sat,"Dec 18, 1982",4:00,@,Los Angeles Raiders,W 37-31,L -8,,Los Angeles Rams,O 47,
 Sun,"Dec 19, 1982",1:00,,St Louis Cardinals,W 10-7,W -1,@,Chicago Bears,U 35,

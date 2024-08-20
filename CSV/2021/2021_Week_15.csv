@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 16, 2021",8:20,,Kansas City Chiefs,W 34-28 (OT),W -3,@,Los Angeles Chargers,O 52.5,
 Sat,"Dec 18, 2021",8:20,@,Indianapolis Colts,W 27-17,W -2.5,,New England Patriots,U 45.5,
 Sun,"Dec 19, 2021",1:00,,Green Bay Packers,W 31-30,L -9.5,@,Baltimore Ravens,O 45,

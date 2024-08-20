@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 10, 2015",8:40,@,New England Patriots,W 28-21,P -7,,Pittsburgh Steelers,U 52,
 Sun,"Sep 13, 2015",1:00,,Green Bay Packers,W 31-23,W -6.5,@,Chicago Bears,O 49,
 Sun,"Sep 13, 2015",1:00,,Seattle Seahawks,L 31-34 (OT),L -4,@,St Louis Rams,O 40.5,

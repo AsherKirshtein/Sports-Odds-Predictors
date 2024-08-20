@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 23, 1960",,@,Cleveland Browns,L 29-31,L -10,,Philadelphia Eagles,,
 Sun,"Oct 23, 1960",,,Baltimore Colts,L 17-30,L -14,@,Detroit Lions,,
 Sun,"Oct 23, 1960",,@,Green Bay Packers,W 41-14,W -9.5,,San Francisco 49ers,,at Milwaukee

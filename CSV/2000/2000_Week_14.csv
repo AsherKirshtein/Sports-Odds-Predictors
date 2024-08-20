@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 30, 2000",8:35,@,Minnesota Vikings,W 24-17,L -9,,Detroit Lions,U 48.5,
 Sun,"Dec 3, 2000",1:01,,Oakland Raiders,L 20-21,L -3,@,Pittsburgh Steelers,U 42,
 Sun,"Dec 3, 2000",1:01,@,Tampa Bay Buccaneers,W 27-7,W -10,,Dallas Cowboys,U 37,

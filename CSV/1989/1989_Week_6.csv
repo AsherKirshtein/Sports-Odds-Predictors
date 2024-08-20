@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 15, 1989",1:00,@,Atlanta Falcons,W 16-15,L -3,,New England Patriots,U 40,
 Sun,"Oct 15, 1989",1:00,@,Chicago Bears,L 28-33,L -7,,Houston Oilers,O 44,
 Sun,"Oct 15, 1989",1:00,@,Cincinnati Bengals,L 13-20,L -7.5,,Miami Dolphins,U 45,

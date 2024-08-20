@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Jan 1, 2017",1:00,,Baltimore Ravens,L 10-27,L -2.5,@,Cincinnati Bengals,U 40.5,
 Sun,"Jan 1, 2017",1:00,@,Indianapolis Colts,W 24-20,L -5.5,,Jacksonville Jaguars,U 48.5,
 Sun,"Jan 1, 2017",1:00,,New England Patriots,W 35-14,W -7.5,@,Miami Dolphins,O 47,

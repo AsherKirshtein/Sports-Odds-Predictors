@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 18, 2014",8:26,@,Jacksonville Jaguars,W 21-13,W -4.5,,Tennessee Titans,U 39,
 Sat,"Dec 20, 2014",4:30,,Philadelphia Eagles,L 24-27,L -7,@,Washington Redskins,P 51,
 Sat,"Dec 20, 2014",8:26,@,San Francisco 49ers,L 35-38 (OT),L -1.5,,San Diego Chargers,O 40.5,

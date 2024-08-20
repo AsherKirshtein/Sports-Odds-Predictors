@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 20, 2003",1:32,@,Tampa Bay Buccaneers,L 28-30,L -6.5,,Atlanta Falcons,O 38.5,
 Sat,"Dec 20, 2003",5:15,,Kansas City Chiefs,L 20-45,L -3,@,Minnesota Vikings,O 54,
 Sat,"Dec 20, 2003",8:37,,New England Patriots,W 21-16,W -3,@,New York Jets,O 35,

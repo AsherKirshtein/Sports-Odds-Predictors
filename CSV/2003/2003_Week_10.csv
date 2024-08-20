@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 9, 2003",1:00,@,Kansas City Chiefs,W 41-20,W -9,,Cleveland Browns,O 43.5,
 Sun,"Nov 9, 2003",1:02,,Tampa Bay Buccaneers,L 24-27,L -3.5,@,Carolina Panthers,O 34.5,
 Sun,"Nov 9, 2003",1:02,,Indianapolis Colts,L 23-28,L -6,@,Jacksonville Jaguars,O 44,

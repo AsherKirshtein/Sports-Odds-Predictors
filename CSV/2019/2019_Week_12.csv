@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 21, 2019",8:20,@,Houston Texans,W 20-17,L -3.5,,Indianapolis Colts,U 46,
 Sun,"Nov 24, 2019",1:00,@,Atlanta Falcons,L 22-35,L -3.5,,Tampa Bay Buccaneers,O 51.5,
 Sun,"Nov 24, 2019",1:00,@,Buffalo Bills,W 20-3,W -3.5,,Denver Broncos,U 37,

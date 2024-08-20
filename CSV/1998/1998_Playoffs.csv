@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 AFC Wild Card,Sat,"Jan 2, 1999",12:30,@,Miami Dolphins (4),W 24-17,W -2.5,,Buffalo Bills (5),U 43
 NFC Wild Card,Sat,"Jan 2, 1999",4:00,@,Dallas Cowboys (3),L 7-20,L -7,,Arizona Cardinals (6),U 42
 AFC Wild Card,Sun,"Jan 3, 1999",12:40,@,Jacksonville Jaguars (3),W 25-10,W -8.5,,New England Patriots (6),U 41

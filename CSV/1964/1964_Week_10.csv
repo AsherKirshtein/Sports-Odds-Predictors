@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Oct 10, 1964",,@,Cleveland Browns,L 7-23,L -13,,Pittsburgh Steelers,,
 Sun,"Oct 11, 1964",,@,Chicago Bears,W 38-17,W -4,,Los Angeles Rams,,
 Sun,"Oct 11, 1964",,@,Dallas Cowboys,T 13-13,P PK,,New York Giants,,

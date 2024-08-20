@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 26, 1992",12:30,,New Orleans Saints,W 20-0,W -8,@,New York Jets,U 33,
 Sat,"Dec 26, 1992",4:00,@,Washington Redskins,L 20-21,L -13.5,,Los Angeles Raiders,O 35,
 Sun,"Dec 27, 1992",1:00,,Indianapolis Colts,W 21-17,W -2,@,Cincinnati Bengals,O 34,

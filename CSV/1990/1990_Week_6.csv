@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 14, 1990",1:00,,San Francisco 49ers,W 45-35,W -5.5,@,Atlanta Falcons,O 46,
 Sun,"Oct 14, 1990",1:00,@,Houston Oilers,W 48-17,W -4,,Cincinnati Bengals,O 48,
 Sun,"Oct 14, 1990",1:00,@,Kansas City Chiefs,W 43-24,W -6.5,,Detroit Lions,O 41,

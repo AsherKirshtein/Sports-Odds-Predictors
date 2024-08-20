@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 30, 1984",1:00,,Dallas Cowboys,W 23-14,W -2.5,@,Chicago Bears,U 41,
 Sun,"Sep 30, 1984",1:00,@,Indianapolis Colts,W 31-17,W -2.5,,Buffalo Bills,O 43,
 Sun,"Sep 30, 1984",1:00,@,Kansas City Chiefs,W 10-6,L -5,,Cleveland Browns,U 40,

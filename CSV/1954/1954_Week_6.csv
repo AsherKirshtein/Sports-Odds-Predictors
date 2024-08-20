@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Oct 30, 1954",,@,Philadelphia Eagles,L 14-37,L -10.5,,Green Bay Packers,,
 Sun,"Oct 31, 1954",,,Pittsburgh Steelers,L 14-17,L -17.5,@,Chicago Cardinals,,
 Sun,"Oct 31, 1954",,@,Cleveland Browns,W 24-14,W -4.5,,New York Giants,,

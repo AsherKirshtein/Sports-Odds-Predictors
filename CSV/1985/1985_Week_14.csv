@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 8, 1985",1:00,,New York Jets,W 27-7,W -9,@,Buffalo Bills,U 36.5,
 Sun,"Dec 8, 1985",1:00,@,Chicago Bears,W 17-10,L -19.5,,Indianapolis Colts,U 42,
 Sun,"Dec 8, 1985",1:00,,Dallas Cowboys,L 24-50,L -3,@,Cincinnati Bengals,O 45,

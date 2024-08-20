@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 18, 2001",1:01,@,Baltimore Ravens,L 17-27,L -8,,Cleveland Browns,O 33,
 Sun,"Nov 18, 2001",1:02,,Seattle Seahawks,W 23-20,L -3.5,@,Buffalo Bills,O 39,
 Sun,"Nov 18, 2001",1:02,,San Francisco 49ers,W 25-22 (OT),L -7,@,Carolina Panthers,O 43,

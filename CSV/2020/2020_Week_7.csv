@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Oct 22, 2020",8:20,@,Philadelphia Eagles,W 22-21,L -5,,New York Giants,U 44.5,
 Sun,"Oct 25, 2020",1:00,@,Atlanta Falcons,L 22-23,L -1,,Detroit Lions,U 54,
 Sun,"Oct 25, 2020",1:00,,Cleveland Browns,W 37-34,L -4.5,@,Cincinnati Bengals,O 50,

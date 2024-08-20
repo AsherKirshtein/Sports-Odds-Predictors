@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 7, 2023",8:15,@,Pittsburgh Steelers,L 18-21,L -5.5,,New England Patriots,O 30.5,
 Sun,"Dec 10, 2023",1:00,@,Atlanta Falcons,L 25-29,L -1.5,,Tampa Bay Buccaneers,O 41.5,
 Sun,"Dec 10, 2023",1:00,@,Baltimore Ravens,W 37-31 (OT),L -7.5,,Los Angeles Rams,O 42,

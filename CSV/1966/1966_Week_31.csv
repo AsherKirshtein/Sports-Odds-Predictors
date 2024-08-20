@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 17, 1966",,,Boston Patriots,L 28-38,L -7,@,New York Jets,,
 Sun,"Dec 18, 1966",,@,Buffalo Bills,W 38-21,W -14,,Denver Broncos,,
 Sun,"Dec 18, 1966",,@,Miami Dolphins,W 29-28,L -7,,Houston Oilers,,

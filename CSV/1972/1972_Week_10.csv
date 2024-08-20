@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 19, 1972",1:00,@,Cincinnati Bengals,L 19-20,L -4.5,,Baltimore Colts,,
 Sun,"Nov 19, 1972",1:00,,Pittsburgh Steelers,L 24-26,L -7.5,@,Cleveland Browns,,
 Sun,"Nov 19, 1972",1:00,@,Detroit Lions,W 27-14,L -17,,New Orleans Saints,,

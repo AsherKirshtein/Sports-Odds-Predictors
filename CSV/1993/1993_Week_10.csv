@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 7, 1993",1:00,,Pittsburgh Steelers,W 24-16,L -9.5,@,Cincinnati Bengals,O 35.5,
 Sun,"Nov 7, 1993",1:00,@,Cleveland Browns,L 14-29,L -2.5,,Denver Broncos,O 37,
 Sun,"Nov 7, 1993",1:00,@,Dallas Cowboys,W 31-9,W -10,,New York Giants,O 37,

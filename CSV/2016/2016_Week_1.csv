@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 8, 2016",8:40,,Carolina Panthers,L 20-21,L -3,@,Denver Broncos,O 40.5,
 Sun,"Sep 11, 2016",1:04,@,Baltimore Ravens,W 13-7,W -3,,Buffalo Bills,U 44.5,
 Sun,"Sep 11, 2016",1:04,,Green Bay Packers,W 27-23,W -3.5,@,Jacksonville Jaguars,O 47,

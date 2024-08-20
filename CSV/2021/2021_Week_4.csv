@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 30, 2021",8:20,@,Cincinnati Bengals,W 24-21,L -7.5,,Jacksonville Jaguars,U 46.5,
 Sun,"Oct 3, 2021",1:00,,Washington Football Team,W 34-30,W -2,@,Atlanta Falcons,O 48,
 Sun,"Oct 3, 2021",1:00,@,Buffalo Bills,W 40-0,W -17.5,,Houston Texans,U 47,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 18, 1981",1:00,@,Atlanta Falcons,W 41-20,W -8,,St Louis Cardinals,O 45,
 Sun,"Oct 18, 1981",1:00,,Pittsburgh Steelers,L 7-34,L -1,@,Cincinnati Bengals,U 45,
 Sun,"Oct 18, 1981",1:00,@,Cleveland Browns,W 20-17,L -11,,New Orleans Saints,U 41,

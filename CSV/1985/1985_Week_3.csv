@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 19, 1985",8:00,,Chicago Bears,W 33-24,W -3.5,@,Minnesota Vikings,O 43,
 Sun,"Sep 22, 1985",1:00,,Denver Broncos,W 44-28,W -5.5,@,Atlanta Falcons,O 43,
 Sun,"Sep 22, 1985",1:00,,New England Patriots,W 17-14,L -6.5,@,Buffalo Bills,U 42,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 20, 1966",,,Oakland Raiders,W 17-3,W -13,@,Denver Broncos,,
 Sun,"Nov 20, 1966",,,Buffalo Bills,W 42-20,W -9.5,@,Houston Oilers,,
 Sun,"Nov 20, 1966",,@,Kansas City Chiefs,T 27-27,L -10,,Boston Patriots,,

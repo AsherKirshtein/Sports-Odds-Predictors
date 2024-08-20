@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 4, 1987",1:00,,Pittsburgh Steelers,W 28-12,W -3.5,@,Atlanta Falcons,,
 Sun,"Oct 4, 1987",1:00,,Indianapolis Colts,W 47-6,W -3.5,@,Buffalo Bills,,
 Sun,"Oct 4, 1987",1:00,@,Cincinnati Bengals,L 9-10,L -2,,San Diego Chargers,,

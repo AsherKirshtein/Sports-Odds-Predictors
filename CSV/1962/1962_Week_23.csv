@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 22, 1962",,@,Denver Broncos,L 45-46,L -10,,New York Titans,,
 Fri,"Nov 23, 1962",,@,Boston Patriots,W 21-10,W -4,,Buffalo Bills,,
 Sun,"Nov 25, 1962",,@,Dallas Texans,W 35-7,W -20,,Oakland Raiders,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 3, 1993",1:00,@,Chicago Bears,W 6-0,P -6,,Atlanta Falcons,U 44,
 Sun,"Oct 3, 1993",1:00,@,Dallas Cowboys,W 36-14,W -11,,Green Bay Packers,O 37,
 Sun,"Oct 3, 1993",1:00,@,Kansas City Chiefs,W 24-9,W -9,,Los Angeles Raiders,U 36.5,

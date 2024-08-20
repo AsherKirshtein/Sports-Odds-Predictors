@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 19, 1989",1:00,,New Orleans Saints,W 26-17,W -3,@,Atlanta Falcons,O 42,
 Sun,"Nov 19, 1989",1:00,@,Chicago Bears,L 31-32,L -11,,Tampa Bay Buccaneers,O 40.5,
 Sun,"Nov 19, 1989",1:00,@,Cincinnati Bengals,W 42-7,W -7.5,,Detroit Lions,O 43.5,

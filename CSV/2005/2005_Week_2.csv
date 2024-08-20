@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 18, 2005",12:03,@,Indianapolis Colts,W 10-3,L -9,,Jacksonville Jaguars,U 46,
 Sun,"Sep 18, 2005",1:02,,New England Patriots,L 17-27,L -3,@,Carolina Panthers,P 44,
 Sun,"Sep 18, 2005",1:02,,Detroit Lions,L 6-38,L -2.5,@,Chicago Bears,O 34,

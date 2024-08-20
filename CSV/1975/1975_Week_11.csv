@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 27, 1975",12:30,,Los Angeles Rams,W 20-0,W -9,@,Detroit Lions,,
 Thu,"Nov 27, 1975",3:30,@,St Louis Cardinals,L 14-32,L -6,,Buffalo Bills,,
 Sun,"Nov 30, 1975",1:00,@,Cincinnati Bengals,W 23-19,W -3,,Houston Oilers,,

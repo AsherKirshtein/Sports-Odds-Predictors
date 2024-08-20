@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 9, 1990",1:00,@,Atlanta Falcons,L 13-24,L -5,,Phoenix Cardinals,U 42,
 Sun,"Dec 9, 1990",1:00,,San Francisco 49ers,W 20-17 (OT),L -3.5,@,Cincinnati Bengals,U 45,
 Sun,"Dec 9, 1990",1:00,@,Green Bay Packers,L 14-20,L -3.5,,Seattle Seahawks,U 37,at Milwaukee

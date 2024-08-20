@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 16, 2005",1:00,@,Kansas City Chiefs,W 28-21,W -6.5,,Washington Redskins,O 42.5,
 Sun,"Oct 16, 2005",1:02,@,Baltimore Ravens,W 16-3,W -4,,Cleveland Browns,U 33.5,
 Sun,"Oct 16, 2005",1:02,@,Dallas Cowboys,W 16-13 (OT),L -3.5,,New York Giants,U 45.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 1, 1972",1:00,,Los Angeles Rams,L 3-31,L -4,@,Atlanta Falcons,,
 Sun,"Oct 1, 1972",1:00,,Baltimore Colts,W 17-0,W -8,@,Buffalo Bills,,
 Sun,"Oct 1, 1972",1:00,,Cincinnati Bengals,L 6-27,L -4,@,Cleveland Browns,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 24, 1994",12:30,,Buffalo Bills,L 21-35,L -1.5,@,Detroit Lions,O 39,
 Thu,"Nov 24, 1994",4:00,@,Dallas Cowboys,W 42-31,W -6,,Green Bay Packers,O 35,
 Sun,"Nov 27, 1994",1:00,,Philadelphia Eagles,L 21-28,L -1.5,@,Atlanta Falcons,O 42,

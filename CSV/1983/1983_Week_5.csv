@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 2, 1983",1:00,@,Atlanta Falcons,L 24-28,L -3.5,,Philadelphia Eagles,O 37.5,
 Sun,"Oct 2, 1983",1:00,@,Chicago Bears,W 31-14,W -1.5,,Denver Broncos,O 34.5,
 Sun,"Oct 2, 1983",1:00,@,Cincinnati Bengals,L 31-34,L -6,,Baltimore Colts,O 40,

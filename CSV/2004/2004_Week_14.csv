@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 12, 2004",1:00,@,Minnesota Vikings,L 23-27,L -6.5,,Seattle Seahawks,U 54,
 Sun,"Dec 12, 2004",1:01,@,Baltimore Ravens,W 37-14,W -10,,New York Giants,O 34,
 Sun,"Dec 12, 2004",1:02,@,Buffalo Bills,W 37-7,W -11,,Cleveland Browns,O 38.5,

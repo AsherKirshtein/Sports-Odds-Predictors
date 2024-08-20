@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Jan 7, 2023",4:30,,Kansas City Chiefs,W 31-13,W -9,@,Las Vegas Raiders,U 52.5,
 Sat,"Jan 7, 2023",8:15,@,Jacksonville Jaguars,W 20-16,L -6.5,,Tennessee Titans,U 40,
 Sun,"Jan 8, 2023",1:00,@,Atlanta Falcons,W 30-17,W -4,,Tampa Bay Buccaneers,O 40.5,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 6, 2014",8:29,@,Cincinnati Bengals,L 3-24,L -6.5,,Cleveland Browns,U 46,
 Sun,"Nov 9, 2014",1:02,@,Buffalo Bills,L 13-17,L -1.5,,Kansas City Chiefs,U 42,
 Sun,"Nov 9, 2014",1:02,@,Detroit Lions,W 20-16,W -3,,Miami Dolphins,U 43,

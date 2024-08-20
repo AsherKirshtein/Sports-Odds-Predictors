@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 12, 1986",1:00,@,Atlanta Falcons,W 26-14,W PK,,Los Angeles Rams,P 40,
 Sun,"Oct 12, 1986",1:00,@,Cleveland Browns,W 20-7,W -4.5,,Kansas City Chiefs,U 40,
 Sun,"Oct 12, 1986",1:00,@,Dallas Cowboys,W 30-6,W PK,,Washington Redskins,U 42,

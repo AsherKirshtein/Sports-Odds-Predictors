@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 7, 1974",1:00,@,Minnesota Vikings,W 23-10,L -14,,Atlanta Falcons,,
 Sat,"Dec 7, 1974",4:00,@,Dallas Cowboys,W 41-17,W -10.5,,Cleveland Browns,,
 Sun,"Dec 8, 1974",1:00,@,Cincinnati Bengals,L 19-23,L -8,,Detroit Lions,,

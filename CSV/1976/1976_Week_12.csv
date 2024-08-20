@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 25, 1976",12:30,@,Detroit Lions,W 27-14,W -8.5,,Buffalo Bills,,
 Thu,"Nov 25, 1976",3:30,@,Dallas Cowboys,W 19-14,P -5,,St Louis Cardinals,,
 Sun,"Nov 28, 1976",1:00,@,Cleveland Browns,W 17-13,W -3.5,,Miami Dolphins,,

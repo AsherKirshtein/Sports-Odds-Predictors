@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 17, 2010",1:00,,San Diego Chargers,L 17-20,L -8.5,@,St Louis Rams,U 45,
 Sun,"Oct 17, 2010",1:02,@,Chicago Bears,L 20-23,L -6,,Seattle Seahawks,O 38,
 Sun,"Oct 17, 2010",1:02,@,Green Bay Packers,L 20-23 (OT),L -3,,Miami Dolphins,U 44,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 28, 1974",12:30,@,Detroit Lions,L 27-31,L -3.5,,Denver Broncos,,
 Thu,"Nov 28, 1974",2:45,@,Dallas Cowboys,W 24-23,W PK,,Washington Redskins,,
 Sun,"Dec 1, 1974",1:00,@,Buffalo Bills,W 6-0,L -12.5,,Baltimore Colts,,

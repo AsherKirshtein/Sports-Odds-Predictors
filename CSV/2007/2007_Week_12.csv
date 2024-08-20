@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Nov 22, 2007",12:36,,Green Bay Packers,W 37-26,W -3,@,Detroit Lions,O 47,
 Thu,"Nov 22, 2007",4:20,@,Dallas Cowboys,W 34-3,W -14.5,,New York Jets,U 47.5,
 Thu,"Nov 22, 2007",8:16,,Indianapolis Colts,W 31-13,W -14,@,Atlanta Falcons,O 42.5,

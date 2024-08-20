@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 14, 1996",12:30,,Philadelphia Eagles,W 21-20,L -7,@,New York Jets,O 39,
 Sat,"Dec 14, 1996",4:00,@,Chicago Bears,W 27-14,W -3,,San Diego Chargers,O 36.5,
 Sun,"Dec 15, 1996",1:00,@,Atlanta Falcons,L 27-34,L -5.5,,St Louis Rams,O 44,

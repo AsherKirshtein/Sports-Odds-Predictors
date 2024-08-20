@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 14, 1963",,,Boston Patriots,L 3-35,L -2,@,Kansas City Chiefs,,
 Sat,"Dec 14, 1963",,,Buffalo Bills,W 19-10,W -4.5,@,New York Jets,,
 Sun,"Dec 15, 1963",,,San Diego Chargers,W 20-14,W -4,@,Houston Oilers,,

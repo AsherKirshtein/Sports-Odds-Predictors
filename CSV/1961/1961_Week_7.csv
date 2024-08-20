@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Sep 30, 1961",,,San Diego Chargers,W 19-11,L -13,@,Buffalo Bills,,
 Sun,"Oct 1, 1961",,@,Dallas Texans,W 26-21,W PK,,Houston Oilers,,
 Sun,"Oct 1, 1961",,@,New York Titans,W 37-30,W -2.5,,Boston Patriots,,

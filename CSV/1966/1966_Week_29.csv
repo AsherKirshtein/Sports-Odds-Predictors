@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Dec 11, 1966",,,Boston Patriots,W 38-14,W -10,@,Houston Oilers,,
 Sun,"Dec 11, 1966",,,Kansas City Chiefs,W 19-18,L -18,@,Miami Dolphins,,
 Sun,"Dec 11, 1966",,@,Oakland Raiders,W 28-10,W -13,,Denver Broncos,,

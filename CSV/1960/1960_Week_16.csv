@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Nov 13, 1960",,,Baltimore Colts,W 24-20,L -7,@,Chicago Bears,,
 Sun,"Nov 13, 1960",,@,Cleveland Browns,W 28-27,L -11,,St Louis Cardinals,,
 Sun,"Nov 13, 1960",,@,Detroit Lions,W 12-10,L -4,,Los Angeles Rams,,

@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Dec 6, 2018",8:20,@,Tennessee Titans,W 30-9,W -5.5,,Jacksonville Jaguars,O 37.5,
 Sun,"Dec 9, 2018",1:00,@,Buffalo Bills,L 23-27,L -4.5,,New York Jets,O 37,
 Sun,"Dec 9, 2018",1:00,,Carolina Panthers,L 20-26,L -1,@,Cleveland Browns,U 47.5,

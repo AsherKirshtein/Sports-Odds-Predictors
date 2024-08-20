@@ -1,4 +1,4 @@
-Round,Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Fri,"Nov 11, 1960",,@,Boston Patriots,W 38-21,N/A,,New York Titans,,
 Sun,"Nov 13, 1960",,@,Dallas Texans,W 34-7,W -7.5,,Denver Broncos,,
 Sun,"Nov 13, 1960",,@,Los Angeles Chargers,W 24-21,W PK,,Houston Oilers,,

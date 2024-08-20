@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 30, 1988",1:00,@,Buffalo Bills,W 28-0,W -7,,Green Bay Packers,U 41,
 Sun,"Oct 30, 1988",1:00,@,Cleveland Browns,W 23-16,W -3.5,,Cincinnati Bengals,U 43,
 Sun,"Oct 30, 1988",1:00,@,Dallas Cowboys,L 10-16,L -3,,Phoenix Cardinals,U 43,

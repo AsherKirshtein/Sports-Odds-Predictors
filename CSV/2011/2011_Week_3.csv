@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Sep 25, 2011",1:02,@,Carolina Panthers,W 16-10,W -3.5,,Jacksonville Jaguars,U 43.5,
 Sun,"Sep 25, 2011",1:02,@,Cincinnati Bengals,L 8-13,L -1,,San Francisco 49ers,U 38.5,
 Sun,"Sep 25, 2011",1:02,,Miami Dolphins,L 16-17,L -2,@,Cleveland Browns,U 42.5,

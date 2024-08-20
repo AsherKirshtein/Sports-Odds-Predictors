@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sun,"Oct 13, 1985",1:00,,New York Giants,L 30-35,L -2,@,Cincinnati Bengals,O 49,
 Sun,"Oct 13, 1985",1:00,@,Dallas Cowboys,W 27-13,W -5,,Pittsburgh Steelers,U 43,
 Sun,"Oct 13, 1985",1:00,@,Green Bay Packers,W 20-17,L -3.5,,Minnesota Vikings,U 48,at Milwaukee

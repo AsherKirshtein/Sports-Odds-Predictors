@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Sat,"Dec 17, 2005",1:33,@,New England Patriots,W 28-0,W -4.5,,Tampa Bay Buccaneers,U 36,
 Sat,"Dec 17, 2005",5:11,@,New York Giants,W 27-17,W -3,,Kansas City Chiefs,U 45.5,
 Sat,"Dec 17, 2005",8:36,,Denver Broncos,W 28-17,W -8,@,Buffalo Bills,O 35,

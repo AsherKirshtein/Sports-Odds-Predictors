@@ -1,4 +1,4 @@
-Day,Date,Time(ET),At,Favorite,Score,Spread,At,Underdog,Over/Under
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
 Thu,"Sep 18, 2014",8:26,@,Atlanta Falcons,W 56-14,W -6,,Tampa Bay Buccaneers,O 46,
 Sun,"Sep 21, 2014",1:00,,Dallas Cowboys,W 34-31,W -1.5,@,St Louis Rams,O 44,
 Sun,"Sep 21, 2014",1:02,@,Buffalo Bills,L 10-22,L -2.5,,San Diego Chargers,U 45.5,
