@@ -61,7 +61,6 @@ def writeHeader(header_Type, csvwriter):
             "Home_Underdogs", 
             "Home_Underdogs_vs_Spread", 
             "Over/Unders",
-            "Additional Notes"
         ])
     elif header_Type == 4:
         csvwriter.writerow([
