@@ -1,8 +1,8 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Nov 1 1964,,@,Baltimore Colts,W 37-7,W -16,,San Francisco 49ers,,
-Sun,Nov 1 1964,,@,Chicago Bears,L 10-24,L -5,,Dallas Cowboys,,
-Sun,Nov 1 1964,,@,Detroit Lions,W 37-17,W -1.5,,Los Angeles Rams,,
-Sun,Nov 1 1964,,,Green Bay Packers,W 42-13,W -4,@,Minnesota Vikings,,
-Sun,Nov 1 1964,,,St Louis Cardinals,L 17-34,L -6,@,New York Giants,,
-Sun,Nov 1 1964,,@,Philadelphia Eagles,L 10-21,L -4.5,,Washington Redskins,,
-Sun,Nov 1 1964,,,Cleveland Browns,W 30-17,W -7,@,Pittsburgh Steelers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Nov 1, 1964",,@,Baltimore Colts,W 37-7,W -16,,San Francisco 49ers,,
+Sun,"Nov 1, 1964",,@,Chicago Bears,L 10-24,L -5,,Dallas Cowboys,,
+Sun,"Nov 1, 1964",,@,Detroit Lions,W 37-17,W -1.5,,Los Angeles Rams,,
+Sun,"Nov 1, 1964",,,Green Bay Packers,W 42-13,W -4,@,Minnesota Vikings,,
+Sun,"Nov 1, 1964",,,St Louis Cardinals,L 17-34,L -6,@,New York Giants,,
+Sun,"Nov 1, 1964",,@,Philadelphia Eagles,L 10-21,L -4.5,,Washington Redskins,,
+Sun,"Nov 1, 1964",,,Cleveland Browns,W 30-17,W -7,@,Pittsburgh Steelers,,

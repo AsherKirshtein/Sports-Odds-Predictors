@@ -1,10 +1,10 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,Dec 24 1988,1:30,@,Cleveland Browns (4),L 23-24,L -3,,Houston Oilers (5),O 38
-NFC Wild Card,Mon,Dec 26 1988,2:30,@,Minnesota Vikings (4),W 28-17,W -4.5,,Los Angeles Rams (5),O 42
-NFC Divisional,Sat,Dec 31 1988,12:30,@,Chicago Bears (1),W 20-12,W -5.5,,Philadelphia Eagles (3),U 38
-AFC Divisional,Sat,Dec 31 1988,4:00,@,Cincinnati Bengals (1),W 21-13,W -6.5,,Seattle Seahawks (3),U 46
-AFC Divisional,Sun,Jan 1 1989,12:30,@,Buffalo Bills (2),W 17-10,W -3.5,,Houston Oilers (5),U 37
-NFC Divisional,Sun,Jan 1 1989,4:00,@,San Francisco 49ers (2),W 34-9,W -3.5,,Minnesota Vikings (4),U 44
-AFC Championship,Sun,Jan 8 1989,12:30,@,Cincinnati Bengals (1),W 21-10,W -4,,Buffalo Bills (2),U 41
-NFC Championship,Sun,Jan 8 1989,4:00,,San Francisco 49ers (2),W 28-3,W -1,@,Chicago Bears (1),U 35
-Super Bowl XXIII,Sun,Jan 22 1989,5:00,N,San Francisco 49ers (2),W 20-16,L -7,,Cincinnati Bengals (1),U 47
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+AFC Wild Card,Sat,"Dec 24, 1988",1:30,@,Cleveland Browns (4),L 23-24,L -3,,Houston Oilers (5),O 38
+NFC Wild Card,Mon,"Dec 26, 1988",2:30,@,Minnesota Vikings (4),W 28-17,W -4.5,,Los Angeles Rams (5),O 42
+NFC Divisional,Sat,"Dec 31, 1988",12:30,@,Chicago Bears (1),W 20-12,W -5.5,,Philadelphia Eagles (3),U 38
+AFC Divisional,Sat,"Dec 31, 1988",4:00,@,Cincinnati Bengals (1),W 21-13,W -6.5,,Seattle Seahawks (3),U 46
+AFC Divisional,Sun,"Jan 1, 1989",12:30,@,Buffalo Bills (2),W 17-10,W -3.5,,Houston Oilers (5),U 37
+NFC Divisional,Sun,"Jan 1, 1989",4:00,@,San Francisco 49ers (2),W 34-9,W -3.5,,Minnesota Vikings (4),U 44
+AFC Championship,Sun,"Jan 8, 1989",12:30,@,Cincinnati Bengals (1),W 21-10,W -4,,Buffalo Bills (2),U 41
+NFC Championship,Sun,"Jan 8, 1989",4:00,,San Francisco 49ers (2),W 28-3,W -1,@,Chicago Bears (1),U 35
+Super Bowl XXIII,Sun,"Jan 22, 1989",5:00,N,San Francisco 49ers (2),W 20-16,L -7,,Cincinnati Bengals (1),U 47

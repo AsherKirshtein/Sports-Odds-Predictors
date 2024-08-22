@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Nov 7 1953,,@,Detroit Lions,W 17-7,L -14,,Baltimore Colts,,
-Sun,Nov 8 1953,,@,Chicago Bears,T 21-21,L -6,,Green Bay Packers,,
-Sun,Nov 8 1953,,@,Cleveland Browns,W 34-16,W -14,,Pittsburgh Steelers,,
-Sun,Nov 8 1953,,@,Los Angeles Rams,L 27-31,L -7,,San Francisco 49ers,,
-Sun,Nov 8 1953,,@,Philadelphia Eagles,W 30-7,W -7,,New York Giants,,
-Sun,Nov 8 1953,,@,Washington Redskins,W 28-17,W -6,,Chicago Cardinals,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Nov 7, 1953",,@,Detroit Lions,W 17-7,L -14,,Baltimore Colts,,
+Sun,"Nov 8, 1953",,@,Chicago Bears,T 21-21,L -6,,Green Bay Packers,,
+Sun,"Nov 8, 1953",,@,Cleveland Browns,W 34-16,W -14,,Pittsburgh Steelers,,
+Sun,"Nov 8, 1953",,@,Los Angeles Rams,L 27-31,L -7,,San Francisco 49ers,,
+Sun,"Nov 8, 1953",,@,Philadelphia Eagles,W 30-7,W -7,,New York Giants,,
+Sun,"Nov 8, 1953",,@,Washington Redskins,W 28-17,W -6,,Chicago Cardinals,,

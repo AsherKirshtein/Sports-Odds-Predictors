@@ -1,9 +1,9 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Oct 5 1968,,@,Cleveland Browns,W 31-24,L -12,,Pittsburgh Steelers,,
-Sun,Oct 6 1968,,,Green Bay Packers,W 38-7,W -14,@,Atlanta Falcons,,
-Sun,Oct 6 1968,,@,Baltimore Colts,W 28-7,W -12,,Chicago Bears,,
-Sun,Oct 6 1968,,@,Los Angeles Rams,W 24-10,W -12,,San Francisco 49ers,,
-Sun,Oct 6 1968,,@,Minnesota Vikings,W 24-10,W -3,,Detroit Lions,,
-Sun,Oct 6 1968,,@,New York Giants,W 38-21,W -11,,New Orleans Saints,,
-Sun,Oct 6 1968,,,Dallas Cowboys,W 27-10,W -11,@,St Louis Cardinals,,
-Sun,Oct 6 1968,,@,Washington Redskins,W 17-14,L -10,,Philadelphia Eagles,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Oct 5, 1968",,@,Cleveland Browns,W 31-24,L -12,,Pittsburgh Steelers,,
+Sun,"Oct 6, 1968",,,Green Bay Packers,W 38-7,W -14,@,Atlanta Falcons,,
+Sun,"Oct 6, 1968",,@,Baltimore Colts,W 28-7,W -12,,Chicago Bears,,
+Sun,"Oct 6, 1968",,@,Los Angeles Rams,W 24-10,W -12,,San Francisco 49ers,,
+Sun,"Oct 6, 1968",,@,Minnesota Vikings,W 24-10,W -3,,Detroit Lions,,
+Sun,"Oct 6, 1968",,@,New York Giants,W 38-21,W -11,,New Orleans Saints,,
+Sun,"Oct 6, 1968",,,Dallas Cowboys,W 27-10,W -11,@,St Louis Cardinals,,
+Sun,"Oct 6, 1968",,@,Washington Redskins,W 17-14,L -10,,Philadelphia Eagles,,

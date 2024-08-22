@@ -1,14 +1,14 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Nov 23 1975,1:00,,Denver Broncos,L 21-35,L -3,@,Atlanta Falcons,,
-Sun,Nov 23 1975,1:00,@,Buffalo Bills,W 45-31,W -7.5,,New England Patriots,,
-Sun,Nov 23 1975,1:00,,Cincinnati Bengals,L 23-35,L -11,@,Cleveland Browns,,
-Sun,Nov 23 1975,1:00,@,Miami Dolphins,L 17-33,L -8,,Baltimore Colts,,
-Sun,Nov 23 1975,1:00,,St Louis Cardinals,W 37-6,W -8,@,New York Jets,,
-Sun,Nov 23 1975,2:00,@,Dallas Cowboys,W 27-17,W -8.5,,Philadelphia Eagles,,
-Sun,Nov 23 1975,2:00,@,Green Bay Packers,W 40-14,W -3,,New York Giants,,at Milwaukee
-Sun,Nov 23 1975,2:00,@,Kansas City Chiefs,W 24-21 (OT),W -1,,Detroit Lions,,
-Sun,Nov 23 1975,2:00,@,Minnesota Vikings,W 28-13,L -21,,San Diego Chargers,,
-Sun,Nov 23 1975,2:00,,San Francisco 49ers,W 16-6,W -7,@,New Orleans Saints,,
-Sun,Nov 23 1975,4:00,@,Los Angeles Rams,W 38-10,W -19.5,,Chicago Bears,,
-Sun,Nov 23 1975,4:00,,Oakland Raiders,W 26-23 (OT),L -3.5,@,Washington Redskins,,
-Mon,Nov 24 1975,9:00,,Pittsburgh Steelers,W 32-9,W -3.5,@,Houston Oilers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Nov 23, 1975",1:00,,Denver Broncos,L 21-35,L -3,@,Atlanta Falcons,,
+Sun,"Nov 23, 1975",1:00,@,Buffalo Bills,W 45-31,W -7.5,,New England Patriots,,
+Sun,"Nov 23, 1975",1:00,,Cincinnati Bengals,L 23-35,L -11,@,Cleveland Browns,,
+Sun,"Nov 23, 1975",1:00,@,Miami Dolphins,L 17-33,L -8,,Baltimore Colts,,
+Sun,"Nov 23, 1975",1:00,,St Louis Cardinals,W 37-6,W -8,@,New York Jets,,
+Sun,"Nov 23, 1975",2:00,@,Dallas Cowboys,W 27-17,W -8.5,,Philadelphia Eagles,,
+Sun,"Nov 23, 1975",2:00,@,Green Bay Packers,W 40-14,W -3,,New York Giants,,at Milwaukee
+Sun,"Nov 23, 1975",2:00,@,Kansas City Chiefs,W 24-21 (OT),W -1,,Detroit Lions,,
+Sun,"Nov 23, 1975",2:00,@,Minnesota Vikings,W 28-13,L -21,,San Diego Chargers,,
+Sun,"Nov 23, 1975",2:00,,San Francisco 49ers,W 16-6,W -7,@,New Orleans Saints,,
+Sun,"Nov 23, 1975",4:00,@,Los Angeles Rams,W 38-10,W -19.5,,Chicago Bears,,
+Sun,"Nov 23, 1975",4:00,,Oakland Raiders,W 26-23 (OT),L -3.5,@,Washington Redskins,,
+Mon,"Nov 24, 1975",9:00,,Pittsburgh Steelers,W 32-9,W -3.5,@,Houston Oilers,,

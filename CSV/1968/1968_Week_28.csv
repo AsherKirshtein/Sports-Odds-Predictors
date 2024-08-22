@@ -1,9 +1,9 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Dec 14 1968,,,Cleveland Browns,L 16-27,L -5.5,@,St Louis Cardinals,,
-Sun,Dec 15 1968,,,San Francisco 49ers,W 14-12,L -8,@,Atlanta Falcons,,
-Sun,Dec 15 1968,,@,Chicago Bears,L 27-28,L -4.5,,Green Bay Packers,,
-Sun,Dec 15 1968,,,Baltimore Colts,W 28-24,W -3.5,@,Los Angeles Rams,,
-Sun,Dec 15 1968,,@,New Orleans Saints,W 24-14,W -7,,Pittsburgh Steelers,,
-Sun,Dec 15 1968,,,Dallas Cowboys,W 28-10,W -9.5,@,New York Giants,,
-Sun,Dec 15 1968,,,Minnesota Vikings,W 24-17,L -12,@,Philadelphia Eagles,,
-Sun,Dec 15 1968,,,Detroit Lions,L 3-14,L -3,@,Washington Redskins,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Dec 14, 1968",,,Cleveland Browns,L 16-27,L -5.5,@,St Louis Cardinals,,
+Sun,"Dec 15, 1968",,,San Francisco 49ers,W 14-12,L -8,@,Atlanta Falcons,,
+Sun,"Dec 15, 1968",,@,Chicago Bears,L 27-28,L -4.5,,Green Bay Packers,,
+Sun,"Dec 15, 1968",,,Baltimore Colts,W 28-24,W -3.5,@,Los Angeles Rams,,
+Sun,"Dec 15, 1968",,@,New Orleans Saints,W 24-14,W -7,,Pittsburgh Steelers,,
+Sun,"Dec 15, 1968",,,Dallas Cowboys,W 28-10,W -9.5,@,New York Giants,,
+Sun,"Dec 15, 1968",,,Minnesota Vikings,W 24-17,L -12,@,Philadelphia Eagles,,
+Sun,"Dec 15, 1968",,,Detroit Lions,L 3-14,L -3,@,Washington Redskins,,

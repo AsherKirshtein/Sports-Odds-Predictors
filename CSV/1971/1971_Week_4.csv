@@ -1,14 +1,14 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Oct 10 1971,1:00,@,Atlanta Falcons,L 9-26,L -6,,St Louis Cardinals,,
-Sun,Oct 10 1971,1:00,,Baltimore Colts,W 43-0,W -9,@,Buffalo Bills,,
-Sun,Oct 10 1971,1:00,,Miami Dolphins,W 23-13,W -3,@,Cincinnati Bengals,,
-Sun,Oct 10 1971,1:00,@,Cleveland Browns,W 27-17,W -6,,Pittsburgh Steelers,,
-Sun,Oct 10 1971,1:00,,New York Jets,L 0-20,L -8,@,New England Patriots,,
-Sun,Oct 10 1971,1:00,,Minnesota Vikings,W 13-0,L -17,@,Philadelphia Eagles,,
-Sun,Oct 10 1971,1:00,@,Washington Redskins,W 22-13,L -10.5,,Houston Oilers,,
-Sun,Oct 10 1971,2:00,@,Chicago Bears,W 35-14,W -7,,New Orleans Saints,,
-Sun,Oct 10 1971,2:00,@,Detroit Lions,W 31-28,L -9,,Green Bay Packers,,
-Sun,Oct 10 1971,2:00,@,Kansas City Chiefs,W 31-10,W -9,,San Diego Chargers,,
-Sun,Oct 10 1971,4:00,,Oakland Raiders,W 27-16,W -9,@,Denver Broncos,,
-Sun,Oct 10 1971,4:00,@,San Francisco 49ers,L 13-20,L -7.5,,Los Angeles Rams,,
-Mon,Oct 11 1971,9:00,@,Dallas Cowboys,W 20-13,L -13,,New York Giants,,at Cotton Bowl
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Oct 10, 1971",1:00,@,Atlanta Falcons,L 9-26,L -6,,St Louis Cardinals,,
+Sun,"Oct 10, 1971",1:00,,Baltimore Colts,W 43-0,W -9,@,Buffalo Bills,,
+Sun,"Oct 10, 1971",1:00,,Miami Dolphins,W 23-13,W -3,@,Cincinnati Bengals,,
+Sun,"Oct 10, 1971",1:00,@,Cleveland Browns,W 27-17,W -6,,Pittsburgh Steelers,,
+Sun,"Oct 10, 1971",1:00,,New York Jets,L 0-20,L -8,@,New England Patriots,,
+Sun,"Oct 10, 1971",1:00,,Minnesota Vikings,W 13-0,L -17,@,Philadelphia Eagles,,
+Sun,"Oct 10, 1971",1:00,@,Washington Redskins,W 22-13,L -10.5,,Houston Oilers,,
+Sun,"Oct 10, 1971",2:00,@,Chicago Bears,W 35-14,W -7,,New Orleans Saints,,
+Sun,"Oct 10, 1971",2:00,@,Detroit Lions,W 31-28,L -9,,Green Bay Packers,,
+Sun,"Oct 10, 1971",2:00,@,Kansas City Chiefs,W 31-10,W -9,,San Diego Chargers,,
+Sun,"Oct 10, 1971",4:00,,Oakland Raiders,W 27-16,W -9,@,Denver Broncos,,
+Sun,"Oct 10, 1971",4:00,@,San Francisco 49ers,L 13-20,L -7.5,,Los Angeles Rams,,
+Mon,"Oct 11, 1971",9:00,@,Dallas Cowboys,W 20-13,L -13,,New York Giants,,at Cotton Bowl

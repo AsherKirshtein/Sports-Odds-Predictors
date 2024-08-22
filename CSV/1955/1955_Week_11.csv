@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Dec 4 1955,,@,Chicago Bears,W 21-20,L -10.5,,Detroit Lions,,
-Sun,Dec 4 1955,,@,Los Angeles Rams,W 20-14,L -7,,Baltimore Colts,,
-Sun,Dec 4 1955,,@,Philadelphia Eagles,W 27-3,W -7,,Chicago Cardinals,,
-Sun,Dec 4 1955,,,Cleveland Browns,W 30-7,W -12,@,Pittsburgh Steelers,,
-Sun,Dec 4 1955,,@,San Francisco 49ers,L 7-28,L -4.5,,Green Bay Packers,,
-Sun,Dec 4 1955,,@,Washington Redskins,L 20-27,L -1.5,,New York Giants,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Dec 4, 1955",,@,Chicago Bears,W 21-20,L -10.5,,Detroit Lions,,
+Sun,"Dec 4, 1955",,@,Los Angeles Rams,W 20-14,L -7,,Baltimore Colts,,
+Sun,"Dec 4, 1955",,@,Philadelphia Eagles,W 27-3,W -7,,Chicago Cardinals,,
+Sun,"Dec 4, 1955",,,Cleveland Browns,W 30-7,W -12,@,Pittsburgh Steelers,,
+Sun,"Dec 4, 1955",,@,San Francisco 49ers,L 7-28,L -4.5,,Green Bay Packers,,
+Sun,"Dec 4, 1955",,@,Washington Redskins,L 20-27,L -1.5,,New York Giants,,

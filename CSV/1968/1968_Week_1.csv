@@ -1,4 +1,4 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Fri,Sep 6 1968,,@,San Diego Chargers,W 29-13,W -15,,Cincinnati Bengals,,
-Sun,Sep 8 1968,,@,Buffalo Bills,L 7-16,L -6.5,,Boston Patriots,,
-Mon,Sep 9 1968,,,Kansas City Chiefs,W 26-21,W -2,@,Houston Oilers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Fri,"Sep 6, 1968",,@,San Diego Chargers,W 29-13,W -15,,Cincinnati Bengals,,
+Sun,"Sep 8, 1968",,@,Buffalo Bills,L 7-16,L -6.5,,Boston Patriots,,
+Mon,"Sep 9, 1968",,,Kansas City Chiefs,W 26-21,W -2,@,Houston Oilers,,

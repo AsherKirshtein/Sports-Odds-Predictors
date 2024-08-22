@@ -1,8 +1,8 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Oct 8 1966,,@,Cleveland Browns,W 41-10,W -16.5,,Pittsburgh Steelers,,
-Sun,Oct 9 1966,,,Baltimore Colts,L 17-27,L -6,@,Chicago Bears,,
-Sun,Oct 9 1966,,@,Dallas Cowboys,W 56-7,W -14.5,,Philadelphia Eagles,,
-Sun,Oct 9 1966,,,Los Angeles Rams,W 14-7,W -3,@,Detroit Lions,,
-Sun,Oct 9 1966,,,Green Bay Packers,L 20-21,L -14,@,San Francisco 49ers,,
-Sun,Oct 9 1966,,@,St Louis Cardinals,W 24-19,L -20.5,,New York Giants,,
-Sun,Oct 9 1966,,@,Washington Redskins,W 33-20,L -16.5,,Atlanta Falcons,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Oct 8, 1966",,@,Cleveland Browns,W 41-10,W -16.5,,Pittsburgh Steelers,,
+Sun,"Oct 9, 1966",,,Baltimore Colts,L 17-27,L -6,@,Chicago Bears,,
+Sun,"Oct 9, 1966",,@,Dallas Cowboys,W 56-7,W -14.5,,Philadelphia Eagles,,
+Sun,"Oct 9, 1966",,,Los Angeles Rams,W 14-7,W -3,@,Detroit Lions,,
+Sun,"Oct 9, 1966",,,Green Bay Packers,L 20-21,L -14,@,San Francisco 49ers,,
+Sun,"Oct 9, 1966",,@,St Louis Cardinals,W 24-19,L -20.5,,New York Giants,,
+Sun,"Oct 9, 1966",,@,Washington Redskins,W 33-20,L -16.5,,Atlanta Falcons,,

@@ -1,6 +1,6 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Nov 23 1969,,@,Boston Patriots,W 35-21,W -4,,Buffalo Bills,,
-Sun,Nov 23 1969,,@,Kansas City Chiefs,L 24-27,L -4.5,,Oakland Raiders,,
-Sun,Nov 23 1969,,,Houston Oilers,W 32-7,W -6,@,Miami Dolphins,,
-Sun,Nov 23 1969,,@,New York Jets,W 40-7,W -9.5,,Cincinnati Bengals,,
-Sun,Nov 23 1969,,@,San Diego Chargers,W 45-24,W -4,,Denver Broncos,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Nov 23, 1969",,@,Boston Patriots,W 35-21,W -4,,Buffalo Bills,,
+Sun,"Nov 23, 1969",,@,Kansas City Chiefs,L 24-27,L -4.5,,Oakland Raiders,,
+Sun,"Nov 23, 1969",,,Houston Oilers,W 32-7,W -6,@,Miami Dolphins,,
+Sun,"Nov 23, 1969",,@,New York Jets,W 40-7,W -9.5,,Cincinnati Bengals,,
+Sun,"Nov 23, 1969",,@,San Diego Chargers,W 45-24,W -4,,Denver Broncos,,

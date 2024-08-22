@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Dec 14 1968,,,Kansas City Chiefs,W 30-7,W -10,@,Denver Broncos,,
-Sun,Dec 15 1968,,@,Houston Oilers,W 45-17,W -14,,Boston Patriots,,
-Sun,Dec 15 1968,,,New York Jets,W 31-7,W -7.5,@,Miami Dolphins,,
-Sun,Dec 15 1968,,,Oakland Raiders,W 34-27,L -9.5,@,San Diego Chargers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Dec 14, 1968",,,Kansas City Chiefs,W 30-7,W -10,@,Denver Broncos,,
+Sun,"Dec 15, 1968",,@,Houston Oilers,W 45-17,W -14,,Boston Patriots,,
+Sun,"Dec 15, 1968",,,New York Jets,W 31-7,W -7.5,@,Miami Dolphins,,
+Sun,"Dec 15, 1968",,,Oakland Raiders,W 34-27,L -9.5,@,San Diego Chargers,,

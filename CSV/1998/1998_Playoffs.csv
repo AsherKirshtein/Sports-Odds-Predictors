@@ -1,12 +1,12 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,Jan 2 1999,12:30,@,Miami Dolphins (4),W 24-17,W -2.5,,Buffalo Bills (5),U 43
-NFC Wild Card,Sat,Jan 2 1999,4:00,@,Dallas Cowboys (3),L 7-20,L -7,,Arizona Cardinals (6),U 42
-AFC Wild Card,Sun,Jan 3 1999,12:40,@,Jacksonville Jaguars (3),W 25-10,W -8.5,,New England Patriots (6),U 41
-NFC Wild Card,Sun,Jan 3 1999,4:15,@,San Francisco 49ers (4),W 30-27,P -3,,Green Bay Packers (5),O 49.5
-NFC Divisional,Sat,Jan 9 1999,12:30,@,Atlanta Falcons (2),W 20-18,L -3.5,,San Francisco 49ers (4),U 53
-AFC Divisional,Sat,Jan 9 1999,4:15,@,Denver Broncos (1),W 38-3,W -13.5,,Miami Dolphins (4),U 48
-AFC Divisional,Sun,Jan 10 1999,12:40,@,New York Jets (2),W 34-24,W -9,,Jacksonville Jaguars (3),O 43
-NFC Divisional,Sun,Jan 10 1999,4:15,@,Minnesota Vikings (1),W 41-21,W -16.5,,Arizona Cardinals (6),O 52.5
-NFC Championship,Sun,Jan 17 1999,12:30,@,Minnesota Vikings (1),L 27-30 (OT),L -11,,Atlanta Falcons (2),O 55.5
-AFC Championship,Sun,Jan 17 1999,4:05,@,Denver Broncos (1),W 23-10,W -9,,New York Jets (2),U 51
-Super Bowl XXXIII,Sun,Jan 31 1999,6:30,N,Denver Broncos (1),W 34-19,W -7.5,,Atlanta Falcons (2),O 52
+AFC Wild Card,Sat,"Jan 2, 1999",12:30,@,Miami Dolphins (4),W 24-17,W -2.5,,Buffalo Bills (5),U 43
+NFC Wild Card,Sat,"Jan 2, 1999",4:00,@,Dallas Cowboys (3),L 7-20,L -7,,Arizona Cardinals (6),U 42
+AFC Wild Card,Sun,"Jan 3, 1999",12:40,@,Jacksonville Jaguars (3),W 25-10,W -8.5,,New England Patriots (6),U 41
+NFC Wild Card,Sun,"Jan 3, 1999",4:15,@,San Francisco 49ers (4),W 30-27,P -3,,Green Bay Packers (5),O 49.5
+NFC Divisional,Sat,"Jan 9, 1999",12:30,@,Atlanta Falcons (2),W 20-18,L -3.5,,San Francisco 49ers (4),U 53
+AFC Divisional,Sat,"Jan 9, 1999",4:15,@,Denver Broncos (1),W 38-3,W -13.5,,Miami Dolphins (4),U 48
+AFC Divisional,Sun,"Jan 10, 1999",12:40,@,New York Jets (2),W 34-24,W -9,,Jacksonville Jaguars (3),O 43
+NFC Divisional,Sun,"Jan 10, 1999",4:15,@,Minnesota Vikings (1),W 41-21,W -16.5,,Arizona Cardinals (6),O 52.5
+NFC Championship,Sun,"Jan 17, 1999",12:30,@,Minnesota Vikings (1),L 27-30 (OT),L -11,,Atlanta Falcons (2),O 55.5
+AFC Championship,Sun,"Jan 17, 1999",4:05,@,Denver Broncos (1),W 23-10,W -9,,New York Jets (2),U 51
+Super Bowl XXXIII,Sun,"Jan 31, 1999",6:30,N,Denver Broncos (1),W 34-19,W -7.5,,Atlanta Falcons (2),O 52

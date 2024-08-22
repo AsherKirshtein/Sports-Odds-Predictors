@@ -1,4 +1,4 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Nov 17 1963,,@,Boston Patriots,T 24-24,L -6.5,,Kansas City Chiefs,,
-Sun,Nov 17 1963,,@,Buffalo Bills,L 13-23,L PK,,San Diego Chargers,,
-Sun,Nov 17 1963,,@,Denver Broncos,L 9-14,L -4.5,,New York Jets,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Nov 17, 1963",,@,Boston Patriots,T 24-24,L -6.5,,Kansas City Chiefs,,
+Sun,"Nov 17, 1963",,@,Buffalo Bills,L 13-23,L PK,,San Diego Chargers,,
+Sun,"Nov 17, 1963",,@,Denver Broncos,L 9-14,L -4.5,,New York Jets,,

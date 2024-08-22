@@ -1,8 +1,8 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Sep 14 1963,,@,Dallas Cowboys,L 7-34,L -6,,St Louis Cardinals,,
-Sat,Sep 14 1963,,,Detroit Lions,W 23-2,W -6,@,Los Angeles Rams,,
-Sun,Sep 15 1963,,,New York Giants,W 37-28,W -1,@,Baltimore Colts,,
-Sun,Sep 15 1963,,@,Cleveland Browns,W 37-14,W -7,,Washington Redskins,,
-Sun,Sep 15 1963,,@,Green Bay Packers,L 3-10,L -11,,Chicago Bears,,
-Sun,Sep 15 1963,,,Pittsburgh Steelers,T 21-21,L -3,@,Philadelphia Eagles,,
-Sun,Sep 15 1963,,,Minnesota Vikings,W 24-20,W -3.5,@,San Francisco 49ers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Sep 14, 1963",,@,Dallas Cowboys,L 7-34,L -6,,St Louis Cardinals,,
+Sat,"Sep 14, 1963",,,Detroit Lions,W 23-2,W -6,@,Los Angeles Rams,,
+Sun,"Sep 15, 1963",,,New York Giants,W 37-28,W -1,@,Baltimore Colts,,
+Sun,"Sep 15, 1963",,@,Cleveland Browns,W 37-14,W -7,,Washington Redskins,,
+Sun,"Sep 15, 1963",,@,Green Bay Packers,L 3-10,L -11,,Chicago Bears,,
+Sun,"Sep 15, 1963",,,Pittsburgh Steelers,T 21-21,L -3,@,Philadelphia Eagles,,
+Sun,"Sep 15, 1963",,,Minnesota Vikings,W 24-20,W -3.5,@,San Francisco 49ers,,

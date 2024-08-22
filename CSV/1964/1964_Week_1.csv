@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Sep 12 1964,,@,New York Jets,W 30-6,W -6,,Denver Broncos,,
-Sat,Sep 12 1964,,@,San Diego Chargers,W 27-21,L -10,,Houston Oilers,,
-Sun,Sep 13 1964,,@,Buffalo Bills,W 34-17,W -1,,Kansas City Chiefs,,
-Sun,Sep 13 1964,,@,Oakland Raiders,L 14-17,L -7,,Boston Patriots,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Sep 12, 1964",,@,New York Jets,W 30-6,W -6,,Denver Broncos,,
+Sat,"Sep 12, 1964",,@,San Diego Chargers,W 27-21,L -10,,Houston Oilers,,
+Sun,"Sep 13, 1964",,@,Buffalo Bills,W 34-17,W -1,,Kansas City Chiefs,,
+Sun,"Sep 13, 1964",,@,Oakland Raiders,L 14-17,L -7,,Boston Patriots,,

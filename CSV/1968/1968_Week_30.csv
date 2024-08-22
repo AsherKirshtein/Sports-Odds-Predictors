@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-NFL Divisional,Sat,Dec 21 1968,,,Dallas Cowboys,L 20-31,L -3,@,Cleveland Browns,
-NFL Divisional,Sun,Dec 22 1968,,@,Baltimore Colts,W 24-14,L -11,,Minnesota Vikings,
-AFL Divisional,Sun,Dec 22 1968,,,Kansas City Chiefs,L 6-41,L -3.5,@,Oakland Raiders,
-NFL Championship,Sun,Dec 29 1968,,,Baltimore Colts,W 34-0,W -6,@,Cleveland Browns,
-AFL Championship,Sun,Dec 29 1968,,@,New York Jets,W 27-23,W -2,,Oakland Raiders,
-Super Bowl III,Sun,Jan 12 1969,,N,Baltimore Colts,L 7-16,L -18,,New York Jets,U 40
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+NFL Divisional,Sat,"Dec 21, 1968",,,Dallas Cowboys,L 20-31,L -3,@,Cleveland Browns,
+NFL Divisional,Sun,"Dec 22, 1968",,@,Baltimore Colts,W 24-14,L -11,,Minnesota Vikings,
+AFL Divisional,Sun,"Dec 22, 1968",,,Kansas City Chiefs,L 6-41,L -3.5,@,Oakland Raiders,
+NFL Championship,Sun,"Dec 29, 1968",,,Baltimore Colts,W 34-0,W -6,@,Cleveland Browns,
+AFL Championship,Sun,"Dec 29, 1968",,@,New York Jets,W 27-23,W -2,,Oakland Raiders,
+Super Bowl III,Sun,"Jan 12, 1969",,N,Baltimore Colts,L 7-16,L -18,,New York Jets,U 40

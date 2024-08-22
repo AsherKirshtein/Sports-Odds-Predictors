@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Fri,Sep 24 1965,,@,Boston Patriots,L 10-27,L -4,,Denver Broncos,,
-Sun,Sep 26 1965,,@,Buffalo Bills,W 33-21,W -10,,New York Jets,,
-Sun,Sep 26 1965,,@,Oakland Raiders,W 21-17,W -1,,Houston Oilers,,
-Sun,Sep 26 1965,,@,San Diego Chargers,T 10-10,L -7,,Kansas City Chiefs,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Fri,"Sep 24, 1965",,@,Boston Patriots,L 10-27,L -4,,Denver Broncos,,
+Sun,"Sep 26, 1965",,@,Buffalo Bills,W 33-21,W -10,,New York Jets,,
+Sun,"Sep 26, 1965",,@,Oakland Raiders,W 21-17,W -1,,Houston Oilers,,
+Sun,"Sep 26, 1965",,@,San Diego Chargers,T 10-10,L -7,,Kansas City Chiefs,,

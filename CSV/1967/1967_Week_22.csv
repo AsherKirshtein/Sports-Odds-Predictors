@@ -1,9 +1,9 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Thu,Nov 23 1967,,@,Dallas Cowboys,W 46-21,W -4.5,,St Louis Cardinals,,
-Thu,Nov 23 1967,,,Los Angeles Rams,W 31-7,W -10.5,@,Detroit Lions,,
-Sun,Nov 26 1967,,,Green Bay Packers,W 17-13,L -5.5,@,Chicago Bears,,
-Sun,Nov 26 1967,,@,Cleveland Browns,W 42-37,W -3.5,,Washington Redskins,,
-Sun,Nov 26 1967,,@,New Orleans Saints,W 27-24,L -7.5,,Atlanta Falcons,,
-Sun,Nov 26 1967,,,Philadelphia Eagles,L 7-44,L -3.5,@,New York Giants,,
-Sun,Nov 26 1967,,@,Pittsburgh Steelers,L 27-41,L -3.5,,Minnesota Vikings,,
-Sun,Nov 26 1967,,,Baltimore Colts,W 26-9,W -10.5,@,San Francisco 49ers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Thu,"Nov 23, 1967",,@,Dallas Cowboys,W 46-21,W -4.5,,St Louis Cardinals,,
+Thu,"Nov 23, 1967",,,Los Angeles Rams,W 31-7,W -10.5,@,Detroit Lions,,
+Sun,"Nov 26, 1967",,,Green Bay Packers,W 17-13,L -5.5,@,Chicago Bears,,
+Sun,"Nov 26, 1967",,@,Cleveland Browns,W 42-37,W -3.5,,Washington Redskins,,
+Sun,"Nov 26, 1967",,@,New Orleans Saints,W 27-24,L -7.5,,Atlanta Falcons,,
+Sun,"Nov 26, 1967",,,Philadelphia Eagles,L 7-44,L -3.5,@,New York Giants,,
+Sun,"Nov 26, 1967",,@,Pittsburgh Steelers,L 27-41,L -3.5,,Minnesota Vikings,,
+Sun,"Nov 26, 1967",,,Baltimore Colts,W 26-9,W -10.5,@,San Francisco 49ers,,

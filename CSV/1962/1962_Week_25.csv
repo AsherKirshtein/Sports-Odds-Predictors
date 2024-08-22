@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Fri,Nov 30 1962,,@,Boston Patriots,W 24-17,L -9,,New York Titans,,
-Sun,Dec 2 1962,,,Dallas Texans,L 14-23,L -5.5,@,Buffalo Bills,,
-Sun,Dec 2 1962,,@,Houston Oilers,W 34-17,W -8.5,,Denver Broncos,,
-Sun,Dec 2 1962,,@,San Diego Chargers,W 31-21,L -13,,Oakland Raiders,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Fri,"Nov 30, 1962",,@,Boston Patriots,W 24-17,L -9,,New York Titans,,
+Sun,"Dec 2, 1962",,,Dallas Texans,L 14-23,L -5.5,@,Buffalo Bills,,
+Sun,"Dec 2, 1962",,@,Houston Oilers,W 34-17,W -8.5,,Denver Broncos,,
+Sun,"Dec 2, 1962",,@,San Diego Chargers,W 31-21,L -13,,Oakland Raiders,,

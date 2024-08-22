@@ -1,8 +1,8 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Sep 19 1965,,@,Baltimore Colts,W 35-16,W -6.5,,Minnesota Vikings,,
-Sun,Sep 19 1965,,@,Dallas Cowboys,W 31-2,W -7,,New York Giants,,
-Sun,Sep 19 1965,,@,Detroit Lions,W 20-0,W PK,,Los Angeles Rams,,
-Sun,Sep 19 1965,,,St Louis Cardinals,L 27-34,L -6.5,@,Philadelphia Eagles,,
-Sun,Sep 19 1965,,,Green Bay Packers,W 41-9,W -14,@,Pittsburgh Steelers,,
-Sun,Sep 19 1965,,@,San Francisco 49ers,W 52-24,W -2,,Chicago Bears,,
-Sun,Sep 19 1965,,,Cleveland Browns,W 17-7,W -6,@,Washington Redskins,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Sep 19, 1965",,@,Baltimore Colts,W 35-16,W -6.5,,Minnesota Vikings,,
+Sun,"Sep 19, 1965",,@,Dallas Cowboys,W 31-2,W -7,,New York Giants,,
+Sun,"Sep 19, 1965",,@,Detroit Lions,W 20-0,W PK,,Los Angeles Rams,,
+Sun,"Sep 19, 1965",,,St Louis Cardinals,L 27-34,L -6.5,@,Philadelphia Eagles,,
+Sun,"Sep 19, 1965",,,Green Bay Packers,W 41-9,W -14,@,Pittsburgh Steelers,,
+Sun,"Sep 19, 1965",,@,San Francisco 49ers,W 52-24,W -2,,Chicago Bears,,
+Sun,"Sep 19, 1965",,,Cleveland Browns,W 17-7,W -6,@,Washington Redskins,,

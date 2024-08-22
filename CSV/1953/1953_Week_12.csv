@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Dec 12 1953,,@,Los Angeles Rams,W 33-17,L -20,,Green Bay Packers,,
-Sun,Dec 13 1953,,@,Chicago Bears,L 17-24,L -7.5,,Chicago Cardinals,,
-Sun,Dec 13 1953,,,Detroit Lions,W 27-16,W -10,@,New York Giants,,
-Sun,Dec 13 1953,,,Cleveland Browns,L 27-42,L -10,@,Philadelphia Eagles,,
-Sun,Dec 13 1953,,@,San Francisco 49ers,W 45-14,W -24,,Baltimore Colts,,
-Sun,Dec 13 1953,,@,Washington Redskins,L 13-14,L -7,,Pittsburgh Steelers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Dec 12, 1953",,@,Los Angeles Rams,W 33-17,L -20,,Green Bay Packers,,
+Sun,"Dec 13, 1953",,@,Chicago Bears,L 17-24,L -7.5,,Chicago Cardinals,,
+Sun,"Dec 13, 1953",,,Detroit Lions,W 27-16,W -10,@,New York Giants,,
+Sun,"Dec 13, 1953",,,Cleveland Browns,L 27-42,L -10,@,Philadelphia Eagles,,
+Sun,"Dec 13, 1953",,@,San Francisco 49ers,W 45-14,W -24,,Baltimore Colts,,
+Sun,"Dec 13, 1953",,@,Washington Redskins,L 13-14,L -7,,Pittsburgh Steelers,,

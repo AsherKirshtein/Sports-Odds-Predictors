@@ -1,10 +1,10 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-NFC Wild Card,Sun,Dec 28 1980,1:30,@,Dallas Cowboys (4),W 34-13,W -3,,Los Angeles Rams (5),O 41.5
-AFC Wild Card,Sun,Dec 28 1980,5:00,,Houston Oilers (5),L 7-27,L -1,@,Oakland Raiders (4),U 38
-NFC Divisional,Sat,Jan 3 1981,12:30,@,Philadelphia Eagles (2),W 31-16,W -7,,Minnesota Vikings (3),O 38
-AFC Divisional,Sat,Jan 3 1981,4:00,@,San Diego Chargers (1),W 20-14,P -6,,Buffalo Bills (3),U 38.5
-AFC Divisional,Sun,Jan 4 1981,12:30,@,Cleveland Browns (2),L 12-14,L -3.5,,Oakland Raiders (4),U 40.5
-NFC Divisional,Sun,Jan 4 1981,4:00,@,Atlanta Falcons (1),L 27-30,L -2.5,,Dallas Cowboys (4),O 41.5
-NFC Championship,Sun,Jan 11 1981,1:00,,Dallas Cowboys (4),L 7-20,L -1,@,Philadelphia Eagles (2),U 39.5
-AFC Championship,Sun,Jan 11 1981,5:00,@,San Diego Chargers (1),L 27-34,L -4,,Oakland Raiders (4),O 42
-Super Bowl XV,Sun,Jan 25 1981,6:00,N,Philadelphia Eagles (2),L 10-27,L -3,,Oakland Raiders (4),U 37.5
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+NFC Wild Card,Sun,"Dec 28, 1980",1:30,@,Dallas Cowboys (4),W 34-13,W -3,,Los Angeles Rams (5),O 41.5
+AFC Wild Card,Sun,"Dec 28, 1980",5:00,,Houston Oilers (5),L 7-27,L -1,@,Oakland Raiders (4),U 38
+NFC Divisional,Sat,"Jan 3, 1981",12:30,@,Philadelphia Eagles (2),W 31-16,W -7,,Minnesota Vikings (3),O 38
+AFC Divisional,Sat,"Jan 3, 1981",4:00,@,San Diego Chargers (1),W 20-14,P -6,,Buffalo Bills (3),U 38.5
+AFC Divisional,Sun,"Jan 4, 1981",12:30,@,Cleveland Browns (2),L 12-14,L -3.5,,Oakland Raiders (4),U 40.5
+NFC Divisional,Sun,"Jan 4, 1981",4:00,@,Atlanta Falcons (1),L 27-30,L -2.5,,Dallas Cowboys (4),O 41.5
+NFC Championship,Sun,"Jan 11, 1981",1:00,,Dallas Cowboys (4),L 7-20,L -1,@,Philadelphia Eagles (2),U 39.5
+AFC Championship,Sun,"Jan 11, 1981",5:00,@,San Diego Chargers (1),L 27-34,L -4,,Oakland Raiders (4),O 42
+Super Bowl XV,Sun,"Jan 25, 1981",6:00,N,Philadelphia Eagles (2),L 10-27,L -3,,Oakland Raiders (4),U 37.5

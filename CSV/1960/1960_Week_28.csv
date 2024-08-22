@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Dec 17 1960,,@,Oakland Raiders,W 48-10,N/A,,Denver Broncos,,
-Sun,Dec 18 1960,,@,Dallas Texans,W 24-7,W -7,,Buffalo Bills,,
-Sun,Dec 18 1960,,@,Houston Oilers,W 37-21,W -10,,Boston Patriots,,
-Sun,Dec 18 1960,,@,Los Angeles Chargers,W 50-43,P -7,,New York Titans,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Dec 17, 1960",,@,Oakland Raiders,W 48-10,N/A,,Denver Broncos,,
+Sun,"Dec 18, 1960",,@,Dallas Texans,W 24-7,W -7,,Buffalo Bills,,
+Sun,"Dec 18, 1960",,@,Houston Oilers,W 37-21,W -10,,Boston Patriots,,
+Sun,"Dec 18, 1960",,@,Los Angeles Chargers,W 50-43,P -7,,New York Titans,,

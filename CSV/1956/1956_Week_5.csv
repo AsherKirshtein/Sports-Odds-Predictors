@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Oct 28 1956,,,Green Bay Packers,L 21-28,L -2.5,@,Baltimore Colts,,
-Sun,Oct 28 1956,,@,Chicago Cardinals,L 14-17,L -7.5,,Washington Redskins,,
-Sun,Oct 28 1956,,@,Cleveland Browns,L 16-24,L -6.5,,Pittsburgh Steelers,,
-Sun,Oct 28 1956,,@,Los Angeles Rams,L 7-16,L PK,,Detroit Lions,,
-Sun,Oct 28 1956,,@,New York Giants,W 20-3,W -13,,Philadelphia Eagles,,
-Sun,Oct 28 1956,,,Chicago Bears,W 38-21,W -7.5,@,San Francisco 49ers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Oct 28, 1956",,,Green Bay Packers,L 21-28,L -2.5,@,Baltimore Colts,,
+Sun,"Oct 28, 1956",,@,Chicago Cardinals,L 14-17,L -7.5,,Washington Redskins,,
+Sun,"Oct 28, 1956",,@,Cleveland Browns,L 16-24,L -6.5,,Pittsburgh Steelers,,
+Sun,"Oct 28, 1956",,@,Los Angeles Rams,L 7-16,L PK,,Detroit Lions,,
+Sun,"Oct 28, 1956",,@,New York Giants,W 20-3,W -13,,Philadelphia Eagles,,
+Sun,"Oct 28, 1956",,,Chicago Bears,W 38-21,W -7.5,@,San Francisco 49ers,,

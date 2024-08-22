@@ -1,14 +1,14 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Thu,Nov 25 1971,12:00,@,Detroit Lions,W 32-21,W PK,,Kansas City Chiefs,,
-Thu,Nov 25 1971,3:30,@,Dallas Cowboys,W 28-21,W -3,,Los Angeles Rams,,
-Sun,Nov 28 1971,1:00,@,Buffalo Bills,W 27-20,W PK,,New England Patriots,,
-Sun,Nov 28 1971,1:00,@,Cincinnati Bengals,W 31-0,W -7,,San Diego Chargers,,
-Sun,Nov 28 1971,1:00,@,New York Giants,L 7-24,L -7,,St Louis Cardinals,,
-Sun,Nov 28 1971,1:00,@,New York Jets,L 21-24,L -7,,San Francisco 49ers,,
-Sun,Nov 28 1971,1:00,@,Philadelphia Eagles,L 13-20,L -4,,Washington Redskins,,
-Sun,Nov 28 1971,1:00,@,Pittsburgh Steelers,L 10-22,L -9,,Denver Broncos,,
-Sun,Nov 28 1971,2:00,@,Green Bay Packers,L 21-29,L -8,,New Orleans Saints,,at Milwaukee
-Sun,Nov 28 1971,2:00,@,Minnesota Vikings,W 24-7,W -6,,Atlanta Falcons,,
-Sun,Nov 28 1971,4:00,,Cleveland Browns,W 37-24,W -7,@,Houston Oilers,,
-Sun,Nov 28 1971,4:00,@,Oakland Raiders,L 14-37,L -3,,Baltimore Colts,,
-Mon,Nov 29 1971,9:00,@,Miami Dolphins,W 34-3,W -10,,Chicago Bears,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Thu,"Nov 25, 1971",12:00,@,Detroit Lions,W 32-21,W PK,,Kansas City Chiefs,,
+Thu,"Nov 25, 1971",3:30,@,Dallas Cowboys,W 28-21,W -3,,Los Angeles Rams,,
+Sun,"Nov 28, 1971",1:00,@,Buffalo Bills,W 27-20,W PK,,New England Patriots,,
+Sun,"Nov 28, 1971",1:00,@,Cincinnati Bengals,W 31-0,W -7,,San Diego Chargers,,
+Sun,"Nov 28, 1971",1:00,@,New York Giants,L 7-24,L -7,,St Louis Cardinals,,
+Sun,"Nov 28, 1971",1:00,@,New York Jets,L 21-24,L -7,,San Francisco 49ers,,
+Sun,"Nov 28, 1971",1:00,@,Philadelphia Eagles,L 13-20,L -4,,Washington Redskins,,
+Sun,"Nov 28, 1971",1:00,@,Pittsburgh Steelers,L 10-22,L -9,,Denver Broncos,,
+Sun,"Nov 28, 1971",2:00,@,Green Bay Packers,L 21-29,L -8,,New Orleans Saints,,at Milwaukee
+Sun,"Nov 28, 1971",2:00,@,Minnesota Vikings,W 24-7,W -6,,Atlanta Falcons,,
+Sun,"Nov 28, 1971",4:00,,Cleveland Browns,W 37-24,W -7,@,Houston Oilers,,
+Sun,"Nov 28, 1971",4:00,@,Oakland Raiders,L 14-37,L -3,,Baltimore Colts,,
+Mon,"Nov 29, 1971",9:00,@,Miami Dolphins,W 34-3,W -10,,Chicago Bears,,

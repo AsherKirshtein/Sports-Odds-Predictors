@@ -1,12 +1,12 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,Dec 28 1991,12:30,@,Kansas City Chiefs (4),W 10-6,L -5,,Los Angeles Raiders (5),U 36
-NFC Wild Card,Sat,Dec 28 1991,4:00,@,New Orleans Saints (3),L 20-27,L -6,,Atlanta Falcons (6),O 39
-NFC Wild Card,Sun,Dec 29 1991,12:30,@,Chicago Bears (4),L 13-17,L -3,,Dallas Cowboys (5),U 37
-AFC Wild Card,Sun,Dec 29 1991,4:00,@,Houston Oilers (3),W 17-10,L -9,,New York Jets (6),U 44
-NFC Divisional,Sat,Jan 4 1992,12:30,@,Washington Redskins (1),W 24-7,W -11.5,,Atlanta Falcons (6),U 43
-AFC Divisional,Sat,Jan 4 1992,4:00,@,Denver Broncos (2),W 26-24,L -3.5,,Houston Oilers (3),O 37
-AFC Divisional,Sun,Jan 5 1992,12:30,@,Buffalo Bills (1),W 37-14,W -10.5,,Kansas City Chiefs (4),O 41
-NFC Divisional,Sun,Jan 5 1992,4:00,@,Detroit Lions (2),W 38-6,W PK,,Dallas Cowboys (5),O 43
-AFC Championship,Sun,Jan 12 1992,12:30,@,Buffalo Bills (1),W 10-7,L -11.5,,Denver Broncos (2),U 46
-NFC Championship,Sun,Jan 12 1992,4:00,@,Washington Redskins (1),W 41-10,W -14,,Detroit Lions (2),O 43
-Super Bowl XXVI,Sun,Jan 26 1992,6:30,N,Washington Redskins (1),W 37-24,W -7,,Buffalo Bills (1),O 48
+AFC Wild Card,Sat,"Dec 28, 1991",12:30,@,Kansas City Chiefs (4),W 10-6,L -5,,Los Angeles Raiders (5),U 36
+NFC Wild Card,Sat,"Dec 28, 1991",4:00,@,New Orleans Saints (3),L 20-27,L -6,,Atlanta Falcons (6),O 39
+NFC Wild Card,Sun,"Dec 29, 1991",12:30,@,Chicago Bears (4),L 13-17,L -3,,Dallas Cowboys (5),U 37
+AFC Wild Card,Sun,"Dec 29, 1991",4:00,@,Houston Oilers (3),W 17-10,L -9,,New York Jets (6),U 44
+NFC Divisional,Sat,"Jan 4, 1992",12:30,@,Washington Redskins (1),W 24-7,W -11.5,,Atlanta Falcons (6),U 43
+AFC Divisional,Sat,"Jan 4, 1992",4:00,@,Denver Broncos (2),W 26-24,L -3.5,,Houston Oilers (3),O 37
+AFC Divisional,Sun,"Jan 5, 1992",12:30,@,Buffalo Bills (1),W 37-14,W -10.5,,Kansas City Chiefs (4),O 41
+NFC Divisional,Sun,"Jan 5, 1992",4:00,@,Detroit Lions (2),W 38-6,W PK,,Dallas Cowboys (5),O 43
+AFC Championship,Sun,"Jan 12, 1992",12:30,@,Buffalo Bills (1),W 10-7,L -11.5,,Denver Broncos (2),U 46
+NFC Championship,Sun,"Jan 12, 1992",4:00,@,Washington Redskins (1),W 41-10,W -14,,Detroit Lions (2),O 43
+Super Bowl XXVI,Sun,"Jan 26, 1992",6:30,N,Washington Redskins (1),W 37-24,W -7,,Buffalo Bills (1),O 48

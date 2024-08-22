@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Dec 3 1961,,,Boston Patriots,W 28-24,L -7,@,Denver Broncos,,
-Sun,Dec 3 1961,,@,Houston Oilers,W 33-13,W PK,,San Diego Chargers,,
-Sun,Dec 3 1961,,,Dallas Texans,L 7-28,L -4.5,@,New York Titans,,
-Sun,Dec 3 1961,,,Buffalo Bills,W 26-21,L -6,@,Oakland Raiders,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Dec 3, 1961",,,Boston Patriots,W 28-24,L -7,@,Denver Broncos,,
+Sun,"Dec 3, 1961",,@,Houston Oilers,W 33-13,W PK,,San Diego Chargers,,
+Sun,"Dec 3, 1961",,,Dallas Texans,L 7-28,L -4.5,@,New York Titans,,
+Sun,"Dec 3, 1961",,,Buffalo Bills,W 26-21,L -6,@,Oakland Raiders,,

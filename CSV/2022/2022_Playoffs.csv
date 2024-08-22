@@ -1,14 +1,14 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-NFC Wild Card,Sat,Jan 14 2023,4:30,@,San Francisco 49ers (2),W 41-23,W -9.5,,Seattle Seahawks (7),O 42
-AFC Wild Card,Sat,Jan 14 2023,8:15,,Los Angeles Chargers (5),L 30-31,L -2.5,@,Jacksonville Jaguars (4),O 47.5
-AFC Wild Card,Sun,Jan 15 2023,1:00,@,Buffalo Bills (2),W 34-31,L -13.5,,Miami Dolphins (7),O 43.5
-NFC Wild Card,Sun,Jan 15 2023,4:30,@,Minnesota Vikings (3),L 24-31,L -3,,New York Giants (6),O 48
-AFC Wild Card,Sun,Jan 15 2023,8:15,@,Cincinnati Bengals (3),W 24-17,L -8.5,,Baltimore Ravens (6),O 40.5
-NFC Wild Card,Mon,Jan 16 2023,8:15,,Dallas Cowboys (5),W 31-14,W -3,@,Tampa Bay Buccaneers (4),U 45.5
-AFC Divisional,Sat,Jan 21 2023,4:30,@,Kansas City Chiefs (1),W 27-20,L -9,,Jacksonville Jaguars (4),U 52.5
-NFC Divisional,Sat,Jan 21 2023,8:15,@,Philadelphia Eagles (1),W 38-7,W -7.5,,New York Giants (6),U 48
-AFC Divisional,Sun,Jan 22 2023,3:00,@,Buffalo Bills (2),L 10-27,L -5.5,,Cincinnati Bengals (3),U 49
-NFC Divisional,Sun,Jan 22 2023,6:30,@,San Francisco 49ers (2),W 19-12,W -4,,Dallas Cowboys (5),U 47
-NFC Championship,Sun,Jan 29 2023,3:00,@,Philadelphia Eagles (1),W 31-7,W -2.5,,San Francisco 49ers (2),U 45.5
-AFC Championship,Sun,Jan 29 2023,6:30,@,Kansas City Chiefs (1),W 23-20,W -1.5,,Cincinnati Bengals (3),U 48
-Super Bowl LVII,Sun,Feb 12 2023,6:30,@,Philadelphia Eagles (1),L 35-38,L -1,,Kansas City Chiefs (1),O 51
+NFC Wild Card,Sat,"Jan 14, 2023",4:30,@,San Francisco 49ers (2),W 41-23,W -9.5,,Seattle Seahawks (7),O 42
+AFC Wild Card,Sat,"Jan 14, 2023",8:15,,Los Angeles Chargers (5),L 30-31,L -2.5,@,Jacksonville Jaguars (4),O 47.5
+AFC Wild Card,Sun,"Jan 15, 2023",1:00,@,Buffalo Bills (2),W 34-31,L -13.5,,Miami Dolphins (7),O 43.5
+NFC Wild Card,Sun,"Jan 15, 2023",4:30,@,Minnesota Vikings (3),L 24-31,L -3,,New York Giants (6),O 48
+AFC Wild Card,Sun,"Jan 15, 2023",8:15,@,Cincinnati Bengals (3),W 24-17,L -8.5,,Baltimore Ravens (6),O 40.5
+NFC Wild Card,Mon,"Jan 16, 2023",8:15,,Dallas Cowboys (5),W 31-14,W -3,@,Tampa Bay Buccaneers (4),U 45.5
+AFC Divisional,Sat,"Jan 21, 2023",4:30,@,Kansas City Chiefs (1),W 27-20,L -9,,Jacksonville Jaguars (4),U 52.5
+NFC Divisional,Sat,"Jan 21, 2023",8:15,@,Philadelphia Eagles (1),W 38-7,W -7.5,,New York Giants (6),U 48
+AFC Divisional,Sun,"Jan 22, 2023",3:00,@,Buffalo Bills (2),L 10-27,L -5.5,,Cincinnati Bengals (3),U 49
+NFC Divisional,Sun,"Jan 22, 2023",6:30,@,San Francisco 49ers (2),W 19-12,W -4,,Dallas Cowboys (5),U 47
+NFC Championship,Sun,"Jan 29, 2023",3:00,@,Philadelphia Eagles (1),W 31-7,W -2.5,,San Francisco 49ers (2),U 45.5
+AFC Championship,Sun,"Jan 29, 2023",6:30,@,Kansas City Chiefs (1),W 23-20,W -1.5,,Cincinnati Bengals (3),U 48
+Super Bowl LVII,Sun,"Feb 12, 2023",6:30,@,Philadelphia Eagles (1),L 35-38,L -1,,Kansas City Chiefs (1),O 51

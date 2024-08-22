@@ -1,14 +1,14 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Nov 8 1970,1:00,@,Buffalo Bills,L 14-43,L -5,,Cincinnati Bengals,,
-Sun,Nov 8 1970,1:00,,Dallas Cowboys,L 20-23,L -3,@,New York Giants,,
-Sun,Nov 8 1970,1:00,,Miami Dolphins,L 17-24,L -3,@,Philadelphia Eagles,,
-Sun,Nov 8 1970,1:00,@,Pittsburgh Steelers,W 21-17,L -6,,New York Jets,,
-Sun,Nov 8 1970,1:00,,Minnesota Vikings,W 19-10,P -9,@,Washington Redskins,,
-Sun,Nov 8 1970,2:00,,San Francisco 49ers,W 37-16,W -7,@,Chicago Bears,,
-Sun,Nov 8 1970,2:00,@,Kansas City Chiefs,W 24-9,L -16,,Houston Oilers,,
-Sun,Nov 8 1970,2:00,,Detroit Lions,L 17-19,L -9,@,New Orleans Saints,,
-Sun,Nov 8 1970,2:00,@,St Louis Cardinals,W 31-0,W -17,,Boston Patriots,,
-Sun,Nov 8 1970,4:00,@,Los Angeles Rams,T 10-10,L -10,,Atlanta Falcons,,
-Sun,Nov 8 1970,4:00,@,Oakland Raiders,W 23-20,L -6,,Cleveland Browns,,
-Sun,Nov 8 1970,4:00,@,San Diego Chargers,W 24-21,L -6.5,,Denver Broncos,,
-Mon,Nov 9 1970,9:00,,Baltimore Colts,W 13-10,L -4,@,Green Bay Packers,,at Milwaukee
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Nov 8, 1970",1:00,@,Buffalo Bills,L 14-43,L -5,,Cincinnati Bengals,,
+Sun,"Nov 8, 1970",1:00,,Dallas Cowboys,L 20-23,L -3,@,New York Giants,,
+Sun,"Nov 8, 1970",1:00,,Miami Dolphins,L 17-24,L -3,@,Philadelphia Eagles,,
+Sun,"Nov 8, 1970",1:00,@,Pittsburgh Steelers,W 21-17,L -6,,New York Jets,,
+Sun,"Nov 8, 1970",1:00,,Minnesota Vikings,W 19-10,P -9,@,Washington Redskins,,
+Sun,"Nov 8, 1970",2:00,,San Francisco 49ers,W 37-16,W -7,@,Chicago Bears,,
+Sun,"Nov 8, 1970",2:00,@,Kansas City Chiefs,W 24-9,L -16,,Houston Oilers,,
+Sun,"Nov 8, 1970",2:00,,Detroit Lions,L 17-19,L -9,@,New Orleans Saints,,
+Sun,"Nov 8, 1970",2:00,@,St Louis Cardinals,W 31-0,W -17,,Boston Patriots,,
+Sun,"Nov 8, 1970",4:00,@,Los Angeles Rams,T 10-10,L -10,,Atlanta Falcons,,
+Sun,"Nov 8, 1970",4:00,@,Oakland Raiders,W 23-20,L -6,,Cleveland Browns,,
+Sun,"Nov 8, 1970",4:00,@,San Diego Chargers,W 24-21,L -6.5,,Denver Broncos,,
+Mon,"Nov 9, 1970",9:00,,Baltimore Colts,W 13-10,L -4,@,Green Bay Packers,,at Milwaukee

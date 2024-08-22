@@ -1,6 +1,6 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Nov 3 1968,,@,Boston Patriots,L 14-35,L -4,,Denver Broncos,,
-Sun,Nov 3 1968,,,Houston Oilers,W 27-17,P -10,@,Cincinnati Bengals,,
-Sun,Nov 3 1968,,@,New York Jets,W 25-21,L -20,,Buffalo Bills,,
-Sun,Nov 3 1968,,@,Oakland Raiders,W 38-21,W -2,,Kansas City Chiefs,,
-Sun,Nov 3 1968,,@,San Diego Chargers,W 34-28,L -16,,Miami Dolphins,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Nov 3, 1968",,@,Boston Patriots,L 14-35,L -4,,Denver Broncos,,
+Sun,"Nov 3, 1968",,,Houston Oilers,W 27-17,P -10,@,Cincinnati Bengals,,
+Sun,"Nov 3, 1968",,@,New York Jets,W 25-21,L -20,,Buffalo Bills,,
+Sun,"Nov 3, 1968",,@,Oakland Raiders,W 38-21,W -2,,Kansas City Chiefs,,
+Sun,"Nov 3, 1968",,@,San Diego Chargers,W 34-28,L -16,,Miami Dolphins,,

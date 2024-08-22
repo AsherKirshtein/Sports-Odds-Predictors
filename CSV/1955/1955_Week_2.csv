@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Oct 1 1955,,,Detroit Lions,L 13-28,L -7,@,Baltimore Colts,,
-Sat,Oct 1 1955,,@,Philadelphia Eagles,L 30-31,L -11,,Washington Redskins,,
-Sun,Oct 2 1955,,,New York Giants,L 17-28,L -8,@,Chicago Cardinals,,
-Sun,Oct 2 1955,,,Chicago Bears,L 3-24,L -6.5,@,Green Bay Packers,,
-Sun,Oct 2 1955,,@,Los Angeles Rams,W 27-26,L -14,,Pittsburgh Steelers,,
-Sun,Oct 2 1955,,@,San Francisco 49ers,L 3-38,L -7.5,,Cleveland Browns,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Oct 1, 1955",,,Detroit Lions,L 13-28,L -7,@,Baltimore Colts,,
+Sat,"Oct 1, 1955",,@,Philadelphia Eagles,L 30-31,L -11,,Washington Redskins,,
+Sun,"Oct 2, 1955",,,New York Giants,L 17-28,L -8,@,Chicago Cardinals,,
+Sun,"Oct 2, 1955",,,Chicago Bears,L 3-24,L -6.5,@,Green Bay Packers,,
+Sun,"Oct 2, 1955",,@,Los Angeles Rams,W 27-26,L -14,,Pittsburgh Steelers,,
+Sun,"Oct 2, 1955",,@,San Francisco 49ers,L 3-38,L -7.5,,Cleveland Browns,,

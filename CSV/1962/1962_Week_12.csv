@@ -1,8 +1,8 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Oct 21 1962,,@,Chicago Bears,W 35-15,W -2,,Baltimore Colts,,
-Sun,Oct 21 1962,,@,Green Bay Packers,W 31-13,W -9,,San Francisco 49ers,,at Milwaukee
-Sun,Oct 21 1962,,@,Los Angeles Rams,L 14-38,L -10.5,,Minnesota Vikings,,
-Sun,Oct 21 1962,,,Detroit Lions,L 14-17,L -4,@,New York Giants,,
-Sun,Oct 21 1962,,@,Philadelphia Eagles,L 21-27,L PK,,Washington Redskins,,
-Sun,Oct 21 1962,,@,Pittsburgh Steelers,L 27-42,L -6,,Dallas Cowboys,,
-Sun,Oct 21 1962,,,Cleveland Browns,W 34-7,W -3,@,St Louis Cardinals,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Oct 21, 1962",,@,Chicago Bears,W 35-15,W -2,,Baltimore Colts,,
+Sun,"Oct 21, 1962",,@,Green Bay Packers,W 31-13,W -9,,San Francisco 49ers,,at Milwaukee
+Sun,"Oct 21, 1962",,@,Los Angeles Rams,L 14-38,L -10.5,,Minnesota Vikings,,
+Sun,"Oct 21, 1962",,,Detroit Lions,L 14-17,L -4,@,New York Giants,,
+Sun,"Oct 21, 1962",,@,Philadelphia Eagles,L 21-27,L PK,,Washington Redskins,,
+Sun,"Oct 21, 1962",,@,Pittsburgh Steelers,L 27-42,L -6,,Dallas Cowboys,,
+Sun,"Oct 21, 1962",,,Cleveland Browns,W 34-7,W -3,@,St Louis Cardinals,,

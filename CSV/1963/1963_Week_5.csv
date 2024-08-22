@@ -1,4 +1,4 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Sep 22 1963,,,Kansas City Chiefs,T 27-27,L -5,@,Buffalo Bills,,
-Sun,Sep 22 1963,,,Houston Oilers,L 17-24,L -9.5,@,New York Jets,,
-Sun,Sep 22 1963,,@,Oakland Raiders,L 14-20,L -3,,Boston Patriots,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Sep 22, 1963",,,Kansas City Chiefs,T 27-27,L -5,@,Buffalo Bills,,
+Sun,"Sep 22, 1963",,,Houston Oilers,L 17-24,L -9.5,@,New York Jets,,
+Sun,"Sep 22, 1963",,@,Oakland Raiders,L 14-20,L -3,,Boston Patriots,,

@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Dec 7 1957,,,New York Giants,L 10-21,L -7.5,@,Pittsburgh Steelers,,
-Sun,Dec 8 1957,,,Chicago Bears,W 14-6,W -6,@,Chicago Cardinals,,
-Sun,Dec 8 1957,,@,Detroit Lions,W 20-7,W PK,,Cleveland Browns,,
-Sun,Dec 8 1957,,@,Los Angeles Rams,W 42-17,W -7.5,,Green Bay Packers,,
-Sun,Dec 8 1957,,@,San Francisco 49ers,W 17-13,W -2.5,,Baltimore Colts,,
-Sun,Dec 8 1957,,@,Washington Redskins,W 42-7,W -7,,Philadelphia Eagles,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Dec 7, 1957",,,New York Giants,L 10-21,L -7.5,@,Pittsburgh Steelers,,
+Sun,"Dec 8, 1957",,,Chicago Bears,W 14-6,W -6,@,Chicago Cardinals,,
+Sun,"Dec 8, 1957",,@,Detroit Lions,W 20-7,W PK,,Cleveland Browns,,
+Sun,"Dec 8, 1957",,@,Los Angeles Rams,W 42-17,W -7.5,,Green Bay Packers,,
+Sun,"Dec 8, 1957",,@,San Francisco 49ers,W 17-13,W -2.5,,Baltimore Colts,,
+Sun,"Dec 8, 1957",,@,Washington Redskins,W 42-7,W -7,,Philadelphia Eagles,,

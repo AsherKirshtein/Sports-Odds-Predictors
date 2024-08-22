@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Dec 13 1958,,@,Pittsburgh Steelers,W 38-21,W -8,,Chicago Cardinals,,
-Sun,Dec 14 1958,,@,Chicago Bears,W 21-16,L -7.5,,Detroit Lions,,
-Sun,Dec 14 1958,,@,Los Angeles Rams,W 34-20,L -17,,Green Bay Packers,,
-Sun,Dec 14 1958,,,Cleveland Browns,L 10-13,L -1,@,New York Giants,,
-Sun,Dec 14 1958,,,Baltimore Colts,L 12-21,L -5,@,San Francisco 49ers,,
-Sun,Dec 14 1958,,@,Washington Redskins,W 20-0,W -5,,Philadelphia Eagles,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Dec 13, 1958",,@,Pittsburgh Steelers,W 38-21,W -8,,Chicago Cardinals,,
+Sun,"Dec 14, 1958",,@,Chicago Bears,W 21-16,L -7.5,,Detroit Lions,,
+Sun,"Dec 14, 1958",,@,Los Angeles Rams,W 34-20,L -17,,Green Bay Packers,,
+Sun,"Dec 14, 1958",,,Cleveland Browns,L 10-13,L -1,@,New York Giants,,
+Sun,"Dec 14, 1958",,,Baltimore Colts,L 12-21,L -5,@,San Francisco 49ers,,
+Sun,"Dec 14, 1958",,@,Washington Redskins,W 20-0,W -5,,Philadelphia Eagles,,

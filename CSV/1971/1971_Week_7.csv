@@ -1,14 +1,14 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Oct 31 1971,1:00,,St Louis Cardinals,W 28-23,L -9,@,Buffalo Bills,,
-Sun,Oct 31 1971,1:00,@,Cleveland Browns,L 14-31,L -6,,Atlanta Falcons,,
-Sun,Oct 31 1971,1:00,,Minnesota Vikings,W 17-10,L -13,@,New York Giants,,
-Sun,Oct 31 1971,1:00,,Denver Broncos,L 16-17,L -7,@,Philadelphia Eagles,,
-Sun,Oct 31 1971,1:00,@,Washington Redskins,W 24-14,L -14,,New Orleans Saints,,
-Sun,Oct 31 1971,2:00,@,Baltimore Colts,W 34-21,W -10,,Pittsburgh Steelers,,
-Sun,Oct 31 1971,2:00,,Dallas Cowboys,L 19-23,L -7,@,Chicago Bears,,
-Sun,Oct 31 1971,2:00,,Cincinnati Bengals,L 6-10,L -2,@,Houston Oilers,,
-Sun,Oct 31 1971,4:00,@,Los Angeles Rams,L 14-20,L -4,,Miami Dolphins,,
-Sun,Oct 31 1971,4:00,@,Oakland Raiders,T 20-20,P PK,,Kansas City Chiefs,,
-Sun,Oct 31 1971,4:00,@,San Diego Chargers,W 49-21,W -10,,New York Jets,,
-Sun,Oct 31 1971,4:00,@,San Francisco 49ers,W 27-10,L -20,,New England Patriots,,
-Mon,Nov 1 1971,9:00,@,Green Bay Packers,T 14-14,L -8,,Detroit Lions,,at Milwaukee
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Oct 31, 1971",1:00,,St Louis Cardinals,W 28-23,L -9,@,Buffalo Bills,,
+Sun,"Oct 31, 1971",1:00,@,Cleveland Browns,L 14-31,L -6,,Atlanta Falcons,,
+Sun,"Oct 31, 1971",1:00,,Minnesota Vikings,W 17-10,L -13,@,New York Giants,,
+Sun,"Oct 31, 1971",1:00,,Denver Broncos,L 16-17,L -7,@,Philadelphia Eagles,,
+Sun,"Oct 31, 1971",1:00,@,Washington Redskins,W 24-14,L -14,,New Orleans Saints,,
+Sun,"Oct 31, 1971",2:00,@,Baltimore Colts,W 34-21,W -10,,Pittsburgh Steelers,,
+Sun,"Oct 31, 1971",2:00,,Dallas Cowboys,L 19-23,L -7,@,Chicago Bears,,
+Sun,"Oct 31, 1971",2:00,,Cincinnati Bengals,L 6-10,L -2,@,Houston Oilers,,
+Sun,"Oct 31, 1971",4:00,@,Los Angeles Rams,L 14-20,L -4,,Miami Dolphins,,
+Sun,"Oct 31, 1971",4:00,@,Oakland Raiders,T 20-20,P PK,,Kansas City Chiefs,,
+Sun,"Oct 31, 1971",4:00,@,San Diego Chargers,W 49-21,W -10,,New York Jets,,
+Sun,"Oct 31, 1971",4:00,@,San Francisco 49ers,W 27-10,L -20,,New England Patriots,,
+Mon,"Nov 1, 1971",9:00,@,Green Bay Packers,T 14-14,L -8,,Detroit Lions,,at Milwaukee

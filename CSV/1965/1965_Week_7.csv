@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Oct 3 1965,,@,Buffalo Bills,W 17-12,L -7,,Oakland Raiders,,
-Sun,Oct 3 1965,,@,Denver Broncos,W 16-13,W -2,,New York Jets,,
-Sun,Oct 3 1965,,@,Kansas City Chiefs,W 27-17,W -8,,Boston Patriots,,
-Sun,Oct 3 1965,,@,San Diego Chargers,W 31-14,W -7,,Houston Oilers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Oct 3, 1965",,@,Buffalo Bills,W 17-12,L -7,,Oakland Raiders,,
+Sun,"Oct 3, 1965",,@,Denver Broncos,W 16-13,W -2,,New York Jets,,
+Sun,"Oct 3, 1965",,@,Kansas City Chiefs,W 27-17,W -8,,Boston Patriots,,
+Sun,"Oct 3, 1965",,@,San Diego Chargers,W 31-14,W -7,,Houston Oilers,,

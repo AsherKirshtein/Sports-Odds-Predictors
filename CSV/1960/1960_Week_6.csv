@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Oct 9 1960,,@,Chicago Bears,W 34-27,L -10,,Los Angeles Rams,,
-Sun,Oct 9 1960,,,San Francisco 49ers,W 14-10,P -4,@,Detroit Lions,,
-Sun,Oct 9 1960,,,Baltimore Colts,L 21-35,L -6.5,@,Green Bay Packers,,
-Sun,Oct 9 1960,,@,Philadelphia Eagles,W 31-27,L -6.5,,St Louis Cardinals,,
-Sun,Oct 9 1960,,,New York Giants,W 19-17,W -1.5,@,Pittsburgh Steelers,,at Univ of Pittsburgh
-Sun,Oct 9 1960,,@,Washington Redskins,W 26-14,W -1,,Dallas Cowboys,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Oct 9, 1960",,@,Chicago Bears,W 34-27,L -10,,Los Angeles Rams,,
+Sun,"Oct 9, 1960",,,San Francisco 49ers,W 14-10,P -4,@,Detroit Lions,,
+Sun,"Oct 9, 1960",,,Baltimore Colts,L 21-35,L -6.5,@,Green Bay Packers,,
+Sun,"Oct 9, 1960",,@,Philadelphia Eagles,W 31-27,L -6.5,,St Louis Cardinals,,
+Sun,"Oct 9, 1960",,,New York Giants,W 19-17,W -1.5,@,Pittsburgh Steelers,,at Univ of Pittsburgh
+Sun,"Oct 9, 1960",,@,Washington Redskins,W 26-14,W -1,,Dallas Cowboys,,

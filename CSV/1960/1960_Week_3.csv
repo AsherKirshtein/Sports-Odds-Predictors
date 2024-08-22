@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Fri,Sep 16 1960,,,Dallas Texans,W 34-16,P -18,@,Oakland Raiders,,
-Sat,Sep 17 1960,,@,New York Titans,L 24-28,L -4,,Boston Patriots,,
-Sun,Sep 18 1960,,@,Buffalo Bills,L 21-27,N/A,,Denver Broncos,,
-Sun,Sep 18 1960,,@,Houston Oilers,W 38-28,W -6.5,,Los Angeles Chargers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Fri,"Sep 16, 1960",,,Dallas Texans,W 34-16,P -18,@,Oakland Raiders,,
+Sat,"Sep 17, 1960",,@,New York Titans,L 24-28,L -4,,Boston Patriots,,
+Sun,"Sep 18, 1960",,@,Buffalo Bills,L 21-27,N/A,,Denver Broncos,,
+Sun,"Sep 18, 1960",,@,Houston Oilers,W 38-28,W -6.5,,Los Angeles Chargers,,

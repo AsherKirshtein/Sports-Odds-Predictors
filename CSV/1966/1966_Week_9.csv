@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Oct 2 1966,,,New York Jets,T 24-24,L -7.5,@,Boston Patriots,,
-Sun,Oct 2 1966,,,Houston Oilers,L 38-40,L -10,@,Denver Broncos,,
-Sun,Oct 2 1966,,@,Kansas City Chiefs,L 14-29,L -13,,Buffalo Bills,,
-Sun,Oct 2 1966,,@,San Diego Chargers,W 44-10,W -26,,Miami Dolphins,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Oct 2, 1966",,,New York Jets,T 24-24,L -7.5,@,Boston Patriots,,
+Sun,"Oct 2, 1966",,,Houston Oilers,L 38-40,L -10,@,Denver Broncos,,
+Sun,"Oct 2, 1966",,@,Kansas City Chiefs,L 14-29,L -13,,Buffalo Bills,,
+Sun,"Oct 2, 1966",,@,San Diego Chargers,W 44-10,W -26,,Miami Dolphins,,

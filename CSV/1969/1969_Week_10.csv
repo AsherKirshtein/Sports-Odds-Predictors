@@ -1,9 +1,9 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Oct 18 1969,,@,Cleveland Browns,W 42-31,L -13,,Pittsburgh Steelers,,
-Sun,Oct 19 1969,,@,Dallas Cowboys,W 49-14,W -16,,Philadelphia Eagles,,
-Sun,Oct 19 1969,,@,Detroit Lions,W 13-7,W -2,,Chicago Bears,,
-Sun,Oct 19 1969,,@,Los Angeles Rams,W 34-21,W -6,,Green Bay Packers,,
-Sun,Oct 19 1969,,,Baltimore Colts,W 30-10,W -9,@,New Orleans Saints,,
-Sun,Oct 19 1969,,@,San Francisco 49ers,L 7-21,L -11,,Atlanta Falcons,,
-Sun,Oct 19 1969,,,Minnesota Vikings,W 27-10,W -9,@,St Louis Cardinals,,
-Sun,Oct 19 1969,,@,Washington Redskins,W 20-14,L -8,,New York Giants,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Oct 18, 1969",,@,Cleveland Browns,W 42-31,L -13,,Pittsburgh Steelers,,
+Sun,"Oct 19, 1969",,@,Dallas Cowboys,W 49-14,W -16,,Philadelphia Eagles,,
+Sun,"Oct 19, 1969",,@,Detroit Lions,W 13-7,W -2,,Chicago Bears,,
+Sun,"Oct 19, 1969",,@,Los Angeles Rams,W 34-21,W -6,,Green Bay Packers,,
+Sun,"Oct 19, 1969",,,Baltimore Colts,W 30-10,W -9,@,New Orleans Saints,,
+Sun,"Oct 19, 1969",,@,San Francisco 49ers,L 7-21,L -11,,Atlanta Falcons,,
+Sun,"Oct 19, 1969",,,Minnesota Vikings,W 27-10,W -9,@,St Louis Cardinals,,
+Sun,"Oct 19, 1969",,@,Washington Redskins,W 20-14,L -8,,New York Giants,,

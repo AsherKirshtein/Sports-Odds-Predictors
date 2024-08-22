@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Fri,Oct 19 1962,,@,Boston Patriots,W 24-20,W -3,,San Diego Chargers,,
-Sat,Oct 20 1962,,@,Buffalo Bills,W 14-6,W -3,,Oakland Raiders,,
-Sun,Oct 21 1962,,@,Dallas Texans,W 20-17,L -12,,New York Titans,,
-Sun,Oct 21 1962,,@,Denver Broncos,W 20-10,W PK,,Houston Oilers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Fri,"Oct 19, 1962",,@,Boston Patriots,W 24-20,W -3,,San Diego Chargers,,
+Sat,"Oct 20, 1962",,@,Buffalo Bills,W 14-6,W -3,,Oakland Raiders,,
+Sun,"Oct 21, 1962",,@,Dallas Texans,W 20-17,L -12,,New York Titans,,
+Sun,"Oct 21, 1962",,@,Denver Broncos,W 20-10,W PK,,Houston Oilers,,

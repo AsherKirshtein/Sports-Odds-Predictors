@@ -1,4 +1,4 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Sep 15 1962,,@,Buffalo Bills,L 20-23,L -6,,Denver Broncos,,
-Sun,Sep 16 1962,,,Houston Oilers,L 21-34,L -14,@,Boston Patriots,,at Harvard
-Sun,Sep 16 1962,,@,San Diego Chargers,W 40-14,W -10,,New York Titans,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Sep 15, 1962",,@,Buffalo Bills,L 20-23,L -6,,Denver Broncos,,
+Sun,"Sep 16, 1962",,,Houston Oilers,L 21-34,L -14,@,Boston Patriots,,at Harvard
+Sun,"Sep 16, 1962",,@,San Diego Chargers,W 40-14,W -10,,New York Titans,,

@@ -1,6 +1,6 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Oct 27 1968,,,Houston Oilers,W 30-7,W -5,@,Buffalo Bills,,
-Sun,Oct 27 1968,,,Miami Dolphins,L 14-21,L -1,@,Denver Broncos,,
-Sun,Oct 27 1968,,@,Kansas City Chiefs,W 27-20,W -6,,San Diego Chargers,,
-Sun,Oct 27 1968,,@,New York Jets,W 48-14,W -11,,Boston Patriots,,
-Sun,Oct 27 1968,,@,Oakland Raiders,W 31-10,W -20,,Cincinnati Bengals,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Oct 27, 1968",,,Houston Oilers,W 30-7,W -5,@,Buffalo Bills,,
+Sun,"Oct 27, 1968",,,Miami Dolphins,L 14-21,L -1,@,Denver Broncos,,
+Sun,"Oct 27, 1968",,@,Kansas City Chiefs,W 27-20,W -6,,San Diego Chargers,,
+Sun,"Oct 27, 1968",,@,New York Jets,W 48-14,W -11,,Boston Patriots,,
+Sun,"Oct 27, 1968",,@,Oakland Raiders,W 31-10,W -20,,Cincinnati Bengals,,

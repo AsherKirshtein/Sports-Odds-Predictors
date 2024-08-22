@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Oct 3 1964,,@,Buffalo Bills,W 23-20,L -9,,Oakland Raiders,,
-Sat,Oct 3 1964,,,San Diego Chargers,T 17-17,L -4.5,@,New York Jets,,
-Sun,Oct 4 1964,,,Boston Patriots,W 39-10,W -9,@,Denver Broncos,,
-Sun,Oct 4 1964,,@,Kansas City Chiefs,W 28-7,W -4,,Houston Oilers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Oct 3, 1964",,@,Buffalo Bills,W 23-20,L -9,,Oakland Raiders,,
+Sat,"Oct 3, 1964",,,San Diego Chargers,T 17-17,L -4.5,@,New York Jets,,
+Sun,"Oct 4, 1964",,,Boston Patriots,W 39-10,W -9,@,Denver Broncos,,
+Sun,"Oct 4, 1964",,@,Kansas City Chiefs,W 28-7,W -4,,Houston Oilers,,

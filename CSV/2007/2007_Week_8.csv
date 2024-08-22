@@ -1,14 +1,14 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Oct 28 2007,1:00,,Cleveland Browns,W 27-20,W -3,@,St Louis Rams,O 46.5,
-Sun,Oct 28 2007,1:02,,Indianapolis Colts,W 31-7,W -6.5,@,Carolina Panthers,U 44,
-Sun,Oct 28 2007,1:02,,Pittsburgh Steelers,W 24-13,W -4,@,Cincinnati Bengals,U 48.5,
-Sun,Oct 28 2007,1:02,@,Tennessee Titans,W 13-9,L -7,,Oakland Raiders,U 39,
-Sun,Oct 28 2007,1:03,N,New York Giants,W 13-10,L -10,,Miami Dolphins,U 48,at London
-Sun,Oct 28 2007,1:05,@,Chicago Bears,L 7-16,L -6,,Detroit Lions,U 45.5,
-Sun,Oct 28 2007,1:05,,Philadelphia Eagles,W 23-16,W -1,@,Minnesota Vikings,O 37.5,
-Sun,Oct 28 2007,4:05,@,New York Jets,L 3-13,L -3,,Buffalo Bills,U 38.5,
-Sun,Oct 28 2007,4:05,@,San Diego Chargers,W 35-10,W -10,,Houston Texans,U 45.5,
-Sun,Oct 28 2007,4:05,@,Tampa Bay Buccaneers,L 23-24,L -3.5,,Jacksonville Jaguars,O 32,
-Sun,Oct 28 2007,4:17,@,New England Patriots,W 52-7,W -14.5,,Washington Redskins,O 46.5,
-Sun,Oct 28 2007,4:17,,New Orleans Saints,W 31-10,W -1.5,@,San Francisco 49ers,O 40,
-Mon,Oct 29 2007,8:40,@,Denver Broncos,L 13-19 (OT),L -3,,Green Bay Packers,U 43.5,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Oct 28, 2007",1:00,,Cleveland Browns,W 27-20,W -3,@,St Louis Rams,O 46.5,
+Sun,"Oct 28, 2007",1:02,,Indianapolis Colts,W 31-7,W -6.5,@,Carolina Panthers,U 44,
+Sun,"Oct 28, 2007",1:02,,Pittsburgh Steelers,W 24-13,W -4,@,Cincinnati Bengals,U 48.5,
+Sun,"Oct 28, 2007",1:02,@,Tennessee Titans,W 13-9,L -7,,Oakland Raiders,U 39,
+Sun,"Oct 28, 2007",1:03,N,New York Giants,W 13-10,L -10,,Miami Dolphins,U 48,at London
+Sun,"Oct 28, 2007",1:05,@,Chicago Bears,L 7-16,L -6,,Detroit Lions,U 45.5,
+Sun,"Oct 28, 2007",1:05,,Philadelphia Eagles,W 23-16,W -1,@,Minnesota Vikings,O 37.5,
+Sun,"Oct 28, 2007",4:05,@,New York Jets,L 3-13,L -3,,Buffalo Bills,U 38.5,
+Sun,"Oct 28, 2007",4:05,@,San Diego Chargers,W 35-10,W -10,,Houston Texans,U 45.5,
+Sun,"Oct 28, 2007",4:05,@,Tampa Bay Buccaneers,L 23-24,L -3.5,,Jacksonville Jaguars,O 32,
+Sun,"Oct 28, 2007",4:17,@,New England Patriots,W 52-7,W -14.5,,Washington Redskins,O 46.5,
+Sun,"Oct 28, 2007",4:17,,New Orleans Saints,W 31-10,W -1.5,@,San Francisco 49ers,O 40,
+Mon,"Oct 29, 2007",8:40,@,Denver Broncos,L 13-19 (OT),L -3,,Green Bay Packers,U 43.5,

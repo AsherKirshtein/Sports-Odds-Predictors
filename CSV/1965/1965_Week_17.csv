@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Nov 7 1965,,,Buffalo Bills,W 23-7,W -3,@,Boston Patriots,,
-Sun,Nov 7 1965,,,San Diego Chargers,W 35-21,W -8,@,Denver Broncos,,
-Sun,Nov 7 1965,,@,Houston Oilers,L 21-33,L -4,,Oakland Raiders,,
-Sun,Nov 7 1965,,@,Kansas City Chiefs,L 10-13,L -6.5,,New York Jets,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Nov 7, 1965",,,Buffalo Bills,W 23-7,W -3,@,Boston Patriots,,
+Sun,"Nov 7, 1965",,,San Diego Chargers,W 35-21,W -8,@,Denver Broncos,,
+Sun,"Nov 7, 1965",,@,Houston Oilers,L 21-33,L -4,,Oakland Raiders,,
+Sun,"Nov 7, 1965",,@,Kansas City Chiefs,L 10-13,L -6.5,,New York Jets,,

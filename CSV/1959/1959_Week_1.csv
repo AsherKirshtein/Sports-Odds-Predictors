@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Sep 26 1959,,@,Los Angeles Rams,L 21-23,L -5,,New York Giants,,
-Sat,Sep 26 1959,,,Cleveland Browns,L 7-17,L -3.5,@,Pittsburgh Steelers,,
-Sun,Sep 27 1959,,@,Baltimore Colts,W 21-9,W -9.5,,Detroit Lions,,
-Sun,Sep 27 1959,,@,Chicago Cardinals,W 49-21,W -6,,Washington Redskins,,
-Sun,Sep 27 1959,,,Chicago Bears,L 6-9,L -6.5,@,Green Bay Packers,,
-Sun,Sep 27 1959,,@,San Francisco 49ers,W 24-14,W -3,,Philadelphia Eagles,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Sep 26, 1959",,@,Los Angeles Rams,L 21-23,L -5,,New York Giants,,
+Sat,"Sep 26, 1959",,,Cleveland Browns,L 7-17,L -3.5,@,Pittsburgh Steelers,,
+Sun,"Sep 27, 1959",,@,Baltimore Colts,W 21-9,W -9.5,,Detroit Lions,,
+Sun,"Sep 27, 1959",,@,Chicago Cardinals,W 49-21,W -6,,Washington Redskins,,
+Sun,"Sep 27, 1959",,,Chicago Bears,L 6-9,L -6.5,@,Green Bay Packers,,
+Sun,"Sep 27, 1959",,@,San Francisco 49ers,W 24-14,W -3,,Philadelphia Eagles,,

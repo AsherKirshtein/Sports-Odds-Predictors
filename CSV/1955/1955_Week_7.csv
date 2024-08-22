@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Nov 5 1955,,@,Chicago Cardinals,W 27-13,W -1.5,,Pittsburgh Steelers,,
-Sat,Nov 5 1955,,@,Detroit Lions,W 24-14,W -3,,Baltimore Colts,,
-Sun,Nov 6 1955,,@,Chicago Bears,W 52-31,W -9.5,,Green Bay Packers,,
-Sun,Nov 6 1955,,@,Cleveland Browns,W 24-14,W -9.5,,New York Giants,,
-Sun,Nov 6 1955,,,San Francisco 49ers,L 14-27,L -1.5,@,Los Angeles Rams,,
-Sun,Nov 6 1955,,,Philadelphia Eagles,L 21-34,L -7,@,Washington Redskins,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Nov 5, 1955",,@,Chicago Cardinals,W 27-13,W -1.5,,Pittsburgh Steelers,,
+Sat,"Nov 5, 1955",,@,Detroit Lions,W 24-14,W -3,,Baltimore Colts,,
+Sun,"Nov 6, 1955",,@,Chicago Bears,W 52-31,W -9.5,,Green Bay Packers,,
+Sun,"Nov 6, 1955",,@,Cleveland Browns,W 24-14,W -9.5,,New York Giants,,
+Sun,"Nov 6, 1955",,,San Francisco 49ers,L 14-27,L -1.5,@,Los Angeles Rams,,
+Sun,"Nov 6, 1955",,,Philadelphia Eagles,L 21-34,L -7,@,Washington Redskins,,

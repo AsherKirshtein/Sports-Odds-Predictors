@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Fri,Oct 11 1963,,@,Boston Patriots,W 20-14,W -5,,Oakland Raiders,,
-Sun,Oct 13 1963,,@,Denver Broncos,L 24-33,L PK,,Houston Oilers,,
-Sun,Oct 13 1963,,@,Kansas City Chiefs,L 26-35,L -8.5,,Buffalo Bills,,
-Sun,Oct 13 1963,,@,San Diego Chargers,W 24-20,L -10,,New York Jets,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Fri,"Oct 11, 1963",,@,Boston Patriots,W 20-14,W -5,,Oakland Raiders,,
+Sun,"Oct 13, 1963",,@,Denver Broncos,L 24-33,L PK,,Houston Oilers,,
+Sun,"Oct 13, 1963",,@,Kansas City Chiefs,L 26-35,L -8.5,,Buffalo Bills,,
+Sun,"Oct 13, 1963",,@,San Diego Chargers,W 24-20,L -10,,New York Jets,,

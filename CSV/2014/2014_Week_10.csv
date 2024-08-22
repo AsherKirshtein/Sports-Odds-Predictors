@@ -1,14 +1,14 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Thu,Nov 6 2014,8:29,@,Cincinnati Bengals,L 3-24,L -6.5,,Cleveland Browns,U 46,
-Sun,Nov 9 2014,1:02,@,Buffalo Bills,L 13-17,L -1.5,,Kansas City Chiefs,U 42,
-Sun,Nov 9 2014,1:02,@,Detroit Lions,W 20-16,W -3,,Miami Dolphins,U 43,
-Sun,Nov 9 2014,1:02,,Pittsburgh Steelers,L 13-20,L -4.5,@,New York Jets,U 47,
-Sun,Nov 9 2014,1:03,@,Baltimore Ravens,W 21-7,W -10.5,,Tennessee Titans,U 44.5,
-Sun,Nov 9 2014,1:03,@,New Orleans Saints,L 24-27 (OT),L -5.5,,San Francisco 49ers,O 49,
-Sun,Nov 9 2014,1:04,,Atlanta Falcons,W 27-17,W -3,@,Tampa Bay Buccaneers,U 47,
-Sun,Nov 9 2014,1:06,N,Dallas Cowboys,W 31-17,W -7.5,,Jacksonville Jaguars,O 45,at London
-Sun,Nov 9 2014,4:05,,Denver Broncos,W 41-17,W -12.5,@,Oakland Raiders,O 51,
-Sun,Nov 9 2014,4:25,@,Arizona Cardinals,W 31-14,W -7,,St Louis Rams,O 43,
-Sun,Nov 9 2014,4:26,@,Seattle Seahawks,W 38-17,W -9.5,,New York Giants,O 45,
-Sun,Nov 9 2014,8:30,@,Green Bay Packers,W 55-14,W -9.5,,Chicago Bears,O 54,
-Mon,Nov 10 2014,8:32,@,Philadelphia Eagles,W 45-21,W -7,,Carolina Panthers,O 48.5,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Thu,"Nov 6, 2014",8:29,@,Cincinnati Bengals,L 3-24,L -6.5,,Cleveland Browns,U 46,
+Sun,"Nov 9, 2014",1:02,@,Buffalo Bills,L 13-17,L -1.5,,Kansas City Chiefs,U 42,
+Sun,"Nov 9, 2014",1:02,@,Detroit Lions,W 20-16,W -3,,Miami Dolphins,U 43,
+Sun,"Nov 9, 2014",1:02,,Pittsburgh Steelers,L 13-20,L -4.5,@,New York Jets,U 47,
+Sun,"Nov 9, 2014",1:03,@,Baltimore Ravens,W 21-7,W -10.5,,Tennessee Titans,U 44.5,
+Sun,"Nov 9, 2014",1:03,@,New Orleans Saints,L 24-27 (OT),L -5.5,,San Francisco 49ers,O 49,
+Sun,"Nov 9, 2014",1:04,,Atlanta Falcons,W 27-17,W -3,@,Tampa Bay Buccaneers,U 47,
+Sun,"Nov 9, 2014",1:06,N,Dallas Cowboys,W 31-17,W -7.5,,Jacksonville Jaguars,O 45,at London
+Sun,"Nov 9, 2014",4:05,,Denver Broncos,W 41-17,W -12.5,@,Oakland Raiders,O 51,
+Sun,"Nov 9, 2014",4:25,@,Arizona Cardinals,W 31-14,W -7,,St Louis Rams,O 43,
+Sun,"Nov 9, 2014",4:26,@,Seattle Seahawks,W 38-17,W -9.5,,New York Giants,O 45,
+Sun,"Nov 9, 2014",8:30,@,Green Bay Packers,W 55-14,W -9.5,,Chicago Bears,O 54,
+Mon,"Nov 10, 2014",8:32,@,Philadelphia Eagles,W 45-21,W -7,,Carolina Panthers,O 48.5,

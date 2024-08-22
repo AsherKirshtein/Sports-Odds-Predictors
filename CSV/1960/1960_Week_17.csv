@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Fri,Nov 4 1960,,@,Boston Patriots,W 34-28,W PK,,Oakland Raiders,,
-Fri,Nov 4 1960,,@,New York Titans,L 7-21,L -2.5,,Los Angeles Chargers,,
-Sun,Nov 6 1960,,,Dallas Texans,W 45-28,W -2.5,@,Buffalo Bills,,
-Sun,Nov 6 1960,,,Houston Oilers,W 45-25,W -1,@,Denver Broncos,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Fri,"Nov 4, 1960",,@,Boston Patriots,W 34-28,W PK,,Oakland Raiders,,
+Fri,"Nov 4, 1960",,@,New York Titans,L 7-21,L -2.5,,Los Angeles Chargers,,
+Sun,"Nov 6, 1960",,,Dallas Texans,W 45-28,W -2.5,@,Buffalo Bills,,
+Sun,"Nov 6, 1960",,,Houston Oilers,W 45-25,W -1,@,Denver Broncos,,

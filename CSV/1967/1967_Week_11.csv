@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Oct 7 1967,,,Oakland Raiders,L 14-27,L -3,@,New York Jets,,
-Sun,Oct 8 1967,,@,Denver Broncos,L 16-17,L -2,,Buffalo Bills,,
-Sun,Oct 8 1967,,@,Kansas City Chiefs,W 41-0,W -20,,Miami Dolphins,,
-Sun,Oct 8 1967,,@,San Diego Chargers,T 31-31,L -6,,Boston Patriots,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Oct 7, 1967",,,Oakland Raiders,L 14-27,L -3,@,New York Jets,,
+Sun,"Oct 8, 1967",,@,Denver Broncos,L 16-17,L -2,,Buffalo Bills,,
+Sun,"Oct 8, 1967",,@,Kansas City Chiefs,W 41-0,W -20,,Miami Dolphins,,
+Sun,"Oct 8, 1967",,@,San Diego Chargers,T 31-31,L -6,,Boston Patriots,,

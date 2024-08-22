@@ -1,4 +1,4 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Oct 8 1960,,@,Los Angeles Chargers,L 0-35,L -6,,Boston Patriots,,
-Sun,Oct 9 1960,,@,Dallas Texans,L 19-20,L -14,,Oakland Raiders,,
-Sun,Oct 9 1960,,@,Houston Oilers,W 27-21,L -7,,New York Titans,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Oct 8, 1960",,@,Los Angeles Chargers,L 0-35,L -6,,Boston Patriots,,
+Sun,"Oct 9, 1960",,@,Dallas Texans,L 19-20,L -14,,Oakland Raiders,,
+Sun,"Oct 9, 1960",,@,Houston Oilers,W 27-21,L -7,,New York Titans,,

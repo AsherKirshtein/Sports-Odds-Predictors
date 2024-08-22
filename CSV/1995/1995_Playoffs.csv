@@ -1,12 +1,12 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,Dec 30 1995,12:30,@,Buffalo Bills (3),W 37-22,W -3.5,,Miami Dolphins (6),O 42.5
-NFC Wild Card,Sat,Dec 30 1995,4:00,,Detroit Lions (5),L 37-58,L -3,@,Philadelphia Eagles (4),O 42
-NFC Wild Card,Sun,Dec 31 1995,12:30,@,Green Bay Packers (3),W 37-20,W -9.5,,Atlanta Falcons (6),O 44
-AFC Wild Card,Sun,Dec 31 1995,4:00,@,San Diego Chargers (4),L 20-35,L -5.5,,Indianapolis Colts (5),O 40
-AFC Divisional,Sat,Jan 6 1996,12:30,@,Pittsburgh Steelers (2),W 40-21,W -6,,Buffalo Bills (3),O 42
-NFC Divisional,Sat,Jan 6 1996,4:00,@,San Francisco 49ers (2),L 17-27,L -9.5,,Green Bay Packers (3),U 52
-NFC Divisional,Sun,Jan 7 1996,12:30,@,Dallas Cowboys (1),W 30-11,W -13.5,,Philadelphia Eagles (4),U 45.5
-AFC Divisional,Sun,Jan 7 1996,4:00,@,Kansas City Chiefs (1),L 7-10,L -10.5,,Indianapolis Colts (5),U 41.5
-AFC Championship,Sun,Jan 14 1996,12:30,@,Pittsburgh Steelers (2),W 20-16,L -11,,Indianapolis Colts (5),U 43
-NFC Championship,Sun,Jan 14 1996,4:00,@,Dallas Cowboys (1),W 38-27,W -9,,Green Bay Packers (3),O 50.5
-Super Bowl XXX,Sun,Jan 28 1996,6:33,N,Dallas Cowboys (1),W 27-17,L -13.5,,Pittsburgh Steelers (2),U 52
+AFC Wild Card,Sat,"Dec 30, 1995",12:30,@,Buffalo Bills (3),W 37-22,W -3.5,,Miami Dolphins (6),O 42.5
+NFC Wild Card,Sat,"Dec 30, 1995",4:00,,Detroit Lions (5),L 37-58,L -3,@,Philadelphia Eagles (4),O 42
+NFC Wild Card,Sun,"Dec 31, 1995",12:30,@,Green Bay Packers (3),W 37-20,W -9.5,,Atlanta Falcons (6),O 44
+AFC Wild Card,Sun,"Dec 31, 1995",4:00,@,San Diego Chargers (4),L 20-35,L -5.5,,Indianapolis Colts (5),O 40
+AFC Divisional,Sat,"Jan 6, 1996",12:30,@,Pittsburgh Steelers (2),W 40-21,W -6,,Buffalo Bills (3),O 42
+NFC Divisional,Sat,"Jan 6, 1996",4:00,@,San Francisco 49ers (2),L 17-27,L -9.5,,Green Bay Packers (3),U 52
+NFC Divisional,Sun,"Jan 7, 1996",12:30,@,Dallas Cowboys (1),W 30-11,W -13.5,,Philadelphia Eagles (4),U 45.5
+AFC Divisional,Sun,"Jan 7, 1996",4:00,@,Kansas City Chiefs (1),L 7-10,L -10.5,,Indianapolis Colts (5),U 41.5
+AFC Championship,Sun,"Jan 14, 1996",12:30,@,Pittsburgh Steelers (2),W 20-16,L -11,,Indianapolis Colts (5),U 43
+NFC Championship,Sun,"Jan 14, 1996",4:00,@,Dallas Cowboys (1),W 38-27,W -9,,Green Bay Packers (3),O 50.5
+Super Bowl XXX,Sun,"Jan 28, 1996",6:33,N,Dallas Cowboys (1),W 27-17,L -13.5,,Pittsburgh Steelers (2),U 52

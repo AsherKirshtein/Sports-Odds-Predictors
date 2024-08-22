@@ -1,8 +1,8 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Nov 22 1964,,@,Chicago Bears,W 23-21,L -7.5,,San Francisco 49ers,,
-Sun,Nov 22 1964,,@,Detroit Lions,T 23-23,L -2,,Minnesota Vikings,,
-Sun,Nov 22 1964,,@,Green Bay Packers,W 28-21,W -3,,Cleveland Browns,,at Milwaukee
-Sun,Nov 22 1964,,,Baltimore Colts,W 24-7,W -9,@,Los Angeles Rams,,
-Sun,Nov 22 1964,,@,New York Giants,L 17-44,L -7,,Pittsburgh Steelers,,
-Sun,Nov 22 1964,,@,Philadelphia Eagles,L 13-38,L -1,,St Louis Cardinals,,
-Sun,Nov 22 1964,,@,Washington Redskins,W 28-16,W -4,,Dallas Cowboys,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Nov 22, 1964",,@,Chicago Bears,W 23-21,L -7.5,,San Francisco 49ers,,
+Sun,"Nov 22, 1964",,@,Detroit Lions,T 23-23,L -2,,Minnesota Vikings,,
+Sun,"Nov 22, 1964",,@,Green Bay Packers,W 28-21,W -3,,Cleveland Browns,,at Milwaukee
+Sun,"Nov 22, 1964",,,Baltimore Colts,W 24-7,W -9,@,Los Angeles Rams,,
+Sun,"Nov 22, 1964",,@,New York Giants,L 17-44,L -7,,Pittsburgh Steelers,,
+Sun,"Nov 22, 1964",,@,Philadelphia Eagles,L 13-38,L -1,,St Louis Cardinals,,
+Sun,"Nov 22, 1964",,@,Washington Redskins,W 28-16,W -4,,Dallas Cowboys,,

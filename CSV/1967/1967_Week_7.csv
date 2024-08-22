@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Sep 24 1967,,@,Buffalo Bills,L 0-23,L -8.5,,Boston Patriots,,
-Sun,Sep 24 1967,,,New York Jets,W 38-24,W -7,@,Denver Broncos,,
-Sun,Sep 24 1967,,,Kansas City Chiefs,W 24-0,W -12.5,@,Miami Dolphins,,
-Sun,Sep 24 1967,,@,San Diego Chargers,W 13-3,W -6,,Houston Oilers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Sep 24, 1967",,@,Buffalo Bills,L 0-23,L -8.5,,Boston Patriots,,
+Sun,"Sep 24, 1967",,,New York Jets,W 38-24,W -7,@,Denver Broncos,,
+Sun,"Sep 24, 1967",,,Kansas City Chiefs,W 24-0,W -12.5,@,Miami Dolphins,,
+Sun,"Sep 24, 1967",,@,San Diego Chargers,W 13-3,W -6,,Houston Oilers,,

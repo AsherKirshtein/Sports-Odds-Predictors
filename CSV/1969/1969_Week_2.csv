@@ -1,9 +1,9 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Sep 21 1969,,,San Francisco 49ers,L 12-24,L -7.5,@,Atlanta Falcons,,
-Sun,Sep 21 1969,,@,Baltimore Colts,L 20-27,L -6,,Los Angeles Rams,,
-Sun,Sep 21 1969,,@,Dallas Cowboys,W 24-3,W -3.5,,St Louis Cardinals,,
-Sun,Sep 21 1969,,@,Green Bay Packers,W 17-0,W -6,,Chicago Bears,,
-Sun,Sep 21 1969,,,Washington Redskins,W 26-20,W -4.5,@,New Orleans Saints,,
-Sun,Sep 21 1969,,,Minnesota Vikings,L 23-24,L -9,@,New York Giants,,
-Sun,Sep 21 1969,,,Cleveland Browns,W 27-20,L -9,@,Philadelphia Eagles,,
-Sun,Sep 21 1969,,,Detroit Lions,L 13-16,L -6,@,Pittsburgh Steelers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Sep 21, 1969",,,San Francisco 49ers,L 12-24,L -7.5,@,Atlanta Falcons,,
+Sun,"Sep 21, 1969",,@,Baltimore Colts,L 20-27,L -6,,Los Angeles Rams,,
+Sun,"Sep 21, 1969",,@,Dallas Cowboys,W 24-3,W -3.5,,St Louis Cardinals,,
+Sun,"Sep 21, 1969",,@,Green Bay Packers,W 17-0,W -6,,Chicago Bears,,
+Sun,"Sep 21, 1969",,,Washington Redskins,W 26-20,W -4.5,@,New Orleans Saints,,
+Sun,"Sep 21, 1969",,,Minnesota Vikings,L 23-24,L -9,@,New York Giants,,
+Sun,"Sep 21, 1969",,,Cleveland Browns,W 27-20,L -9,@,Philadelphia Eagles,,
+Sun,"Sep 21, 1969",,,Detroit Lions,L 13-16,L -6,@,Pittsburgh Steelers,,

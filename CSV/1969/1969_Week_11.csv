@@ -1,6 +1,6 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Oct 19 1969,,,San Diego Chargers,W 13-10,L -13,@,Boston Patriots,,
-Sun,Oct 19 1969,,@,Cincinnati Bengals,L 23-30,L -4,,Denver Broncos,,
-Sun,Oct 19 1969,,@,Kansas City Chiefs,W 17-10,L -11,,Miami Dolphins,,
-Sun,Oct 19 1969,,@,Oakland Raiders,W 50-21,W -13.5,,Buffalo Bills,,
-Mon,Oct 20 1969,,@,New York Jets,W 26-17,W -7,,Houston Oilers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Oct 19, 1969",,,San Diego Chargers,W 13-10,L -13,@,Boston Patriots,,
+Sun,"Oct 19, 1969",,@,Cincinnati Bengals,L 23-30,L -4,,Denver Broncos,,
+Sun,"Oct 19, 1969",,@,Kansas City Chiefs,W 17-10,L -11,,Miami Dolphins,,
+Sun,"Oct 19, 1969",,@,Oakland Raiders,W 50-21,W -13.5,,Buffalo Bills,,
+Mon,"Oct 20, 1969",,@,New York Jets,W 26-17,W -7,,Houston Oilers,,

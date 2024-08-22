@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Oct 15 1967,,@,Boston Patriots,W 41-10,W -17,,Miami Dolphins,,at Boston College
-Sun,Oct 15 1967,,,Oakland Raiders,W 24-20,L -6.5,@,Buffalo Bills,,
-Sun,Oct 15 1967,,@,New York Jets,T 28-28,L -13,,Houston Oilers,,
-Sun,Oct 15 1967,,@,San Diego Chargers,W 45-31,W PK,,Kansas City Chiefs,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Oct 15, 1967",,@,Boston Patriots,W 41-10,W -17,,Miami Dolphins,,at Boston College
+Sun,"Oct 15, 1967",,,Oakland Raiders,W 24-20,L -6.5,@,Buffalo Bills,,
+Sun,"Oct 15, 1967",,@,New York Jets,T 28-28,L -13,,Houston Oilers,,
+Sun,"Oct 15, 1967",,@,San Diego Chargers,W 45-31,W PK,,Kansas City Chiefs,,

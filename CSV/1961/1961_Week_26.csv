@@ -1,8 +1,8 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Dec 9 1961,,,Baltimore Colts,L 17-34,L -6,@,Los Angeles Rams,,
-Sun,Dec 10 1961,,,Cleveland Browns,L 14-17,L -6,@,Chicago Bears,,
-Sun,Dec 10 1961,,@,Detroit Lions,W 13-7,L -13.5,,Minnesota Vikings,,
-Sun,Dec 10 1961,,,New York Giants,W 28-24,W -3.5,@,Philadelphia Eagles,,
-Sun,Dec 10 1961,,,Green Bay Packers,L 21-22,L -5,@,San Francisco 49ers,,
-Sun,Dec 10 1961,,@,St Louis Cardinals,W 31-13,W -12.5,,Dallas Cowboys,,
-Sun,Dec 10 1961,,,Pittsburgh Steelers,W 30-14,W -9,@,Washington Redskins,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Dec 9, 1961",,,Baltimore Colts,L 17-34,L -6,@,Los Angeles Rams,,
+Sun,"Dec 10, 1961",,,Cleveland Browns,L 14-17,L -6,@,Chicago Bears,,
+Sun,"Dec 10, 1961",,@,Detroit Lions,W 13-7,L -13.5,,Minnesota Vikings,,
+Sun,"Dec 10, 1961",,,New York Giants,W 28-24,W -3.5,@,Philadelphia Eagles,,
+Sun,"Dec 10, 1961",,,Green Bay Packers,L 21-22,L -5,@,San Francisco 49ers,,
+Sun,"Dec 10, 1961",,@,St Louis Cardinals,W 31-13,W -12.5,,Dallas Cowboys,,
+Sun,"Dec 10, 1961",,,Pittsburgh Steelers,W 30-14,W -9,@,Washington Redskins,,

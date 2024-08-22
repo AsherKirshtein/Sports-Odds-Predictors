@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Dec 8 1963,,@,Buffalo Bills,W 45-14,W -6.5,,New York Jets,,
-Sun,Dec 8 1963,,,Boston Patriots,W 46-28,W -2,@,Houston Oilers,,
-Sun,Dec 8 1963,,@,Kansas City Chiefs,W 52-21,W -7,,Denver Broncos,,
-Sun,Dec 8 1963,,,San Diego Chargers,L 27-41,L -5,@,Oakland Raiders,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Dec 8, 1963",,@,Buffalo Bills,W 45-14,W -6.5,,New York Jets,,
+Sun,"Dec 8, 1963",,,Boston Patriots,W 46-28,W -2,@,Houston Oilers,,
+Sun,"Dec 8, 1963",,@,Kansas City Chiefs,W 52-21,W -7,,Denver Broncos,,
+Sun,"Dec 8, 1963",,,San Diego Chargers,L 27-41,L -5,@,Oakland Raiders,,

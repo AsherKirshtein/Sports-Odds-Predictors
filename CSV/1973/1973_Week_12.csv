@@ -1,14 +1,14 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Dec 2 1973,1:00,@,Atlanta Falcons,L 6-17,L -13.5,,Buffalo Bills,,
-Sun,Dec 2 1973,1:00,,Minnesota Vikings,L 0-27,L -6.5,@,Cincinnati Bengals,,
-Sun,Dec 2 1973,1:00,@,New England Patriots,W 30-14,W -8,,San Diego Chargers,,
-Sun,Dec 2 1973,1:00,@,New York Jets,W 20-17,L -12,,Baltimore Colts,,
-Sun,Dec 2 1973,1:00,@,Washington Redskins,W 27-24,L -13.5,,New York Giants,,
-Sun,Dec 2 1973,2:00,,Los Angeles Rams,W 26-0,W -13.5,@,Chicago Bears,,
-Sun,Dec 2 1973,2:00,@,Green Bay Packers,W 30-10,W -6.5,,New Orleans Saints,,at Milwaukee
-Sun,Dec 2 1973,2:00,,Oakland Raiders,W 17-6,L -19,@,Houston Oilers,,
-Sun,Dec 2 1973,2:00,,Detroit Lions,W 20-16,P -4,@,St Louis Cardinals,,
-Sun,Dec 2 1973,4:00,,Dallas Cowboys,W 22-10,W -4,@,Denver Broncos,,
-Sun,Dec 2 1973,4:00,@,Kansas City Chiefs,T 20-20,L -8,,Cleveland Browns,,
-Sun,Dec 2 1973,4:00,@,San Francisco 49ers,W 38-28,W -6.5,,Philadelphia Eagles,,
-Mon,Dec 3 1973,9:00,@,Miami Dolphins,W 30-26,L -8,,Pittsburgh Steelers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Dec 2, 1973",1:00,@,Atlanta Falcons,L 6-17,L -13.5,,Buffalo Bills,,
+Sun,"Dec 2, 1973",1:00,,Minnesota Vikings,L 0-27,L -6.5,@,Cincinnati Bengals,,
+Sun,"Dec 2, 1973",1:00,@,New England Patriots,W 30-14,W -8,,San Diego Chargers,,
+Sun,"Dec 2, 1973",1:00,@,New York Jets,W 20-17,L -12,,Baltimore Colts,,
+Sun,"Dec 2, 1973",1:00,@,Washington Redskins,W 27-24,L -13.5,,New York Giants,,
+Sun,"Dec 2, 1973",2:00,,Los Angeles Rams,W 26-0,W -13.5,@,Chicago Bears,,
+Sun,"Dec 2, 1973",2:00,@,Green Bay Packers,W 30-10,W -6.5,,New Orleans Saints,,at Milwaukee
+Sun,"Dec 2, 1973",2:00,,Oakland Raiders,W 17-6,L -19,@,Houston Oilers,,
+Sun,"Dec 2, 1973",2:00,,Detroit Lions,W 20-16,P -4,@,St Louis Cardinals,,
+Sun,"Dec 2, 1973",4:00,,Dallas Cowboys,W 22-10,W -4,@,Denver Broncos,,
+Sun,"Dec 2, 1973",4:00,@,Kansas City Chiefs,T 20-20,L -8,,Cleveland Browns,,
+Sun,"Dec 2, 1973",4:00,@,San Francisco 49ers,W 38-28,W -6.5,,Philadelphia Eagles,,
+Mon,"Dec 3, 1973",9:00,@,Miami Dolphins,W 30-26,L -8,,Pittsburgh Steelers,,

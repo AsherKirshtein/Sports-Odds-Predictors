@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Sep 28 1958,,@,Baltimore Colts,W 28-15,W -4,,Detroit Lions,,
-Sun,Sep 28 1958,,,New York Giants,W 37-7,W -3.5,@,Chicago Cardinals,,
-Sun,Sep 28 1958,,,Chicago Bears,W 34-20,W -7,@,Green Bay Packers,,
-Sun,Sep 28 1958,,@,Los Angeles Rams,L 27-30,L -2,,Cleveland Browns,,
-Sun,Sep 28 1958,,@,Philadelphia Eagles,L 14-24,L -1,,Washington Redskins,,
-Sun,Sep 28 1958,,@,San Francisco 49ers,W 23-20,L -7.5,,Pittsburgh Steelers,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Sep 28, 1958",,@,Baltimore Colts,W 28-15,W -4,,Detroit Lions,,
+Sun,"Sep 28, 1958",,,New York Giants,W 37-7,W -3.5,@,Chicago Cardinals,,
+Sun,"Sep 28, 1958",,,Chicago Bears,W 34-20,W -7,@,Green Bay Packers,,
+Sun,"Sep 28, 1958",,@,Los Angeles Rams,L 27-30,L -2,,Cleveland Browns,,
+Sun,"Sep 28, 1958",,@,Philadelphia Eagles,L 14-24,L -1,,Washington Redskins,,
+Sun,"Sep 28, 1958",,@,San Francisco 49ers,W 23-20,L -7.5,,Pittsburgh Steelers,,

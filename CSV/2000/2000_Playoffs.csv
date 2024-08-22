@@ -1,12 +1,12 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,Dec 30 2000,12:33,,Indianapolis Colts (6),L 17-23 (OT),L -1.5,@,Miami Dolphins (3),U 42
-NFC Wild Card,Sat,Dec 30 2000,4:05,,St Louis Rams (6),L 28-31,L -6.5,@,New Orleans Saints (3),O 55
-AFC Wild Card,Sun,Dec 31 2000,12:35,@,Baltimore Ravens (4),W 21-3,W -3.5,,Denver Broncos (5),U 41
-NFC Wild Card,Sun,Dec 31 2000,4:16,,Tampa Bay Buccaneers (5),L 3-21,L -3,@,Philadelphia Eagles (4),U 34
-NFC Divisional,Sat,Jan 6 2001,12:30,@,Minnesota Vikings (2),W 34-16,W -8,,New Orleans Saints (3),P 50
-AFC Divisional,Sat,Jan 6 2001,4:05,@,Oakland Raiders (2),W 27-0,W -9,,Miami Dolphins (3),U 42
-AFC Divisional,Sun,Jan 7 2001,12:35,@,Tennessee Titans (1),L 10-24,L -6,,Baltimore Ravens (4),O 33.5
-NFC Divisional,Sun,Jan 7 2001,4:15,@,New York Giants (1),W 20-10,W -4.5,,Philadelphia Eagles (4),U 33.5
-NFC Championship,Sun,Jan 14 2001,12:37,,Minnesota Vikings (2),L 0-41,L -2.5,@,New York Giants (1),U 41.5
-AFC Championship,Sun,Jan 14 2001,4:05,@,Oakland Raiders (2),L 3-16,L -6,,Baltimore Ravens (4),U 38
-Super Bowl XXXV,Sun,Jan 28 2001,6:28,N,Baltimore Ravens (4),W 34-7,W -3,,New York Giants (1),O 33
+AFC Wild Card,Sat,"Dec 30, 2000",12:33,,Indianapolis Colts (6),L 17-23 (OT),L -1.5,@,Miami Dolphins (3),U 42
+NFC Wild Card,Sat,"Dec 30, 2000",4:05,,St Louis Rams (6),L 28-31,L -6.5,@,New Orleans Saints (3),O 55
+AFC Wild Card,Sun,"Dec 31, 2000",12:35,@,Baltimore Ravens (4),W 21-3,W -3.5,,Denver Broncos (5),U 41
+NFC Wild Card,Sun,"Dec 31, 2000",4:16,,Tampa Bay Buccaneers (5),L 3-21,L -3,@,Philadelphia Eagles (4),U 34
+NFC Divisional,Sat,"Jan 6, 2001",12:30,@,Minnesota Vikings (2),W 34-16,W -8,,New Orleans Saints (3),P 50
+AFC Divisional,Sat,"Jan 6, 2001",4:05,@,Oakland Raiders (2),W 27-0,W -9,,Miami Dolphins (3),U 42
+AFC Divisional,Sun,"Jan 7, 2001",12:35,@,Tennessee Titans (1),L 10-24,L -6,,Baltimore Ravens (4),O 33.5
+NFC Divisional,Sun,"Jan 7, 2001",4:15,@,New York Giants (1),W 20-10,W -4.5,,Philadelphia Eagles (4),U 33.5
+NFC Championship,Sun,"Jan 14, 2001",12:37,,Minnesota Vikings (2),L 0-41,L -2.5,@,New York Giants (1),U 41.5
+AFC Championship,Sun,"Jan 14, 2001",4:05,@,Oakland Raiders (2),L 3-16,L -6,,Baltimore Ravens (4),U 38
+Super Bowl XXXV,Sun,"Jan 28, 2001",6:28,N,Baltimore Ravens (4),W 34-7,W -3,,New York Giants (1),O 33

@@ -1,9 +1,9 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Sep 17 1967,,@,Baltimore Colts,W 38-31,L -17,,Atlanta Falcons,,
-Sun,Sep 17 1967,,@,Cleveland Browns,L 14-21,L -2.5,,Dallas Cowboys,,
-Sun,Sep 17 1967,,@,Green Bay Packers,T 17-17,L -14,,Detroit Lions,,
-Sun,Sep 17 1967,,,San Francisco 49ers,W 27-21,W -2.5,@,Minnesota Vikings,,
-Sun,Sep 17 1967,,,Los Angeles Rams,W 27-13,W -10,@,New Orleans Saints,,
-Sun,Sep 17 1967,,,Washington Redskins,L 24-35,L -2,@,Philadelphia Eagles,,
-Sun,Sep 17 1967,,@,Pittsburgh Steelers,W 41-13,W -1,,Chicago Bears,,
-Sun,Sep 17 1967,,@,St Louis Cardinals,L 20-37,L -4.5,,New York Giants,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Sep 17, 1967",,@,Baltimore Colts,W 38-31,L -17,,Atlanta Falcons,,
+Sun,"Sep 17, 1967",,@,Cleveland Browns,L 14-21,L -2.5,,Dallas Cowboys,,
+Sun,"Sep 17, 1967",,@,Green Bay Packers,T 17-17,L -14,,Detroit Lions,,
+Sun,"Sep 17, 1967",,,San Francisco 49ers,W 27-21,W -2.5,@,Minnesota Vikings,,
+Sun,"Sep 17, 1967",,,Los Angeles Rams,W 27-13,W -10,@,New Orleans Saints,,
+Sun,"Sep 17, 1967",,,Washington Redskins,L 24-35,L -2,@,Philadelphia Eagles,,
+Sun,"Sep 17, 1967",,@,Pittsburgh Steelers,W 41-13,W -1,,Chicago Bears,,
+Sun,"Sep 17, 1967",,@,St Louis Cardinals,L 20-37,L -4.5,,New York Giants,,

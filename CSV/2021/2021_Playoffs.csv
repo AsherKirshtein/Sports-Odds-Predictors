@@ -1,14 +1,14 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,Jan 15 2022,4:30,@,Cincinnati Bengals (4),W 26-19,W -5.5,,Las Vegas Raiders (5),U 49
-AFC Wild Card,Sat,Jan 15 2022,8:15,@,Buffalo Bills (3),W 47-17,W -4,,New England Patriots (6),O 44
-NFC Wild Card,Sun,Jan 16 2022,1:00,@,Tampa Bay Buccaneers (2),W 31-15,W -8.5,,Philadelphia Eagles (7),O 45.5
-NFC Wild Card,Sun,Jan 16 2022,4:40,@,Dallas Cowboys (3),L 17-23,L -3,,San Francisco 49ers (6),U 51
-AFC Wild Card,Sun,Jan 16 2022,8:15,@,Kansas City Chiefs (2),W 42-21,W -12.5,,Pittsburgh Steelers (7),O 46.5
-NFC Wild Card,Mon,Jan 17 2022,8:15,@,Los Angeles Rams (4),W 34-11,W -3.5,,Arizona Cardinals (5),U 49.5
-AFC Divisional,Sat,Jan 22 2022,4:30,@,Tennessee Titans (1),L 16-19,L -4,,Cincinnati Bengals (4),U 47.5
-NFC Divisional,Sat,Jan 22 2022,8:15,@,Green Bay Packers (1),L 10-13,L -5.5,,San Francisco 49ers (6),U 47
-NFC Divisional,Sun,Jan 23 2022,3:00,@,Tampa Bay Buccaneers (2),L 27-30,L -3,,Los Angeles Rams (4),O 48
-AFC Divisional,Sun,Jan 23 2022,6:30,@,Kansas City Chiefs (2),W 42-36 (OT),W -2,,Buffalo Bills (3),O 54.5
-AFC Championship,Sun,Jan 30 2022,3:00,@,Kansas City Chiefs (1),L 24-27 (OT),L -7,,Cincinnati Bengals (4),U 55
-NFC Championship,Sun,Jan 30 2022,6:30,@,Los Angeles Rams (4),W 20-17,L -3.5,,San Francisco 49ers (6),U 46
-Super Bowl LVI,Sun,Feb 13 2022,6:30,N,Los Angeles Rams (4),W 23-20,L -4.5,,Cincinnati Bengals (4),U 48.5
+AFC Wild Card,Sat,"Jan 15, 2022",4:30,@,Cincinnati Bengals (4),W 26-19,W -5.5,,Las Vegas Raiders (5),U 49
+AFC Wild Card,Sat,"Jan 15, 2022",8:15,@,Buffalo Bills (3),W 47-17,W -4,,New England Patriots (6),O 44
+NFC Wild Card,Sun,"Jan 16, 2022",1:00,@,Tampa Bay Buccaneers (2),W 31-15,W -8.5,,Philadelphia Eagles (7),O 45.5
+NFC Wild Card,Sun,"Jan 16, 2022",4:40,@,Dallas Cowboys (3),L 17-23,L -3,,San Francisco 49ers (6),U 51
+AFC Wild Card,Sun,"Jan 16, 2022",8:15,@,Kansas City Chiefs (2),W 42-21,W -12.5,,Pittsburgh Steelers (7),O 46.5
+NFC Wild Card,Mon,"Jan 17, 2022",8:15,@,Los Angeles Rams (4),W 34-11,W -3.5,,Arizona Cardinals (5),U 49.5
+AFC Divisional,Sat,"Jan 22, 2022",4:30,@,Tennessee Titans (1),L 16-19,L -4,,Cincinnati Bengals (4),U 47.5
+NFC Divisional,Sat,"Jan 22, 2022",8:15,@,Green Bay Packers (1),L 10-13,L -5.5,,San Francisco 49ers (6),U 47
+NFC Divisional,Sun,"Jan 23, 2022",3:00,@,Tampa Bay Buccaneers (2),L 27-30,L -3,,Los Angeles Rams (4),O 48
+AFC Divisional,Sun,"Jan 23, 2022",6:30,@,Kansas City Chiefs (2),W 42-36 (OT),W -2,,Buffalo Bills (3),O 54.5
+AFC Championship,Sun,"Jan 30, 2022",3:00,@,Kansas City Chiefs (1),L 24-27 (OT),L -7,,Cincinnati Bengals (4),U 55
+NFC Championship,Sun,"Jan 30, 2022",6:30,@,Los Angeles Rams (4),W 20-17,L -3.5,,San Francisco 49ers (6),U 46
+Super Bowl LVI,Sun,"Feb 13, 2022",6:30,N,Los Angeles Rams (4),W 23-20,L -4.5,,Cincinnati Bengals (4),U 48.5

@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Sep 14 1968,,,Houston Oilers,W 24-10,W -5,@,Miami Dolphins,,
-Sun,Sep 15 1968,,,Oakland Raiders,W 48-6,W -8,@,Buffalo Bills,,
-Sun,Sep 15 1968,,@,Cincinnati Bengals,W 24-10,W -1,,Denver Broncos,,
-Sun,Sep 15 1968,,@,Kansas City Chiefs,L 19-20,L -6.5,,New York Jets,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Sep 14, 1968",,,Houston Oilers,W 24-10,W -5,@,Miami Dolphins,,
+Sun,"Sep 15, 1968",,,Oakland Raiders,W 48-6,W -8,@,Buffalo Bills,,
+Sun,"Sep 15, 1968",,@,Cincinnati Bengals,W 24-10,W -1,,Denver Broncos,,
+Sun,"Sep 15, 1968",,@,Kansas City Chiefs,L 19-20,L -6.5,,New York Jets,,

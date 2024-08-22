@@ -1,5 +1,5 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Sep 9 1967,,,Kansas City Chiefs,W 25-20,L -14.5,@,Houston Oilers,,
-Sat,Sep 9 1967,,@,San Diego Chargers,W 28-14,W -1,,Boston Patriots,,
-Sun,Sep 10 1967,,@,Buffalo Bills,W 20-17,L -5.5,,New York Jets,,
-Sun,Sep 10 1967,,@,Oakland Raiders,W 51-0,W -6.5,,Denver Broncos,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Sep 9, 1967",,,Kansas City Chiefs,W 25-20,L -14.5,@,Houston Oilers,,
+Sat,"Sep 9, 1967",,@,San Diego Chargers,W 28-14,W -1,,Boston Patriots,,
+Sun,"Sep 10, 1967",,@,Buffalo Bills,W 20-17,L -5.5,,New York Jets,,
+Sun,"Sep 10, 1967",,@,Oakland Raiders,W 51-0,W -6.5,,Denver Broncos,,

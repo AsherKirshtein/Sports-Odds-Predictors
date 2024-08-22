@@ -1,8 +1,8 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,Dec 12 1964,,,Cleveland Browns,W 52-20,W -10,@,New York Giants,,
-Sun,Dec 13 1964,,@,Baltimore Colts,W 45-17,W -9,,Washington Redskins,,
-Sun,Dec 13 1964,,,Minnesota Vikings,W 41-14,W -3,@,Chicago Bears,,
-Sun,Dec 13 1964,,@,Dallas Cowboys,W 17-14,L -4,,Pittsburgh Steelers,,
-Sun,Dec 13 1964,,@,Detroit Lions,W 24-7,W -7,,San Francisco 49ers,,
-Sun,Dec 13 1964,,,Green Bay Packers,T 24-24,L -11,@,Los Angeles Rams,,
-Sun,Dec 13 1964,,@,St Louis Cardinals,W 36-34,L -7,,Philadelphia Eagles,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sat,"Dec 12, 1964",,,Cleveland Browns,W 52-20,W -10,@,New York Giants,,
+Sun,"Dec 13, 1964",,@,Baltimore Colts,W 45-17,W -9,,Washington Redskins,,
+Sun,"Dec 13, 1964",,,Minnesota Vikings,W 41-14,W -3,@,Chicago Bears,,
+Sun,"Dec 13, 1964",,@,Dallas Cowboys,W 17-14,L -4,,Pittsburgh Steelers,,
+Sun,"Dec 13, 1964",,@,Detroit Lions,W 24-7,W -7,,San Francisco 49ers,,
+Sun,"Dec 13, 1964",,,Green Bay Packers,T 24-24,L -11,@,Los Angeles Rams,,
+Sun,"Dec 13, 1964",,@,St Louis Cardinals,W 36-34,L -7,,Philadelphia Eagles,,

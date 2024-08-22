@@ -1,7 +1,7 @@
-Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,Dec 2 1956,,@,Baltimore Colts,L 17-20,L -7,,San Francisco 49ers,,
-Sun,Dec 2 1956,,@,Chicago Cardinals,L 21-24,L -5,,Green Bay Packers,,
-Sun,Dec 2 1956,,@,Cleveland Browns,W 17-14,L -6,,Philadelphia Eagles,,
-Sun,Dec 2 1956,,,Chicago Bears,L 10-42,L -3.5,@,Detroit Lions,,
-Sun,Dec 2 1956,,@,New York Giants,W 28-14,W -7,,Washington Redskins,,
-Sun,Dec 2 1956,,@,Pittsburgh Steelers,W 30-13,W PK,,Los Angeles Rams,,
+Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under,Additional Notes
+Sun,"Dec 2, 1956",,@,Baltimore Colts,L 17-20,L -7,,San Francisco 49ers,,
+Sun,"Dec 2, 1956",,@,Chicago Cardinals,L 21-24,L -5,,Green Bay Packers,,
+Sun,"Dec 2, 1956",,@,Cleveland Browns,W 17-14,L -6,,Philadelphia Eagles,,
+Sun,"Dec 2, 1956",,,Chicago Bears,L 10-42,L -3.5,@,Detroit Lions,,
+Sun,"Dec 2, 1956",,@,New York Giants,W 28-14,W -7,,Washington Redskins,,
+Sun,"Dec 2, 1956",,@,Pittsburgh Steelers,W 30-13,W PK,,Los Angeles Rams,,
