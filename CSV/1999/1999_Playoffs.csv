@@ -1,12 +1,12 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,"Jan 8, 2000",12:32,@,Tennessee Titans (4),W 22-16,W -4.5,,Buffalo Bills (5),U 39
-NFC Wild Card,Sat,"Jan 8, 2000",4:05,@,Washington Redskins (3),W 27-13,W -6.5,,Detroit Lions (6),U 46
-NFC Wild Card,Sun,"Jan 9, 2000",12:35,@,Minnesota Vikings (4),W 27-10,W -7,,Dallas Cowboys (5),U 46.5
-AFC Wild Card,Sun,"Jan 9, 2000",4:06,@,Seattle Seahawks (3),L 17-20,L -3.5,,Miami Dolphins (6),U 39
-AFC Divisional,Sat,"Jan 15, 2000",12:35,@,Jacksonville Jaguars (1),W 62-7,W -8,,Miami Dolphins (6),O 37.5
-NFC Divisional,Sat,"Jan 15, 2000",4:15,@,Tampa Bay Buccaneers (2),W 14-13,L -5,,Washington Redskins (3),U 38
-NFC Divisional,Sun,"Jan 16, 2000",12:35,@,St Louis Rams (1),W 49-37,W -7,,Minnesota Vikings (4),O 52
-AFC Divisional,Sun,"Jan 16, 2000",4:05,@,Indianapolis Colts (2),L 16-19,L -5.5,,Tennessee Titans (4),U 46.5
-AFC Championship,Sun,"Jan 23, 2000",12:42,@,Jacksonville Jaguars (1),L 14-33,L -7,,Tennessee Titans (4),O 39.5
-NFC Championship,Sun,"Jan 23, 2000",4:22,@,St Louis Rams (1),W 11-6,L -14,,Tampa Bay Buccaneers (2),U 46
-Super Bowl XXXIV,Sun,"Jan 30, 2000",6:25,N,St Louis Rams (1),W 23-16,P -7,,Tennessee Titans (4),U 48
+AFC Wild Card,Sat,Jan 8 2000,12:32,@,Tennessee Titans (4),W 22-16,W -4.5,,Buffalo Bills (5),U 39
+NFC Wild Card,Sat,Jan 8 2000,4:05,@,Washington Redskins (3),W 27-13,W -6.5,,Detroit Lions (6),U 46
+NFC Wild Card,Sun,Jan 9 2000,12:35,@,Minnesota Vikings (4),W 27-10,W -7,,Dallas Cowboys (5),U 46.5
+AFC Wild Card,Sun,Jan 9 2000,4:06,@,Seattle Seahawks (3),L 17-20,L -3.5,,Miami Dolphins (6),U 39
+AFC Divisional,Sat,Jan 15 2000,12:35,@,Jacksonville Jaguars (1),W 62-7,W -8,,Miami Dolphins (6),O 37.5
+NFC Divisional,Sat,Jan 15 2000,4:15,@,Tampa Bay Buccaneers (2),W 14-13,L -5,,Washington Redskins (3),U 38
+NFC Divisional,Sun,Jan 16 2000,12:35,@,St Louis Rams (1),W 49-37,W -7,,Minnesota Vikings (4),O 52
+AFC Divisional,Sun,Jan 16 2000,4:05,@,Indianapolis Colts (2),L 16-19,L -5.5,,Tennessee Titans (4),U 46.5
+AFC Championship,Sun,Jan 23 2000,12:42,@,Jacksonville Jaguars (1),L 14-33,L -7,,Tennessee Titans (4),O 39.5
+NFC Championship,Sun,Jan 23 2000,4:22,@,St Louis Rams (1),W 11-6,L -14,,Tampa Bay Buccaneers (2),U 46
+Super Bowl XXXIV,Sun,Jan 30 2000,6:25,N,St Louis Rams (1),W 23-16,P -7,,Tennessee Titans (4),U 48

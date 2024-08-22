@@ -1,6 +1,6 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,"Sep 20, 1969",,@,Oakland Raiders,W 20-17,L -16,,Miami Dolphins,,
-Sun,"Sep 21, 1969",,,Kansas City Chiefs,W 31-0,W -20,@,Boston Patriots,,
-Sun,"Sep 21, 1969",,,Houston Oilers,W 17-3,W -7.5,@,Buffalo Bills,,
-Sun,"Sep 21, 1969",,,San Diego Chargers,L 20-34,L -8,@,Cincinnati Bengals,,
-Sun,"Sep 21, 1969",,,New York Jets,L 19-21,L -12,@,Denver Broncos,,
+Sat,Sep 20 1969,,@,Oakland Raiders,W 20-17,L -16,,Miami Dolphins,,
+Sun,Sep 21 1969,,,Kansas City Chiefs,W 31-0,W -20,@,Boston Patriots,,
+Sun,Sep 21 1969,,,Houston Oilers,W 17-3,W -7.5,@,Buffalo Bills,,
+Sun,Sep 21 1969,,,San Diego Chargers,L 20-34,L -8,@,Cincinnati Bengals,,
+Sun,Sep 21 1969,,,New York Jets,L 19-21,L -12,@,Denver Broncos,,

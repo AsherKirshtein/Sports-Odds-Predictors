@@ -1,8 +1,8 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFL Divisional,Sat,"Dec 20, 1969",,,Kansas City Chiefs,W 13-6,W -2.5,@,New York Jets,
-AFL Divisional,Sun,"Dec 21, 1969",,@,Oakland Raiders,W 56-7,W -13.5,,Houston Oilers,
-NFL Divisional,Sat,"Dec 27, 1969",,@,Minnesota Vikings,W 23-20,L -7,,Los Angeles Rams,
-NFL Divisional,Sun,"Dec 28, 1969",,@,Dallas Cowboys,L 14-38,L -7,,Cleveland Browns,
-NFL Championship,Sun,"Jan 4, 1970",,@,Minnesota Vikings,W 27-7,W -8,,Cleveland Browns,
-AFL Championship,Sun,"Jan 4, 1970",,@,Oakland Raiders,L 7-17,L -5,,Kansas City Chiefs,
-Super Bowl IV,Sun,"Jan 11, 1970",,N,Minnesota Vikings,L 7-23,L -12,,Kansas City Chiefs,U 39
+AFL Divisional,Sat,Dec 20 1969,,,Kansas City Chiefs,W 13-6,W -2.5,@,New York Jets,
+AFL Divisional,Sun,Dec 21 1969,,@,Oakland Raiders,W 56-7,W -13.5,,Houston Oilers,
+NFL Divisional,Sat,Dec 27 1969,,@,Minnesota Vikings,W 23-20,L -7,,Los Angeles Rams,
+NFL Divisional,Sun,Dec 28 1969,,@,Dallas Cowboys,L 14-38,L -7,,Cleveland Browns,
+NFL Championship,Sun,Jan 4 1970,,@,Minnesota Vikings,W 27-7,W -8,,Cleveland Browns,
+AFL Championship,Sun,Jan 4 1970,,@,Oakland Raiders,L 7-17,L -5,,Kansas City Chiefs,
+Super Bowl IV,Sun,Jan 11 1970,,N,Minnesota Vikings,L 7-23,L -12,,Kansas City Chiefs,U 39

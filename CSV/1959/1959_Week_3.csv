@@ -1,7 +1,7 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,"Oct 11, 1959",,@,Chicago Bears,L 21-28,L -7.5,,Los Angeles Rams,,
-Sun,"Oct 11, 1959",,@,Cleveland Browns,L 6-10,L -3.5,,New York Giants,,
-Sun,"Oct 11, 1959",,,Baltimore Colts,W 31-24,P -7,@,Detroit Lions,,
-Sun,"Oct 11, 1959",,@,Green Bay Packers,W 21-20,L -4,,San Francisco 49ers,,
-Sun,"Oct 11, 1959",,@,Philadelphia Eagles,W 28-24,W -2,,Pittsburgh Steelers,,
-Sun,"Oct 11, 1959",,@,Washington Redskins,W 23-14,W -1,,Chicago Cardinals,,
+Sun,Oct 11 1959,,@,Chicago Bears,L 21-28,L -7.5,,Los Angeles Rams,,
+Sun,Oct 11 1959,,@,Cleveland Browns,L 6-10,L -3.5,,New York Giants,,
+Sun,Oct 11 1959,,,Baltimore Colts,W 31-24,P -7,@,Detroit Lions,,
+Sun,Oct 11 1959,,@,Green Bay Packers,W 21-20,L -4,,San Francisco 49ers,,
+Sun,Oct 11 1959,,@,Philadelphia Eagles,W 28-24,W -2,,Pittsburgh Steelers,,
+Sun,Oct 11 1959,,@,Washington Redskins,W 23-14,W -1,,Chicago Cardinals,,

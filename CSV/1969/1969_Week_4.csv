@@ -1,9 +1,9 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,"Sep 28, 1969",,@,Cleveland Browns,W 27-23,L -6.5,,Washington Redskins,,
-Sun,"Sep 28, 1969",,@,Detroit Lions,W 24-0,W -3,,New York Giants,,
-Sun,"Sep 28, 1969",,@,Green Bay Packers,W 14-7,L -9,,San Francisco 49ers,,at Milwaukee
-Sun,"Sep 28, 1969",,@,Los Angeles Rams,W 17-7,L -16,,Atlanta Falcons,,
-Sun,"Sep 28, 1969",,,Baltimore Colts,L 14-52,L -2,@,Minnesota Vikings,,
-Sun,"Sep 28, 1969",,,Dallas Cowboys,W 21-17,L -13,@,New Orleans Saints,,
-Sun,"Sep 28, 1969",,@,Philadelphia Eagles,W 41-27,W -3,,Pittsburgh Steelers,,
-Sun,"Sep 28, 1969",,@,St Louis Cardinals,W 20-17,W -1,,Chicago Bears,,
+Sun,Sep 28 1969,,@,Cleveland Browns,W 27-23,L -6.5,,Washington Redskins,,
+Sun,Sep 28 1969,,@,Detroit Lions,W 24-0,W -3,,New York Giants,,
+Sun,Sep 28 1969,,@,Green Bay Packers,W 14-7,L -9,,San Francisco 49ers,,at Milwaukee
+Sun,Sep 28 1969,,@,Los Angeles Rams,W 17-7,L -16,,Atlanta Falcons,,
+Sun,Sep 28 1969,,,Baltimore Colts,L 14-52,L -2,@,Minnesota Vikings,,
+Sun,Sep 28 1969,,,Dallas Cowboys,W 21-17,L -13,@,New Orleans Saints,,
+Sun,Sep 28 1969,,@,Philadelphia Eagles,W 41-27,W -3,,Pittsburgh Steelers,,
+Sun,Sep 28 1969,,@,St Louis Cardinals,W 20-17,W -1,,Chicago Bears,,

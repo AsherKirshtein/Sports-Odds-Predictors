@@ -1,12 +1,12 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,"Jan 8, 1994",12:30,@,Kansas City Chiefs (3),W 27-24 (OT),L -7.5,,Pittsburgh Steelers (6),O 36
-NFC Wild Card,Sat,"Jan 8, 1994",4:00,@,Detroit Lions (3),L 24-28,L -1.5,,Green Bay Packers (6),O 38.5
-NFC Wild Card,Sun,"Jan 9, 1994",12:30,@,New York Giants (4),W 17-10,W -6.5,,Minnesota Vikings (5),U 33
-AFC Wild Card,Sun,"Jan 9, 1994",4:00,@,Los Angeles Raiders (4),W 42-24,W -2,,Denver Broncos (5),O 41
-AFC Divisional,Sat,"Jan 15, 1994",12:30,@,Buffalo Bills (1),W 29-23,L -7,,Los Angeles Raiders (4),O 33.5
-NFC Divisional,Sat,"Jan 15, 1994",4:00,@,San Francisco 49ers (2),W 44-3,W -8,,New York Giants (4),O 41.5
-NFC Divisional,Sun,"Jan 16, 1994",12:30,@,Dallas Cowboys (1),W 27-17,L -13.5,,Green Bay Packers (6),O 42
-AFC Divisional,Sun,"Jan 16, 1994",4:00,@,Houston Oilers (2),L 20-28,L -7,,Kansas City Chiefs (3),O 41.5
-AFC Championship,Sun,"Jan 23, 1994",12:30,@,Buffalo Bills (1),W 30-13,W -3,,Kansas City Chiefs (3),O 39
-NFC Championship,Sun,"Jan 23, 1994",4:00,@,Dallas Cowboys (1),W 38-21,W -3,,San Francisco 49ers (2),O 48
-Super Bowl XXVIII,Sun,"Jan 30, 1994",6:00,N,Dallas Cowboys (1),W 30-13,W -10.5,,Buffalo Bills (1),U 50.5
+AFC Wild Card,Sat,Jan 8 1994,12:30,@,Kansas City Chiefs (3),W 27-24 (OT),L -7.5,,Pittsburgh Steelers (6),O 36
+NFC Wild Card,Sat,Jan 8 1994,4:00,@,Detroit Lions (3),L 24-28,L -1.5,,Green Bay Packers (6),O 38.5
+NFC Wild Card,Sun,Jan 9 1994,12:30,@,New York Giants (4),W 17-10,W -6.5,,Minnesota Vikings (5),U 33
+AFC Wild Card,Sun,Jan 9 1994,4:00,@,Los Angeles Raiders (4),W 42-24,W -2,,Denver Broncos (5),O 41
+AFC Divisional,Sat,Jan 15 1994,12:30,@,Buffalo Bills (1),W 29-23,L -7,,Los Angeles Raiders (4),O 33.5
+NFC Divisional,Sat,Jan 15 1994,4:00,@,San Francisco 49ers (2),W 44-3,W -8,,New York Giants (4),O 41.5
+NFC Divisional,Sun,Jan 16 1994,12:30,@,Dallas Cowboys (1),W 27-17,L -13.5,,Green Bay Packers (6),O 42
+AFC Divisional,Sun,Jan 16 1994,4:00,@,Houston Oilers (2),L 20-28,L -7,,Kansas City Chiefs (3),O 41.5
+AFC Championship,Sun,Jan 23 1994,12:30,@,Buffalo Bills (1),W 30-13,W -3,,Kansas City Chiefs (3),O 39
+NFC Championship,Sun,Jan 23 1994,4:00,@,Dallas Cowboys (1),W 38-21,W -3,,San Francisco 49ers (2),O 48
+Super Bowl XXVIII,Sun,Jan 30 1994,6:00,N,Dallas Cowboys (1),W 30-13,W -10.5,,Buffalo Bills (1),U 50.5

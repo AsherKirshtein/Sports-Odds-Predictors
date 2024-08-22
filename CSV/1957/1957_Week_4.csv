@@ -1,7 +1,7 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,"Oct 20, 1957",,@,Chicago Bears,W 34-26,W -4.5,,Los Angeles Rams,,
-Sun,"Oct 20, 1957",,,Baltimore Colts,L 27-31,L -1,@,Detroit Lions,,
-Sun,"Oct 20, 1957",,@,Green Bay Packers,L 14-24,L PK,,San Francisco 49ers,,at Milwaukee
-Sun,"Oct 20, 1957",,@,New York Giants,W 35-0,W -7,,Pittsburgh Steelers,,
-Sun,"Oct 20, 1957",,,Cleveland Browns,L 7-17,L -7,@,Philadelphia Eagles,,
-Sun,"Oct 20, 1957",,@,Washington Redskins,L 14-44,L -5,,Chicago Cardinals,,
+Sun,Oct 20 1957,,@,Chicago Bears,W 34-26,W -4.5,,Los Angeles Rams,,
+Sun,Oct 20 1957,,,Baltimore Colts,L 27-31,L -1,@,Detroit Lions,,
+Sun,Oct 20 1957,,@,Green Bay Packers,L 14-24,L PK,,San Francisco 49ers,,at Milwaukee
+Sun,Oct 20 1957,,@,New York Giants,W 35-0,W -7,,Pittsburgh Steelers,,
+Sun,Oct 20 1957,,,Cleveland Browns,L 7-17,L -7,@,Philadelphia Eagles,,
+Sun,Oct 20 1957,,@,Washington Redskins,L 14-44,L -5,,Chicago Cardinals,,

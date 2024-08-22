@@ -1,10 +1,10 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-NFC Wild Card,Sun,"Dec 24, 1978",12:30,@,Atlanta Falcons (4),W 14-13,L -2.5,,Philadelphia Eagles (5),
-AFC Wild Card,Sun,"Dec 24, 1978",4:00,@,Miami Dolphins (4),L 9-17,L -6.5,,Houston Oilers (5),
-AFC Divisional,Sat,"Dec 30, 1978",12:30,@,Pittsburgh Steelers (1),W 33-10,W -7,,Denver Broncos (3),
-NFC Divisional,Sat,"Dec 30, 1978",4:00,@,Dallas Cowboys (2),W 27-20,L -15,,Atlanta Falcons (4),
-AFC Divisional,Sun,"Dec 31, 1978",1:00,@,New England Patriots (2),L 14-31,L -6,,Houston Oilers (4),O 37
-NFC Divisional,Sun,"Dec 31, 1978",5:00,@,Los Angeles Rams (1),W 34-10,W -7.5,,Minnesota Vikings (3),O 36
-AFC Championship,Sun,"Jan 7, 1979",1:00,@,Pittsburgh Steelers (1),W 34-5,W -7,,Houston Oilers (4),O 36
-NFC Championship,Sun,"Jan 7, 1979",5:00,,Dallas Cowboys (2),W 28-0,W -3.5,@,Los Angeles Rams (1),U 36.5
-Super Bowl XIII,Sun,"Jan 21, 1979",4:00,N,Pittsburgh Steelers (1),W 35-31,W -3.5,,Dallas Cowboys (2),O 37
+NFC Wild Card,Sun,Dec 24 1978,12:30,@,Atlanta Falcons (4),W 14-13,L -2.5,,Philadelphia Eagles (5),
+AFC Wild Card,Sun,Dec 24 1978,4:00,@,Miami Dolphins (4),L 9-17,L -6.5,,Houston Oilers (5),
+AFC Divisional,Sat,Dec 30 1978,12:30,@,Pittsburgh Steelers (1),W 33-10,W -7,,Denver Broncos (3),
+NFC Divisional,Sat,Dec 30 1978,4:00,@,Dallas Cowboys (2),W 27-20,L -15,,Atlanta Falcons (4),
+AFC Divisional,Sun,Dec 31 1978,1:00,@,New England Patriots (2),L 14-31,L -6,,Houston Oilers (4),O 37
+NFC Divisional,Sun,Dec 31 1978,5:00,@,Los Angeles Rams (1),W 34-10,W -7.5,,Minnesota Vikings (3),O 36
+AFC Championship,Sun,Jan 7 1979,1:00,@,Pittsburgh Steelers (1),W 34-5,W -7,,Houston Oilers (4),O 36
+NFC Championship,Sun,Jan 7 1979,5:00,,Dallas Cowboys (2),W 28-0,W -3.5,@,Los Angeles Rams (1),U 36.5
+Super Bowl XIII,Sun,Jan 21 1979,4:00,N,Pittsburgh Steelers (1),W 35-31,W -3.5,,Dallas Cowboys (2),O 37

@@ -1,14 +1,14 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,"Jan 13, 2024",4:30,,Cleveland Browns (5),L 14-45,L -2,@,Houston Texans (4),O 44.5
-AFC Wild Card,Sat,"Jan 13, 2024",8:10,@,Kansas City Chiefs (3),W 26-7,W -4.5,,Miami Dolphins (6),U 43.5
-NFC Wild Card,Sun,"Jan 14, 2024",4:30,@,Dallas Cowboys (2),L 32-48,L -7,,Green Bay Packers (7),O 52
-NFC Wild Card,Sun,"Jan 14, 2024",8:15,@,Detroit Lions (3),W 24-23,L -3,,Los Angeles Rams (6),U 53
-AFC Wild Card,Mon,"Jan 15, 2024",4:30,@,Buffalo Bills (2),W 31-17,W -10,,Pittsburgh Steelers (7),O 39.5
-NFC Wild Card,Mon,"Jan 15, 2024",8:15,,Philadelphia Eagles (5),L 9-32,L -2.5,@,Tampa Bay Buccaneers (4),U 43
-AFC Divisional,Sat,"Jan 20, 2024",4:30,@,Baltimore Ravens (1),W 34-10,W -10,,Houston Texans (4),P 44
-NFC Divisional,Sat,"Jan 20, 2024",8:15,@,San Francisco 49ers (1),W 24-21,L -10.5,,Green Bay Packers (7),U 50.5
-NFC Divisional,Sun,"Jan 21, 2024",3:00,@,Detroit Lions (3),W 31-23,W -6,,Tampa Bay Buccaneers (4),O 49.5
-AFC Divisional,Sun,"Jan 21, 2024",6:30,@,Buffalo Bills (2),L 24-27,L -2.5,,Kansas City Chiefs (3),O 45.5
-AFC Championship,Sun,"Jan 28, 2024",3:00,@,Baltimore Ravens (1),L 10-17,L -4.5,,Kansas City Chiefs (3),U 44.5
-NFC Championship,Sun,"Jan 28, 2024",6:30,@,San Francisco 49ers (1),W 34-31,L -7.5,,Detroit Lions (3),O 53
-Super Bowl LVIII,Sun,"Feb 11, 2024",6:30,N,San Francisco 49ers (1),L 22-25 (OT),L -2,,Kansas City Chiefs (3),P 47
+AFC Wild Card,Sat,Jan 13 2024,4:30,,Cleveland Browns (5),L 14-45,L -2,@,Houston Texans (4),O 44.5
+AFC Wild Card,Sat,Jan 13 2024,8:10,@,Kansas City Chiefs (3),W 26-7,W -4.5,,Miami Dolphins (6),U 43.5
+NFC Wild Card,Sun,Jan 14 2024,4:30,@,Dallas Cowboys (2),L 32-48,L -7,,Green Bay Packers (7),O 52
+NFC Wild Card,Sun,Jan 14 2024,8:15,@,Detroit Lions (3),W 24-23,L -3,,Los Angeles Rams (6),U 53
+AFC Wild Card,Mon,Jan 15 2024,4:30,@,Buffalo Bills (2),W 31-17,W -10,,Pittsburgh Steelers (7),O 39.5
+NFC Wild Card,Mon,Jan 15 2024,8:15,,Philadelphia Eagles (5),L 9-32,L -2.5,@,Tampa Bay Buccaneers (4),U 43
+AFC Divisional,Sat,Jan 20 2024,4:30,@,Baltimore Ravens (1),W 34-10,W -10,,Houston Texans (4),P 44
+NFC Divisional,Sat,Jan 20 2024,8:15,@,San Francisco 49ers (1),W 24-21,L -10.5,,Green Bay Packers (7),U 50.5
+NFC Divisional,Sun,Jan 21 2024,3:00,@,Detroit Lions (3),W 31-23,W -6,,Tampa Bay Buccaneers (4),O 49.5
+AFC Divisional,Sun,Jan 21 2024,6:30,@,Buffalo Bills (2),L 24-27,L -2.5,,Kansas City Chiefs (3),O 45.5
+AFC Championship,Sun,Jan 28 2024,3:00,@,Baltimore Ravens (1),L 10-17,L -4.5,,Kansas City Chiefs (3),U 44.5
+NFC Championship,Sun,Jan 28 2024,6:30,@,San Francisco 49ers (1),W 34-31,L -7.5,,Detroit Lions (3),O 53
+Super Bowl LVIII,Sun,Feb 11 2024,6:30,N,San Francisco 49ers (1),L 22-25 (OT),L -2,,Kansas City Chiefs (3),P 47

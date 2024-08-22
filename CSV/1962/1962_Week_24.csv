@@ -1,8 +1,8 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,"Dec 2, 1962",,,New York Giants,W 26-24,L -3,@,Chicago Bears,,
-Sun,"Dec 2, 1962",,,Cleveland Browns,L 21-45,L -6,@,Dallas Cowboys,,
-Sun,"Dec 2, 1962",,@,Detroit Lions,W 21-14,L -13,,Baltimore Colts,,
-Sun,"Dec 2, 1962",,@,Green Bay Packers,W 41-10,W -21,,Los Angeles Rams,,at Milwaukee
-Sun,"Dec 2, 1962",,,San Francisco 49ers,W 35-12,W -5,@,Minnesota Vikings,,
-Sun,"Dec 2, 1962",,@,Pittsburgh Steelers,W 19-7,W -6.5,,St Louis Cardinals,,
-Sun,"Dec 2, 1962",,@,Washington Redskins,L 14-37,L -1,,Philadelphia Eagles,,
+Sun,Dec 2 1962,,,New York Giants,W 26-24,L -3,@,Chicago Bears,,
+Sun,Dec 2 1962,,,Cleveland Browns,L 21-45,L -6,@,Dallas Cowboys,,
+Sun,Dec 2 1962,,@,Detroit Lions,W 21-14,L -13,,Baltimore Colts,,
+Sun,Dec 2 1962,,@,Green Bay Packers,W 41-10,W -21,,Los Angeles Rams,,at Milwaukee
+Sun,Dec 2 1962,,,San Francisco 49ers,W 35-12,W -5,@,Minnesota Vikings,,
+Sun,Dec 2 1962,,@,Pittsburgh Steelers,W 19-7,W -6.5,,St Louis Cardinals,,
+Sun,Dec 2 1962,,@,Washington Redskins,L 14-37,L -1,,Philadelphia Eagles,,

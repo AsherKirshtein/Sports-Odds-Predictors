@@ -1,12 +1,12 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,"Jan 6, 2018",4:35,@,Kansas City Chiefs (4),L 21-22,L -8.5,,Tennessee Titans (5),U 44
-NFC Wild Card,Sat,"Jan 6, 2018",8:15,@,Los Angeles Rams (3),L 13-26,L -6.5,,Atlanta Falcons (6),U 48
-AFC Wild Card,Sun,"Jan 7, 2018",1:05,@,Jacksonville Jaguars (3),W 10-3,L -8,,Buffalo Bills (6),U 39.5
-NFC Wild Card,Sun,"Jan 7, 2018",4:40,@,New Orleans Saints (4),W 31-26,L -6.5,,Carolina Panthers (5),O 47.5
-NFC Divisional,Sat,"Jan 13, 2018",4:35,,Atlanta Falcons (6),L 10-15,L -2.5,@,Philadelphia Eagles (1),U 40
-AFC Divisional,Sat,"Jan 13, 2018",8:15,@,New England Patriots (1),W 35-14,W -13.5,,Tennessee Titans (5),O 48.5
-AFC Divisional,Sun,"Jan 14, 2018",1:05,@,Pittsburgh Steelers (2),L 42-45,L -7,,Jacksonville Jaguars (3),O 40.5
-NFC Divisional,Sun,"Jan 14, 2018",4:40,@,Minnesota Vikings (2),W 29-24,L -5.5,,New Orleans Saints (4),O 46.5
-AFC Championship,Sun,"Jan 21, 2018",3:05,@,New England Patriots (1),W 24-20,L -7.5,,Jacksonville Jaguars (3),U 46
-NFC Championship,Sun,"Jan 21, 2018",6:40,,Minnesota Vikings (2),L 7-38,L -3,@,Philadelphia Eagles (1),O 39
-Super Bowl LII,Sun,"Feb 4, 2018",6:30,N,New England Patriots (1),L 33-41,L -4.5,,Philadelphia Eagles (1),O 48.5
+AFC Wild Card,Sat,Jan 6 2018,4:35,@,Kansas City Chiefs (4),L 21-22,L -8.5,,Tennessee Titans (5),U 44
+NFC Wild Card,Sat,Jan 6 2018,8:15,@,Los Angeles Rams (3),L 13-26,L -6.5,,Atlanta Falcons (6),U 48
+AFC Wild Card,Sun,Jan 7 2018,1:05,@,Jacksonville Jaguars (3),W 10-3,L -8,,Buffalo Bills (6),U 39.5
+NFC Wild Card,Sun,Jan 7 2018,4:40,@,New Orleans Saints (4),W 31-26,L -6.5,,Carolina Panthers (5),O 47.5
+NFC Divisional,Sat,Jan 13 2018,4:35,,Atlanta Falcons (6),L 10-15,L -2.5,@,Philadelphia Eagles (1),U 40
+AFC Divisional,Sat,Jan 13 2018,8:15,@,New England Patriots (1),W 35-14,W -13.5,,Tennessee Titans (5),O 48.5
+AFC Divisional,Sun,Jan 14 2018,1:05,@,Pittsburgh Steelers (2),L 42-45,L -7,,Jacksonville Jaguars (3),O 40.5
+NFC Divisional,Sun,Jan 14 2018,4:40,@,Minnesota Vikings (2),W 29-24,L -5.5,,New Orleans Saints (4),O 46.5
+AFC Championship,Sun,Jan 21 2018,3:05,@,New England Patriots (1),W 24-20,L -7.5,,Jacksonville Jaguars (3),U 46
+NFC Championship,Sun,Jan 21 2018,6:40,,Minnesota Vikings (2),L 7-38,L -3,@,Philadelphia Eagles (1),O 39
+Super Bowl LII,Sun,Feb 4 2018,6:30,N,New England Patriots (1),L 33-41,L -4.5,,Philadelphia Eagles (1),O 48.5

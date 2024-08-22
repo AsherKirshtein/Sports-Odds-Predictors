@@ -1,10 +1,10 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,"Dec 28, 1985",4:00,@,New York Jets (4),L 14-26,L -3,,New England Patriots (5),O 37
-NFC Wild Card,Sun,"Dec 29, 1985",1:00,,San Francisco 49ers (5),L 3-17,L -3,@,New York Giants (4),U 41
-AFC Divisional,Sat,"Jan 4, 1986",12:30,@,Miami Dolphins (2),W 24-21,L -10.5,,Cleveland Browns (3),P 45
-NFC Divisional,Sat,"Jan 4, 1986",4:00,@,Los Angeles Rams (2),W 20-0,W -2,,Dallas Cowboys (3),U 40.5
-NFC Divisional,Sun,"Jan 5, 1986",12:30,@,Chicago Bears (1),W 21-0,W -9,,New York Giants (4),U 36
-AFC Divisional,Sun,"Jan 5, 1986",4:00,@,Los Angeles Raiders (1),L 20-27,L -5.5,,New England Patriots (5),O 40
-NFC Championship,Sun,"Jan 12, 1986",12:30,@,Chicago Bears (1),W 24-0,W -10.5,,Los Angeles Rams (2),U 34
-AFC Championship,Sun,"Jan 12, 1986",4:00,@,Miami Dolphins (2),L 14-31,L -5.5,,New England Patriots (5),U 48
-Super Bowl XX,Sun,"Jan 26, 1986",5:00,N,Chicago Bears (1),W 46-10,W -10,,New England Patriots (5),O 37.5
+AFC Wild Card,Sat,Dec 28 1985,4:00,@,New York Jets (4),L 14-26,L -3,,New England Patriots (5),O 37
+NFC Wild Card,Sun,Dec 29 1985,1:00,,San Francisco 49ers (5),L 3-17,L -3,@,New York Giants (4),U 41
+AFC Divisional,Sat,Jan 4 1986,12:30,@,Miami Dolphins (2),W 24-21,L -10.5,,Cleveland Browns (3),P 45
+NFC Divisional,Sat,Jan 4 1986,4:00,@,Los Angeles Rams (2),W 20-0,W -2,,Dallas Cowboys (3),U 40.5
+NFC Divisional,Sun,Jan 5 1986,12:30,@,Chicago Bears (1),W 21-0,W -9,,New York Giants (4),U 36
+AFC Divisional,Sun,Jan 5 1986,4:00,@,Los Angeles Raiders (1),L 20-27,L -5.5,,New England Patriots (5),O 40
+NFC Championship,Sun,Jan 12 1986,12:30,@,Chicago Bears (1),W 24-0,W -10.5,,Los Angeles Rams (2),U 34
+AFC Championship,Sun,Jan 12 1986,4:00,@,Miami Dolphins (2),L 14-31,L -5.5,,New England Patriots (5),U 48
+Super Bowl XX,Sun,Jan 26 1986,5:00,N,Chicago Bears (1),W 46-10,W -10,,New England Patriots (5),O 37.5

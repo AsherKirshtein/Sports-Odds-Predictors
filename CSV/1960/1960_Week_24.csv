@@ -1,7 +1,7 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,"Dec 10, 1960",,,Green Bay Packers,W 13-0,W -5,@,San Francisco 49ers,,
-Sun,"Dec 11, 1960",,@,Cleveland Browns,W 42-0,W -4,,Chicago Bears,,
-Sun,"Dec 11, 1960",,@,Detroit Lions,W 23-14,L -13,,Dallas Cowboys,,
-Sun,"Dec 11, 1960",,,Baltimore Colts,L 3-10,L -9,@,Los Angeles Rams,,
-Sun,"Dec 11, 1960",,,Philadelphia Eagles,L 21-27,L -2,@,Pittsburgh Steelers,,
-Sun,"Dec 11, 1960",,,New York Giants,W 17-3,W -7,@,Washington Redskins,,
+Sat,Dec 10 1960,,,Green Bay Packers,W 13-0,W -5,@,San Francisco 49ers,,
+Sun,Dec 11 1960,,@,Cleveland Browns,W 42-0,W -4,,Chicago Bears,,
+Sun,Dec 11 1960,,@,Detroit Lions,W 23-14,L -13,,Dallas Cowboys,,
+Sun,Dec 11 1960,,,Baltimore Colts,L 3-10,L -9,@,Los Angeles Rams,,
+Sun,Dec 11 1960,,,Philadelphia Eagles,L 21-27,L -2,@,Pittsburgh Steelers,,
+Sun,Dec 11 1960,,,New York Giants,W 17-3,W -7,@,Washington Redskins,,

@@ -1,12 +1,12 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-NFC Wild Card,Sat,"Jan 12, 2002",4:39,@,Philadelphia Eagles (3),W 31-9,W -3.5,,Tampa Bay Buccaneers (6),O 33
-AFC Wild Card,Sat,"Jan 12, 2002",8:07,@,Oakland Raiders (3),W 38-24,W -4.5,,New York Jets (6),O 42
-NFC Wild Card,Sun,"Jan 13, 2002",12:35,@,Green Bay Packers (4),W 25-15,W -3.5,,San Francisco 49ers (5),U 42
-AFC Wild Card,Sun,"Jan 13, 2002",4:05,@,Miami Dolphins (4),L 3-20,L -2.5,,Baltimore Ravens (5),U 33
-NFC Divisional,Sat,"Jan 19, 2002",4:37,@,Chicago Bears (2),L 19-33,L -3,,Philadelphia Eagles (3),O 32.5
-AFC Divisional,Sat,"Jan 19, 2002",8:05,@,New England Patriots (2),W 16-13 (OT),P -3,,Oakland Raiders (3),U 38
-AFC Divisional,Sun,"Jan 20, 2002",12:40,@,Pittsburgh Steelers (1),W 27-10,W -5.5,,Baltimore Ravens (5),O 32
-NFC Divisional,Sun,"Jan 20, 2002",4:15,@,St Louis Rams (1),W 45-17,W -11,,Green Bay Packers (4),O 54.5
-AFC Championship,Sun,"Jan 27, 2002",12:40,@,Pittsburgh Steelers (1),L 17-24,L -10,,New England Patriots (2),O 35.5
-NFC Championship,Sun,"Jan 27, 2002",4:27,@,St Louis Rams (1),W 29-24,L -11,,Philadelphia Eagles (3),O 49
-Super Bowl XXXVI,Sun,"Feb 3, 2002",6:40,N,St Louis Rams (1),L 17-20,L -14,,New England Patriots (2),U 53
+NFC Wild Card,Sat,Jan 12 2002,4:39,@,Philadelphia Eagles (3),W 31-9,W -3.5,,Tampa Bay Buccaneers (6),O 33
+AFC Wild Card,Sat,Jan 12 2002,8:07,@,Oakland Raiders (3),W 38-24,W -4.5,,New York Jets (6),O 42
+NFC Wild Card,Sun,Jan 13 2002,12:35,@,Green Bay Packers (4),W 25-15,W -3.5,,San Francisco 49ers (5),U 42
+AFC Wild Card,Sun,Jan 13 2002,4:05,@,Miami Dolphins (4),L 3-20,L -2.5,,Baltimore Ravens (5),U 33
+NFC Divisional,Sat,Jan 19 2002,4:37,@,Chicago Bears (2),L 19-33,L -3,,Philadelphia Eagles (3),O 32.5
+AFC Divisional,Sat,Jan 19 2002,8:05,@,New England Patriots (2),W 16-13 (OT),P -3,,Oakland Raiders (3),U 38
+AFC Divisional,Sun,Jan 20 2002,12:40,@,Pittsburgh Steelers (1),W 27-10,W -5.5,,Baltimore Ravens (5),O 32
+NFC Divisional,Sun,Jan 20 2002,4:15,@,St Louis Rams (1),W 45-17,W -11,,Green Bay Packers (4),O 54.5
+AFC Championship,Sun,Jan 27 2002,12:40,@,Pittsburgh Steelers (1),L 17-24,L -10,,New England Patriots (2),O 35.5
+NFC Championship,Sun,Jan 27 2002,4:27,@,St Louis Rams (1),W 29-24,L -11,,Philadelphia Eagles (3),O 49
+Super Bowl XXXVI,Sun,Feb 3 2002,6:40,N,St Louis Rams (1),L 17-20,L -14,,New England Patriots (2),U 53

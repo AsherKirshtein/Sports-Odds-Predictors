@@ -1,10 +1,10 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-NFC Wild Card,Sun,"Jan 3, 1988",12:30,@,New Orleans Saints (4),L 10-44,L -6.5,,Minnesota Vikings (5),O 46
-AFC Wild Card,Sun,"Jan 3, 1988",4:00,,Seattle Seahawks (5),L 20-23 (OT),L -2.5,@,Houston Oilers (4),U 45
-AFC Divisional,Sat,"Jan 9, 1988",12:30,@,Cleveland Browns (2),W 38-21,W -8,,Indianapolis Colts (3),O 37
-NFC Divisional,Sat,"Jan 9, 1988",4:00,@,San Francisco 49ers (1),L 24-36,L -11,,Minnesota Vikings (5),O 47
-NFC Divisional,Sun,"Jan 10, 1988",12:30,@,Chicago Bears (2),L 17-21,L -4.5,,Washington Redskins (3),P 38
-AFC Divisional,Sun,"Jan 10, 1988",4:00,@,Denver Broncos (1),W 34-10,W -10,,Houston Oilers (4),U 46
-NFC Championship,Sun,"Jan 17, 1988",12:30,@,Washington Redskins (3),W 17-10,W -3,,Minnesota Vikings (5),U 45
-AFC Championship,Sun,"Jan 17, 1988",4:00,@,Denver Broncos (1),W 38-33,W -3,,Cleveland Browns (2),O 45
-Super Bowl XXII,Sun,"Jan 31, 1988",6:00,N,Denver Broncos (1),L 10-42,L -3.5,,Washington Redskins (3),O 47.5
+NFC Wild Card,Sun,Jan 3 1988,12:30,@,New Orleans Saints (4),L 10-44,L -6.5,,Minnesota Vikings (5),O 46
+AFC Wild Card,Sun,Jan 3 1988,4:00,,Seattle Seahawks (5),L 20-23 (OT),L -2.5,@,Houston Oilers (4),U 45
+AFC Divisional,Sat,Jan 9 1988,12:30,@,Cleveland Browns (2),W 38-21,W -8,,Indianapolis Colts (3),O 37
+NFC Divisional,Sat,Jan 9 1988,4:00,@,San Francisco 49ers (1),L 24-36,L -11,,Minnesota Vikings (5),O 47
+NFC Divisional,Sun,Jan 10 1988,12:30,@,Chicago Bears (2),L 17-21,L -4.5,,Washington Redskins (3),P 38
+AFC Divisional,Sun,Jan 10 1988,4:00,@,Denver Broncos (1),W 34-10,W -10,,Houston Oilers (4),U 46
+NFC Championship,Sun,Jan 17 1988,12:30,@,Washington Redskins (3),W 17-10,W -3,,Minnesota Vikings (5),U 45
+AFC Championship,Sun,Jan 17 1988,4:00,@,Denver Broncos (1),W 38-33,W -3,,Cleveland Browns (2),O 45
+Super Bowl XXII,Sun,Jan 31 1988,6:00,N,Denver Broncos (1),L 10-42,L -3.5,,Washington Redskins (3),O 47.5

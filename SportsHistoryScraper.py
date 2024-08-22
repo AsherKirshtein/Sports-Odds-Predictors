@@ -40,7 +40,14 @@ def scrapePage(year):
                 # Write each row's data to the CSV file
                 for row in tbody.find_all('tr'):
                     cells = row.find_all('td')
-                    row_data = [cell.get_text(strip=True) for cell in cells]
+                    row_data = []
+
+                    for cell in cells:
+                        text = cell.get_text(strip=True)
+                        # Remove commas from the text
+                        text = text.replace(',', '')
+                        row_data.append(text)
+
                     csvwriter.writerow(row_data)
         # Iterate through all found <tbody> elements and print their contents
         for index, tbody in enumerate(all_tbody):
@@ -93,7 +100,7 @@ def writeHeader(header_Type, csvwriter):
 
 def scrape_All_Years():
     #Doesn't take too long. I don't want it parallel just to keep everything organized nicely
-    for year in tqdm(range(1953, 2024), desc="Scraping data", unit="year"):
+    for year in tqdm(range(1987, 2024), desc="Scraping data", unit="year"):
         scrapePage(str(year))
         
 scrape_All_Years()

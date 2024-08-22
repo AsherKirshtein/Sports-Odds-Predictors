@@ -1,12 +1,12 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-NFC Wild Card,Sat,"Dec 27, 1997",12:30,@,New York Giants (3),L 22-23,L -4.5,,Minnesota Vikings (6),O 38
-AFC Wild Card,Sat,"Dec 27, 1997",4:00,@,Denver Broncos (4),W 42-17,W -8,,Jacksonville Jaguars (5),O 45.5
-AFC Wild Card,Sun,"Dec 28, 1997",12:30,@,New England Patriots (3),W 17-3,W -5,,Miami Dolphins (6),U 41.5
-NFC Wild Card,Sun,"Dec 28, 1997",4:00,@,Tampa Bay Buccaneers (4),W 20-10,W -3,,Detroit Lions (5),U 38.5
-AFC Divisional,Sat,"Jan 3, 1998",12:30,@,Pittsburgh Steelers (2),W 7-6,L -7.5,,New England Patriots (3),U 42
-NFC Divisional,Sat,"Jan 3, 1998",4:00,@,San Francisco 49ers (1),W 38-22,W -14,,Minnesota Vikings (6),O 42
-NFC Divisional,Sun,"Jan 4, 1998",12:30,@,Green Bay Packers (2),W 21-7,P -14,,Tampa Bay Buccaneers (4),U 38
-AFC Divisional,Sun,"Jan 4, 1998",4:00,@,Kansas City Chiefs (1),L 10-14,L PK,,Denver Broncos (4),U 41
-AFC Championship,Sun,"Jan 11, 1998",12:30,,Denver Broncos (4),W 24-21,W -2.5,@,Pittsburgh Steelers (2),O 41
-NFC Championship,Sun,"Jan 11, 1998",4:00,,Green Bay Packers (2),W 23-10,W -2.5,@,San Francisco 49ers (1),U 43.5
-Super Bowl XXXII,Sun,"Jan 25, 1998",6:30,N,Green Bay Packers (2),L 24-31,L -11.5,,Denver Broncos (4),O 48.5
+NFC Wild Card,Sat,Dec 27 1997,12:30,@,New York Giants (3),L 22-23,L -4.5,,Minnesota Vikings (6),O 38
+AFC Wild Card,Sat,Dec 27 1997,4:00,@,Denver Broncos (4),W 42-17,W -8,,Jacksonville Jaguars (5),O 45.5
+AFC Wild Card,Sun,Dec 28 1997,12:30,@,New England Patriots (3),W 17-3,W -5,,Miami Dolphins (6),U 41.5
+NFC Wild Card,Sun,Dec 28 1997,4:00,@,Tampa Bay Buccaneers (4),W 20-10,W -3,,Detroit Lions (5),U 38.5
+AFC Divisional,Sat,Jan 3 1998,12:30,@,Pittsburgh Steelers (2),W 7-6,L -7.5,,New England Patriots (3),U 42
+NFC Divisional,Sat,Jan 3 1998,4:00,@,San Francisco 49ers (1),W 38-22,W -14,,Minnesota Vikings (6),O 42
+NFC Divisional,Sun,Jan 4 1998,12:30,@,Green Bay Packers (2),W 21-7,P -14,,Tampa Bay Buccaneers (4),U 38
+AFC Divisional,Sun,Jan 4 1998,4:00,@,Kansas City Chiefs (1),L 10-14,L PK,,Denver Broncos (4),U 41
+AFC Championship,Sun,Jan 11 1998,12:30,,Denver Broncos (4),W 24-21,W -2.5,@,Pittsburgh Steelers (2),O 41
+NFC Championship,Sun,Jan 11 1998,4:00,,Green Bay Packers (2),W 23-10,W -2.5,@,San Francisco 49ers (1),U 43.5
+Super Bowl XXXII,Sun,Jan 25 1998,6:30,N,Green Bay Packers (2),L 24-31,L -11.5,,Denver Broncos (4),O 48.5

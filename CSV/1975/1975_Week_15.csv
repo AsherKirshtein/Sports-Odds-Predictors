@@ -1,8 +1,8 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Divisional,Sat,"Dec 27, 1975",1:00,@,Pittsburgh Steelers (1),W 28-10,W -10.5,,Baltimore Colts (3),
-NFC Divisional,Sat,"Dec 27, 1975",4:00,@,Los Angeles Rams (2),W 35-23,W -6.5,,St Louis Cardinals (3),
-NFC Divisional,Sun,"Dec 28, 1975",1:00,@,Minnesota Vikings (1),L 14-17,L -8,,Dallas Cowboys (4),
-AFC Divisional,Sun,"Dec 28, 1975",4:00,@,Oakland Raiders (2),W 31-28,L -6.5,,Cincinnati Bengals (4),
-AFC Championship,Sun,"Jan 4, 1976",1:00,@,Pittsburgh Steelers (1),W 16-10,L -6.5,,Oakland Raiders (2),
-NFC Championship,Sun,"Jan 4, 1976",4:00,@,Los Angeles Rams (2),L 7-37,L -6.5,,Dallas Cowboys (4),
-Super Bowl X,Sun,"Jan 18, 1976",2:00,N,Pittsburgh Steelers (1),W 21-17,L -7,,Dallas Cowboys (4),O 36
+AFC Divisional,Sat,Dec 27 1975,1:00,@,Pittsburgh Steelers (1),W 28-10,W -10.5,,Baltimore Colts (3),
+NFC Divisional,Sat,Dec 27 1975,4:00,@,Los Angeles Rams (2),W 35-23,W -6.5,,St Louis Cardinals (3),
+NFC Divisional,Sun,Dec 28 1975,1:00,@,Minnesota Vikings (1),L 14-17,L -8,,Dallas Cowboys (4),
+AFC Divisional,Sun,Dec 28 1975,4:00,@,Oakland Raiders (2),W 31-28,L -6.5,,Cincinnati Bengals (4),
+AFC Championship,Sun,Jan 4 1976,1:00,@,Pittsburgh Steelers (1),W 16-10,L -6.5,,Oakland Raiders (2),
+NFC Championship,Sun,Jan 4 1976,4:00,@,Los Angeles Rams (2),L 7-37,L -6.5,,Dallas Cowboys (4),
+Super Bowl X,Sun,Jan 18 1976,2:00,N,Pittsburgh Steelers (1),W 21-17,L -7,,Dallas Cowboys (4),O 36

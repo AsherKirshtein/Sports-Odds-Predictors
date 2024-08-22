@@ -1,12 +1,12 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,"Jan 3, 2004",4:37,,Tennessee Titans (5),W 20-17,W -1,@,Baltimore Ravens (4),U 38
-NFC Wild Card,Sat,"Jan 3, 2004",8:09,@,Carolina Panthers (3),W 29-10,W -3,,Dallas Cowboys (6),O 34
-NFC Wild Card,Sun,"Jan 4, 2004",1:04,@,Green Bay Packers (4),W 33-27 (OT),L -7.5,,Seattle Seahawks (5),O 43.5
-AFC Wild Card,Sun,"Jan 4, 2004",4:42,@,Indianapolis Colts (3),W 41-10,W -3,,Denver Broncos (6),O 49
-NFC Divisional,Sat,"Jan 10, 2004",4:30,@,St Louis Rams (2),L 23-29 (2OT),L -7,,Carolina Panthers (3),O 46
-AFC Divisional,Sat,"Jan 10, 2004",8:15,@,New England Patriots (1),W 17-14,L -6,,Tennessee Titans (5),U 34
-AFC Divisional,Sun,"Jan 11, 2004",1:00,@,Kansas City Chiefs (2),L 31-38,L -3,,Indianapolis Colts (3),O 53
-NFC Divisional,Sun,"Jan 11, 2004",4:46,@,Philadelphia Eagles (1),W 20-17 (OT),L -4,,Green Bay Packers (4),U 43
-AFC Championship,Sun,"Jan 18, 2004",3:06,@,New England Patriots (1),W 24-14,W -3.5,,Indianapolis Colts (3),U 42
-NFC Championship,Sun,"Jan 18, 2004",6:50,@,Philadelphia Eagles (1),L 3-14,L -4,,Carolina Panthers (3),U 36.5
-Super Bowl XXXVIII,Sun,"Feb 1, 2004",6:25,N,New England Patriots (1),W 32-29,L -7,,Carolina Panthers (3),O 38
+AFC Wild Card,Sat,Jan 3 2004,4:37,,Tennessee Titans (5),W 20-17,W -1,@,Baltimore Ravens (4),U 38
+NFC Wild Card,Sat,Jan 3 2004,8:09,@,Carolina Panthers (3),W 29-10,W -3,,Dallas Cowboys (6),O 34
+NFC Wild Card,Sun,Jan 4 2004,1:04,@,Green Bay Packers (4),W 33-27 (OT),L -7.5,,Seattle Seahawks (5),O 43.5
+AFC Wild Card,Sun,Jan 4 2004,4:42,@,Indianapolis Colts (3),W 41-10,W -3,,Denver Broncos (6),O 49
+NFC Divisional,Sat,Jan 10 2004,4:30,@,St Louis Rams (2),L 23-29 (2OT),L -7,,Carolina Panthers (3),O 46
+AFC Divisional,Sat,Jan 10 2004,8:15,@,New England Patriots (1),W 17-14,L -6,,Tennessee Titans (5),U 34
+AFC Divisional,Sun,Jan 11 2004,1:00,@,Kansas City Chiefs (2),L 31-38,L -3,,Indianapolis Colts (3),O 53
+NFC Divisional,Sun,Jan 11 2004,4:46,@,Philadelphia Eagles (1),W 20-17 (OT),L -4,,Green Bay Packers (4),U 43
+AFC Championship,Sun,Jan 18 2004,3:06,@,New England Patriots (1),W 24-14,W -3.5,,Indianapolis Colts (3),U 42
+NFC Championship,Sun,Jan 18 2004,6:50,@,Philadelphia Eagles (1),L 3-14,L -4,,Carolina Panthers (3),U 36.5
+Super Bowl XXXVIII,Sun,Feb 1 2004,6:25,N,New England Patriots (1),W 32-29,L -7,,Carolina Panthers (3),O 38

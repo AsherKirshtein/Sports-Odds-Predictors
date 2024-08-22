@@ -1,7 +1,7 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sat,"Oct 16, 1954",,@,Detroit Lions,W 35-0,W -18,,Baltimore Colts,,
-Sun,"Oct 17, 1954",,,San Francisco 49ers,W 31-24,L -10,@,Chicago Bears,,
-Sun,"Oct 17, 1954",,,Los Angeles Rams,L 17-35,L -13,@,Green Bay Packers,,at Milwaukee
-Sun,"Oct 17, 1954",,@,New York Giants,W 31-17,L -20,,Chicago Cardinals,,
-Sun,"Oct 17, 1954",,,Cleveland Browns,L 27-55,L -7,@,Pittsburgh Steelers,,
-Sun,"Oct 17, 1954",,,Philadelphia Eagles,W 49-21,W -10,@,Washington Redskins,,
+Sat,Oct 16 1954,,@,Detroit Lions,W 35-0,W -18,,Baltimore Colts,,
+Sun,Oct 17 1954,,,San Francisco 49ers,W 31-24,L -10,@,Chicago Bears,,
+Sun,Oct 17 1954,,,Los Angeles Rams,L 17-35,L -13,@,Green Bay Packers,,at Milwaukee
+Sun,Oct 17 1954,,@,New York Giants,W 31-17,L -20,,Chicago Cardinals,,
+Sun,Oct 17 1954,,,Cleveland Browns,L 27-55,L -7,@,Pittsburgh Steelers,,
+Sun,Oct 17 1954,,,Philadelphia Eagles,W 49-21,W -10,@,Washington Redskins,,

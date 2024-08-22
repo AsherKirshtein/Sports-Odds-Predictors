@@ -1,8 +1,8 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-NFC Divisional,Sat,"Dec 18, 1976",1:00,@,Minnesota Vikings (1),W 35-20,W -6,,Washington Redskins (4),
-AFC Divisional,Sat,"Dec 18, 1976",4:00,@,Oakland Raiders (1),W 24-21,L -8,,New England Patriots (4),
-AFC Divisional,Sun,"Dec 19, 1976",2:00,,Pittsburgh Steelers (3),W 40-14,W -3.5,@,Baltimore Colts (2),
-NFC Divisional,Sun,"Dec 19, 1976",5:30,@,Dallas Cowboys (2),L 12-14,L -3.5,,Los Angeles Rams (3),
-NFC Championship,Sun,"Dec 26, 1976",1:00,@,Minnesota Vikings (1),W 24-13,W -5,,Los Angeles Rams (3),
-AFC Championship,Sun,"Dec 26, 1976",4:00,,Pittsburgh Steelers (3),L 7-24,L -4,@,Oakland Raiders (1),
-Super Bowl XI,Sun,"Jan 9, 1977",3:50,N,Oakland Raiders (1),W 32-14,W -4,,Minnesota Vikings (1),O 38
+NFC Divisional,Sat,Dec 18 1976,1:00,@,Minnesota Vikings (1),W 35-20,W -6,,Washington Redskins (4),
+AFC Divisional,Sat,Dec 18 1976,4:00,@,Oakland Raiders (1),W 24-21,L -8,,New England Patriots (4),
+AFC Divisional,Sun,Dec 19 1976,2:00,,Pittsburgh Steelers (3),W 40-14,W -3.5,@,Baltimore Colts (2),
+NFC Divisional,Sun,Dec 19 1976,5:30,@,Dallas Cowboys (2),L 12-14,L -3.5,,Los Angeles Rams (3),
+NFC Championship,Sun,Dec 26 1976,1:00,@,Minnesota Vikings (1),W 24-13,W -5,,Los Angeles Rams (3),
+AFC Championship,Sun,Dec 26 1976,4:00,,Pittsburgh Steelers (3),L 7-24,L -4,@,Oakland Raiders (1),
+Super Bowl XI,Sun,Jan 9 1977,3:50,N,Oakland Raiders (1),W 32-14,W -4,,Minnesota Vikings (1),O 38

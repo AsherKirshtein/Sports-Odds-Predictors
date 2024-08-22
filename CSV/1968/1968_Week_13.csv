@@ -1,6 +1,6 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-Sun,"Oct 20, 1968",,@,Boston Patriots,W 23-6,W -3.5,,Buffalo Bills,,
-Sun,"Oct 20, 1968",,@,Cincinnati Bengals,L 22-24,L -2,,Miami Dolphins,,
-Sun,"Oct 20, 1968",,,New York Jets,W 20-14,W -4.5,@,Houston Oilers,,
-Sun,"Oct 20, 1968",,@,Kansas City Chiefs,W 24-10,N/A,,Oakland Raiders,,
-Sun,"Oct 20, 1968",,@,San Diego Chargers,W 55-24,W -14,,Denver Broncos,,
+Sun,Oct 20 1968,,@,Boston Patriots,W 23-6,W -3.5,,Buffalo Bills,,
+Sun,Oct 20 1968,,@,Cincinnati Bengals,L 22-24,L -2,,Miami Dolphins,,
+Sun,Oct 20 1968,,,New York Jets,W 20-14,W -4.5,@,Houston Oilers,,
+Sun,Oct 20 1968,,@,Kansas City Chiefs,W 24-10,N/A,,Oakland Raiders,,
+Sun,Oct 20 1968,,@,San Diego Chargers,W 55-24,W -14,,Denver Broncos,,

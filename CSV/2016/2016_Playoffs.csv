@@ -1,12 +1,12 @@
 Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Wild Card,Sat,"Jan 7, 2017",4:35,@,Houston Texans (4),W 27-14,W -4,,Oakland Raiders (5),O 38
-NFC Wild Card,Sat,"Jan 7, 2017",8:15,@,Seattle Seahawks (3),W 26-6,W -8,,Detroit Lions (6),U 45.5
-AFC Wild Card,Sun,"Jan 8, 2017",1:05,@,Pittsburgh Steelers (3),W 30-12,W -11,,Miami Dolphins (6),U 47.5
-NFC Wild Card,Sun,"Jan 8, 2017",4:40,@,Green Bay Packers (4),W 38-13,W -5,,New York Giants (5),O 46.5
-NFC Divisional,Sat,"Jan 14, 2017",4:35,@,Atlanta Falcons (2),W 36-20,W -6.5,,Seattle Seahawks (3),O 51
-AFC Divisional,Sat,"Jan 14, 2017",8:15,@,New England Patriots (1),W 34-16,W -16,,Houston Texans (4),O 44
-NFC Divisional,Sun,"Jan 15, 2017",4:40,@,Dallas Cowboys (1),L 31-34,L -5.5,,Green Bay Packers (4),O 52.5
-AFC Divisional,Sun,"Jan 15, 2017",8:20,@,Kansas City Chiefs (2),L 16-18,L -2.5,,Pittsburgh Steelers (3),U 45.5
-NFC Championship,Sun,"Jan 22, 2017",3:05,@,Atlanta Falcons (2),W 44-21,W -6.5,,Green Bay Packers (4),O 59.5
-AFC Championship,Sun,"Jan 22, 2017",6:40,@,New England Patriots (1),W 36-17,W -5.5,,Pittsburgh Steelers (3),O 50
-Super Bowl LI,Sun,"Feb 5, 2017",6:30,N,New England Patriots (1),W 34-28 (OT),W -3,,Atlanta Falcons (2),O 57
+AFC Wild Card,Sat,Jan 7 2017,4:35,@,Houston Texans (4),W 27-14,W -4,,Oakland Raiders (5),O 38
+NFC Wild Card,Sat,Jan 7 2017,8:15,@,Seattle Seahawks (3),W 26-6,W -8,,Detroit Lions (6),U 45.5
+AFC Wild Card,Sun,Jan 8 2017,1:05,@,Pittsburgh Steelers (3),W 30-12,W -11,,Miami Dolphins (6),U 47.5
+NFC Wild Card,Sun,Jan 8 2017,4:40,@,Green Bay Packers (4),W 38-13,W -5,,New York Giants (5),O 46.5
+NFC Divisional,Sat,Jan 14 2017,4:35,@,Atlanta Falcons (2),W 36-20,W -6.5,,Seattle Seahawks (3),O 51
+AFC Divisional,Sat,Jan 14 2017,8:15,@,New England Patriots (1),W 34-16,W -16,,Houston Texans (4),O 44
+NFC Divisional,Sun,Jan 15 2017,4:40,@,Dallas Cowboys (1),L 31-34,L -5.5,,Green Bay Packers (4),O 52.5
+AFC Divisional,Sun,Jan 15 2017,8:20,@,Kansas City Chiefs (2),L 16-18,L -2.5,,Pittsburgh Steelers (3),U 45.5
+NFC Championship,Sun,Jan 22 2017,3:05,@,Atlanta Falcons (2),W 44-21,W -6.5,,Green Bay Packers (4),O 59.5
+AFC Championship,Sun,Jan 22 2017,6:40,@,New England Patriots (1),W 36-17,W -5.5,,Pittsburgh Steelers (3),O 50
+Super Bowl LI,Sun,Feb 5 2017,6:30,N,New England Patriots (1),W 34-28 (OT),W -3,,Atlanta Falcons (2),O 57

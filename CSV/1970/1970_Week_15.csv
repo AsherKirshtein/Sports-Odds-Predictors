@@ -1,8 +1,8 @@
 Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
-AFC Divisional,Sat,"Dec 26, 1970",1:30,@,Baltimore Colts,W 17-0,W -7,,Cincinnati Bengals,
-NFC Divisional,Sat,"Dec 26, 1970",3:30,,Detroit Lions,L 0-5,L -3,@,Dallas Cowboys,
-NFC Divisional,Sun,"Dec 27, 1970",1:00,@,Minnesota Vikings,L 14-17,L -7,,San Francisco 49ers,
-AFC Divisional,Sun,"Dec 27, 1970",4:00,@,Oakland Raiders,W 21-14,W -6,,Miami Dolphins,
-AFC Championship,Sun,"Jan 3, 1971",2:00,,Oakland Raiders,L 17-27,L -1.5,@,Baltimore Colts,
-NFC Championship,Sun,"Jan 3, 1971",4:30,@,San Francisco 49ers,L 10-17,L -4,,Dallas Cowboys,
-Super Bowl V,Sun,"Jan 17, 1971",1:50,N,Baltimore Colts,W 16-13,W -2.5,,Dallas Cowboys,U 36
+AFC Divisional,Sat,Dec 26 1970,1:30,@,Baltimore Colts,W 17-0,W -7,,Cincinnati Bengals,
+NFC Divisional,Sat,Dec 26 1970,3:30,,Detroit Lions,L 0-5,L -3,@,Dallas Cowboys,
+NFC Divisional,Sun,Dec 27 1970,1:00,@,Minnesota Vikings,L 14-17,L -7,,San Francisco 49ers,
+AFC Divisional,Sun,Dec 27 1970,4:00,@,Oakland Raiders,W 21-14,W -6,,Miami Dolphins,
+AFC Championship,Sun,Jan 3 1971,2:00,,Oakland Raiders,L 17-27,L -1.5,@,Baltimore Colts,
+NFC Championship,Sun,Jan 3 1971,4:30,@,San Francisco 49ers,L 10-17,L -4,,Dallas Cowboys,
+Super Bowl V,Sun,Jan 17 1971,1:50,N,Baltimore Colts,W 16-13,W -2.5,,Dallas Cowboys,U 36
