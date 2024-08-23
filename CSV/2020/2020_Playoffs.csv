@@ -1,0 +1,14 @@
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
+AFC Wild Card,Sat,"Jan 9, 2021",1:05,@,Buffalo Bills (2),W 27-24,L -7,,Indianapolis Colts (7),O 50.5
+NFC Wild Card,Sat,"Jan 9, 2021",4:40,@,Seattle Seahawks (3),L 20-30,L -3,,Los Angeles Rams (6),O 42.5
+NFC Wild Card,Sat,"Jan 9, 2021",8:15,,Tampa Bay Buccaneers (5),W 31-23,L -10,@,Washington Football Team (4),O 45
+AFC Wild Card,Sun,"Jan 10, 2021",1:05,,Baltimore Ravens (5),W 20-13,W -3.5,@,Tennessee Titans (4),U 53.5
+NFC Wild Card,Sun,"Jan 10, 2021",4:40,@,New Orleans Saints (2),W 21-9,W -11,,Chicago Bears (7),U 48
+AFC Wild Card,Sun,"Jan 10, 2021",8:15,@,Pittsburgh Steelers (3),L 37-48,L -5,,Cleveland Browns (6),O 47
+NFC Divisional,Sat,"Jan 16, 2021",4:35,@,Green Bay Packers (1),W 32-18,W -7,,Los Angeles Rams (6),O 45
+AFC Divisional,Sat,"Jan 16, 2021",8:15,@,Buffalo Bills (2),W 17-3,W -2.5,,Baltimore Ravens (5),U 49.5
+AFC Divisional,Sun,"Jan 17, 2021",3:05,@,Kansas City Chiefs (1),W 22-17,L -7.5,,Cleveland Browns (6),U 55.5
+NFC Divisional,Sun,"Jan 17, 2021",6:40,@,New Orleans Saints (2),L 20-30,L -2.5,,Tampa Bay Buccaneers (5),U 53
+NFC Championship,Sun,"Jan 24, 2021",3:05,@,Green Bay Packers (1),L 26-31,L -3,,Tampa Bay Buccaneers (5),O 53
+AFC Championship,Sun,"Jan 24, 2021",6:40,@,Kansas City Chiefs (1),W 38-24,W -3,,Buffalo Bills (2),O 55
+Super Bowl LV,Sun,"Feb 7, 2021",6:30,N,Kansas City Chiefs (1),L 9-31,L -3,,Tampa Bay Buccaneers (5),U 55.5
