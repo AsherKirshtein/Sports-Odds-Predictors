@@ -94,7 +94,7 @@ def writeHeader(header_Type, csvwriter):
 
 def scrape_All_Years():
     #Doesn't take too long. I don't want it parallel just to keep everything organized nicely
-    for year in tqdm(range(2006, 2024), desc="Scraping data", unit="year"):
+    for year in tqdm(range(2023, 2025), desc="Scraping data", unit="year"):
         scrapePage(str(year))
         
 scrape_All_Years()
