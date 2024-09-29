@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression, LinearRegression
 from sklearn.metrics import accuracy_score, mean_squared_error
 import numpy as np
-
+from tqdm import tqdm
 
 def combine_record(record):
     # Split the record by space to separate the prefix from the numbers
@@ -70,13 +70,12 @@ def getLastMatchups(amount, team_1, team_2):
                 else:
                     current_week = 15
         except:
-            print("No more matchups availible")
             return matchups
     return matchups
 
 def check_Current_Season(team_1, team_2):
     current_year = 2024
-    current_week = 2
+    current_week = 3
     matchups = []
     while current_week > 0:
         directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/{current_year}'
@@ -131,7 +130,7 @@ def predict_Score(team_1_scores, team_2_scores):
 
 def get_Team_Score_by_last_games(amount_getting, team):
     current_year = 2024
-    current_week = 2
+    current_week = 3
     found = 0
     games = []
     while found < amount_getting:
@@ -177,10 +176,23 @@ def get_individual_team_points(last_games, team):
             team_scores.append(underDog_pts)
     return team_scores
 
+def get_individual_opponent_points(last_games, team):
+    team_scores = []
+    for game in last_games:
+        fav_team = game[4]
+        points = game[5].split()[1]
+        fav_team_pts = points.split('-')[0]
+        underDog_pts = points.split('-')[1]
+        if team == fav_team:
+            team_scores.append(underDog_pts)
+        else:
+            team_scores.append(fav_team_pts)
+    return team_scores
+
 
 def get_Last_Home_games(team, amount_getting):
     current_year = 2024
-    current_week = 2
+    current_week = 3
     found = 0
     games = []
     while found < amount_getting:
@@ -217,7 +229,7 @@ def get_Last_Home_games(team, amount_getting):
             
 def get_Last_Away_games(team, amount_getting):
     current_year = 2024
-    current_week = 2
+    current_week = 3
     found = 0
     games = []
     while found < amount_getting:
@@ -263,6 +275,35 @@ def get_Avg_of_factors(factors):
     
     return round(T1_pred[0]), round(T2_pred[0])
 
+def predict_super_bowl():
+    Teams_and_victories = []
+    for Team in nfl_teams:
+        Teams_and_victories.append([Team, 0, 0])
+    directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/{2024}'
+    csv_filename = os.path.join(directory_path, f'{2024}_Schedule.csv')
+    with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        for row in reader:
+            if row.__contains__('Home_Team'):
+                continue
+            team1 = row[1]
+            team2 = row[2]
+            t1_index = nfl_teams.index(team1)
+            t2_index = nfl_teams.index(team2)
+            prediction = predict_game(team1, team2)
+            try:
+                if prediction[2][0] > prediction[2][1]:
+                    Teams_and_victories[t1_index][1] += 1
+                    Teams_and_victories[t2_index][2] += 1
+                else:
+                    Teams_and_victories[t1_index][2] += 1
+                    Teams_and_victories[t2_index][1] += 1
+            except:
+                print(team1, team2, 'Need to fix team name change issue')
+            
+    print(Teams_and_victories)
+    
+    
 nfl_teams = [
     "Arizona Cardinals", #0
     "Atlanta Falcons", #1
@@ -298,60 +339,172 @@ nfl_teams = [
     "Washington Commanders" #31
 ]
 
-factors = []
+def get_actual_scores(week):
+    directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/{2024}'
+    csv_filename = os.path.join(directory_path, f'{2024}_Week_{week}.csv')
+    actual_scores = []
+    with open(csv_filename, mode='r', newline='', encoding='utf-8') as file:
+        reader = csv.reader(file)
+        for row in reader:
+            if row[0] == 'Day':
+                continue
+            home_attribute = row[4]
+            if home_attribute == '@':
+                home = row[4]
+                away = row[8]
+                score = row[5].lstrip('W').lstrip('L')
+                home_pts = score.split('-')[0]
+                away_pts = score.split('-')[1].replace('(OT)', '').strip()
+            else:
+                home = row[8]
+                away = row[4]
+                score = row[5].lstrip('W').lstrip('L')
+                home_pts = score.split('-')[1].replace('(OT)', '').strip()
+                away_pts = score.split('-')[0]
+                
+            fin_score = [int(home_pts),int(away_pts)]
+            actual_scores.append([home,away, fin_score])
+    return actual_scores
+                
+                
+def predict_by_week(week):
+    directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/{2024}'
+    csv_filename = os.path.join(directory_path, f'{2024}_Schedule.csv')
+    predictions = []
+    with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        for row in reader:
+            if row[0] == str(week):
+                predictions.append(predict_game(row[1],row[2]))
+    return predictions
 
-Team_1 = nfl_teams[0] # assume team_1 is home team
-Team_2 =  nfl_teams[10]     
-matches = getLastMatchups(10, Team_1, Team_2)
-last_5 = getLastMatchups(5, Team_1, Team_2)
-columns = ['Day','Date','Time(ET)','Location','Favorite','Score','Spread','Opponent','Underdog','Over/Under','Additional Notes']
+def check_predictions(predicted_games, actual_games):
+    predicted = [normalize_matchup(game) for game in predicted_games]
+    actual = [normalize_matchup(game) for game in actual_games]
+    actual_games_dict = {tuple(sorted([game[0], game[1]])): game[2] for game in actual}
+    # Align matchups
+    aligned_games = []
+    for predicted_game in predicted:
+        teams = tuple(sorted([predicted_game[0], predicted_game[1]]))
+        if teams in actual_games_dict:
+            aligned_games.append((predicted_game[0], predicted_game[1], predicted_game[2], actual_games_dict[teams]))
 
-last_5pts_by_team = get_Team_Points_by_matchup(Team_1, Team_2, last_5)
-points_by_team = get_Team_Points_by_matchup(Team_1, Team_2, matches)
+    # Print the aligned matchups with predicted and actual scores
+    wins_right = 0
+    for game in aligned_games:
+        predicted_score = game[2]
+        actual_score = game[3]
+        if predicted_score[0] > predicted_score[1] and actual_score[0] > actual_score[1]:
+            print("Predicted Winner:")
+            print(f"{game[0]} vs {game[1]} - Predicted: {game[2]} - Actual: {game[3]}")
+            wins_right +=1
+        elif predicted_score[1] > predicted_score[0] and actual_score[1] > actual_score[0]:
+            print("Predicted Winner:")
+            print(f"{game[0]} vs {game[1]} - Predicted: {game[2]} - Actual: {game[3]}")
+            wins_right +=1
+        else:
+            print("Missed Winner:")
+            print(f"{game[0]} vs {game[1]} - Predicted: {game[2]} - Actual: {game[3]}")
+    
+    print('Got' , wins_right, 'out of', len(aligned_games))
+    
+ 
+def normalize_matchup(game):
+    team1, team2, score = game
+    if team1 > team2:
+        return [team2, team1, score[::-1]]  # Reverse score if teams are reversed
+    return game           
 
-predicted_score_by_matchup = predict_Score(points_by_team[0], points_by_team[1])
-predicted_score_by_matchup_last_5 = predict_Score(last_5pts_by_team[0], last_5pts_by_team[1])
-factors.append(predicted_score_by_matchup_last_5)
-#Predicted score by matchup in last 5 games on each teams last matchups against each other factor 1
-factors.append(predicted_score_by_matchup)
-#Predicted score by matchup in lased 10 games based on each teams last matchups against each other factor 2
+def predict_game(Team_1, Team_2):
+    try:
+        factors = []  
+        matches = getLastMatchups(10, Team_1, Team_2)
+        last_5 = getLastMatchups(5, Team_1, Team_2)
 
-Team_1_last_10 = get_Team_Score_by_last_games(10, Team_1)
-Team_2_last_10 = get_Team_Score_by_last_games(10, Team_2)
-Team_1pts_last_10 = get_individual_team_points(Team_1_last_10, Team_1)
-Team_2pts_last_10 = get_individual_team_points(Team_2_last_10, Team_2)
+        last_5pts_by_team = get_Team_Points_by_matchup(Team_1, Team_2, last_5)
+        points_by_team = get_Team_Points_by_matchup(Team_1, Team_2, matches)
 
-predicted_score_by_last_10_games = predict_Score(Team_1pts_last_10, Team_2pts_last_10) 
-#predicted score by last 10 games factor 3
+        predicted_score_by_matchup = predict_Score(points_by_team[0], points_by_team[1])
+        predicted_score_by_matchup_last_5 = predict_Score(last_5pts_by_team[0], last_5pts_by_team[1])
+        factors.append(predicted_score_by_matchup_last_5)
+        #Predicted score by matchup in last 5 games on each teams last matchups against each other factor 1
+        #factors.append(predicted_score_by_matchup)
+        #Predicted score by matchup in lased 10 games based on each teams last matchups against each other factor 2
 
-Team_1_last_5 = get_Team_Score_by_last_games(5, Team_1)
-Team_2_last_5 = get_Team_Score_by_last_games(5, Team_2)
-Team_1pts_last_5 = get_individual_team_points(Team_1_last_5, Team_1)
-Team_2pts_last_5 = get_individual_team_points(Team_2_last_5, Team_2)
+        Team_1_last_10 = get_Team_Score_by_last_games(10, Team_1)
+        Team_2_last_10 = get_Team_Score_by_last_games(10, Team_2)
+        Team_1pts_last_10 = get_individual_team_points(Team_1_last_10, Team_1)
+        Team_2pts_last_10 = get_individual_team_points(Team_2_last_10, Team_2)
 
-predicted_score_by_last_5_games = predict_Score(Team_1pts_last_5, Team_2pts_last_5) 
-#predicted score by last 5 games factor 4
+        predicted_score_by_last_10_games = predict_Score(Team_1pts_last_10, Team_2pts_last_10) 
+        #predicted score by last 10 games factor 3
 
-factors.append(predicted_score_by_last_10_games)
-factors.append(predicted_score_by_last_5_games)
+        Team_1_last_5 = get_Team_Score_by_last_games(5, Team_1)
+        Team_2_last_5 = get_Team_Score_by_last_games(5, Team_2)
+        Team_1pts_last_5 = get_individual_team_points(Team_1_last_5, Team_1)
+        Team_2pts_last_5 = get_individual_team_points(Team_2_last_5, Team_2)
 
-Team_1_last_home_5 = get_Last_Home_games(Team_1, 5)
-Team_1_last_home_10 = get_Last_Home_games(Team_1,10)
-Team_2_last_away_5 = get_Last_Away_games(Team_2,5)
-Team_2_last_away_10 = get_Last_Away_games(Team_2,10)
+        predicted_score_by_last_5_games = predict_Score(Team_1pts_last_5, Team_2pts_last_5) 
+        #predicted score by last 5 games factor 4
 
-T1_home_last_5_pts = get_individual_team_points(Team_1_last_home_5, Team_1)
-T1_home_last_10_pts = get_individual_team_points(Team_1_last_home_10, Team_1)
-T2_away_last_5_pts = get_individual_team_points(Team_2_last_away_5, Team_2)
-T2_away_last_10_pts = get_individual_team_points(Team_2_last_away_10, Team_2)
+        factors.append(predicted_score_by_last_10_games)
+        factors.append(predicted_score_by_last_5_games)
 
-predicted_score_by_last_5_home_games = predict_Score(T1_home_last_5_pts, T2_away_last_5_pts)
-predicted_score_by_last_10_home_games = predict_Score(T1_home_last_10_pts, T2_away_last_10_pts)
+        Team_1_last_home_5 = get_Last_Home_games(Team_1, 5)
+        Team_1_last_home_10 = get_Last_Home_games(Team_1,10)
+        Team_2_last_away_5 = get_Last_Away_games(Team_2,5)
+        Team_2_last_away_10 = get_Last_Away_games(Team_2,10)
 
-factors.append(predicted_score_by_last_10_home_games) #last 10 home/away games factor 5
-factors.append(predicted_score_by_last_5_home_games) #last 5 home/away games factor 6
+        T1_home_last_5_pts = get_individual_team_points(Team_1_last_home_5, Team_1)
+        T1_home_last_10_pts = get_individual_team_points(Team_1_last_home_10, Team_1)
+        T2_away_last_5_pts = get_individual_team_points(Team_2_last_away_5, Team_2)
+        T2_away_last_10_pts = get_individual_team_points(Team_2_last_away_10, Team_2)
 
-fin_score = get_Avg_of_factors(factors)
+        predicted_score_by_last_5_home_games = predict_Score(T1_home_last_5_pts, T2_away_last_5_pts)
+        predicted_score_by_last_10_home_games = predict_Score(T1_home_last_10_pts, T2_away_last_10_pts)
 
-print(Team_1, fin_score[0])
-print(Team_2, fin_score[1])
+        #factors.append(predicted_score_by_last_10_home_games) #last 10 home/away games factor 5
+        factors.append(predicted_score_by_last_5_home_games) #last 5 home/away games factor 6
+
+        T1_opponent_pts_last_10 = get_individual_opponent_points(Team_1_last_10, Team_1)
+        T2_opponent_pts_last_10 = get_individual_opponent_points(Team_2_last_10, Team_2)
+        T1_opponent_pts_last_5 = get_individual_opponent_points(Team_1_last_5, Team_1)
+        T2_opponent_pts_last_5 = get_individual_opponent_points(Team_2_last_5, Team_2)
+
+        opponent_pts_last_10_predicted = predict_Score(T2_opponent_pts_last_10, T1_opponent_pts_last_10)
+        opponent_pts_last_5_predicted = predict_Score(T2_opponent_pts_last_5, T1_opponent_pts_last_5)
+
+        factors.append(opponent_pts_last_10_predicted) #last 10 scores of the opposing team factor 7
+        factors.append(opponent_pts_last_5_predicted) #last 5 scores of the opposing team factor 8
+
+        T1_Home_opponent_pts_last_10 = get_individual_opponent_points(Team_1_last_home_10, Team_1)
+        T2_Away_opponent_pts_last_10 = get_individual_opponent_points(Team_2_last_away_10, Team_2)
+        T1_Home_opponent_pts_last_5 = get_individual_opponent_points(Team_1_last_home_5, Team_1)
+        T2_Away_opponent_pts_last_5 = get_individual_opponent_points(Team_2_last_away_5, Team_2)
+
+        opponent_Home_pts_last_10_predicted = predict_Score(T2_Away_opponent_pts_last_10, T1_Home_opponent_pts_last_10)
+        opponent_Home_pts_last_5_predicted = predict_Score(T2_Away_opponent_pts_last_5, T1_Home_opponent_pts_last_5)
+
+        factors.append(opponent_Home_pts_last_10_predicted) #last 10 scores of the opposing team factor 9
+        factors.append(opponent_Home_pts_last_5_predicted) #last 5 scores of the opposing team factor 10
+
+        fin_score = get_Avg_of_factors(factors)
+
+        #print(Team_1, fin_score[0])
+        #print(Team_2, fin_score[1])
+        return [Team_1, Team_2, [fin_score[0], fin_score[1]]]
+    except:
+        print("Not enough data for ", Team_1, " vs ", Team_2)
+        return Team_1, Team_2, -1
+
+week_to_predict = 4
+
+#predictions = predict_by_week(week_to_predict)
+#actual_scores = get_actual_scores(week_to_predict)
+
+prediction = predict_game(nfl_teams[27], nfl_teams[21])
+#print(prediction)
+
+predict_super_bowl()
+#check_predictions(predictions, actual_scores)
+#Todo find why jaxonvile dallas win every game, why do vikings lose every game

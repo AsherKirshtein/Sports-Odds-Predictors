@@ -34,7 +34,7 @@ def scrapePage(year):
             else:
                 csv_filename = os.path.join(directory_path, f'{year}_Week_{index - 1}.csv')
                 header_Type = 4
-            with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
+            with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
                 csvwriter = csv.writer(csvfile)
                 writeHeader(header_Type, csvwriter)
                 # Write each row's data to the CSV file
@@ -91,10 +91,41 @@ def writeHeader(header_Type, csvwriter):
             'Over/Under'
         ])
 
+def fix_names():
+    for year in range(1953,2023):
+        directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/{year}'
+
+        # Iterate over all files in the directory
+        for filename in os.listdir(directory_path):
+            # Full path to the file
+            file_path = os.path.join(directory_path, filename)
+            
+            # Check if it's a file (not a directory)
+            if os.path.isfile(file_path):
+                # Open and read the content of the file
+                with open(file_path, 'r+', encoding='utf-8') as file:
+                    content = file.read()
+
+                    # Replace team names in the content
+                    content = content.replace("Washington Redskins", "Washington Commanders")
+                    content = content.replace("Washington Football Team", "Washington Commanders")
+                    
+                    # Move the file pointer to the beginning and truncate the file before writing
+                    file.seek(0)
+                    file.write(content)
+                    file.truncate()
+                    
+                    print(f"Updated team names in {filename}")
+    print("All files processed.")
+        
+
+
 
 def scrape_All_Years():
     #Doesn't take too long. I don't want it parallel just to keep everything organized nicely
     for year in tqdm(range(2023, 2025), desc="Scraping data", unit="year"):
         scrapePage(str(year))
-        
-scrape_All_Years()
+
+ 
+fix_names()        
+#scrape_All_Years()
