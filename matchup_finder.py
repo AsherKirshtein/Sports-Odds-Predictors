@@ -382,7 +382,7 @@ def predict_by_week(week):
                 predictions.append(predict_game(row[1],row[2]))
     return predictions
 
-def check_predictions():
+def check_winners():
     wins_right = 0
     home_margin = 0
     away_margin = 0
@@ -409,16 +409,64 @@ def check_predictions():
                 wins_right +=1
             elif predicted_score[1] > predicted_score[0] and actual_score[1] > actual_score[0]:
                 wins_right +=1
-            else:
-                print("Missed Winner:")
-                print(f"{game[0]} vs {game[1]} - Predicted: {game[2]} - Actual: {game[3]}")
+
             home_margin += predicted_score[0] - actual_score[0]
             away_margin += predicted_score[1] - actual_score[1]
         
-    print('Got' , wins_right, 'out of', season_games, 'Accuracy: ', (wins_right/season_games), '%')
+    print('Predicted games:' , wins_right, 'out of', season_games, 'Accuracy: ', (wins_right/season_games), '%')
     print("Avg Home Team Margin of error: ", (home_margin/season_games), "points")
-    print("Avg Away Team Margin of error: ", (away_margin/season_games), "points")            
-
+    print("Avg Away Team Margin of error: ", (away_margin/season_games), "points")
+    
+def check_vs_spread():            
+    games_played = 0
+    s_right = 0
+    o_right = 0
+    for week_to_predict in range(1,3):
+        directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/{2024}'
+        csv_filename = os.path.join(directory_path, f'{2024}_Week_{week_to_predict}.csv')
+        with open(csv_filename, mode='r', newline='', encoding='utf-8') as file:
+            reader = csv.reader(file)
+            for row in reader:
+                if row[0] == 'Day':
+                    continue
+                games_played +=1
+                home_attribute = row[3]
+                home_team = ''
+                away_team = ''
+                home_is_fav = True
+                if home_attribute == '@':
+                    home_team = row[4]
+                    away_team = row[8]
+                else:
+                    home_team = row[8]
+                    away_team = row[4]
+                    home_is_fav = False
+                
+                prediction = predict_game(home_team,away_team)
+                if not home_is_fav:
+                    prediction[2] = prediction[2][::-1] #flip the score
+                    prediction = prediction[::-1] #flip teams
+                    temp = prediction[0]
+                    prediction.remove(temp)
+                    prediction.append(temp)  
+                spread = prediction[2][0] - prediction[2][1]
+                if int(spread) > abs(float(row[6].split()[1].lstrip('-'))):
+                    if row[6].split()[0] == 'W':
+                        s_right += 1
+                else:
+                    if row[6].split()[0] == 'L':
+                        s_right += 1
+                
+                predicted_total = prediction[2][0] + prediction[2][1]
+                Over_or_Under ,Actual_total = row[9].split()
+                if Over_or_Under == 'O' and predicted_total > float(Actual_total):
+                    o_right +=1
+                elif Over_or_Under == 'U' and predicted_total < float(Actual_total):
+                    o_right +=1
+    
+    print('Spread Accuracy: ', s_right, 'Out of ', games_played, ': ' ,((s_right/games_played)*100), '%' )
+    print('Over Accuracy: ', o_right, 'Out of ', games_played, ': ' ,((o_right/games_played)*100), '%' )
+        
 def normalize_matchup(game):
     team1, team2, score = game
     if team1 > team2:
@@ -510,7 +558,8 @@ def predict_game(Team_1, Team_2):
 week_to_predict = 1
 prediction = predict_game(nfl_teams[14], nfl_teams[2])
 #print(prediction)
-
+print(predict_by_week(4))
 #predict_super_bowl()
-check_predictions()
+#check_winners()
+#check_vs_spread()
 #Todo find why jaxonvile dallas win every game, why do vikings lose every game
