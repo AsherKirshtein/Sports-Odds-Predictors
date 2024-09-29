@@ -183,11 +183,15 @@ def get_individual_opponent_points(last_games, team):
         points = game[5].split()[1]
         fav_team_pts = points.split('-')[0]
         underDog_pts = points.split('-')[1]
+        if int(underDog_pts) < 0:
+                underDog_pts = 0
+        if int(fav_team_pts) < 0:
+                fav_team_pts = 0
         if team == fav_team:
             team_scores.append(underDog_pts)
         else:
             team_scores.append(fav_team_pts)
-    return team_scores
+    return team_scores[::-1]
 
 
 def get_Last_Home_games(team, amount_getting):
@@ -378,37 +382,43 @@ def predict_by_week(week):
                 predictions.append(predict_game(row[1],row[2]))
     return predictions
 
-def check_predictions(predicted_games, actual_games):
-    predicted = [normalize_matchup(game) for game in predicted_games]
-    actual = [normalize_matchup(game) for game in actual_games]
-    actual_games_dict = {tuple(sorted([game[0], game[1]])): game[2] for game in actual}
-    # Align matchups
-    aligned_games = []
-    for predicted_game in predicted:
-        teams = tuple(sorted([predicted_game[0], predicted_game[1]]))
-        if teams in actual_games_dict:
-            aligned_games.append((predicted_game[0], predicted_game[1], predicted_game[2], actual_games_dict[teams]))
-
-    # Print the aligned matchups with predicted and actual scores
+def check_predictions():
     wins_right = 0
-    for game in aligned_games:
-        predicted_score = game[2]
-        actual_score = game[3]
-        if predicted_score[0] > predicted_score[1] and actual_score[0] > actual_score[1]:
-            print("Predicted Winner:")
-            print(f"{game[0]} vs {game[1]} - Predicted: {game[2]} - Actual: {game[3]}")
-            wins_right +=1
-        elif predicted_score[1] > predicted_score[0] and actual_score[1] > actual_score[0]:
-            print("Predicted Winner:")
-            print(f"{game[0]} vs {game[1]} - Predicted: {game[2]} - Actual: {game[3]}")
-            wins_right +=1
-        else:
-            print("Missed Winner:")
-            print(f"{game[0]} vs {game[1]} - Predicted: {game[2]} - Actual: {game[3]}")
-    
-    print('Got' , wins_right, 'out of', len(aligned_games))
-    
- 
+    home_margin = 0
+    away_margin = 0
+    season_games = 0
+    for week_to_predict in range(1,3):
+        predicted_games = predict_by_week(week_to_predict)
+        actual_games = get_actual_scores(week_to_predict)
+        predicted = [normalize_matchup(game) for game in predicted_games]
+        actual = [normalize_matchup(game) for game in actual_games]
+        actual_games_dict = {tuple(sorted([game[0], game[1]])): game[2] for game in actual}
+        # Align matchups
+        aligned_games = []
+        for predicted_game in predicted:
+            teams = tuple(sorted([predicted_game[0], predicted_game[1]]))
+            if teams in actual_games_dict:
+                aligned_games.append((predicted_game[0], predicted_game[1], predicted_game[2], actual_games_dict[teams]))
+
+        # Print the aligned matchups with predicted and actual scores
+        for game in aligned_games:
+            predicted_score = game[2]
+            actual_score = game[3]
+            season_games += 1
+            if predicted_score[0] > predicted_score[1] and actual_score[0] > actual_score[1]:
+                wins_right +=1
+            elif predicted_score[1] > predicted_score[0] and actual_score[1] > actual_score[0]:
+                wins_right +=1
+            else:
+                print("Missed Winner:")
+                print(f"{game[0]} vs {game[1]} - Predicted: {game[2]} - Actual: {game[3]}")
+            home_margin += predicted_score[0] - actual_score[0]
+            away_margin += predicted_score[1] - actual_score[1]
+        
+    print('Got' , wins_right, 'out of', season_games, 'Accuracy: ', (wins_right/season_games), '%')
+    print("Avg Home Team Margin of error: ", (home_margin/season_games), "points")
+    print("Avg Away Team Margin of error: ", (away_margin/season_games), "points")            
+
 def normalize_matchup(game):
     team1, team2, score = game
     if team1 > team2:
@@ -416,10 +426,9 @@ def normalize_matchup(game):
     return game           
 
 def predict_game(Team_1, Team_2):
-    try:
         factors = []  
-        matches = getLastMatchups(10, Team_1, Team_2)
-        last_5 = getLastMatchups(5, Team_1, Team_2)
+        matches = getLastMatchups(10, Team_1, Team_2)[::-1]
+        last_5 = getLastMatchups(5, Team_1, Team_2)[::-1]
 
         last_5pts_by_team = get_Team_Points_by_matchup(Team_1, Team_2, last_5)
         points_by_team = get_Team_Points_by_matchup(Team_1, Team_2, matches)
@@ -428,13 +437,15 @@ def predict_game(Team_1, Team_2):
         predicted_score_by_matchup_last_5 = predict_Score(last_5pts_by_team[0], last_5pts_by_team[1])
         factors.append(predicted_score_by_matchup_last_5)
         #Predicted score by matchup in last 5 games on each teams last matchups against each other factor 1
-        #factors.append(predicted_score_by_matchup)
+        factors.append(predicted_score_by_matchup)
         #Predicted score by matchup in lased 10 games based on each teams last matchups against each other factor 2
 
         Team_1_last_10 = get_Team_Score_by_last_games(10, Team_1)
-        Team_2_last_10 = get_Team_Score_by_last_games(10, Team_2)
+        Team_2_last_10 = get_Team_Score_by_last_games(10, Team_2) 
         Team_1pts_last_10 = get_individual_team_points(Team_1_last_10, Team_1)
         Team_2pts_last_10 = get_individual_team_points(Team_2_last_10, Team_2)
+        
+        
 
         predicted_score_by_last_10_games = predict_Score(Team_1pts_last_10, Team_2pts_last_10) 
         #predicted score by last 10 games factor 3
@@ -463,7 +474,7 @@ def predict_game(Team_1, Team_2):
         predicted_score_by_last_5_home_games = predict_Score(T1_home_last_5_pts, T2_away_last_5_pts)
         predicted_score_by_last_10_home_games = predict_Score(T1_home_last_10_pts, T2_away_last_10_pts)
 
-        #factors.append(predicted_score_by_last_10_home_games) #last 10 home/away games factor 5
+        factors.append(predicted_score_by_last_10_home_games) #last 10 home/away games factor 5
         factors.append(predicted_score_by_last_5_home_games) #last 5 home/away games factor 6
 
         T1_opponent_pts_last_10 = get_individual_opponent_points(Team_1_last_10, Team_1)
@@ -473,6 +484,7 @@ def predict_game(Team_1, Team_2):
 
         opponent_pts_last_10_predicted = predict_Score(T2_opponent_pts_last_10, T1_opponent_pts_last_10)
         opponent_pts_last_5_predicted = predict_Score(T2_opponent_pts_last_5, T1_opponent_pts_last_5)
+
 
         factors.append(opponent_pts_last_10_predicted) #last 10 scores of the opposing team factor 7
         factors.append(opponent_pts_last_5_predicted) #last 5 scores of the opposing team factor 8
@@ -492,19 +504,13 @@ def predict_game(Team_1, Team_2):
 
         #print(Team_1, fin_score[0])
         #print(Team_2, fin_score[1])
+        
         return [Team_1, Team_2, [fin_score[0], fin_score[1]]]
-    except:
-        print("Not enough data for ", Team_1, " vs ", Team_2)
-        return Team_1, Team_2, -1
 
-week_to_predict = 4
-
-#predictions = predict_by_week(week_to_predict)
-#actual_scores = get_actual_scores(week_to_predict)
-
-prediction = predict_game(nfl_teams[27], nfl_teams[21])
+week_to_predict = 1
+prediction = predict_game(nfl_teams[14], nfl_teams[2])
 #print(prediction)
 
-predict_super_bowl()
-#check_predictions(predictions, actual_scores)
+#predict_super_bowl()
+check_predictions()
 #Todo find why jaxonvile dallas win every game, why do vikings lose every game
