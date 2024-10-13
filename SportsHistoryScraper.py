@@ -34,7 +34,7 @@ def scrapePage(year):
             else:
                 csv_filename = os.path.join(directory_path, f'{year}_Week_{index - 1}.csv')
                 header_Type = 4
-            with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
+            with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
                 csvwriter = csv.writer(csvfile)
                 writeHeader(header_Type, csvwriter)
                 # Write each row's data to the CSV file
@@ -127,5 +127,5 @@ def scrape_All_Years():
         scrapePage(str(year))
 
  
-fix_names()        
-#scrape_All_Years()
+#fix_names()        
+scrape_All_Years()

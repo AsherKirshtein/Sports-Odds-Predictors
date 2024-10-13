@@ -6,6 +6,10 @@ from sklearn.linear_model import LogisticRegression, LinearRegression
 from sklearn.metrics import accuracy_score, mean_squared_error
 import numpy as np
 from tqdm import tqdm
+import urllib.parse
+
+from pymongo import MongoClient
+from dotenv import load_dotenv
 
 def combine_record(record):
     # Split the record by space to separate the prefix from the numbers
@@ -196,7 +200,7 @@ def get_individual_opponent_points(last_games, team):
 
 def get_Last_Home_games(team, amount_getting):
     current_year = 2024
-    current_week = 3
+    current_week = 5
     found = 0
     games = []
     while found < amount_getting:
@@ -233,7 +237,7 @@ def get_Last_Home_games(team, amount_getting):
             
 def get_Last_Away_games(team, amount_getting):
     current_year = 2024
-    current_week = 3
+    current_week = 5
     found = 0
     games = []
     while found < amount_getting:
@@ -387,7 +391,7 @@ def check_winners():
     home_margin = 0
     away_margin = 0
     season_games = 0
-    for week_to_predict in range(1,3):
+    for week_to_predict in range(1,5):
         predicted_games = predict_by_week(week_to_predict)
         actual_games = get_actual_scores(week_to_predict)
         predicted = [normalize_matchup(game) for game in predicted_games]
@@ -421,7 +425,7 @@ def check_vs_spread():
     games_played = 0
     s_right = 0
     o_right = 0
-    for week_to_predict in range(1,3):
+    for week_to_predict in range(1,5):
         directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/{2024}'
         csv_filename = os.path.join(directory_path, f'{2024}_Week_{week_to_predict}.csv')
         with open(csv_filename, mode='r', newline='', encoding='utf-8') as file:
@@ -555,11 +559,10 @@ def predict_game(Team_1, Team_2):
         
         return [Team_1, Team_2, [fin_score[0], fin_score[1]]]
 
-week_to_predict = 1
-prediction = predict_game(nfl_teams[14], nfl_teams[2])
+
+#week_to_predict = 1
+#prediction = predict_game(nfl_teams[31], nfl_teams[2])
 #print(prediction)
-print(predict_by_week(4))
 #predict_super_bowl()
-#check_winners()
-#check_vs_spread()
-#Todo find why jaxonvile dallas win every game, why do vikings lose every game
+check_winners()
+check_vs_spread()
