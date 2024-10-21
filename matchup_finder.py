@@ -7,9 +7,13 @@ from sklearn.metrics import accuracy_score, mean_squared_error
 import numpy as np
 from tqdm import tqdm
 import urllib.parse
-
+import boto3
+import pandas as pd
+from io import StringIO
 from pymongo import MongoClient
 from dotenv import load_dotenv
+
+current_week_this_year = 6
 
 def combine_record(record):
     # Split the record by space to separate the prefix from the numbers
@@ -134,7 +138,7 @@ def predict_Score(team_1_scores, team_2_scores):
 
 def get_Team_Score_by_last_games(amount_getting, team):
     current_year = 2024
-    current_week = 3
+    current_week = current_week_this_year
     found = 0
     games = []
     while found < amount_getting:
@@ -200,7 +204,7 @@ def get_individual_opponent_points(last_games, team):
 
 def get_Last_Home_games(team, amount_getting):
     current_year = 2024
-    current_week = 5
+    current_week = current_week_this_year
     found = 0
     games = []
     while found < amount_getting:
@@ -237,7 +241,7 @@ def get_Last_Home_games(team, amount_getting):
             
 def get_Last_Away_games(team, amount_getting):
     current_year = 2024
-    current_week = 5
+    current_week = current_week_this_year
     found = 0
     games = []
     while found < amount_getting:
@@ -391,7 +395,7 @@ def check_winners():
     home_margin = 0
     away_margin = 0
     season_games = 0
-    for week_to_predict in range(1,5):
+    for week_to_predict in range(1,current_week_this_year):
         predicted_games = predict_by_week(week_to_predict)
         actual_games = get_actual_scores(week_to_predict)
         predicted = [normalize_matchup(game) for game in predicted_games]
@@ -417,7 +421,7 @@ def check_winners():
             home_margin += predicted_score[0] - actual_score[0]
             away_margin += predicted_score[1] - actual_score[1]
         
-    print('Predicted games:' , wins_right, 'out of', season_games, 'Accuracy: ', (wins_right/season_games), '%')
+    print('Predicted games:' , wins_right, 'out of', season_games, 'Accuracy: ', ((wins_right/season_games)*100), '%')
     print("Avg Home Team Margin of error: ", (home_margin/season_games), "points")
     print("Avg Away Team Margin of error: ", (away_margin/season_games), "points")
     
@@ -425,7 +429,7 @@ def check_vs_spread():
     games_played = 0
     s_right = 0
     o_right = 0
-    for week_to_predict in range(1,5):
+    for week_to_predict in range(1,current_week_this_year):
         directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/{2024}'
         csv_filename = os.path.join(directory_path, f'{2024}_Week_{week_to_predict}.csv')
         with open(csv_filename, mode='r', newline='', encoding='utf-8') as file:
@@ -475,9 +479,35 @@ def normalize_matchup(game):
     team1, team2, score = game
     if team1 > team2:
         return [team2, team1, score[::-1]]  # Reverse score if teams are reversed
-    return game           
+    return game
+
+def write_weekly_predictions_to_CSV(predicted_week):
+        directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/Prediction'
+        if not os.path.exists(directory_path):
+            os.makedirs(directory_path)
+        csv_filename = os.path.join(directory_path, f'{2024}_Week_{current_week_this_year+1}_Prediction.csv')
+        with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
+            csvwriter = csv.writer(csvfile)
+            csvwriter.writerow(['Week','Home_Team','Home_Score', 'Away_Team', 'Away_Score', 'Winner', 'Total', 'Spread'])
+            week = current_week_this_year + 1
+            for game in predicted_week:
+                Home_Team = game[0]
+                Home_Score = game[2][0]
+                Away_Team = game[1]
+                Away_Score = game[2][1]
+                winner = ''
+                if Home_Score > Away_Score:
+                    winner = Home_Team
+                elif Away_Score > Home_Score:
+                    winner = Away_Team
+                Total = Home_Score + Away_Score
+                Spread = abs(Home_Score - Away_Score)
+                csvwriter.writerow([week, Home_Team, Home_Score, Away_Team, Away_Score, winner, Total, Spread])
+                print(game)
+                  
 
 def predict_game(Team_1, Team_2):
+        
         factors = []  
         matches = getLastMatchups(10, Team_1, Team_2)[::-1]
         last_5 = getLastMatchups(5, Team_1, Team_2)[::-1]
@@ -561,8 +591,11 @@ def predict_game(Team_1, Team_2):
 
 
 #week_to_predict = 1
-#prediction = predict_game(nfl_teams[31], nfl_teams[2])
+#prediction = predict_game(nfl_teams[27], nfl_teams[25])
 #print(prediction)
 #predict_super_bowl()
-check_winners()
-check_vs_spread()
+#check_winners()
+#check_vs_spread()
+
+next_preds = predict_by_week(current_week_this_year+1)
+write_weekly_predictions_to_CSV(next_preds)
