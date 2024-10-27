@@ -1,0 +1,993 @@
+Home_Team,Home_Score,Away_Team,Away_Score,Winner,Total,Spread
+Arizona Cardinals,29,Atlanta Falcons,20,Arizona Cardinals,49,9
+Arizona Cardinals,30,Baltimore Ravens,27,Arizona Cardinals,57,3
+Arizona Cardinals,28,Buffalo Bills,31,Buffalo Bills,59,3
+Arizona Cardinals,31,Carolina Panthers,21,Arizona Cardinals,52,10
+Arizona Cardinals,24,Chicago Bears,22,Arizona Cardinals,46,2
+Arizona Cardinals,24,Cincinnati Bengals,27,Cincinnati Bengals,51,3
+Arizona Cardinals,27,Cleveland Browns,25,Arizona Cardinals,52,2
+Arizona Cardinals,27,Dallas Cowboys,25,Arizona Cardinals,52,2
+Arizona Cardinals,20,Denver Broncos,25,Denver Broncos,45,5
+Arizona Cardinals,20,Detroit Lions,24,Detroit Lions,44,4
+Arizona Cardinals,25,Green Bay Packers,24,Arizona Cardinals,49,1
+Arizona Cardinals,27,Houston Texans,21,Arizona Cardinals,48,6
+Arizona Cardinals,27,Indianapolis Colts,22,Arizona Cardinals,49,5
+Arizona Cardinals,34,Jacksonville Jaguars,21,Arizona Cardinals,55,13
+Arizona Cardinals,21,Kansas City Chiefs,28,Kansas City Chiefs,49,7
+Arizona Cardinals,31,Las Vegas Raiders,26,Arizona Cardinals,57,5
+Arizona Cardinals,24,Los Angeles Chargers,21,Arizona Cardinals,45,3
+Arizona Cardinals,29,Los Angeles Rams,26,Arizona Cardinals,55,3
+Arizona Cardinals,27,Miami Dolphins,30,Miami Dolphins,57,3
+Arizona Cardinals,28,Minnesota Vikings,25,Arizona Cardinals,53,3
+Arizona Cardinals,27,New England Patriots,23,Arizona Cardinals,50,4
+Arizona Cardinals,34,New Orleans Saints,32,Arizona Cardinals,66,2
+Arizona Cardinals,25,New York Giants,22,Arizona Cardinals,47,3
+Arizona Cardinals,27,New York Jets,20,Arizona Cardinals,47,7
+Arizona Cardinals,27,Philadelphia Eagles,27,,54,0
+Arizona Cardinals,23,Pittsburgh Steelers,21,Arizona Cardinals,44,2
+Arizona Cardinals,25,San Francisco 49ers,31,San Francisco 49ers,56,6
+Arizona Cardinals,30,Seattle Seahawks,24,Arizona Cardinals,54,6
+Arizona Cardinals,30,Tampa Bay Buccaneers,23,Arizona Cardinals,53,7
+Arizona Cardinals,26,Tennessee Titans,20,Arizona Cardinals,46,6
+Arizona Cardinals,26,Washington Commanders,24,Arizona Cardinals,50,2
+Atlanta Falcons,23,Arizona Cardinals,26,Arizona Cardinals,49,3
+Atlanta Falcons,21,Baltimore Ravens,25,Baltimore Ravens,46,4
+Atlanta Falcons,19,Buffalo Bills,29,Buffalo Bills,48,10
+Atlanta Falcons,22,Carolina Panthers,18,Atlanta Falcons,40,4
+Atlanta Falcons,17,Chicago Bears,23,Chicago Bears,40,6
+Atlanta Falcons,17,Cincinnati Bengals,27,Cincinnati Bengals,44,10
+Atlanta Falcons,21,Cleveland Browns,25,Cleveland Browns,46,4
+Atlanta Falcons,17,Dallas Cowboys,29,Dallas Cowboys,46,12
+Atlanta Falcons,16,Denver Broncos,22,Denver Broncos,38,6
+Atlanta Falcons,13,Detroit Lions,21,Detroit Lions,34,8
+Atlanta Falcons,17,Green Bay Packers,26,Green Bay Packers,43,9
+Atlanta Falcons,22,Houston Texans,25,Houston Texans,47,3
+Atlanta Falcons,21,Indianapolis Colts,21,,42,0
+Atlanta Falcons,22,Jacksonville Jaguars,21,Atlanta Falcons,43,1
+Atlanta Falcons,14,Kansas City Chiefs,25,Kansas City Chiefs,39,11
+Atlanta Falcons,26,Las Vegas Raiders,22,Atlanta Falcons,48,4
+Atlanta Falcons,13,Los Angeles Chargers,23,Los Angeles Chargers,36,10
+Atlanta Falcons,21,Los Angeles Rams,27,Los Angeles Rams,48,6
+Atlanta Falcons,19,Miami Dolphins,29,Miami Dolphins,48,10
+Atlanta Falcons,22,Minnesota Vikings,23,Minnesota Vikings,45,1
+Atlanta Falcons,16,New England Patriots,24,New England Patriots,40,8
+Atlanta Falcons,23,New Orleans Saints,30,New Orleans Saints,53,7
+Atlanta Falcons,16,New York Giants,21,New York Giants,37,5
+Atlanta Falcons,18,New York Jets,21,New York Jets,39,3
+Atlanta Falcons,18,Philadelphia Eagles,25,Philadelphia Eagles,43,7
+Atlanta Falcons,16,Pittsburgh Steelers,21,Pittsburgh Steelers,37,5
+Atlanta Falcons,20,San Francisco 49ers,26,San Francisco 49ers,46,6
+Atlanta Falcons,25,Seattle Seahawks,24,Atlanta Falcons,49,1
+Atlanta Falcons,22,Tampa Bay Buccaneers,20,Atlanta Falcons,42,2
+Atlanta Falcons,16,Tennessee Titans,21,Tennessee Titans,37,5
+Atlanta Falcons,18,Washington Commanders,24,Washington Commanders,42,6
+Baltimore Ravens,32,Arizona Cardinals,25,Baltimore Ravens,57,7
+Baltimore Ravens,28,Atlanta Falcons,15,Baltimore Ravens,43,13
+Baltimore Ravens,29,Buffalo Bills,25,Baltimore Ravens,54,4
+Baltimore Ravens,32,Carolina Panthers,16,Baltimore Ravens,48,16
+Baltimore Ravens,24,Chicago Bears,19,Baltimore Ravens,43,5
+Baltimore Ravens,25,Cincinnati Bengals,23,Baltimore Ravens,48,2
+Baltimore Ravens,28,Cleveland Browns,22,Baltimore Ravens,50,6
+Baltimore Ravens,27,Dallas Cowboys,25,Baltimore Ravens,52,2
+Baltimore Ravens,21,Denver Broncos,18,Baltimore Ravens,39,3
+Baltimore Ravens,24,Detroit Lions,19,Baltimore Ravens,43,5
+Baltimore Ravens,25,Green Bay Packers,23,Baltimore Ravens,48,2
+Baltimore Ravens,29,Houston Texans,18,Baltimore Ravens,47,11
+Baltimore Ravens,28,Indianapolis Colts,20,Baltimore Ravens,48,8
+Baltimore Ravens,33,Jacksonville Jaguars,19,Baltimore Ravens,52,14
+Baltimore Ravens,22,Kansas City Chiefs,26,Kansas City Chiefs,48,4
+Baltimore Ravens,29,Las Vegas Raiders,23,Baltimore Ravens,52,6
+Baltimore Ravens,21,Los Angeles Chargers,19,Baltimore Ravens,40,2
+Baltimore Ravens,29,Los Angeles Rams,29,,58,0
+Baltimore Ravens,31,Miami Dolphins,28,Baltimore Ravens,59,3
+Baltimore Ravens,28,Minnesota Vikings,22,Baltimore Ravens,50,6
+Baltimore Ravens,31,New England Patriots,21,Baltimore Ravens,52,10
+Baltimore Ravens,32,New Orleans Saints,26,Baltimore Ravens,58,6
+Baltimore Ravens,25,New York Giants,19,Baltimore Ravens,44,6
+Baltimore Ravens,26,New York Jets,20,Baltimore Ravens,46,6
+Baltimore Ravens,29,Philadelphia Eagles,26,Baltimore Ravens,55,3
+Baltimore Ravens,22,Pittsburgh Steelers,19,Baltimore Ravens,41,3
+Baltimore Ravens,28,San Francisco 49ers,24,Baltimore Ravens,52,4
+Baltimore Ravens,34,Seattle Seahawks,18,Baltimore Ravens,52,16
+Baltimore Ravens,31,Tampa Bay Buccaneers,19,Baltimore Ravens,50,12
+Baltimore Ravens,25,Tennessee Titans,19,Baltimore Ravens,44,6
+Baltimore Ravens,28,Washington Commanders,22,Baltimore Ravens,50,6
+Buffalo Bills,32,Arizona Cardinals,25,Buffalo Bills,57,7
+Buffalo Bills,29,Atlanta Falcons,16,Buffalo Bills,45,13
+Buffalo Bills,29,Baltimore Ravens,24,Buffalo Bills,53,5
+Buffalo Bills,31,Carolina Panthers,16,Buffalo Bills,47,15
+Buffalo Bills,24,Chicago Bears,19,Buffalo Bills,43,5
+Buffalo Bills,22,Cincinnati Bengals,21,Buffalo Bills,43,1
+Buffalo Bills,28,Cleveland Browns,22,Buffalo Bills,50,6
+Buffalo Bills,26,Dallas Cowboys,21,Buffalo Bills,47,5
+Buffalo Bills,24,Denver Broncos,19,Buffalo Bills,43,5
+Buffalo Bills,22,Detroit Lions,19,Buffalo Bills,41,3
+Buffalo Bills,22,Green Bay Packers,22,,44,0
+Buffalo Bills,29,Houston Texans,17,Buffalo Bills,46,12
+Buffalo Bills,24,Indianapolis Colts,23,Buffalo Bills,47,1
+Buffalo Bills,33,Jacksonville Jaguars,18,Buffalo Bills,51,15
+Buffalo Bills,21,Kansas City Chiefs,23,Kansas City Chiefs,44,2
+Buffalo Bills,34,Las Vegas Raiders,19,Buffalo Bills,53,15
+Buffalo Bills,22,Los Angeles Chargers,20,Buffalo Bills,42,2
+Buffalo Bills,31,Los Angeles Rams,23,Buffalo Bills,54,8
+Buffalo Bills,27,Miami Dolphins,24,Buffalo Bills,51,3
+Buffalo Bills,28,Minnesota Vikings,20,Buffalo Bills,48,8
+Buffalo Bills,29,New England Patriots,21,Buffalo Bills,50,8
+Buffalo Bills,30,New Orleans Saints,27,Buffalo Bills,57,3
+Buffalo Bills,23,New York Giants,17,Buffalo Bills,40,6
+Buffalo Bills,25,New York Jets,19,Buffalo Bills,44,6
+Buffalo Bills,27,Philadelphia Eagles,26,Buffalo Bills,53,1
+Buffalo Bills,26,Pittsburgh Steelers,17,Buffalo Bills,43,9
+Buffalo Bills,28,San Francisco 49ers,25,Buffalo Bills,53,3
+Buffalo Bills,33,Seattle Seahawks,25,Buffalo Bills,58,8
+Buffalo Bills,29,Tampa Bay Buccaneers,20,Buffalo Bills,49,9
+Buffalo Bills,26,Tennessee Titans,19,Buffalo Bills,45,7
+Buffalo Bills,30,Washington Commanders,20,Buffalo Bills,50,10
+Carolina Panthers,23,Arizona Cardinals,29,Arizona Cardinals,52,6
+Carolina Panthers,19,Atlanta Falcons,20,Atlanta Falcons,39,1
+Carolina Panthers,20,Baltimore Ravens,29,Baltimore Ravens,49,9
+Carolina Panthers,18,Buffalo Bills,31,Buffalo Bills,49,13
+Carolina Panthers,13,Chicago Bears,24,Chicago Bears,37,11
+Carolina Panthers,17,Cincinnati Bengals,32,Cincinnati Bengals,49,15
+Carolina Panthers,19,Cleveland Browns,30,Cleveland Browns,49,11
+Carolina Panthers,17,Dallas Cowboys,31,Dallas Cowboys,48,14
+Carolina Panthers,15,Denver Broncos,26,Denver Broncos,41,11
+Carolina Panthers,16,Detroit Lions,27,Detroit Lions,43,11
+Carolina Panthers,16,Green Bay Packers,30,Green Bay Packers,46,14
+Carolina Panthers,19,Houston Texans,23,Houston Texans,42,4
+Carolina Panthers,18,Indianapolis Colts,29,Indianapolis Colts,47,11
+Carolina Panthers,22,Jacksonville Jaguars,26,Jacksonville Jaguars,48,4
+Carolina Panthers,15,Kansas City Chiefs,30,Kansas City Chiefs,45,15
+Carolina Panthers,26,Las Vegas Raiders,27,Las Vegas Raiders,53,1
+Carolina Panthers,6,Los Angeles Chargers,30,Los Angeles Chargers,36,24
+Carolina Panthers,19,Los Angeles Rams,33,Los Angeles Rams,52,14
+Carolina Panthers,19,Miami Dolphins,35,Miami Dolphins,54,16
+Carolina Panthers,19,Minnesota Vikings,27,Minnesota Vikings,46,8
+Carolina Panthers,19,New England Patriots,28,New England Patriots,47,9
+Carolina Panthers,20,New Orleans Saints,35,New Orleans Saints,55,15
+Carolina Panthers,14,New York Giants,26,New York Giants,40,12
+Carolina Panthers,18,New York Jets,27,New York Jets,45,9
+Carolina Panthers,18,Philadelphia Eagles,28,Philadelphia Eagles,46,10
+Carolina Panthers,16,Pittsburgh Steelers,29,Pittsburgh Steelers,45,13
+Carolina Panthers,18,San Francisco 49ers,34,San Francisco 49ers,52,16
+Carolina Panthers,26,Seattle Seahawks,29,Seattle Seahawks,55,3
+Carolina Panthers,19,Tampa Bay Buccaneers,23,Tampa Bay Buccaneers,42,4
+Carolina Panthers,17,Tennessee Titans,23,Tennessee Titans,40,6
+Carolina Panthers,19,Washington Commanders,28,Washington Commanders,47,9
+Chicago Bears,25,Arizona Cardinals,20,Chicago Bears,45,5
+Chicago Bears,25,Atlanta Falcons,13,Chicago Bears,38,12
+Chicago Bears,24,Baltimore Ravens,19,Chicago Bears,43,5
+Chicago Bears,22,Buffalo Bills,22,,44,0
+Chicago Bears,26,Carolina Panthers,11,Chicago Bears,37,15
+Chicago Bears,19,Cincinnati Bengals,16,Chicago Bears,35,3
+Chicago Bears,19,Cleveland Browns,18,Chicago Bears,37,1
+Chicago Bears,21,Dallas Cowboys,23,Dallas Cowboys,44,2
+Chicago Bears,15,Denver Broncos,16,Denver Broncos,31,1
+Chicago Bears,17,Detroit Lions,17,,34,0
+Chicago Bears,17,Green Bay Packers,19,Green Bay Packers,36,2
+Chicago Bears,23,Houston Texans,14,Chicago Bears,37,9
+Chicago Bears,20,Indianapolis Colts,17,Chicago Bears,37,3
+Chicago Bears,29,Jacksonville Jaguars,14,Chicago Bears,43,15
+Chicago Bears,13,Kansas City Chiefs,21,Kansas City Chiefs,34,8
+Chicago Bears,27,Las Vegas Raiders,18,Chicago Bears,45,9
+Chicago Bears,13,Los Angeles Chargers,21,Los Angeles Chargers,34,8
+Chicago Bears,20,Los Angeles Rams,21,Los Angeles Rams,41,1
+Chicago Bears,22,Miami Dolphins,24,Miami Dolphins,46,2
+Chicago Bears,19,Minnesota Vikings,15,Chicago Bears,34,4
+Chicago Bears,25,New England Patriots,19,Chicago Bears,44,6
+Chicago Bears,25,New Orleans Saints,23,Chicago Bears,48,2
+Chicago Bears,17,New York Giants,13,Chicago Bears,30,4
+Chicago Bears,19,New York Jets,18,Chicago Bears,37,1
+Chicago Bears,19,Philadelphia Eagles,19,,38,0
+Chicago Bears,21,Pittsburgh Steelers,16,Chicago Bears,37,5
+Chicago Bears,20,San Francisco 49ers,19,Chicago Bears,39,1
+Chicago Bears,26,Seattle Seahawks,16,Chicago Bears,42,10
+Chicago Bears,22,Tampa Bay Buccaneers,16,Chicago Bears,38,6
+Chicago Bears,19,Tennessee Titans,15,Chicago Bears,34,4
+Chicago Bears,23,Washington Commanders,17,Chicago Bears,40,6
+Cincinnati Bengals,28,Arizona Cardinals,26,Cincinnati Bengals,54,2
+Cincinnati Bengals,27,Atlanta Falcons,19,Cincinnati Bengals,46,8
+Cincinnati Bengals,26,Baltimore Ravens,26,,52,0
+Cincinnati Bengals,22,Buffalo Bills,27,Buffalo Bills,49,5
+Cincinnati Bengals,32,Carolina Panthers,21,Cincinnati Bengals,53,11
+Cincinnati Bengals,18,Chicago Bears,22,Chicago Bears,40,4
+Cincinnati Bengals,23,Cleveland Browns,23,,46,0
+Cincinnati Bengals,19,Dallas Cowboys,26,Dallas Cowboys,45,7
+Cincinnati Bengals,16,Denver Broncos,22,Denver Broncos,38,6
+Cincinnati Bengals,20,Detroit Lions,21,Detroit Lions,41,1
+Cincinnati Bengals,21,Green Bay Packers,27,Green Bay Packers,48,6
+Cincinnati Bengals,25,Houston Texans,24,Cincinnati Bengals,49,1
+Cincinnati Bengals,27,Indianapolis Colts,22,Cincinnati Bengals,49,5
+Cincinnati Bengals,30,Jacksonville Jaguars,24,Cincinnati Bengals,54,6
+Cincinnati Bengals,18,Kansas City Chiefs,26,Kansas City Chiefs,44,8
+Cincinnati Bengals,28,Las Vegas Raiders,24,Cincinnati Bengals,52,4
+Cincinnati Bengals,17,Los Angeles Chargers,28,Los Angeles Chargers,45,11
+Cincinnati Bengals,23,Los Angeles Rams,25,Los Angeles Rams,48,2
+Cincinnati Bengals,22,Miami Dolphins,28,Miami Dolphins,50,6
+Cincinnati Bengals,24,Minnesota Vikings,23,Cincinnati Bengals,47,1
+Cincinnati Bengals,22,New England Patriots,22,,44,0
+Cincinnati Bengals,27,New Orleans Saints,31,New Orleans Saints,58,4
+Cincinnati Bengals,19,New York Giants,21,New York Giants,40,2
+Cincinnati Bengals,22,New York Jets,23,New York Jets,45,1
+Cincinnati Bengals,23,Philadelphia Eagles,25,Philadelphia Eagles,48,2
+Cincinnati Bengals,19,Pittsburgh Steelers,23,Pittsburgh Steelers,42,4
+Cincinnati Bengals,24,San Francisco 49ers,27,San Francisco 49ers,51,3
+Cincinnati Bengals,28,Seattle Seahawks,22,Cincinnati Bengals,50,6
+Cincinnati Bengals,27,Tampa Bay Buccaneers,22,Cincinnati Bengals,49,5
+Cincinnati Bengals,18,Tennessee Titans,22,Tennessee Titans,40,4
+Cincinnati Bengals,24,Washington Commanders,27,Washington Commanders,51,3
+Cleveland Browns,27,Arizona Cardinals,25,Cleveland Browns,52,2
+Cleveland Browns,26,Atlanta Falcons,19,Cleveland Browns,45,7
+Cleveland Browns,26,Baltimore Ravens,24,Cleveland Browns,50,2
+Cleveland Browns,24,Buffalo Bills,28,Buffalo Bills,52,4
+Cleveland Browns,30,Carolina Panthers,19,Cleveland Browns,49,11
+Cleveland Browns,20,Chicago Bears,18,Cleveland Browns,38,2
+Cleveland Browns,19,Cincinnati Bengals,23,Cincinnati Bengals,42,4
+Cleveland Browns,25,Dallas Cowboys,28,Dallas Cowboys,53,3
+Cleveland Browns,17,Denver Broncos,22,Denver Broncos,39,5
+Cleveland Browns,19,Detroit Lions,22,Detroit Lions,41,3
+Cleveland Browns,21,Green Bay Packers,26,Green Bay Packers,47,5
+Cleveland Browns,28,Houston Texans,20,Cleveland Browns,48,8
+Cleveland Browns,28,Indianapolis Colts,24,Cleveland Browns,52,4
+Cleveland Browns,29,Jacksonville Jaguars,21,Cleveland Browns,50,8
+Cleveland Browns,18,Kansas City Chiefs,26,Kansas City Chiefs,44,8
+Cleveland Browns,27,Las Vegas Raiders,24,Cleveland Browns,51,3
+Cleveland Browns,23,Los Angeles Chargers,27,Los Angeles Chargers,50,4
+Cleveland Browns,25,Los Angeles Rams,27,Los Angeles Rams,52,2
+Cleveland Browns,25,Miami Dolphins,30,Miami Dolphins,55,5
+Cleveland Browns,23,Minnesota Vikings,21,Cleveland Browns,44,2
+Cleveland Browns,23,New England Patriots,26,New England Patriots,49,3
+Cleveland Browns,27,New Orleans Saints,27,,54,0
+Cleveland Browns,19,New York Giants,20,New York Giants,39,1
+Cleveland Browns,25,New York Jets,23,Cleveland Browns,48,2
+Cleveland Browns,22,Philadelphia Eagles,24,Philadelphia Eagles,46,2
+Cleveland Browns,21,Pittsburgh Steelers,20,Cleveland Browns,41,1
+Cleveland Browns,22,San Francisco 49ers,25,San Francisco 49ers,47,3
+Cleveland Browns,28,Seattle Seahawks,24,Cleveland Browns,52,4
+Cleveland Browns,26,Tampa Bay Buccaneers,20,Cleveland Browns,46,6
+Cleveland Browns,23,Tennessee Titans,20,Cleveland Browns,43,3
+Cleveland Browns,26,Washington Commanders,23,Cleveland Browns,49,3
+Dallas Cowboys,30,Arizona Cardinals,32,Arizona Cardinals,62,2
+Dallas Cowboys,33,Atlanta Falcons,22,Dallas Cowboys,55,11
+Dallas Cowboys,32,Baltimore Ravens,30,Dallas Cowboys,62,2
+Dallas Cowboys,26,Buffalo Bills,33,Buffalo Bills,59,7
+Dallas Cowboys,34,Carolina Panthers,23,Dallas Cowboys,57,11
+Dallas Cowboys,28,Chicago Bears,27,Dallas Cowboys,55,1
+Dallas Cowboys,25,Cincinnati Bengals,26,Cincinnati Bengals,51,1
+Dallas Cowboys,31,Cleveland Browns,31,,62,0
+Dallas Cowboys,22,Denver Broncos,30,Denver Broncos,52,8
+Dallas Cowboys,23,Detroit Lions,24,Detroit Lions,47,1
+Dallas Cowboys,27,Green Bay Packers,32,Green Bay Packers,59,5
+Dallas Cowboys,28,Houston Texans,27,Dallas Cowboys,55,1
+Dallas Cowboys,31,Indianapolis Colts,26,Dallas Cowboys,57,5
+Dallas Cowboys,36,Jacksonville Jaguars,27,Dallas Cowboys,63,9
+Dallas Cowboys,20,Kansas City Chiefs,28,Kansas City Chiefs,48,8
+Dallas Cowboys,33,Las Vegas Raiders,33,,66,0
+Dallas Cowboys,23,Los Angeles Chargers,25,Los Angeles Chargers,48,2
+Dallas Cowboys,31,Los Angeles Rams,28,Dallas Cowboys,59,3
+Dallas Cowboys,27,Miami Dolphins,31,Miami Dolphins,58,4
+Dallas Cowboys,31,Minnesota Vikings,24,Dallas Cowboys,55,7
+Dallas Cowboys,32,New England Patriots,26,Dallas Cowboys,58,6
+Dallas Cowboys,31,New Orleans Saints,34,New Orleans Saints,65,3
+Dallas Cowboys,29,New York Giants,24,Dallas Cowboys,53,5
+Dallas Cowboys,26,New York Jets,26,,52,0
+Dallas Cowboys,28,Philadelphia Eagles,30,Philadelphia Eagles,58,2
+Dallas Cowboys,26,Pittsburgh Steelers,27,Pittsburgh Steelers,53,1
+Dallas Cowboys,28,San Francisco 49ers,33,San Francisco 49ers,61,5
+Dallas Cowboys,35,Seattle Seahawks,31,Dallas Cowboys,66,4
+Dallas Cowboys,28,Tampa Bay Buccaneers,26,Dallas Cowboys,54,2
+Dallas Cowboys,25,Tennessee Titans,24,Dallas Cowboys,49,1
+Dallas Cowboys,30,Washington Commanders,26,Dallas Cowboys,56,4
+Denver Broncos,26,Arizona Cardinals,20,Denver Broncos,46,6
+Denver Broncos,21,Atlanta Falcons,15,Denver Broncos,36,6
+Denver Broncos,21,Baltimore Ravens,19,Denver Broncos,40,2
+Denver Broncos,20,Buffalo Bills,25,Buffalo Bills,45,5
+Denver Broncos,25,Carolina Panthers,16,Denver Broncos,41,9
+Denver Broncos,17,Chicago Bears,16,Denver Broncos,33,1
+Denver Broncos,17,Cincinnati Bengals,18,Cincinnati Bengals,35,1
+Denver Broncos,21,Cleveland Browns,18,Denver Broncos,39,3
+Denver Broncos,23,Dallas Cowboys,21,Denver Broncos,44,2
+Denver Broncos,17,Detroit Lions,18,Detroit Lions,35,1
+Denver Broncos,18,Green Bay Packers,20,Green Bay Packers,38,2
+Denver Broncos,21,Houston Texans,17,Denver Broncos,38,4
+Denver Broncos,19,Indianapolis Colts,15,Denver Broncos,34,4
+Denver Broncos,25,Jacksonville Jaguars,17,Denver Broncos,42,8
+Denver Broncos,15,Kansas City Chiefs,18,Kansas City Chiefs,33,3
+Denver Broncos,22,Las Vegas Raiders,21,Denver Broncos,43,1
+Denver Broncos,15,Los Angeles Chargers,16,Los Angeles Chargers,31,1
+Denver Broncos,21,Los Angeles Rams,26,Los Angeles Rams,47,5
+Denver Broncos,19,Miami Dolphins,29,Miami Dolphins,48,10
+Denver Broncos,21,Minnesota Vikings,18,Denver Broncos,39,3
+Denver Broncos,21,New England Patriots,19,Denver Broncos,40,2
+Denver Broncos,24,New Orleans Saints,25,New Orleans Saints,49,1
+Denver Broncos,19,New York Giants,16,Denver Broncos,35,3
+Denver Broncos,18,New York Jets,18,,36,0
+Denver Broncos,20,Philadelphia Eagles,24,Philadelphia Eagles,44,4
+Denver Broncos,16,Pittsburgh Steelers,16,,32,0
+Denver Broncos,19,San Francisco 49ers,19,,38,0
+Denver Broncos,24,Seattle Seahawks,19,Denver Broncos,43,5
+Denver Broncos,23,Tampa Bay Buccaneers,15,Denver Broncos,38,8
+Denver Broncos,14,Tennessee Titans,14,,28,0
+Denver Broncos,22,Washington Commanders,20,Denver Broncos,42,2
+Detroit Lions,28,Arizona Cardinals,21,Detroit Lions,49,7
+Detroit Lions,24,Atlanta Falcons,14,Detroit Lions,38,10
+Detroit Lions,25,Baltimore Ravens,24,Detroit Lions,49,1
+Detroit Lions,23,Buffalo Bills,25,Buffalo Bills,48,2
+Detroit Lions,30,Carolina Panthers,18,Detroit Lions,48,12
+Detroit Lions,21,Chicago Bears,19,Detroit Lions,40,2
+Detroit Lions,19,Cincinnati Bengals,22,Cincinnati Bengals,41,3
+Detroit Lions,25,Cleveland Browns,21,Detroit Lions,46,4
+Detroit Lions,21,Dallas Cowboys,22,Dallas Cowboys,43,1
+Detroit Lions,19,Denver Broncos,20,Denver Broncos,39,1
+Detroit Lions,22,Green Bay Packers,23,Green Bay Packers,45,1
+Detroit Lions,24,Houston Texans,23,Detroit Lions,47,1
+Detroit Lions,26,Indianapolis Colts,23,Detroit Lions,49,3
+Detroit Lions,31,Jacksonville Jaguars,17,Detroit Lions,48,14
+Detroit Lions,19,Kansas City Chiefs,24,Kansas City Chiefs,43,5
+Detroit Lions,27,Las Vegas Raiders,21,Detroit Lions,48,6
+Detroit Lions,27,Los Angeles Chargers,29,Los Angeles Chargers,56,2
+Detroit Lions,25,Los Angeles Rams,24,Detroit Lions,49,1
+Detroit Lions,24,Miami Dolphins,26,Miami Dolphins,50,2
+Detroit Lions,26,Minnesota Vikings,18,Detroit Lions,44,8
+Detroit Lions,22,New England Patriots,21,Detroit Lions,43,1
+Detroit Lions,30,New Orleans Saints,28,Detroit Lions,58,2
+Detroit Lions,22,New York Giants,18,Detroit Lions,40,4
+Detroit Lions,21,New York Jets,22,New York Jets,43,1
+Detroit Lions,23,Philadelphia Eagles,26,Philadelphia Eagles,49,3
+Detroit Lions,20,Pittsburgh Steelers,18,Detroit Lions,38,2
+Detroit Lions,25,San Francisco 49ers,26,San Francisco 49ers,51,1
+Detroit Lions,32,Seattle Seahawks,26,Detroit Lions,58,6
+Detroit Lions,24,Tampa Bay Buccaneers,17,Detroit Lions,41,7
+Detroit Lions,22,Tennessee Titans,22,,44,0
+Detroit Lions,26,Washington Commanders,22,Detroit Lions,48,4
+Green Bay Packers,22,Arizona Cardinals,22,,44,0
+Green Bay Packers,23,Atlanta Falcons,14,Green Bay Packers,37,9
+Green Bay Packers,24,Baltimore Ravens,20,Green Bay Packers,44,4
+Green Bay Packers,20,Buffalo Bills,21,Buffalo Bills,41,1
+Green Bay Packers,27,Carolina Panthers,15,Green Bay Packers,42,12
+Green Bay Packers,18,Chicago Bears,14,Green Bay Packers,32,4
+Green Bay Packers,19,Cincinnati Bengals,19,,38,0
+Green Bay Packers,22,Cleveland Browns,19,Green Bay Packers,41,3
+Green Bay Packers,22,Dallas Cowboys,22,,44,0
+Green Bay Packers,15,Denver Broncos,17,Denver Broncos,32,2
+Green Bay Packers,17,Detroit Lions,18,Detroit Lions,35,1
+Green Bay Packers,25,Houston Texans,16,Green Bay Packers,41,9
+Green Bay Packers,21,Indianapolis Colts,18,Green Bay Packers,39,3
+Green Bay Packers,26,Jacksonville Jaguars,17,Green Bay Packers,43,9
+Green Bay Packers,16,Kansas City Chiefs,19,Kansas City Chiefs,35,3
+Green Bay Packers,22,Las Vegas Raiders,20,Green Bay Packers,42,2
+Green Bay Packers,18,Los Angeles Chargers,17,Green Bay Packers,35,1
+Green Bay Packers,22,Los Angeles Rams,18,Green Bay Packers,40,4
+Green Bay Packers,21,Miami Dolphins,22,Miami Dolphins,43,1
+Green Bay Packers,21,Minnesota Vikings,16,Green Bay Packers,37,5
+Green Bay Packers,23,New England Patriots,19,Green Bay Packers,42,4
+Green Bay Packers,23,New Orleans Saints,24,New Orleans Saints,47,1
+Green Bay Packers,18,New York Giants,17,Green Bay Packers,35,1
+Green Bay Packers,21,New York Jets,20,Green Bay Packers,41,1
+Green Bay Packers,23,Philadelphia Eagles,23,,46,0
+Green Bay Packers,19,Pittsburgh Steelers,16,Green Bay Packers,35,3
+Green Bay Packers,22,San Francisco 49ers,23,San Francisco 49ers,45,1
+Green Bay Packers,25,Seattle Seahawks,15,Green Bay Packers,40,10
+Green Bay Packers,22,Tampa Bay Buccaneers,18,Green Bay Packers,40,4
+Green Bay Packers,18,Tennessee Titans,15,Green Bay Packers,33,3
+Green Bay Packers,21,Washington Commanders,18,Green Bay Packers,39,3
+Houston Texans,23,Arizona Cardinals,22,Houston Texans,45,1
+Houston Texans,26,Atlanta Falcons,17,Houston Texans,43,9
+Houston Texans,22,Baltimore Ravens,23,Baltimore Ravens,45,1
+Houston Texans,19,Buffalo Bills,26,Buffalo Bills,45,7
+Houston Texans,24,Carolina Panthers,15,Houston Texans,39,9
+Houston Texans,16,Chicago Bears,18,Chicago Bears,34,2
+Houston Texans,20,Cincinnati Bengals,22,Cincinnati Bengals,42,2
+Houston Texans,21,Cleveland Browns,24,Cleveland Browns,45,3
+Houston Texans,21,Dallas Cowboys,22,Dallas Cowboys,43,1
+Houston Texans,15,Denver Broncos,18,Denver Broncos,33,3
+Houston Texans,20,Detroit Lions,17,Houston Texans,37,3
+Houston Texans,18,Green Bay Packers,25,Green Bay Packers,43,7
+Houston Texans,22,Indianapolis Colts,19,Houston Texans,41,3
+Houston Texans,26,Jacksonville Jaguars,19,Houston Texans,45,7
+Houston Texans,17,Kansas City Chiefs,23,Kansas City Chiefs,40,6
+Houston Texans,24,Las Vegas Raiders,25,Las Vegas Raiders,49,1
+Houston Texans,17,Los Angeles Chargers,23,Los Angeles Chargers,40,6
+Houston Texans,25,Los Angeles Rams,26,Los Angeles Rams,51,1
+Houston Texans,19,Miami Dolphins,25,Miami Dolphins,44,6
+Houston Texans,19,Minnesota Vikings,20,Minnesota Vikings,39,1
+Houston Texans,23,New England Patriots,18,Houston Texans,41,5
+Houston Texans,26,New Orleans Saints,23,Houston Texans,49,3
+Houston Texans,18,New York Giants,19,New York Giants,37,1
+Houston Texans,18,New York Jets,20,New York Jets,38,2
+Houston Texans,21,Philadelphia Eagles,23,Philadelphia Eagles,44,2
+Houston Texans,19,Pittsburgh Steelers,17,Houston Texans,36,2
+Houston Texans,17,San Francisco 49ers,24,San Francisco 49ers,41,7
+Houston Texans,27,Seattle Seahawks,21,Houston Texans,48,6
+Houston Texans,26,Tampa Bay Buccaneers,19,Houston Texans,45,7
+Houston Texans,18,Tennessee Titans,14,Houston Texans,32,4
+Houston Texans,20,Washington Commanders,19,Houston Texans,39,1
+Indianapolis Colts,24,Arizona Cardinals,24,,48,0
+Indianapolis Colts,22,Atlanta Falcons,18,Indianapolis Colts,40,4
+Indianapolis Colts,25,Baltimore Ravens,24,Indianapolis Colts,49,1
+Indianapolis Colts,25,Buffalo Bills,24,Indianapolis Colts,49,1
+Indianapolis Colts,30,Carolina Panthers,17,Indianapolis Colts,47,13
+Indianapolis Colts,19,Chicago Bears,18,Indianapolis Colts,37,1
+Indianapolis Colts,19,Cincinnati Bengals,26,Cincinnati Bengals,45,7
+Indianapolis Colts,25,Cleveland Browns,27,Cleveland Browns,52,2
+Indianapolis Colts,21,Dallas Cowboys,27,Dallas Cowboys,48,6
+Indianapolis Colts,14,Denver Broncos,19,Denver Broncos,33,5
+Indianapolis Colts,21,Detroit Lions,22,Detroit Lions,43,1
+Indianapolis Colts,20,Green Bay Packers,24,Green Bay Packers,44,4
+Indianapolis Colts,24,Houston Texans,21,Indianapolis Colts,45,3
+Indianapolis Colts,27,Jacksonville Jaguars,24,Indianapolis Colts,51,3
+Indianapolis Colts,16,Kansas City Chiefs,22,Kansas City Chiefs,38,6
+Indianapolis Colts,23,Las Vegas Raiders,23,,46,0
+Indianapolis Colts,9,Los Angeles Chargers,19,Los Angeles Chargers,28,10
+Indianapolis Colts,25,Los Angeles Rams,26,Los Angeles Rams,51,1
+Indianapolis Colts,22,Miami Dolphins,25,Miami Dolphins,47,3
+Indianapolis Colts,26,Minnesota Vikings,21,Indianapolis Colts,47,5
+Indianapolis Colts,22,New England Patriots,22,,44,0
+Indianapolis Colts,26,New Orleans Saints,30,New Orleans Saints,56,4
+Indianapolis Colts,20,New York Giants,22,New York Giants,42,2
+Indianapolis Colts,25,New York Jets,22,Indianapolis Colts,47,3
+Indianapolis Colts,20,Philadelphia Eagles,23,Philadelphia Eagles,43,3
+Indianapolis Colts,20,Pittsburgh Steelers,19,Indianapolis Colts,39,1
+Indianapolis Colts,23,San Francisco 49ers,24,San Francisco 49ers,47,1
+Indianapolis Colts,27,Seattle Seahawks,24,Indianapolis Colts,51,3
+Indianapolis Colts,27,Tampa Bay Buccaneers,21,Indianapolis Colts,48,6
+Indianapolis Colts,20,Tennessee Titans,19,Indianapolis Colts,39,1
+Indianapolis Colts,22,Washington Commanders,20,Indianapolis Colts,42,2
+Jacksonville Jaguars,21,Arizona Cardinals,28,Arizona Cardinals,49,7
+Jacksonville Jaguars,20,Atlanta Falcons,17,Jacksonville Jaguars,37,3
+Jacksonville Jaguars,21,Baltimore Ravens,27,Baltimore Ravens,48,6
+Jacksonville Jaguars,18,Buffalo Bills,30,Buffalo Bills,48,12
+Jacksonville Jaguars,24,Carolina Panthers,19,Jacksonville Jaguars,43,5
+Jacksonville Jaguars,14,Chicago Bears,24,Chicago Bears,38,10
+Jacksonville Jaguars,18,Cincinnati Bengals,27,Cincinnati Bengals,45,9
+Jacksonville Jaguars,19,Cleveland Browns,26,Cleveland Browns,45,7
+Jacksonville Jaguars,19,Dallas Cowboys,29,Dallas Cowboys,48,10
+Jacksonville Jaguars,14,Denver Broncos,23,Denver Broncos,37,9
+Jacksonville Jaguars,13,Detroit Lions,25,Detroit Lions,38,12
+Jacksonville Jaguars,17,Green Bay Packers,26,Green Bay Packers,43,9
+Jacksonville Jaguars,21,Houston Texans,22,Houston Texans,43,1
+Jacksonville Jaguars,23,Indianapolis Colts,23,,46,0
+Jacksonville Jaguars,12,Kansas City Chiefs,26,Kansas City Chiefs,38,14
+Jacksonville Jaguars,23,Las Vegas Raiders,25,Las Vegas Raiders,48,2
+Jacksonville Jaguars,18,Los Angeles Chargers,23,Los Angeles Chargers,41,5
+Jacksonville Jaguars,16,Los Angeles Rams,31,Los Angeles Rams,47,15
+Jacksonville Jaguars,18,Miami Dolphins,28,Miami Dolphins,46,10
+Jacksonville Jaguars,20,Minnesota Vikings,22,Minnesota Vikings,42,2
+Jacksonville Jaguars,20,New England Patriots,27,New England Patriots,47,7
+Jacksonville Jaguars,23,New Orleans Saints,28,New Orleans Saints,51,5
+Jacksonville Jaguars,15,New York Giants,22,New York Giants,37,7
+Jacksonville Jaguars,17,New York Jets,21,New York Jets,38,4
+Jacksonville Jaguars,18,Philadelphia Eagles,28,Philadelphia Eagles,46,10
+Jacksonville Jaguars,15,Pittsburgh Steelers,21,Pittsburgh Steelers,36,6
+Jacksonville Jaguars,16,San Francisco 49ers,31,San Francisco 49ers,47,15
+Jacksonville Jaguars,22,Seattle Seahawks,25,Seattle Seahawks,47,3
+Jacksonville Jaguars,20,Tampa Bay Buccaneers,23,Tampa Bay Buccaneers,43,3
+Jacksonville Jaguars,18,Tennessee Titans,21,Tennessee Titans,39,3
+Jacksonville Jaguars,18,Washington Commanders,25,Washington Commanders,43,7
+Kansas City Chiefs,29,Arizona Cardinals,20,Kansas City Chiefs,49,9
+Kansas City Chiefs,24,Atlanta Falcons,13,Kansas City Chiefs,37,11
+Kansas City Chiefs,29,Baltimore Ravens,20,Kansas City Chiefs,49,9
+Kansas City Chiefs,23,Buffalo Bills,23,,46,0
+Kansas City Chiefs,29,Carolina Panthers,16,Kansas City Chiefs,45,13
+Kansas City Chiefs,22,Chicago Bears,13,Kansas City Chiefs,35,9
+Kansas City Chiefs,21,Cincinnati Bengals,20,Kansas City Chiefs,41,1
+Kansas City Chiefs,25,Cleveland Browns,19,Kansas City Chiefs,44,6
+Kansas City Chiefs,21,Dallas Cowboys,18,Kansas City Chiefs,39,3
+Kansas City Chiefs,16,Denver Broncos,17,Denver Broncos,33,1
+Kansas City Chiefs,20,Detroit Lions,17,Kansas City Chiefs,37,3
+Kansas City Chiefs,20,Green Bay Packers,21,Green Bay Packers,41,1
+Kansas City Chiefs,26,Houston Texans,17,Kansas City Chiefs,43,9
+Kansas City Chiefs,22,Indianapolis Colts,16,Kansas City Chiefs,38,6
+Kansas City Chiefs,28,Jacksonville Jaguars,15,Kansas City Chiefs,43,13
+Kansas City Chiefs,25,Las Vegas Raiders,19,Kansas City Chiefs,44,6
+Kansas City Chiefs,17,Los Angeles Chargers,17,,34,0
+Kansas City Chiefs,28,Los Angeles Rams,22,Kansas City Chiefs,50,6
+Kansas City Chiefs,24,Miami Dolphins,21,Kansas City Chiefs,45,3
+Kansas City Chiefs,24,Minnesota Vikings,17,Kansas City Chiefs,41,7
+Kansas City Chiefs,25,New England Patriots,16,Kansas City Chiefs,41,9
+Kansas City Chiefs,29,New Orleans Saints,24,Kansas City Chiefs,53,5
+Kansas City Chiefs,19,New York Giants,14,Kansas City Chiefs,33,5
+Kansas City Chiefs,23,New York Jets,18,Kansas City Chiefs,41,5
+Kansas City Chiefs,24,Philadelphia Eagles,20,Kansas City Chiefs,44,4
+Kansas City Chiefs,23,Pittsburgh Steelers,16,Kansas City Chiefs,39,7
+Kansas City Chiefs,26,San Francisco 49ers,22,Kansas City Chiefs,48,4
+Kansas City Chiefs,29,Seattle Seahawks,18,Kansas City Chiefs,47,11
+Kansas City Chiefs,27,Tampa Bay Buccaneers,17,Kansas City Chiefs,44,10
+Kansas City Chiefs,19,Tennessee Titans,16,Kansas City Chiefs,35,3
+Kansas City Chiefs,25,Washington Commanders,17,Kansas City Chiefs,42,8
+Las Vegas Raiders,33,Arizona Cardinals,28,Las Vegas Raiders,61,5
+Las Vegas Raiders,27,Atlanta Falcons,24,Las Vegas Raiders,51,3
+Las Vegas Raiders,32,Baltimore Ravens,25,Las Vegas Raiders,57,7
+Las Vegas Raiders,25,Buffalo Bills,34,Buffalo Bills,59,9
+Las Vegas Raiders,32,Carolina Panthers,25,Las Vegas Raiders,57,7
+Las Vegas Raiders,24,Chicago Bears,26,Chicago Bears,50,2
+Las Vegas Raiders,25,Cincinnati Bengals,27,Cincinnati Bengals,52,2
+Las Vegas Raiders,28,Cleveland Browns,26,Las Vegas Raiders,54,2
+Las Vegas Raiders,31,Dallas Cowboys,29,Las Vegas Raiders,60,2
+Las Vegas Raiders,24,Denver Broncos,22,Las Vegas Raiders,46,2
+Las Vegas Raiders,23,Detroit Lions,24,Detroit Lions,47,1
+Las Vegas Raiders,26,Green Bay Packers,25,Las Vegas Raiders,51,1
+Las Vegas Raiders,33,Houston Texans,23,Las Vegas Raiders,56,10
+Las Vegas Raiders,29,Indianapolis Colts,22,Las Vegas Raiders,51,7
+Las Vegas Raiders,33,Jacksonville Jaguars,24,Las Vegas Raiders,57,9
+Las Vegas Raiders,23,Kansas City Chiefs,25,Kansas City Chiefs,48,2
+Las Vegas Raiders,25,Los Angeles Chargers,24,Las Vegas Raiders,49,1
+Las Vegas Raiders,29,Los Angeles Rams,26,Las Vegas Raiders,55,3
+Las Vegas Raiders,26,Miami Dolphins,28,Miami Dolphins,54,2
+Las Vegas Raiders,25,Minnesota Vikings,19,Las Vegas Raiders,44,6
+Las Vegas Raiders,31,New England Patriots,21,Las Vegas Raiders,52,10
+Las Vegas Raiders,22,New Orleans Saints,30,New Orleans Saints,52,8
+Las Vegas Raiders,31,New York Giants,16,Las Vegas Raiders,47,15
+Las Vegas Raiders,23,New York Jets,19,Las Vegas Raiders,42,4
+Las Vegas Raiders,31,Philadelphia Eagles,26,Las Vegas Raiders,57,5
+Las Vegas Raiders,24,Pittsburgh Steelers,23,Las Vegas Raiders,47,1
+Las Vegas Raiders,31,San Francisco 49ers,30,Las Vegas Raiders,61,1
+Las Vegas Raiders,38,Seattle Seahawks,26,Las Vegas Raiders,64,12
+Las Vegas Raiders,31,Tampa Bay Buccaneers,27,Las Vegas Raiders,58,4
+Las Vegas Raiders,27,Tennessee Titans,23,Las Vegas Raiders,50,4
+Las Vegas Raiders,28,Washington Commanders,24,Las Vegas Raiders,52,4
+Los Angeles Chargers,22,Arizona Cardinals,23,Arizona Cardinals,45,1
+Los Angeles Chargers,23,Atlanta Falcons,12,Los Angeles Chargers,35,11
+Los Angeles Chargers,22,Baltimore Ravens,19,Los Angeles Chargers,41,3
+Los Angeles Chargers,21,Buffalo Bills,23,Buffalo Bills,44,2
+Los Angeles Chargers,30,Carolina Panthers,6,Los Angeles Chargers,36,24
+Los Angeles Chargers,22,Chicago Bears,12,Los Angeles Chargers,34,10
+Los Angeles Chargers,23,Cincinnati Bengals,17,Los Angeles Chargers,40,6
+Los Angeles Chargers,26,Cleveland Browns,23,Los Angeles Chargers,49,3
+Los Angeles Chargers,18,Dallas Cowboys,21,Dallas Cowboys,39,3
+Los Angeles Chargers,14,Denver Broncos,16,Denver Broncos,30,2
+Los Angeles Chargers,26,Detroit Lions,25,Los Angeles Chargers,51,1
+Los Angeles Chargers,18,Green Bay Packers,22,Green Bay Packers,40,4
+Los Angeles Chargers,26,Houston Texans,17,Los Angeles Chargers,43,9
+Los Angeles Chargers,20,Indianapolis Colts,8,Los Angeles Chargers,28,12
+Los Angeles Chargers,26,Jacksonville Jaguars,20,Los Angeles Chargers,46,6
+Los Angeles Chargers,15,Kansas City Chiefs,18,Kansas City Chiefs,33,3
+Los Angeles Chargers,24,Las Vegas Raiders,21,Los Angeles Chargers,45,3
+Los Angeles Chargers,26,Los Angeles Rams,12,Los Angeles Chargers,38,14
+Los Angeles Chargers,23,Miami Dolphins,24,Miami Dolphins,47,1
+Los Angeles Chargers,25,Minnesota Vikings,14,Los Angeles Chargers,39,11
+Los Angeles Chargers,21,New England Patriots,13,Los Angeles Chargers,34,8
+Los Angeles Chargers,27,New Orleans Saints,24,Los Angeles Chargers,51,3
+Los Angeles Chargers,24,New York Giants,15,Los Angeles Chargers,39,9
+Los Angeles Chargers,23,New York Jets,15,Los Angeles Chargers,38,8
+Los Angeles Chargers,22,Philadelphia Eagles,19,Los Angeles Chargers,41,3
+Los Angeles Chargers,17,Pittsburgh Steelers,15,Los Angeles Chargers,32,2
+Los Angeles Chargers,17,San Francisco 49ers,19,San Francisco 49ers,36,2
+Los Angeles Chargers,26,Seattle Seahawks,24,Los Angeles Chargers,50,2
+Los Angeles Chargers,25,Tampa Bay Buccaneers,18,Los Angeles Chargers,43,7
+Los Angeles Chargers,19,Tennessee Titans,15,Los Angeles Chargers,34,4
+Los Angeles Chargers,19,Washington Commanders,17,Los Angeles Chargers,36,2
+Los Angeles Rams,28,Arizona Cardinals,25,Los Angeles Rams,53,3
+Los Angeles Rams,28,Atlanta Falcons,17,Los Angeles Rams,45,11
+Los Angeles Rams,32,Baltimore Ravens,24,Los Angeles Rams,56,8
+Los Angeles Rams,24,Buffalo Bills,29,Buffalo Bills,53,5
+Los Angeles Rams,32,Carolina Panthers,16,Los Angeles Rams,48,16
+Los Angeles Rams,22,Chicago Bears,17,Los Angeles Rams,39,5
+Los Angeles Rams,21,Cincinnati Bengals,21,,42,0
+Los Angeles Rams,26,Cleveland Browns,23,Los Angeles Rams,49,3
+Los Angeles Rams,22,Dallas Cowboys,26,Dallas Cowboys,48,4
+Los Angeles Rams,24,Denver Broncos,20,Los Angeles Rams,44,4
+Los Angeles Rams,21,Detroit Lions,21,,42,0
+Los Angeles Rams,19,Green Bay Packers,23,Green Bay Packers,42,4
+Los Angeles Rams,30,Houston Texans,23,Los Angeles Rams,53,7
+Los Angeles Rams,27,Indianapolis Colts,21,Los Angeles Rams,48,6
+Los Angeles Rams,34,Jacksonville Jaguars,15,Los Angeles Rams,49,19
+Los Angeles Rams,21,Kansas City Chiefs,26,Kansas City Chiefs,47,5
+Los Angeles Rams,26,Las Vegas Raiders,22,Los Angeles Rams,48,4
+Los Angeles Rams,12,Los Angeles Chargers,25,Los Angeles Chargers,37,13
+Los Angeles Rams,22,Miami Dolphins,26,Miami Dolphins,48,4
+Los Angeles Rams,26,Minnesota Vikings,21,Los Angeles Rams,47,5
+Los Angeles Rams,25,New England Patriots,18,Los Angeles Rams,43,7
+Los Angeles Rams,30,New Orleans Saints,26,Los Angeles Rams,56,4
+Los Angeles Rams,24,New York Giants,18,Los Angeles Rams,42,6
+Los Angeles Rams,22,New York Jets,20,Los Angeles Rams,42,2
+Los Angeles Rams,25,Philadelphia Eagles,24,Los Angeles Rams,49,1
+Los Angeles Rams,21,Pittsburgh Steelers,19,Los Angeles Rams,40,2
+Los Angeles Rams,25,San Francisco 49ers,25,,50,0
+Los Angeles Rams,29,Seattle Seahawks,20,Los Angeles Rams,49,9
+Los Angeles Rams,26,Tampa Bay Buccaneers,19,Los Angeles Rams,45,7
+Los Angeles Rams,19,Tennessee Titans,21,Tennessee Titans,40,2
+Los Angeles Rams,27,Washington Commanders,21,Los Angeles Rams,48,6
+Miami Dolphins,29,Arizona Cardinals,26,Miami Dolphins,55,3
+Miami Dolphins,27,Atlanta Falcons,19,Miami Dolphins,46,8
+Miami Dolphins,30,Baltimore Ravens,28,Miami Dolphins,58,2
+Miami Dolphins,23,Buffalo Bills,28,Buffalo Bills,51,5
+Miami Dolphins,33,Carolina Panthers,19,Miami Dolphins,52,14
+Miami Dolphins,23,Chicago Bears,21,Miami Dolphins,44,2
+Miami Dolphins,22,Cincinnati Bengals,23,Cincinnati Bengals,45,1
+Miami Dolphins,28,Cleveland Browns,25,Miami Dolphins,53,3
+Miami Dolphins,22,Dallas Cowboys,25,Dallas Cowboys,47,3
+Miami Dolphins,25,Denver Broncos,21,Miami Dolphins,46,4
+Miami Dolphins,21,Detroit Lions,23,Detroit Lions,44,2
+Miami Dolphins,21,Green Bay Packers,25,Green Bay Packers,46,4
+Miami Dolphins,26,Houston Texans,20,Miami Dolphins,46,6
+Miami Dolphins,24,Indianapolis Colts,21,Miami Dolphins,45,3
+Miami Dolphins,29,Jacksonville Jaguars,20,Miami Dolphins,49,9
+Miami Dolphins,18,Kansas City Chiefs,25,Kansas City Chiefs,43,7
+Miami Dolphins,26,Las Vegas Raiders,22,Miami Dolphins,48,4
+Miami Dolphins,21,Los Angeles Chargers,24,Los Angeles Chargers,45,3
+Miami Dolphins,26,Los Angeles Rams,23,Miami Dolphins,49,3
+Miami Dolphins,24,Minnesota Vikings,23,Miami Dolphins,47,1
+Miami Dolphins,27,New England Patriots,20,Miami Dolphins,47,7
+Miami Dolphins,27,New Orleans Saints,26,Miami Dolphins,53,1
+Miami Dolphins,23,New York Giants,19,Miami Dolphins,42,4
+Miami Dolphins,24,New York Jets,18,Miami Dolphins,42,6
+Miami Dolphins,25,Philadelphia Eagles,26,Philadelphia Eagles,51,1
+Miami Dolphins,21,Pittsburgh Steelers,20,Miami Dolphins,41,1
+Miami Dolphins,26,San Francisco 49ers,26,,52,0
+Miami Dolphins,27,Seattle Seahawks,23,Miami Dolphins,50,4
+Miami Dolphins,25,Tampa Bay Buccaneers,23,Miami Dolphins,48,2
+Miami Dolphins,21,Tennessee Titans,21,,42,0
+Miami Dolphins,27,Washington Commanders,21,Miami Dolphins,48,6
+Minnesota Vikings,26,Arizona Cardinals,23,Minnesota Vikings,49,3
+Minnesota Vikings,24,Atlanta Falcons,17,Minnesota Vikings,41,7
+Minnesota Vikings,25,Baltimore Ravens,22,Minnesota Vikings,47,3
+Minnesota Vikings,21,Buffalo Bills,25,Buffalo Bills,46,4
+Minnesota Vikings,27,Carolina Panthers,16,Minnesota Vikings,43,11
+Minnesota Vikings,16,Chicago Bears,15,Minnesota Vikings,31,1
+Minnesota Vikings,18,Cincinnati Bengals,21,Cincinnati Bengals,39,3
+Minnesota Vikings,20,Cleveland Browns,20,,40,0
+Minnesota Vikings,17,Dallas Cowboys,24,Dallas Cowboys,41,7
+Minnesota Vikings,16,Denver Broncos,19,Denver Broncos,35,3
+Minnesota Vikings,15,Detroit Lions,20,Detroit Lions,35,5
+Minnesota Vikings,17,Green Bay Packers,22,Green Bay Packers,39,5
+Minnesota Vikings,23,Houston Texans,15,Minnesota Vikings,38,8
+Minnesota Vikings,21,Indianapolis Colts,22,Indianapolis Colts,43,1
+Minnesota Vikings,25,Jacksonville Jaguars,18,Minnesota Vikings,43,7
+Minnesota Vikings,15,Kansas City Chiefs,22,Kansas City Chiefs,37,7
+Minnesota Vikings,19,Las Vegas Raiders,17,Minnesota Vikings,36,2
+Minnesota Vikings,13,Los Angeles Chargers,22,Los Angeles Chargers,35,9
+Minnesota Vikings,23,Los Angeles Rams,23,,46,0
+Minnesota Vikings,22,Miami Dolphins,23,Miami Dolphins,45,1
+Minnesota Vikings,22,New England Patriots,20,Minnesota Vikings,42,2
+Minnesota Vikings,26,New Orleans Saints,26,,52,0
+Minnesota Vikings,18,New York Giants,15,Minnesota Vikings,33,3
+Minnesota Vikings,22,New York Jets,19,Minnesota Vikings,41,3
+Minnesota Vikings,21,Philadelphia Eagles,22,Philadelphia Eagles,43,1
+Minnesota Vikings,19,Pittsburgh Steelers,19,,38,0
+Minnesota Vikings,21,San Francisco 49ers,22,San Francisco 49ers,43,1
+Minnesota Vikings,27,Seattle Seahawks,19,Minnesota Vikings,46,8
+Minnesota Vikings,22,Tampa Bay Buccaneers,16,Minnesota Vikings,38,6
+Minnesota Vikings,19,Tennessee Titans,18,Minnesota Vikings,37,1
+Minnesota Vikings,21,Washington Commanders,19,Minnesota Vikings,40,2
+New England Patriots,22,Arizona Cardinals,26,Arizona Cardinals,48,4
+New England Patriots,22,Atlanta Falcons,15,New England Patriots,37,7
+New England Patriots,22,Baltimore Ravens,28,Baltimore Ravens,50,6
+New England Patriots,20,Buffalo Bills,30,Buffalo Bills,50,10
+New England Patriots,25,Carolina Panthers,19,New England Patriots,44,6
+New England Patriots,17,Chicago Bears,24,Chicago Bears,41,7
+New England Patriots,15,Cincinnati Bengals,23,Cincinnati Bengals,38,8
+New England Patriots,23,Cleveland Browns,23,,46,0
+New England Patriots,17,Dallas Cowboys,29,Dallas Cowboys,46,12
+New England Patriots,14,Denver Broncos,22,Denver Broncos,36,8
+New England Patriots,15,Detroit Lions,20,Detroit Lions,35,5
+New England Patriots,18,Green Bay Packers,26,Green Bay Packers,44,8
+New England Patriots,19,Houston Texans,22,Houston Texans,41,3
+New England Patriots,20,Indianapolis Colts,21,Indianapolis Colts,41,1
+New England Patriots,28,Jacksonville Jaguars,22,New England Patriots,50,6
+New England Patriots,12,Kansas City Chiefs,26,Kansas City Chiefs,38,14
+New England Patriots,19,Las Vegas Raiders,27,Las Vegas Raiders,46,8
+New England Patriots,10,Los Angeles Chargers,22,Los Angeles Chargers,32,12
+New England Patriots,17,Los Angeles Rams,25,Los Angeles Rams,42,8
+New England Patriots,17,Miami Dolphins,30,Miami Dolphins,47,13
+New England Patriots,20,Minnesota Vikings,22,Minnesota Vikings,42,2
+New England Patriots,21,New Orleans Saints,30,New Orleans Saints,51,9
+New England Patriots,16,New York Giants,20,New York Giants,36,4
+New England Patriots,13,New York Jets,23,New York Jets,36,10
+New England Patriots,18,Philadelphia Eagles,25,Philadelphia Eagles,43,7
+New England Patriots,16,Pittsburgh Steelers,20,Pittsburgh Steelers,36,4
+New England Patriots,18,San Francisco 49ers,29,San Francisco 49ers,47,11
+New England Patriots,25,Seattle Seahawks,25,,50,0
+New England Patriots,20,Tampa Bay Buccaneers,20,,40,0
+New England Patriots,17,Tennessee Titans,22,Tennessee Titans,39,5
+New England Patriots,19,Washington Commanders,23,Washington Commanders,42,4
+New Orleans Saints,33,Arizona Cardinals,33,,66,0
+New Orleans Saints,30,Atlanta Falcons,22,New Orleans Saints,52,8
+New Orleans Saints,30,Baltimore Ravens,30,,60,0
+New Orleans Saints,28,Buffalo Bills,32,Buffalo Bills,60,4
+New Orleans Saints,35,Carolina Panthers,21,New Orleans Saints,56,14
+New Orleans Saints,24,Chicago Bears,25,Chicago Bears,49,1
+New Orleans Saints,26,Cincinnati Bengals,29,Cincinnati Bengals,55,3
+New Orleans Saints,26,Cleveland Browns,28,Cleveland Browns,54,2
+New Orleans Saints,27,Dallas Cowboys,29,Dallas Cowboys,56,2
+New Orleans Saints,23,Denver Broncos,25,Denver Broncos,48,2
+New Orleans Saints,25,Detroit Lions,29,Detroit Lions,54,4
+New Orleans Saints,25,Green Bay Packers,27,Green Bay Packers,52,2
+New Orleans Saints,26,Houston Texans,27,Houston Texans,53,1
+New Orleans Saints,31,Indianapolis Colts,26,New Orleans Saints,57,5
+New Orleans Saints,31,Jacksonville Jaguars,26,New Orleans Saints,57,5
+New Orleans Saints,22,Kansas City Chiefs,31,Kansas City Chiefs,53,9
+New Orleans Saints,30,Las Vegas Raiders,18,New Orleans Saints,48,12
+New Orleans Saints,23,Los Angeles Chargers,28,Los Angeles Chargers,51,5
+New Orleans Saints,28,Los Angeles Rams,31,Los Angeles Rams,59,3
+New Orleans Saints,25,Miami Dolphins,30,Miami Dolphins,55,5
+New Orleans Saints,28,Minnesota Vikings,27,New Orleans Saints,55,1
+New Orleans Saints,29,New England Patriots,25,New Orleans Saints,54,4
+New Orleans Saints,24,New York Giants,23,New Orleans Saints,47,1
+New Orleans Saints,26,New York Jets,26,,52,0
+New Orleans Saints,24,Philadelphia Eagles,28,Philadelphia Eagles,52,4
+New Orleans Saints,24,Pittsburgh Steelers,26,Pittsburgh Steelers,50,2
+New Orleans Saints,25,San Francisco 49ers,30,San Francisco 49ers,55,5
+New Orleans Saints,34,Seattle Seahawks,27,New Orleans Saints,61,7
+New Orleans Saints,27,Tampa Bay Buccaneers,25,New Orleans Saints,52,2
+New Orleans Saints,24,Tennessee Titans,25,Tennessee Titans,49,1
+New Orleans Saints,30,Washington Commanders,28,New Orleans Saints,58,2
+New York Giants,25,Arizona Cardinals,23,New York Giants,48,2
+New York Giants,24,Atlanta Falcons,14,New York Giants,38,10
+New York Giants,25,Baltimore Ravens,21,New York Giants,46,4
+New York Giants,20,Buffalo Bills,23,Buffalo Bills,43,3
+New York Giants,28,Carolina Panthers,14,New York Giants,42,14
+New York Giants,16,Chicago Bears,16,,32,0
+New York Giants,19,Cincinnati Bengals,19,,38,0
+New York Giants,22,Cleveland Browns,19,New York Giants,41,3
+New York Giants,19,Dallas Cowboys,26,Dallas Cowboys,45,7
+New York Giants,16,Denver Broncos,19,Denver Broncos,35,3
+New York Giants,17,Detroit Lions,19,Detroit Lions,36,2
+New York Giants,20,Green Bay Packers,22,Green Bay Packers,42,2
+New York Giants,25,Houston Texans,17,New York Giants,42,8
+New York Giants,25,Indianapolis Colts,19,New York Giants,44,6
+New York Giants,27,Jacksonville Jaguars,17,New York Giants,44,10
+New York Giants,15,Kansas City Chiefs,20,Kansas City Chiefs,35,5
+New York Giants,18,Las Vegas Raiders,26,Las Vegas Raiders,44,8
+New York Giants,16,Los Angeles Chargers,24,Los Angeles Chargers,40,8
+New York Giants,22,Los Angeles Rams,24,Los Angeles Rams,46,2
+New York Giants,20,Miami Dolphins,25,Miami Dolphins,45,5
+New York Giants,20,Minnesota Vikings,18,New York Giants,38,2
+New York Giants,21,New England Patriots,18,New York Giants,39,3
+New York Giants,24,New Orleans Saints,24,,48,0
+New York Giants,20,New York Jets,19,New York Giants,39,1
+New York Giants,23,Philadelphia Eagles,20,New York Giants,43,3
+New York Giants,18,Pittsburgh Steelers,18,,36,0
+New York Giants,19,San Francisco 49ers,24,San Francisco 49ers,43,5
+New York Giants,23,Seattle Seahawks,19,New York Giants,42,4
+New York Giants,24,Tampa Bay Buccaneers,19,New York Giants,43,5
+New York Giants,18,Tennessee Titans,15,New York Giants,33,3
+New York Giants,22,Washington Commanders,19,New York Giants,41,3
+New York Jets,23,Arizona Cardinals,23,,46,0
+New York Jets,23,Atlanta Falcons,15,New York Jets,38,8
+New York Jets,25,Baltimore Ravens,21,New York Jets,46,4
+New York Jets,21,Buffalo Bills,23,Buffalo Bills,44,2
+New York Jets,28,Carolina Panthers,16,New York Jets,44,12
+New York Jets,20,Chicago Bears,16,New York Jets,36,4
+New York Jets,19,Cincinnati Bengals,20,Cincinnati Bengals,39,1
+New York Jets,24,Cleveland Browns,23,New York Jets,47,1
+New York Jets,21,Dallas Cowboys,21,,42,0
+New York Jets,17,Denver Broncos,17,,34,0
+New York Jets,20,Detroit Lions,16,New York Jets,36,4
+New York Jets,22,Green Bay Packers,22,,44,0
+New York Jets,25,Houston Texans,15,New York Jets,40,10
+New York Jets,24,Indianapolis Colts,22,New York Jets,46,2
+New York Jets,25,Jacksonville Jaguars,17,New York Jets,42,8
+New York Jets,18,Kansas City Chiefs,22,Kansas City Chiefs,40,4
+New York Jets,20,Las Vegas Raiders,17,New York Jets,37,3
+New York Jets,15,Los Angeles Chargers,22,Los Angeles Chargers,37,7
+New York Jets,23,Los Angeles Rams,20,New York Jets,43,3
+New York Jets,18,Miami Dolphins,24,Miami Dolphins,42,6
+New York Jets,23,Minnesota Vikings,20,New York Jets,43,3
+New York Jets,24,New England Patriots,14,New York Jets,38,10
+New York Jets,26,New Orleans Saints,25,New York Jets,51,1
+New York Jets,20,New York Giants,16,New York Jets,36,4
+New York Jets,21,Philadelphia Eagles,20,New York Jets,41,1
+New York Jets,21,Pittsburgh Steelers,17,New York Jets,38,4
+New York Jets,22,San Francisco 49ers,23,San Francisco 49ers,45,1
+New York Jets,24,Seattle Seahawks,21,New York Jets,45,3
+New York Jets,24,Tampa Bay Buccaneers,16,New York Jets,40,8
+New York Jets,21,Tennessee Titans,17,New York Jets,38,4
+New York Jets,26,Washington Commanders,20,New York Jets,46,6
+Philadelphia Eagles,30,Arizona Cardinals,23,Philadelphia Eagles,53,7
+Philadelphia Eagles,27,Atlanta Falcons,14,Philadelphia Eagles,41,13
+Philadelphia Eagles,31,Baltimore Ravens,24,Philadelphia Eagles,55,7
+Philadelphia Eagles,29,Buffalo Bills,25,Philadelphia Eagles,54,4
+Philadelphia Eagles,30,Carolina Panthers,16,Philadelphia Eagles,46,14
+Philadelphia Eagles,22,Chicago Bears,16,Philadelphia Eagles,38,6
+Philadelphia Eagles,22,Cincinnati Bengals,21,Philadelphia Eagles,43,1
+Philadelphia Eagles,26,Cleveland Browns,19,Philadelphia Eagles,45,7
+Philadelphia Eagles,25,Dallas Cowboys,23,Philadelphia Eagles,48,2
+Philadelphia Eagles,24,Denver Broncos,18,Philadelphia Eagles,42,6
+Philadelphia Eagles,25,Detroit Lions,18,Philadelphia Eagles,43,7
+Philadelphia Eagles,26,Green Bay Packers,24,Philadelphia Eagles,50,2
+Philadelphia Eagles,28,Houston Texans,19,Philadelphia Eagles,47,9
+Philadelphia Eagles,26,Indianapolis Colts,17,Philadelphia Eagles,43,9
+Philadelphia Eagles,33,Jacksonville Jaguars,17,Philadelphia Eagles,50,16
+Philadelphia Eagles,21,Kansas City Chiefs,22,Kansas City Chiefs,43,1
+Philadelphia Eagles,28,Las Vegas Raiders,24,Philadelphia Eagles,52,4
+Philadelphia Eagles,20,Los Angeles Chargers,21,Los Angeles Chargers,41,1
+Philadelphia Eagles,28,Los Angeles Rams,23,Philadelphia Eagles,51,5
+Philadelphia Eagles,27,Miami Dolphins,25,Philadelphia Eagles,52,2
+Philadelphia Eagles,27,Minnesota Vikings,19,Philadelphia Eagles,46,8
+Philadelphia Eagles,26,New England Patriots,19,Philadelphia Eagles,45,7
+Philadelphia Eagles,29,New Orleans Saints,22,Philadelphia Eagles,51,7
+Philadelphia Eagles,22,New York Giants,19,Philadelphia Eagles,41,3
+Philadelphia Eagles,23,New York Jets,18,Philadelphia Eagles,41,5
+Philadelphia Eagles,26,Pittsburgh Steelers,17,Philadelphia Eagles,43,9
+Philadelphia Eagles,24,San Francisco 49ers,24,,48,0
+Philadelphia Eagles,29,Seattle Seahawks,18,Philadelphia Eagles,47,11
+Philadelphia Eagles,28,Tampa Bay Buccaneers,17,Philadelphia Eagles,45,11
+Philadelphia Eagles,27,Tennessee Titans,16,Philadelphia Eagles,43,11
+Philadelphia Eagles,28,Washington Commanders,22,Philadelphia Eagles,50,6
+Pittsburgh Steelers,23,Arizona Cardinals,20,Pittsburgh Steelers,43,3
+Pittsburgh Steelers,22,Atlanta Falcons,12,Pittsburgh Steelers,34,10
+Pittsburgh Steelers,23,Baltimore Ravens,17,Pittsburgh Steelers,40,6
+Pittsburgh Steelers,18,Buffalo Bills,25,Buffalo Bills,43,7
+Pittsburgh Steelers,29,Carolina Panthers,14,Pittsburgh Steelers,43,15
+Pittsburgh Steelers,18,Chicago Bears,18,,36,0
+Pittsburgh Steelers,19,Cincinnati Bengals,17,Pittsburgh Steelers,36,2
+Pittsburgh Steelers,20,Cleveland Browns,19,Pittsburgh Steelers,39,1
+Pittsburgh Steelers,20,Dallas Cowboys,22,Dallas Cowboys,42,2
+Pittsburgh Steelers,15,Denver Broncos,15,,30,0
+Pittsburgh Steelers,16,Detroit Lions,16,,32,0
+Pittsburgh Steelers,18,Green Bay Packers,21,Green Bay Packers,39,3
+Pittsburgh Steelers,21,Houston Texans,17,Pittsburgh Steelers,38,4
+Pittsburgh Steelers,20,Indianapolis Colts,18,Pittsburgh Steelers,38,2
+Pittsburgh Steelers,24,Jacksonville Jaguars,15,Pittsburgh Steelers,39,9
+Pittsburgh Steelers,15,Kansas City Chiefs,23,Kansas City Chiefs,38,8
+Pittsburgh Steelers,23,Las Vegas Raiders,18,Pittsburgh Steelers,41,5
+Pittsburgh Steelers,15,Los Angeles Chargers,17,Los Angeles Chargers,32,2
+Pittsburgh Steelers,21,Los Angeles Rams,19,Pittsburgh Steelers,40,2
+Pittsburgh Steelers,19,Miami Dolphins,22,Miami Dolphins,41,3
+Pittsburgh Steelers,22,Minnesota Vikings,19,Pittsburgh Steelers,41,3
+Pittsburgh Steelers,19,New England Patriots,17,Pittsburgh Steelers,36,2
+Pittsburgh Steelers,25,New Orleans Saints,23,Pittsburgh Steelers,48,2
+Pittsburgh Steelers,18,New York Giants,15,Pittsburgh Steelers,33,3
+Pittsburgh Steelers,19,New York Jets,18,Pittsburgh Steelers,37,1
+Pittsburgh Steelers,20,Philadelphia Eagles,23,Philadelphia Eagles,43,3
+Pittsburgh Steelers,19,San Francisco 49ers,22,San Francisco 49ers,41,3
+Pittsburgh Steelers,27,Seattle Seahawks,19,Pittsburgh Steelers,46,8
+Pittsburgh Steelers,23,Tampa Bay Buccaneers,17,Pittsburgh Steelers,40,6
+Pittsburgh Steelers,18,Tennessee Titans,15,Pittsburgh Steelers,33,3
+Pittsburgh Steelers,22,Washington Commanders,18,Pittsburgh Steelers,40,4
+San Francisco 49ers,31,Arizona Cardinals,22,San Francisco 49ers,53,9
+San Francisco 49ers,25,Atlanta Falcons,16,San Francisco 49ers,41,9
+San Francisco 49ers,26,Baltimore Ravens,23,San Francisco 49ers,49,3
+San Francisco 49ers,25,Buffalo Bills,26,Buffalo Bills,51,1
+San Francisco 49ers,32,Carolina Panthers,15,San Francisco 49ers,47,17
+San Francisco 49ers,19,Chicago Bears,16,San Francisco 49ers,35,3
+San Francisco 49ers,21,Cincinnati Bengals,22,Cincinnati Bengals,43,1
+San Francisco 49ers,23,Cleveland Browns,19,San Francisco 49ers,42,4
+San Francisco 49ers,25,Dallas Cowboys,23,San Francisco 49ers,48,2
+San Francisco 49ers,16,Denver Broncos,18,Denver Broncos,34,2
+San Francisco 49ers,22,Detroit Lions,21,San Francisco 49ers,43,1
+San Francisco 49ers,23,Green Bay Packers,23,,46,0
+San Francisco 49ers,25,Houston Texans,15,San Francisco 49ers,40,10
+San Francisco 49ers,23,Indianapolis Colts,20,San Francisco 49ers,43,3
+San Francisco 49ers,32,Jacksonville Jaguars,16,San Francisco 49ers,48,16
+San Francisco 49ers,19,Kansas City Chiefs,24,Kansas City Chiefs,43,5
+San Francisco 49ers,29,Las Vegas Raiders,24,San Francisco 49ers,53,5
+San Francisco 49ers,17,Los Angeles Chargers,16,San Francisco 49ers,33,1
+San Francisco 49ers,25,Los Angeles Rams,23,San Francisco 49ers,48,2
+San Francisco 49ers,24,Miami Dolphins,26,Miami Dolphins,50,2
+San Francisco 49ers,24,Minnesota Vikings,19,San Francisco 49ers,43,5
+San Francisco 49ers,27,New England Patriots,19,San Francisco 49ers,46,8
+San Francisco 49ers,27,New Orleans Saints,23,San Francisco 49ers,50,4
+San Francisco 49ers,23,New York Giants,15,San Francisco 49ers,38,8
+San Francisco 49ers,23,New York Jets,19,San Francisco 49ers,42,4
+San Francisco 49ers,24,Philadelphia Eagles,20,San Francisco 49ers,44,4
+San Francisco 49ers,22,Pittsburgh Steelers,17,San Francisco 49ers,39,5
+San Francisco 49ers,30,Seattle Seahawks,17,San Francisco 49ers,47,13
+San Francisco 49ers,28,Tampa Bay Buccaneers,15,San Francisco 49ers,43,13
+San Francisco 49ers,21,Tennessee Titans,16,San Francisco 49ers,37,5
+San Francisco 49ers,25,Washington Commanders,18,San Francisco 49ers,43,7
+Seattle Seahawks,27,Arizona Cardinals,26,Seattle Seahawks,53,1
+Seattle Seahawks,26,Atlanta Falcons,21,Seattle Seahawks,47,5
+Seattle Seahawks,23,Baltimore Ravens,29,Baltimore Ravens,52,6
+Seattle Seahawks,27,Buffalo Bills,32,Buffalo Bills,59,5
+Seattle Seahawks,30,Carolina Panthers,24,Seattle Seahawks,54,6
+Seattle Seahawks,19,Chicago Bears,22,Chicago Bears,41,3
+Seattle Seahawks,19,Cincinnati Bengals,26,Cincinnati Bengals,45,7
+Seattle Seahawks,25,Cleveland Browns,26,Cleveland Browns,51,1
+Seattle Seahawks,26,Dallas Cowboys,30,Dallas Cowboys,56,4
+Seattle Seahawks,18,Denver Broncos,23,Denver Broncos,41,5
+Seattle Seahawks,24,Detroit Lions,27,Detroit Lions,51,3
+Seattle Seahawks,18,Green Bay Packers,26,Green Bay Packers,44,8
+Seattle Seahawks,26,Houston Texans,25,Seattle Seahawks,51,1
+Seattle Seahawks,26,Indianapolis Colts,24,Seattle Seahawks,50,2
+Seattle Seahawks,30,Jacksonville Jaguars,22,Seattle Seahawks,52,8
+Seattle Seahawks,18,Kansas City Chiefs,28,Kansas City Chiefs,46,10
+Seattle Seahawks,28,Las Vegas Raiders,31,Las Vegas Raiders,59,3
+Seattle Seahawks,24,Los Angeles Chargers,25,Los Angeles Chargers,49,1
+Seattle Seahawks,23,Los Angeles Rams,27,Los Angeles Rams,50,4
+Seattle Seahawks,23,Miami Dolphins,27,Miami Dolphins,50,4
+Seattle Seahawks,24,Minnesota Vikings,26,Minnesota Vikings,50,2
+Seattle Seahawks,26,New England Patriots,26,,52,0
+Seattle Seahawks,27,New Orleans Saints,33,New Orleans Saints,60,6
+Seattle Seahawks,20,New York Giants,19,Seattle Seahawks,39,1
+Seattle Seahawks,24,New York Jets,22,Seattle Seahawks,46,2
+Seattle Seahawks,22,Philadelphia Eagles,26,Philadelphia Eagles,48,4
+Seattle Seahawks,21,Pittsburgh Steelers,25,Pittsburgh Steelers,46,4
+Seattle Seahawks,20,San Francisco 49ers,29,San Francisco 49ers,49,9
+Seattle Seahawks,26,Tampa Bay Buccaneers,24,Seattle Seahawks,50,2
+Seattle Seahawks,21,Tennessee Titans,24,Tennessee Titans,45,3
+Seattle Seahawks,24,Washington Commanders,26,Washington Commanders,50,2
+Tampa Bay Buccaneers,24,Arizona Cardinals,26,Arizona Cardinals,50,2
+Tampa Bay Buccaneers,20,Atlanta Falcons,18,Tampa Bay Buccaneers,38,2
+Tampa Bay Buccaneers,22,Baltimore Ravens,26,Baltimore Ravens,48,4
+Tampa Bay Buccaneers,21,Buffalo Bills,27,Buffalo Bills,48,6
+Tampa Bay Buccaneers,23,Carolina Panthers,17,Tampa Bay Buccaneers,40,6
+Tampa Bay Buccaneers,17,Chicago Bears,18,Chicago Bears,35,1
+Tampa Bay Buccaneers,18,Cincinnati Bengals,25,Cincinnati Bengals,43,7
+Tampa Bay Buccaneers,19,Cleveland Browns,24,Cleveland Browns,43,5
+Tampa Bay Buccaneers,19,Dallas Cowboys,23,Dallas Cowboys,42,4
+Tampa Bay Buccaneers,13,Denver Broncos,21,Denver Broncos,34,8
+Tampa Bay Buccaneers,14,Detroit Lions,19,Detroit Lions,33,5
+Tampa Bay Buccaneers,19,Green Bay Packers,23,Green Bay Packers,42,4
+Tampa Bay Buccaneers,22,Houston Texans,24,Houston Texans,46,2
+Tampa Bay Buccaneers,21,Indianapolis Colts,24,Indianapolis Colts,45,3
+Tampa Bay Buccaneers,26,Jacksonville Jaguars,19,Tampa Bay Buccaneers,45,7
+Tampa Bay Buccaneers,16,Kansas City Chiefs,26,Kansas City Chiefs,42,10
+Tampa Bay Buccaneers,27,Las Vegas Raiders,24,Tampa Bay Buccaneers,51,3
+Tampa Bay Buccaneers,17,Los Angeles Chargers,24,Los Angeles Chargers,41,7
+Tampa Bay Buccaneers,21,Los Angeles Rams,24,Los Angeles Rams,45,3
+Tampa Bay Buccaneers,22,Miami Dolphins,26,Miami Dolphins,48,4
+Tampa Bay Buccaneers,18,Minnesota Vikings,21,Minnesota Vikings,39,3
+Tampa Bay Buccaneers,20,New England Patriots,21,New England Patriots,41,1
+Tampa Bay Buccaneers,23,New Orleans Saints,26,New Orleans Saints,49,3
+Tampa Bay Buccaneers,19,New York Giants,20,New York Giants,39,1
+Tampa Bay Buccaneers,18,New York Jets,21,New York Jets,39,3
+Tampa Bay Buccaneers,19,Philadelphia Eagles,25,Philadelphia Eagles,44,6
+Tampa Bay Buccaneers,18,Pittsburgh Steelers,21,Pittsburgh Steelers,39,3
+Tampa Bay Buccaneers,16,San Francisco 49ers,28,San Francisco 49ers,44,12
+Tampa Bay Buccaneers,25,Seattle Seahawks,22,Tampa Bay Buccaneers,47,3
+Tampa Bay Buccaneers,16,Tennessee Titans,19,Tennessee Titans,35,3
+Tampa Bay Buccaneers,20,Washington Commanders,24,Washington Commanders,44,4
+Tennessee Titans,24,Arizona Cardinals,26,Arizona Cardinals,50,2
+Tennessee Titans,24,Atlanta Falcons,15,Tennessee Titans,39,9
+Tennessee Titans,25,Baltimore Ravens,23,Tennessee Titans,48,2
+Tennessee Titans,22,Buffalo Bills,28,Buffalo Bills,50,6
+Tennessee Titans,26,Carolina Panthers,18,Tennessee Titans,44,8
+Tennessee Titans,19,Chicago Bears,19,,38,0
+Tennessee Titans,20,Cincinnati Bengals,19,Tennessee Titans,39,1
+Tennessee Titans,22,Cleveland Browns,24,Cleveland Browns,46,2
+Tennessee Titans,20,Dallas Cowboys,23,Dallas Cowboys,43,3
+Tennessee Titans,15,Denver Broncos,16,Denver Broncos,31,1
+Tennessee Titans,21,Detroit Lions,20,Tennessee Titans,41,1
+Tennessee Titans,19,Green Bay Packers,23,Green Bay Packers,42,4
+Tennessee Titans,20,Houston Texans,19,Tennessee Titans,39,1
+Tennessee Titans,22,Indianapolis Colts,20,Tennessee Titans,42,2
+Tennessee Titans,27,Jacksonville Jaguars,21,Tennessee Titans,48,6
+Tennessee Titans,17,Kansas City Chiefs,21,Kansas City Chiefs,38,4
+Tennessee Titans,25,Las Vegas Raiders,23,Tennessee Titans,48,2
+Tennessee Titans,17,Los Angeles Chargers,21,Los Angeles Chargers,38,4
+Tennessee Titans,26,Los Angeles Rams,20,Tennessee Titans,46,6
+Tennessee Titans,23,Miami Dolphins,25,Miami Dolphins,48,2
+Tennessee Titans,23,Minnesota Vikings,21,Tennessee Titans,44,2
+Tennessee Titans,24,New England Patriots,21,Tennessee Titans,45,3
+Tennessee Titans,26,New Orleans Saints,26,,52,0
+Tennessee Titans,18,New York Giants,18,,36,0
+Tennessee Titans,21,New York Jets,22,New York Jets,43,1
+Tennessee Titans,20,Philadelphia Eagles,26,Philadelphia Eagles,46,6
+Tennessee Titans,19,Pittsburgh Steelers,19,,38,0
+Tennessee Titans,21,San Francisco 49ers,24,San Francisco 49ers,45,3
+Tennessee Titans,28,Seattle Seahawks,22,Tennessee Titans,50,6
+Tennessee Titans,24,Tampa Bay Buccaneers,18,Tennessee Titans,42,6
+Tennessee Titans,22,Washington Commanders,20,Tennessee Titans,42,2
+Washington Commanders,23,Arizona Cardinals,21,Washington Commanders,44,2
+Washington Commanders,22,Atlanta Falcons,14,Washington Commanders,36,8
+Washington Commanders,24,Baltimore Ravens,22,Washington Commanders,46,2
+Washington Commanders,19,Buffalo Bills,27,Buffalo Bills,46,8
+Washington Commanders,26,Carolina Panthers,16,Washington Commanders,42,10
+Washington Commanders,16,Chicago Bears,19,Chicago Bears,35,3
+Washington Commanders,20,Cincinnati Bengals,21,Cincinnati Bengals,41,1
+Washington Commanders,20,Cleveland Browns,23,Cleveland Browns,43,3
+Washington Commanders,17,Dallas Cowboys,23,Dallas Cowboys,40,6
+Washington Commanders,15,Denver Broncos,19,Denver Broncos,34,4
+Washington Commanders,17,Detroit Lions,20,Detroit Lions,37,3
+Washington Commanders,17,Green Bay Packers,21,Green Bay Packers,38,4
+Washington Commanders,20,Houston Texans,17,Washington Commanders,37,3
+Washington Commanders,19,Indianapolis Colts,18,Washington Commanders,37,1
+Washington Commanders,25,Jacksonville Jaguars,17,Washington Commanders,42,8
+Washington Commanders,13,Kansas City Chiefs,23,Kansas City Chiefs,36,10
+Washington Commanders,22,Las Vegas Raiders,20,Washington Commanders,42,2
+Washington Commanders,14,Los Angeles Chargers,17,Los Angeles Chargers,31,3
+Washington Commanders,21,Los Angeles Rams,24,Los Angeles Rams,45,3
+Washington Commanders,17,Miami Dolphins,26,Miami Dolphins,43,9
+Washington Commanders,19,Minnesota Vikings,18,Washington Commanders,37,1
+Washington Commanders,20,New England Patriots,19,Washington Commanders,39,1
+Washington Commanders,24,New Orleans Saints,27,New Orleans Saints,51,3
+Washington Commanders,17,New York Giants,17,,34,0
+Washington Commanders,19,New York Jets,22,New York Jets,41,3
+Washington Commanders,22,Philadelphia Eagles,24,Philadelphia Eagles,46,2
+Washington Commanders,17,Pittsburgh Steelers,18,Pittsburgh Steelers,35,1
+Washington Commanders,17,San Francisco 49ers,24,San Francisco 49ers,41,7
+Washington Commanders,25,Seattle Seahawks,19,Washington Commanders,44,6
+Washington Commanders,23,Tampa Bay Buccaneers,18,Washington Commanders,41,5
+Washington Commanders,16,Tennessee Titans,17,Tennessee Titans,33,1

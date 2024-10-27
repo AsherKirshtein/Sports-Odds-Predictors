@@ -6,12 +6,9 @@ from sklearn.linear_model import LogisticRegression, LinearRegression
 from sklearn.metrics import accuracy_score, mean_squared_error
 import numpy as np
 from tqdm import tqdm
-import urllib.parse
-import boto3
 import pandas as pd
-from io import StringIO
-from pymongo import MongoClient
-from dotenv import load_dotenv
+
+
 
 current_week_this_year = 6
 
@@ -588,6 +585,34 @@ def predict_game(Team_1, Team_2):
         #print(Team_2, fin_score[1])
         
         return [Team_1, Team_2, [fin_score[0], fin_score[1]]]
+    
+    
+def check_all_possibilities():
+    directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/Prediction'
+    if not os.path.exists(directory_path):
+        os.makedirs(directory_path)
+        
+    csv_filename = os.path.join(directory_path, f'All_Possible_Predictions.csv')
+    with open(csv_filename, 'w', newline='', encoding='utf-8') as csvfile:
+            csvwriter = csv.writer(csvfile)
+            csvwriter.writerow(['Home_Team','Home_Score', 'Away_Team', 'Away_Score', 'Winner', 'Total', 'Spread'])
+            for team_1 in tqdm(nfl_teams):
+                for team_2 in nfl_teams:
+                    if team_1 == team_2:
+                        continue
+                    game = predict_game(team_1, team_2)
+                    Home_Team = game[0]
+                    Home_Score = game[2][0]
+                    Away_Team = game[1]
+                    Away_Score = game[2][1]
+                    winner = ''
+                    if Home_Score > Away_Score:
+                        winner = Home_Team
+                    elif Away_Score > Home_Score:
+                        winner = Away_Team
+                    Total = Home_Score + Away_Score
+                    Spread = abs(Home_Score - Away_Score)
+                    csvwriter.writerow([Home_Team, Home_Score, Away_Team, Away_Score, winner, Total, Spread])
 
 
 #week_to_predict = 1
@@ -597,5 +622,6 @@ def predict_game(Team_1, Team_2):
 #check_winners()
 #check_vs_spread()
 
-next_preds = predict_by_week(current_week_this_year+1)
-write_weekly_predictions_to_CSV(next_preds)
+#next_preds = predict_by_week(current_week_this_year+1)
+#write_weekly_predictions_to_CSV(next_preds)
+check_all_possibilities()
