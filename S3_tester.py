@@ -6,7 +6,7 @@ url = "https://qp0wc17832.execute-api.us-east-2.amazonaws.com/default/sports_Pre
 # Parameters to be passed in the query string
 params = {
     "team1": "Pittsburgh Steelers",
-    "team2": "Philadelphia Eagles"
+    "team2": "Washington Commanders"
 }
 
 # Make a GET request

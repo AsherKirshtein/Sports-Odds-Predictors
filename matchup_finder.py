@@ -10,7 +10,7 @@ import pandas as pd
 
 
 
-current_week_this_year = 6
+current_week_this_year = 10
 
 def combine_record(record):
     # Split the record by space to separate the prefix from the numbers
@@ -122,6 +122,8 @@ def predict_Score(team_1_scores, team_2_scores):
     team_2_model = LinearRegression()
 
     # Fit the models with the game numbers (X) and the respective team scores
+    if len(team_2_scores) > len(team_1_scores):
+        print("FOUND ", team_2_scores)
     team_1_model.fit(X, team_1_scores)
     team_2_model.fit(X, team_2_scores)
 
@@ -219,6 +221,8 @@ def get_Last_Home_games(team, amount_getting):
                         games.append(row)
                         found += 1
                         
+                            
+                        
             current_week-=1
             if current_week == 0:
                 current_year -=1
@@ -234,6 +238,8 @@ def get_Last_Home_games(team, amount_getting):
                     current_week = 15
         except:
             print("No more games")
+    if found > amount_getting:
+            print(current_week, current_year, row)
     return games
             
 def get_Last_Away_games(team, amount_getting):
@@ -255,6 +261,8 @@ def get_Last_Away_games(team, amount_getting):
                     if (favorite == team and favorite_home_attribute == '') or (underdog == team and underdog_home_attribute == ''):
                         games.append(row)
                         found += 1
+                        if found >= amount_getting:
+                            break
                         
             current_week-=1
             if current_week == 0:
@@ -523,8 +531,6 @@ def predict_game(Team_1, Team_2):
         Team_2_last_10 = get_Team_Score_by_last_games(10, Team_2) 
         Team_1pts_last_10 = get_individual_team_points(Team_1_last_10, Team_1)
         Team_2pts_last_10 = get_individual_team_points(Team_2_last_10, Team_2)
-        
-        
 
         predicted_score_by_last_10_games = predict_Score(Team_1pts_last_10, Team_2pts_last_10) 
         #predicted score by last 10 games factor 3
@@ -616,7 +622,7 @@ def check_all_possibilities():
 
 
 #week_to_predict = 1
-#prediction = predict_game(nfl_teams[27], nfl_teams[25])
+#prediction = predict_game(nfl_teams[5], nfl_teams[30])
 #print(prediction)
 #predict_super_bowl()
 #check_winners()
