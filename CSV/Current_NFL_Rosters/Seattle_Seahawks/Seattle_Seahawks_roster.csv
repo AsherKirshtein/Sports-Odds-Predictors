@@ -1,0 +1,76 @@
+Jersey Number,Player,Position,Date_of_Birth,Age,Height,Weight,School,Years_In_NFL
+QB,"Hall, Jaren",15,03/24/1998,26,"6' 00""",207,BYU,2
+QB,"Howell, Sam",6,09/16/2000,24,"6' 01""",220,North Carolina,3
+QB,"Smith, Geno",7,10/10/1990,34,"6' 02""",221,West Virginia,12
+RB,"Charbonnet, Zach",26,01/08/2001,24,"6' 00""",214,UCLA,2
+RB,"Holani, George",36,12/16/2000,24,"5' 10""",210,Boise State,R
+RB,"McIntosh, Kenny",25,03/03/2000,24,"6' 00""",204,Georgia,2
+RB,"Walker III, Kenneth",9,10/20/2000,24,"5' 09""",211,Michigan State,3
+WR,"Bobo, Jake",19,08/04/1998,26,"6' 04""",207,UCLA,2
+WR,"Darden, Jaelon",1,01/14/1999,26,"5' 08""",175,North Texas,3
+WR,"Lockett, Tyler",16,09/28/1992,32,"5' 10""",182,Kansas State,10
+WR,"Metcalf, DK",14,12/14/1997,27,"6' 03""",235,Mississippi,6
+WR,"Plumlee, John Rhys",17,01/02/2001,24,"6' 00""",200,Central Florida,R
+WR,"Smith-Njigba, Jaxon",11,02/14/2002,23,"6' 01""",197,Ohio State,2
+WR,"White, Cody",82,11/28/1998,26,"6' 03""",215,Michigan State,2
+WR,"Young, Dareke",83,06/04/1999,25,"6' 02""",224,Lenoir-Rhyne,3
+TE,"Barner, AJ",88,05/03/2002,22,"6' 06""",251,Michigan,R
+TE,"Brown, Pharaoh",86,05/04/1994,30,"6' 06""",246,Oregon,7
+TE,"Fant, Noah",87,11/20/1997,27,"6' 04""",249,Iowa,6
+TE,"Russell, Brady",38,08/31/1998,26,"6' 03""",250,Colorado,2
+OG,"Bradford, Anthony",75,04/28/1999,25,"6' 04""",332,LSU,2
+CB,"Brown, Tre",22,09/24/1997,27,"5' 10""",185,Oklahoma,4
+S,"Bryant, Coby",8,03/29/1999,25,"6' 01""",193,Cincinnati,3
+CB,"Burns, Artie",23,05/01/1995,29,"6' 00""",187,Miami,9
+OT,"Cross, Charles",67,11/25/2000,24,"6' 05""",311,Mississippi State,3
+PT,"Dickson, Michael",4,01/04/1996,29,"6' 02""",208,Texas,7
+OT,"Fant, George",74,07/19/1992,32,"6' 05""",316,Western Kentucky,9
+S,"Finley, AJ",30,09/14/2001,23,"6' 02""",188,Mississippi,2
+OT,"Forsythe, Stone",78,12/29/1997,27,"6' 07""",307,Florida,4
+OLB,"Gipson, Trevis",50,06/13/1997,27,"6' 03""",263,Tulsa,5
+OLB,"Hall, Derick",58,03/19/2001,23,"6' 03""",254,Auburn,2
+DT,"Hankins, Johnathan",97,01/01/1992,33,"6' 03""",325,Ohio State,12
+OG,"Haynes, Christian",64,04/13/2000,24,"6' 03""",318,Connecticut,R
+S,"Jenkins, Rayshawn",2,01/25/1994,31,"6' 01""",220,Miami,8
+OT,"Jerrell, Michael",65,08/18/1999,25,"6' 04""",294,Findlay,R
+CB,"Jobe, Josh",29,04/09/1998,26,"5' 11""",190,Alabama,3
+OLB,"Jones, Dre'Mont",55,01/05/1997,28,"6' 03""",281,Ohio State,6
+ILB,"Jones IV, Ernest",13,11/22/1999,25,"6' 02""",230,South Carolina,4
+ILB,"Knight, Tyrice",48,12/20/2000,24,"6' 00""",233,UTEP,R
+OT/OG,"Laumea, Sataoa",63,01/13/2001,24,"6' 04""",319,Utah,R
+S,"Love, Julian",20,03/19/1998,26,"5' 11""",195,Notre Dame,6
+OT,"Lucas, Abraham",72,10/25/1998,26,"6' 06""",322,Washington State,3
+OLB,"Mafe, Boye",53,11/30/1998,26,"6' 03""",261,Minnesota,3
+DT,"Morris, Mike",94,04/22/2001,23,"6' 05""",295,Michigan,2
+DT,"Murphy II, Byron",91,09/08/2002,22,"6' 00""",306,Texas,R
+PK,"Myers, Jason",5,05/12/1991,33,"5' 10""",190,Marist,10
+OLB,"Nwosu, Uchenna",10,12/28/1996,28,"6' 02""",265,USC,7
+ILB,"O'Connell, Patrick",52,12/31/1998,26,"6' 01""",227,Montana,1
+OC,"Oluwatimi, Olu",51,08/05/1999,25,"6' 02""",309,Michigan,2
+OLB,"Onujiogu, Joshua",49,03/03/1998,26,"6' 02""",252,Framingham State,2
+DT,"Pili, Brandon",95,04/02/1999,25,"6' 03""",334,USC,2
+CB,"Pritchett, Nehemiah",28,02/11/2001,24,"6' 00""",188,Auburn,R
+DT,"Reed, Jarran",90,12/16/1992,32,"6' 03""",306,Alabama,9
+S,"Reed II, Jerrick",32,08/07/2000,24,"5' 09""",196,New Mexico,2
+DE,"Robertson-Harris, Roy",98,07/23/1993,31,"6' 05""",268,UTEP,8
+ILB,"Ross, Josh",18,10/31/1999,25,"6' 01""",229,Michigan,2
+LS,"Stoll, Chris",41,08/03/1998,26,"6' 02""",255,Penn State,2
+OC,"Sundell, Jalen",61,10/18/1999,25,"6' 05""",301,North Dakota State,R
+ILB,"Thomas, Drake",42,02/25/2000,25,"5' 11""",228,North Carolina State,2
+OG,"Tomlinson, Laken",70,02/09/1992,33,"6' 03""",323,Duke,10
+S,"Wallace, K'Von",24,07/25/1997,27,"5' 11""",205,Clemson,5
+DE,"Williams, Leonard",99,06/20/1994,30,"6' 05""",310,USC,10
+CB,"Witherspoon, Devon",21,12/11/2000,24,"5' 11""",185,Illinois,2
+CB,"Woolen, Riq",27,05/02/1999,25,"6' 04""",210,UTSA,3
+DT,"Young, Cameron",93,06/08/2000,24,"6' 03""",304,Mississippi State,2
+OG/OT,"Aumavae-Laulu, Malaesala",,05/25/1999,25,"6' 05""",344,Oregon,2
+DT,"Bohanna, Quinton",92,03/16/1999,25,"6' 05""",330,Kentucky,4
+ILB,"Dowell, Michael",46,01/28/2000,25,"6' 00""",221,Miami (Ohio),R
+CB,"Hall, Tyler",33,10/31/1998,26,"5' 08""",190,Wyoming,4
+OC,"Novitsky, Michael",60,12/17/1999,25,"6' 04""",309,Kansas,R
+OLB,"Odumegwu, Kenneth",77,11/29/2000,24,"6' 06""",259,No College,1
+S,"Okada, Ty",39,06/04/1999,25,"5' 11""",193,Montana State,1
+OLB,"Sheriff, Jamie",44,08/18/2000,24,"6' 01""",254,South Alabama,R
+OLB,"Smith, Tyreke",59,02/14/2000,25,"6' 03""",255,Ohio State,3
+CB,"Williams, Damarion",37,07/15/1998,26,"5' 10""",183,Houston,3
+S,"Woods, JT",,06/10/2000,24,"6' 02""",193,Baylor,3

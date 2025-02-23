@@ -1,0 +1,82 @@
+Jersey Number,Player,Position,Date_of_Birth,Age,Height,Weight,School,Years_In_NFL
+QB,"Huntley, Tyler",18,02/03/1998,27,"6' 01""",205,Utah,5
+QB,"Tagovailoa, Tua",1,03/02/1998,27,"6' 00""",225,Alabama,5
+RB,"Achane, De'Von",28,10/13/2001,23,"5' 08""",188,Texas A&M,2
+RB,"Wilson Jr., Jeff",23,11/16/1995,29,"6' 00""",205,North Texas,7
+RB,"Wright, Jaylen",25,04/01/2003,21,"5' 10""",210,Tennessee,R
+RB,"Mostert, Raheem",31,04/09/1992,32,"5' 10""",205,Purdue,10
+WR,"Berrios, Braxton",0,10/06/1995,29,"5' 09""",185,Miami,7
+WR,"Cracraft, River",85,11/01/1994,30,"6' 00""",198,Washington State,6
+WR,"DuBose, Grant",88,06/20/2001,23,"6' 02""",201,Charlotte,1
+WR,"Eskridge, Dee",82,03/23/1997,27,"5' 09""",190,Western Michigan,4
+WR,"Ezukanma, Erik",84,01/25/2000,25,"6' 02""",206,Texas Tech,2
+WR,"Hill, Tyreek",10,03/01/1994,31,"5' 08""",191,West Alabama,9
+WR,"Schwartz, Anthony",,09/05/2000,24,"6' 00""",195,Auburn,3
+WR,"Waddle, Jaylen",17,11/25/1998,26,"5' 10""",185,Alabama,4
+WR,"Washington, Malik",83,01/04/2001,24,"5' 08""",191,Virginia,R
+WR,"Washington, Tahj",,05/16/2001,23,"5' 10""",174,USC,R
+WR,"Black, Tarik",86,02/10/1998,27,"6' 03""",213,Texas,1
+TE,"Conner, Tanner",80,03/20/1998,26,"6' 03""",232,Idaho State,2
+TE,"Hill, Julian",89,07/09/2000,24,"6' 04""",251,Campbell,2
+TE,"Smith, Jonnu",9,08/22/1995,29,"6' 03""",248,Florida International,8
+TE,"Stoll, Jack",80,01/28/1998,27,"6' 04""",247,Nebraska,4
+TE,"Smythe, Durham",81,08/09/1995,29,"6' 05""",246,Notre Dame,7
+TE,"Rucci, Hayden",87,01/27/2001,24,"6' 05""",247,Wisconsin,R
+OT,"Armstead, Terron",72,07/23/1991,33,"6' 05""",305,Arkansas-Pine Bluff,12
+PT,"Bailey, Jake",16,06/18/1997,27,"6' 01""",212,Stanford,6
+OLB,"Bell, Quinton",56,05/09/1996,28,"6' 03""",255,Prairie View A&M,3
+CB,"Bonner, Ethan",27,10/23/1999,25,"6' 01""",186,Stanford,1
+OLB,"Bowser, Tyus",51,05/23/1995,29,"6' 02""",250,Houston,8
+OC,"Brewer, Aaron",55,10/28/1997,27,"6' 01""",295,Texas State,5
+ILB,"Brooks, Jordyn",20,10/21/1997,27,"6' 00""",240,Texas Tech,5
+OLB,"Brown, Cam",47,04/01/1998,26,"6' 05""",230,Penn State,5
+DE,"Campbell, Calais",93,09/01/1986,38,"6' 08""",307,Miami,17
+S,"Campbell, Elijah",22,08/24/1995,29,"5' 11""",200,Northern Iowa,5
+OT,"Carman, Jackson",76,01/22/2000,25,"6' 05""",322,Clemson,4
+OLB,"Chubb, Bradley",2,06/24/1996,28,"6' 04""",268,North Carolina State,7
+OG/OT,"Daniels, Braeden",66,08/22/2000,24,"6' 04""",297,Utah,2
+DE,"Dickerson, Matt",98,11/09/1995,29,"6' 05""",292,UCLA,5
+ILB,"Dodson, Tyrel",11,06/25/1998,26,"6' 00""",237,Texas A&M,5
+CB,"Duck, Storm",36,12/15/2000,24,"6' 00""",195,Louisville,R
+OG/OC,"Eichenberg, Liam",74,01/19/1998,27,"6' 05""",302,Notre Dame,4
+LS,"Ferguson, Blake",48,04/21/1997,27,"6' 03""",230,LSU,5
+OLB,"Goode, Cameron",53,04/15/1998,26,"6' 03""",245,California,2
+DE,"Hand, Da'Shawn",90,11/14/1995,29,"6' 04""",302,Alabama,7
+S,"Holland, Jevón",8,03/03/2000,24,"6' 01""",205,Oregon,4
+FB,"Ingold, Alec",30,07/09/1996,28,"6' 01""",232,Wisconsin,6
+OT,"Jackson, Austin",73,05/17/1999,25,"6' 05""",315,USC,5
+DT,"Jones, Benito",95,11/27/1997,27,"6' 01""",335,Mississippi,4
+OG,"Jones, Robert",65,01/28/1999,26,"6' 04""",321,Middle Tennessee,4
+OLB,"Kamara, Mohamed",50,05/29/1999,25,"6' 01""",253,Colorado State,R
+CB,"Kohou, Kader",4,11/28/1998,26,"5' 10""",197,Texas A&M-Commerce,3
+OT,"Lamm, Kendall",70,06/05/1992,32,"6' 05""",308,Appalachian State,9
+S,"McMorris, Patrick",32,10/18/2001,23,"6' 00""",206,California,R
+LS,"McQuaide, Jake",47,12/07/1987,37,"6' 02""",235,Ohio State,14
+OC,"Meyer, Andrew",60,01/14/2000,25,"6' 03""",295,UTEP,R
+OLB,"Murphy, Grayson",59,10/13/2000,24,"6' 02""",260,UCLA,R
+CB,"Neal, Siran",33,08/04/1994,30,"6' 00""",206,Jacksonville State,7
+OLB,"Ogbah, Emmanuel",91,11/06/1993,31,"6' 04""",275,Oklahoma State,9
+OT,"Paul, Patrick",52,11/01/2000,24,"6' 07""",332,Houston,R
+OLB,"Phillips, Jaelan",15,05/28/1999,25,"6' 05""",263,Miami,4
+S,"Poyer, Jordan",21,04/25/1991,33,"6' 00""",191,Oregon State,12
+CB,"Ramsey, Jalen",5,10/24/1994,30,"6' 01""",208,Florida State,9
+ILB,"Riley, Duke",45,08/09/1994,30,"6' 01""",227,LSU,8
+OLB,"Robinson, Chop",44,11/02/2003,21,"6' 03""",254,Penn State,R
+PK,"Sanders, Jason",7,11/16/1995,29,"5' 11""",195,New Mexico,7
+DE,"Sieler, Zach",92,09/07/1995,29,"6' 06""",300,Ferris State,7
+CB,"Smith, Cam",24,12/21/2000,24,"6' 01""",186,South Carolina,2
+OT/OG,"Smith, Kion",71,10/07/1998,26,"6' 05""",300,Fayetteville State,2
+ILB,"Tindall, Channing",41,03/28/2000,24,"6' 02""",236,Georgia,3
+ILB,"Walker Jr., Anthony",6,08/08/1995,29,"6' 01""",235,Northwestern,8
+OG,"Wynn, Isaiah",77,12/09/1995,29,"6' 03""",305,Georgia,7
+CB,"Fuller, Kendall",29,02/13/1995,30,"5' 11""",198,Virginia Tech,9
+OLB,"Bradley-King, William",58,12/22/1997,27,"6' 03""",265,Baylor,1
+S,"Colbert, Jordan",34,03/18/2000,24,"6' 02""",214,Rhode Island,R
+DT,"Farrell, Neil",97,09/09/1998,26,"6' 04""",325,LSU,3
+OT,"Hayes, Ryan",78,02/28/2000,25,"6' 06""",303,Michigan,1
+OG,"Hines, Chasen",75,04/03/2000,24,"6' 03""",335,LSU,2
+ILB,"Jackson, Dequan",57,10/07/1999,25,"6' 00""",225,Colorado State,1
+CB,"Johnson, Isaiah",37,03/29/2000,24,"6' 03""",205,Syracuse,R
+CB,"Maitre, Jason",43,02/01/2000,25,"5' 10""",188,Wisconsin,R
+OT,"Matos, Bayron",79,12/08/2000,24,"6' 09""",334,South Florida,R
+OLB,"McLendon, Derrick",59,09/29/2000,24,"6' 02""",250,Colorado,R

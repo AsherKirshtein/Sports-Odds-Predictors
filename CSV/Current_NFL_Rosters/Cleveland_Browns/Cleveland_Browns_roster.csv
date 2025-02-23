@@ -1,0 +1,87 @@
+Jersey Number,Player,Position,Date_of_Birth,Age,Height,Weight,School,Years_In_NFL
+QB,"Thompson-Robinson, Dorian",17,11/14/1999,25,"6' 02""",203,UCLA,2
+QB,"Watson, Deshaun",4,09/14/1995,29,"6' 02""",223,Clemson,8
+QB,"Winston, Jameis",5,01/06/1994,31,"6' 04""",230,Florida State,10
+QB,"Zappe, Bailey",2,04/26/1999,25,"6' 00""",215,Western Kentucky,3
+RB,"Chubb, Nick",24,12/27/1995,29,"5' 11""",227,Georgia,7
+RB,"Ford, Jerome",34,09/12/1999,25,"5' 10""",210,Cincinnati,3
+RB,"Foreman, D'Onta",27,04/24/1996,28,"6' 00""",235,Texas,6
+RB,"Kelly Jr., John",42,10/04/1996,28,"5' 10""",205,Tennessee,2
+RB,"Strong Jr., Pierre",20,12/10/1998,26,"5' 11""",215,South Dakota State,3
+WR,"Bell, David",18,12/14/2000,24,"6' 01""",212,Purdue,3
+WR,"Davis, Kaden",89,09/25/1998,26,"6' 00""",193,NW Missouri State,1
+WR,"Jeudy, Jerry",3,04/24/1999,25,"6' 01""",195,Alabama,5
+WR,"Moore, Elijah",8,03/27/2000,24,"5' 09""",180,Mississippi,4
+WR,"Proche II, James",11,09/21/1996,28,"5' 11""",193,SMU,5
+WR,"Thrash, Jamari",80,12/19/2000,24,"6' 00""",190,Louisville,R
+WR,"Tillman, Cedric",19,04/19/2000,24,"6' 03""",215,Tennessee,2
+WR,"Woods II, Michael",81,03/19/2000,24,"6' 01""",204,Oklahoma,2
+TE,"Akins, Jordan",88,04/19/1992,32,"6' 03""",245,Central Florida,7
+TE,"Bates, Brenden",82,10/17/1999,25,"6' 04""",255,Kentucky,R
+TE,"Njoku, David",85,07/10/1996,28,"6' 04""",246,Miami,8
+TE,"Swaim, Geoff",84,09/16/1993,31,"6' 04""",260,Texas,10
+TE,"Whiteheart, Blake",86,03/22/2000,24,"6' 04""",250,Wake Forest,2
+TE,"McKitty, Tre'",87,01/12/1999,26,"6' 04""",246,Georgia,4
+OT,"Adeniji, Hakeem",74,12/08/1997,27,"6' 04""",315,Kansas,5
+CB,"Anusiem, Chigozie",35,11/05/2000,24,"6' 01""",200,Colorado State,R
+S,"Bell, D'Anthony",37,10/17/1996,28,"6' 01""",211,West Florida,3
+OG,"Bitonio, Joel",75,10/11/1991,33,"6' 04""",320,Nevada,11
+PT,"Bojorquez, Corey",13,09/13/1996,28,"6' 00""",217,New Mexico,7
+DT,"Briggs, Jowon",97,09/01/2001,23,"6' 01""",313,Cincinnati,R
+CB,"Brown II, Tony",38,07/13/1996,28,"6' 00""",200,Alabama,6
+LB,"Bush, Devin",30,07/18/1998,26,"5' 11""",235,Michigan,6
+OT,"Christian, Geron",72,09/10/1996,28,"6' 05""",315,Louisville,7
+OT,"Conklin, Jack",78,08/17/1994,30,"6' 06""",308,Michigan State,9
+S,"Delpit, Grant",9,09/20/1998,26,"6' 02""",208,LSU,5
+LB,"Diabate, Mohamoud",43,05/18/2001,23,"6' 03""",225,Utah,2
+OG/OC,"Dunn, Michael",68,08/28/1994,30,"6' 05""",315,Maryland,5
+DT,"Dwumfour, Michael",62,01/01/1998,27,"6' 02""",296,Rutgers,2
+S,"Edmonds, Christopher",41,07/16/2001,23,"6' 02""",210,Arizona State,R
+CB,"Emerson Jr., Martin",23,09/27/2000,24,"6' 02""",201,Mississippi State,3
+CB,"Ford Jr., Mike",31,08/04/1995,29,"6' 00""",195,SE Missouri State,7
+DE,"Garrett, Myles",95,12/29/1995,29,"6' 04""",272,Texas A&M,8
+DT,"Hall Jr., Mike",51,06/13/2003,21,"6' 03""",300,Ohio State,R
+CB,"Harden, Myles",26,12/13/2001,23,"5' 11""",195,South Dakota,R
+OC,"Harris, Nick",53,11/13/1998,26,"6' 01""",293,Washington,5
+DT,"Harris, Shelby",93,08/11/1991,33,"6' 02""",288,Illinois State,10
+S,"Hickman, Ronnie",33,10/11/2001,23,"6' 01""",209,Ohio State,2
+LB,"Hicks, Jordan",58,10/14/1991,33,"6' 01""",235,Texas,10
+PK,"Hopkins, Dustin",7,10/01/1990,34,"6' 01""",210,Florida State,11
+DE,"Houston, James",96,11/16/1998,26,"6' 01""",248,Jackson State,3
+LB,"Hudson, Khaleke",39,12/06/1997,27,"5' 11""",220,Michigan,5
+OT,"Hudson III, James",66,05/13/1999,25,"6' 04""",313,Cincinnati,4
+LS,"Hughlett, Charley",47,05/16/1990,34,"6' 04""",248,Central Florida,10
+DT,"Hurst II, Maurice",90,05/09/1995,29,"6' 01""",290,Michigan,7
+OT,"Ifedi, Germain",65,06/02/1994,30,"6' 06""",325,Texas A&M,9
+OT,"Jones, Dawand",79,08/06/2001,23,"6' 08""",374,Ohio State,2
+DT,"Kamara, Sam",92,12/21/1997,27,"6' 01""",272,Stony Brook,2
+DE,"McGuire, Isaiah",57,07/27/2001,23,"6' 04""",268,Missouri,2
+S,"McLeod Jr., Rodney",12,06/23/1990,34,"5' 10""",185,Virginia,13
+CB,"Mitchell, Cameron",29,09/08/2001,23,"5' 11""",191,Northwestern,2
+CB,"Newsome II, Greg",0,05/18/2000,24,"6' 01""",192,Northwestern,4
+DE,"Okoronkwo, Ogbo",54,04/24/1995,29,"6' 02""",250,Oklahoma,7
+LB,"Owusu-Koramoah, Jeremiah",6,11/04/1999,25,"6' 01""",221,Notre Dame,4
+OC,"Pocic, Ethan",55,08/05/1995,29,"6' 06""",320,LSU,8
+LB,"Reid, Winston",59,08/03/1999,25,"6' 00""",225,Weber State,R
+LS,"Sunahara, Rex",50,10/09/1996,28,"6' 06""",242,West Virginia,1
+OG,"Teller, Wyatt",77,11/21/1994,30,"6' 04""",315,Virginia Tech,7
+DE,"Thomas, Cameron",99,01/07/2000,25,"6' 04""",265,San Diego State,3
+S,"Thornhill, Juan",1,10/19/1995,29,"6' 00""",205,Virginia,6
+DT,"Tomlinson, Dalvin",94,02/28/1994,31,"6' 03""",325,Alabama,8
+CB,"Ward, Denzel",21,04/28/1997,27,"5' 11""",190,Ohio State,7
+LB,"Watson, Nathaniel",40,09/01/2000,24,"6' 02""",233,Mississippi State,R
+OT,"Wills Jr., Jedrick",71,05/17/1999,25,"6' 04""",307,Alabama,5
+DE,"Wright, Alex",91,09/05/2000,24,"6' 05""",267,UAB,3
+OC,"Wypler, Luke",56,05/03/2001,23,"6' 03""",303,Ohio State,2
+OG,"Zinter, Zak",70,04/17/2001,23,"6' 06""",310,Michigan,R
+OG,"Cohen, Javion",67,08/08/2002,22,"6' 04""",322,Miami,R
+S,"Dean III, Trey",28,02/29/2000,25,"6' 03""",200,Florida,1
+FB,"Hairston, Troy",,12/08/1998,26,"5' 11""",245,Central Michigan,3
+DE,"Haynes, Marcus",98,04/07/1998,26,"6' 04""",240,Old Dominion,1
+DT,"Holley, Ralph",,01/22/1999,26,"6' 01""",285,Western Michigan,1
+OG,"Latham, Brady",,10/30/2000,24,"6' 05""",312,Arkansas,R
+OT,"Mbaeteka, Roy",61,02/13/2000,25,"6' 07""",330,No College,1
+OT,"Pearl, Julian",60,10/06/1999,25,"6' 06""",325,Illinois,R
+DE,"Smith, Elerson",52,07/17/1998,26,"6' 06""",245,Northern Iowa,3
+PK,"Szmyt, Andre",10,09/26/1998,26,"6' 00""",200,Syracuse,1
+OT,"Thompson, Lorenzo",69,06/21/2000,24,"6' 06""",305,Rhode Island,R

@@ -1,0 +1,76 @@
+Jersey Number,Player,Position,Date_of_Birth,Age,Height,Weight,School,Years_In_NFL
+QB,"Hurts, Jalen",1,08/07/1998,26,"6' 01""",223,Oklahoma,5
+QB,"McKee, Tanner",16,04/27/2000,24,"6' 06""",231,Stanford,2
+QB,"Pickett, Kenny",7,06/06/1998,26,"6' 03""",220,Pittsburgh,3
+RB,"Barkley, Saquon",26,02/07/1997,28,"6' 00""",233,Penn State,7
+RB,"Gainwell, Kenneth",14,03/14/1999,25,"5' 08""",200,Memphis,4
+RB,"Shipley, Will",28,08/29/2002,22,"5' 11""",209,Clemson,R
+RB,"Davis-Price, Tyrion",35,10/23/2000,24,"6' 00""",219,LSU,3
+WR,"Brown, A.J.",11,06/30/1997,27,"6' 00""",226,Mississippi,6
+WR,"Campbell, Parris",80,07/16/1997,27,"6' 00""",208,Ohio State,6
+WR,"Covey, Britain",18,03/18/1997,27,"5' 08""",173,Utah,3
+WR,"Dotson, Jahan",83,03/22/2000,24,"5' 11""",184,Penn State,3
+WR,"Smith, Ainias",82,05/31/2001,23,"5' 09""",176,Texas A&M,R
+WR,"Smith, DeVonta",6,11/14/1998,26,"6' 00""",170,Alabama,4
+WR,"Wilson, Johnny",89,04/03/2001,23,"6' 06""",228,Florida State,R
+WR,"Cooks, Elijah",85,10/13/1998,26,"6' 04""",215,San Jose State,2
+WR,"Gray, Danny",41,04/01/1999,25,"6' 00""",200,SMU,3
+TE,"Calcaterra, Grant",81,12/04/1998,26,"6' 04""",240,SMU,3
+TE,"Goedert, Dallas",88,01/03/1995,30,"6' 05""",256,South Dakota State,7
+TE,"Jenkins, E.J.",84,11/03/1998,26,"6' 06""",245,Georgia Tech,1
+TE,"Uzomah, C.J.",47,01/14/1993,32,"6' 06""",262,Auburn,10
+TE,"Latu, Cameron",,02/24/2000,25,"6' 04""",244,Alabama,2
+TE,"Muse, Nick",,11/25/1998,26,"6' 04""",252,South Carolina,3
+ILB,"Baun, Zack",53,12/30/1996,28,"6' 02""",225,Wisconsin,5
+OG,"Becton, Mekhi",77,04/18/1999,25,"6' 07""",363,Louisville,5
+S,"Blankenship, Reed",32,03/02/1999,26,"6' 01""",203,Middle Tennessee,3
+DT,"Booker IV, Thomas",59,11/11/1999,25,"6' 03""",301,Stanford,2
+S,"Bradberry IV, James",24,08/04/1993,31,"6' 01""",210,Samford,9
+S,"Brown, Sydney",21,03/21/2000,24,"5' 10""",211,Illinois,2
+ILB,"Burks, Oren",42,03/21/1995,29,"6' 03""",233,Vanderbilt,7
+DT,"Carter, Jalen",98,04/04/2001,23,"6' 03""",314,Georgia,2
+S,"Cine, Lewis",38,10/05/1999,25,"6' 02""",199,Georgia,3
+OT,"Clark, Le'Raven",73,04/22/1993,31,"6' 05""",319,Texas Tech,8
+DT,"Davis, Jordan",90,01/12/2000,25,"6' 06""",336,Georgia,3
+ILB,"Dean, Nakobe",17,12/13/2000,24,"5' 11""",231,Georgia,3
+CB,"DeJean, Cooper",33,02/09/2003,22,"6' 00""",198,Iowa,R
+OG,"Dickerson, Landon",69,09/30/1998,26,"6' 06""",332,Alabama,4
+OL,"Driscoll, Jack",75,04/01/1997,27,"6' 05""",312,Auburn,5
+PK,"Elliott, Jake",4,01/21/1995,30,"5' 09""",167,Memphis,8
+S,"Gardner-Johnson, C.J.",8,12/20/1997,27,"5' 11""",210,Florida,5
+OLB,"Graham, Brandon",55,04/03/1988,36,"6' 01""",265,Michigan,15
+OLB,"Huff, Bryce",0,04/17/1998,26,"6' 03""",255,Memphis,5
+OLB,"Hunt, Jalyx",58,03/13/2001,23,"6' 04""",252,Houston Christian,R
+OT,"Johnson, Fred",74,06/05/1997,27,"6' 07""",326,Florida,6
+OT,"Johnson, Lane",65,05/08/1990,34,"6' 06""",325,Oklahoma,12
+OC/OG,"Jurgens, Cam",51,08/21/1999,25,"6' 03""",303,Nebraska,3
+OG,"Keegan, Trevor",79,08/30/2000,24,"6' 05""",306,Michigan,R
+OG/OT,"Kinnard, Darian",72,12/29/1999,25,"6' 05""",322,Kentucky,2
+LS,"Lovato, Rick",49,09/09/1992,32,"6' 02""",249,Old Dominion,8
+S,"Maddox, Avonte",29,03/31/1996,28,"5' 09""",184,Pittsburgh,7
+OT,"Mailata, Jordan",68,03/31/1997,27,"6' 08""",365,No College,7
+PT,"Mann, Braden",10,11/24/1997,27,"5' 11""",198,Texas A&M,5
+S,"McCollum, Tristin",36,05/03/1999,25,"6' 03""",195,Sam Houston,1
+CB,"Mitchell, Quinyon",27,07/18/2001,23,"6' 00""",193,Toledo,R
+DE,"Ojomo, Moro",97,08/15/2001,23,"6' 02""",292,Texas,2
+CB,"Ricks, Eli",23,09/26/2001,23,"6' 02""",188,Alabama,2
+CB,"Ringo, Kelee",22,06/27/2002,22,"6' 02""",207,Georgia,2
+CB,"Rodgers, Isaiah",34,01/07/1998,27,"5' 10""",170,Massachusetts,4
+CB,"Slay Jr., Darius",2,01/01/1991,34,"6' 00""",190,Mississippi State,12
+OLB,"Smith Jr., Nolan",3,01/18/2001,24,"6' 02""",238,Georgia,2
+OG,"Steen, Tyler",56,06/24/2000,24,"6' 05""",321,Alabama,2
+OLB,"Sweat, Josh",19,03/29/1997,27,"6' 05""",265,Florida State,7
+OL,"Toth, Brett",64,09/01/1996,28,"6' 06""",304,Army,6
+ILB,"Trotter Jr., Jeremiah",54,12/24/2002,22,"6' 00""",225,Clemson,R
+ILB,"VanSumeren, Ben",57,05/05/2000,24,"6' 02""",231,Michigan State,2
+DE,"Williams, Milton",93,04/06/1999,25,"6' 03""",290,Louisiana Tech,4
+DT,"Young, Byron",94,11/10/2000,24,"6' 03""",292,Alabama,2
+CB,"Castro-Fields, Tariq",46,01/14/1999,26,"6' 01""",197,Penn State,3
+ILB,"Gant, Dallas",52,05/16/2000,24,"6' 02""",224,Toledo,R
+DT,"Hall, Gabe",96,01/12/2001,24,"6' 06""",295,Baylor,R
+OLB,"Henry, KJ",50,01/27/1999,26,"6' 04""",255,Clemson,2
+OLB,"Mathis, Ochaun",45,01/09/1999,26,"6' 05""",260,Nebraska,2
+CB,"Nickerson, Parry",30,10/11/1994,30,"5' 10""",182,Tulane,5
+S,"Sam, Andre'",31,02/09/1999,26,"5' 11""",194,LSU,R
+OT,"Vakalahi, Laekin",67,01/28/2003,22,"6' 05""",320,No College,R
+CB,"Woods, A.J.",39,03/28/2001,23,"5' 10""",186,Pittsburgh,R

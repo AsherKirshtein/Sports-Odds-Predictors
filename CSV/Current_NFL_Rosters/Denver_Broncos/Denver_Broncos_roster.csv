@@ -1,0 +1,72 @@
+Jersey Number,Player,Position,Date_of_Birth,Age,Height,Weight,School,Years_In_NFL
+QB,"Nix, Bo",10,02/25/2000,25,"6' 02""",217,Oregon,R
+QB,"Stidham, Jarrett",8,08/08/1996,28,"6' 02""",215,Auburn,5
+QB,"Wilson, Zach",4,08/03/1999,25,"6' 02""",214,BYU,4
+RB,"Badie, Tyler",28,02/07/2000,25,"5' 08""",197,Missouri,1
+RB,"Estime, Audric",23,09/06/2003,21,"5' 11""",227,Notre Dame,R
+RB,"McLaughlin, Jaleel",38,09/13/2000,24,"5' 08""",187,Youngstown State,2
+RB,"Watson, Blake",25,10/14/1999,25,"5' 09""",195,Memphis,R
+RB,"Williams, Javonte",33,04/25/2000,24,"5' 10""",220,North Carolina,4
+WR,"Franklin, Troy",16,02/06/2003,22,"6' 02""",180,Oregon,R
+WR,"Humphrey, Lil'Jordan",84,04/19/1998,26,"6' 04""",225,Texas,5
+WR,"Mims Jr., Marvin",19,03/19/2002,22,"5' 11""",182,Oklahoma,2
+WR,"Sutton, Courtland",14,10/10/1995,29,"6' 03""",216,SMU,7
+WR,"Vele, Devaughn",17,12/15/1997,27,"6' 04""",210,Utah,R
+WR,"Bandy, Michael",83,12/05/1997,27,"5' 10""",190,San Diego,2
+WR,"Perry, A.T.",87,10/26/1999,25,"6' 03""",205,Wake Forest,2
+TE,"Krull, Lucas",85,07/11/1998,26,"6' 06""",260,Pittsburgh,2
+TE,"Trautman, Adam",82,02/05/1997,28,"6' 05""",253,Dayton,5
+TE,"Yassmin, Thomas",86,11/10/1999,25,"6' 05""",251,Utah,R
+CB,"Abrams-Draine, Kris",31,10/04/2001,23,"5' 11""",178,Missouri,R
+TE/FB,"Adkins, Nate",45,07/09/1999,25,"6' 03""",252,South Carolina,2
+DE,"Allen, Zach",99,08/20/1997,27,"6' 04""",285,Boston College,6
+ILB,"Bailey, Levelle",56,12/04/2000,24,"6' 02""",225,Fresno State,R
+OT/OG,"Bailey, Quinn",75,10/18/1995,29,"6' 06""",323,Arizona State,6
+ILB,"Barton, Cody",55,11/13/1996,28,"6' 02""",237,Utah,6
+OT,"Bolles, Garett",72,05/27/1992,32,"6' 05""",300,Utah,8
+OLB,"Bonitto, Nik",15,09/26/1999,25,"6' 03""",240,Oklahoma,3
+FB,"Burton, Michael",20,02/01/1992,33,"6' 00""",247,Rutgers,10
+OLB,"Cooper, Jonathon",0,01/08/1998,27,"6' 03""",257,Ohio State,4
+OT,"Crum, Frank",73,05/14/2000,24,"6' 08""",315,Wyoming,R
+ILB,"Cunningham, Zach",42,12/12/1994,30,"6' 03""",230,Vanderbilt,8
+PT,"Dixon, Riley",9,07/31/1993,31,"6' 04""",221,Syracuse,9
+OLB,"Elliss, Jonah",52,04/03/2003,21,"6' 02""",246,Utah,R
+OC,"Forsyth, Alex",54,02/13/1999,26,"6' 04""",312,Oregon,2
+LS,"Fraboni, Mitchell",48,10/28/1996,28,"6' 02""",223,Arizona State,3
+DE,"Franklin-Myers, John",98,09/26/1996,28,"6' 04""",288,Stephen F. Austin,7
+DE,"Jackson, Jordan",94,01/30/1998,27,"6' 04""",294,Air Force,1
+S,"Jones, Brandon",22,04/02/1998,26,"5' 11""",191,Texas,5
+DT,"Jones, D.J.",93,01/19/1995,30,"6' 01""",305,Mississippi,8
+S,"Key, Devon",26,10/28/1997,27,"6' 00""",208,Western Kentucky,1
+S,"Locke, P.J.",6,02/12/1997,28,"5' 10""",202,Texas,5
+PK,"Lutz, Wil",3,07/07/1994,30,"5' 11""",184,Georgia State,9
+CB,"Mathis, Damarri",27,04/12/1999,25,"5' 11""",195,Pittsburgh,3
+OT,"McGlinchey, Mike",69,01/12/1995,30,"6' 08""",315,Notre Dame,7
+CB,"McMillian, Ja'Quan",29,06/04/2000,24,"5' 10""",183,East Carolina,2
+OG/OC,"Meinerz, Quinn",77,11/15/1998,26,"6' 03""",320,Wisconsin-Whitewater,4
+CB,"Moss, Riley",21,03/03/2000,24,"6' 00""",193,Iowa,2
+OT/OG,"Palczewski, Alex",63,08/03/1999,25,"6' 06""",314,Illinois,2
+OT,"Peart, Matt",79,06/11/1997,27,"6' 06""",318,Connecticut,5
+OG,"Powers, Ben",74,10/29/1996,28,"6' 04""",310,Oklahoma,6
+DT,"Roach, Malcolm",97,06/09/1998,26,"6' 02""",290,Texas,5
+ILB,"Sanders, Drew",41,12/31/2001,23,"6' 04""",233,Arkansas,2
+ILB,"Singleton, Alex",49,12/07/1993,31,"6' 02""",240,Montana State,6
+S,"Skinner, JL",34,04/16/2001,23,"6' 04""",220,Boise State,2
+CB,"Smith, Tremon",1,07/20/1996,28,"5' 11""",190,Central Arkansas,7
+ILB,"Strnad, Justin",40,08/21/1996,28,"6' 03""",235,Wake Forest,5
+CB,"Surtain II, Pat",2,04/14/2000,24,"6' 01""",202,Alabama,4
+OLB,"Tillman, Dondrea",92,04/30/1998,26,"6' 03""",270,Indiana (PA),1
+S,"Turner-Yell, Delarrin",32,12/16/1999,25,"5' 10""",200,Oklahoma,3
+DE,"Uwazurike, Eyioma",96,05/06/1998,26,"6' 05""",320,Iowa State,2
+OC,"Wattenberg, Luke",60,09/10/1997,27,"6' 04""",300,Washington,3
+ILB,"Cloyd, K.J.",57,02/19/2001,24,"6' 01""",228,Miami,R
+OLB,"Farmer, Andrew",53,04/19/2000,24,"6' 03""",250,Lane College,2
+OG,"Gargiulo, Nick",66,07/19/2000,24,"6' 05""",310,South Carolina,R
+DE,"Henningsen, Matt",91,05/01/1999,25,"6' 03""",291,Wisconsin,3
+S,"McCalister, Tanner",30,01/27/2000,25,"5' 11""",191,Ohio State,1
+DT,"Miller, Jordan",90,01/20/2000,25,"6' 02""",307,SMU,R
+CB,"Newsome, Quinton",36,07/11/2001,23,"6' 00""",185,Nebraska,R
+OG,"Sherman, Will",78,05/27/1999,25,"6' 03""",300,Colorado,1
+S,"Smith, Keidron",43,11/01/1999,25,"6' 02""",210,Kentucky,1
+CB,"Taylor, Reese",35,08/27/1999,25,"5' 10""",188,Purdue,1
+OG,"Throckmorton, Calvin",76,08/16/1996,28,"6' 05""",311,Oregon,4

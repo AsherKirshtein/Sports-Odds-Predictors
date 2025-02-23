@@ -1,0 +1,70 @@
+Jersey Number,Player,Position,Date_of_Birth,Age,Height,Weight,School,Years_In_NFL
+QB,"Allen, Josh",17,05/21/1996,28,"6' 05""",237,Wyoming,7
+QB,"Buechele, Shane",6,01/08/1998,27,"6' 00""",210,SMU,3
+QB,"Trubisky, Mitchell",11,08/20/1994,30,"6' 02""",222,North Carolina,8
+QB,"White, Mike",14,03/25/1995,29,"6' 05""",220,Western Kentucky,6
+RB,"Cook, James",4,09/25/1999,25,"5' 11""",190,Georgia,3
+RB,"Davis, Ray",22,11/11/1999,25,"5' 08""",220,Kentucky,R
+RB,"Johnson, Ty",26,09/17/1997,27,"5' 10""",210,Maryland,6
+RB,"Gore Jr., Frank",20,03/13/2002,22,"5' 08""",195,Southern Miss,R
+WR,"Coleman, Keon",0,05/17/2003,21,"6' 03""",215,Florida State,R
+WR,"Cooper, Amari",18,06/17/1994,30,"6' 01""",210,Alabama,10
+WR,"Hollins, Mack",13,09/16/1993,31,"6' 04""",221,North Carolina,8
+WR,"Samuel, Curtis",1,08/11/1996,28,"5' 11""",195,Ohio State,8
+WR,"Shakir, Khalil",10,02/03/2000,25,"6' 00""",190,Boise State,3
+WR,"Hamler, KJ",19,07/08/1999,25,"5' 09""",178,Penn State,4
+WR,"Shavers, Tyrell",80,08/18/1999,25,"6' 04""",211,San Diego State,1
+WR,"Virgil, Jalen",89,07/13/1998,26,"6' 01""",210,Appalachian State,3
+TE,"Kincaid, Dalton",86,10/18/1999,25,"6' 04""",240,Utah,2
+TE,"Knox, Dawson",88,11/14/1996,28,"6' 04""",254,Mississippi,6
+TE,"Morris, Quintin",85,01/21/1999,26,"6' 02""",252,Bowling Green,3
+TE,"Davidson, Zach",84,07/15/1998,26,"6' 06""",251,Central Missouri,2
+TE,"Rogers, Armani",,12/04/1997,27,"6' 05""",227,Ohio,3
+OG/OC,"Anderson, Alec",70,10/03/1999,25,"6' 05""",305,UCLA,2
+LB,"Andreessen, Joe",44,02/07/2000,25,"6' 01""",232,Buffalo,R
+PK,"Bass, Tyler",2,02/14/1997,28,"5' 10""",183,Georgia Southern,5
+CB,"Benford, Christian",47,09/21/2000,24,"6' 00""",205,Villanova,3
+LB,"Bernard, Terrel",43,05/07/1999,25,"6' 00""",224,Baylor,3
+S,"Bishop, Cole",24,10/24/2002,22,"6' 02""",207,Utah,R
+OT,"Brown, Spencer",79,02/28/1998,27,"6' 08""",311,Northern Iowa,4
+DT,"Carter, DeWayne",90,12/10/2000,24,"6' 02""",305,Duke,R
+OT,"Clayton, Travis",67,02/17/2001,24,"6' 07""",301,No College,R
+CB,"Codrington, Brandon",29,11/17/2000,24,"5' 08""",185,North Carolina Central,R
+OT,"Dawkins, Dion",73,04/26/1994,30,"6' 04""",320,Temple,8
+CB,"Douglas, Rasul",31,08/29/1995,29,"6' 02""",209,West Virginia,8
+OG,"Edwards, David",76,03/20/1997,27,"6' 06""",308,Wisconsin,6
+CB,"Elam, Kaiir",5,05/05/2001,23,"6' 01""",191,Florida,3
+DE,"Epenesa, A.J.",57,09/15/1998,26,"6' 05""",260,Iowa,5
+LS,"Ferguson, Reid",69,03/24/1994,30,"6' 01""",235,LSU,8
+FB,"Gilliam, Reggie",41,08/20/1997,27,"6' 01""",244,Toledo,5
+OT,"Grable, Tylan",68,10/04/1999,25,"6' 06""",309,Central Florida,R
+S,"Hamlin, Damar",3,03/24/1998,26,"6' 01""",200,Pittsburgh,4
+CB,"Ingram, Ja'Marcus",46,09/02/1997,27,"6' 01""",190,Buffalo,1
+DT,"Jefferson, Quinton",71,03/31/1993,31,"6' 04""",291,Maryland,9
+DT,"Johnson, Austin",98,05/08/1994,30,"6' 04""",314,Penn State,8
+CB,"Johnson, Taron",7,07/27/1996,28,"5' 11""",192,Weber State,7
+DT,"Jones, DaQuan",92,12/17/1991,33,"6' 04""",320,Penn State,11
+S,"Lewis, Cam",39,04/13/1997,27,"5' 09""",183,Buffalo,5
+PT,"Martin, Sam",8,02/27/1990,35,"6' 00""",211,Appalachian State,12
+OG/OC,"McGovern, Connor",66,11/03/1997,27,"6' 05""",318,Penn State,6
+LB,"Milano, Matt",58,03/17/1995,29,"6' 00""",223,Boston College,8
+DE,"Miller, Von",40,03/26/1989,35,"6' 03""",250,Texas A&M,14
+DT,"Oliver, Ed",91,12/12/1997,27,"6' 02""",287,Houston,6
+DT,"Phillips, Jordan",97,09/21/1992,32,"6' 05""",341,Oklahoma,10
+S,"Rapp, Taylor",9,12/22/1997,27,"6' 00""",208,Washington,6
+DE,"Rousseau, Greg",50,04/05/2000,24,"6' 06""",266,Miami,4
+DE,"Smoot, Dawuane",94,03/02/1995,30,"6' 03""",264,Illinois,8
+DE,"Solomon, Javon",56,01/17/2001,24,"6' 01""",247,Troy,R
+LB,"Spector, Baylon",54,10/20/1998,26,"6' 01""",233,Clemson,3
+OG,"Torrence, O'Cyrus",64,01/20/2000,25,"6' 05""",347,Florida,2
+LB,"Ulofoshio, Edefuan",48,01/23/2000,25,"6' 00""",239,Washington,R
+OT,"Van Demark, Ryan",74,03/22/1998,26,"6' 06""",307,Connecticut,2
+OC/OG,"Van Pran-Granger, Sedrick",62,10/23/2001,23,"6' 04""",310,Georgia,R
+LB,"Williams, Dorian",42,06/08/2001,23,"6' 01""",230,Tulane,2
+PT,"Camarda, Jake",,04/20/1999,25,"6' 01""",193,Georgia,3
+CB,"Couch, Te'Cory",33,09/06/1999,25,"5' 10""",175,Miami,R
+DT,"Deen, Branson",53,02/12/2000,25,"6' 01""",280,Miami,R
+OG,"Edwards, Mike",65,11/10/1998,26,"6' 05""",363,Campbell,R
+OT,"Gouraige, Richard",75,10/15/1998,26,"6' 05""",306,Florida,1
+CB,"Hardy, Daequan",25,06/13/2001,23,"5' 09""",178,Penn State,R
+DT,"Logue, Zion",93,07/13/2001,23,"6' 06""",314,Georgia,R

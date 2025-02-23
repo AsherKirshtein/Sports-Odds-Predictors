@@ -1,0 +1,84 @@
+Jersey Number,Player,Position,Date_of_Birth,Age,Height,Weight,School,Years_In_NFL
+QB,"Cousins, Kirk",18,08/19/1988,36,"6' 03""",205,Michigan State,13
+QB,"Penix Jr., Michael",9,05/08/2000,24,"6' 02""",220,Washington,R
+QB,"Jones, Emory",11,04/29/2000,24,"6' 02""",210,Cincinnati,R
+RB,"Allgeier, Tyler",25,04/15/2000,24,"5' 11""",225,BYU,3
+RB,"Burns, Robert",39,09/25/1998,26,"5' 11""",222,Connecticut,1
+RB,"McClellan, Jase",30,06/25/2002,22,"5' 10""",215,Alabama,R
+RB,"Robinson, Bijan",7,01/30/2002,23,"5' 11""",215,Texas,2
+RB,"Washington Jr., Carlos",28,12/26/1998,26,"5' 10""",210,SE Louisiana,1
+RB,"Williams, Avery",26,07/15/1998,26,"5' 08""",200,Boise State,4
+RB,"Dotson, Elijah",41,01/19/1999,26,"5' 09""",202,Northern Colorado,2
+WR,"Blair, Chris",19,10/06/1997,27,"6' 02""",215,Alcorn State,1
+WR,"Hodge, KhaDarel",12,01/03/1995,30,"6' 02""",210,Prairie View A&M,5
+WR,"London, Drake",5,07/24/2001,23,"6' 04""",215,USC,3
+WR,"McCloud III, Ray-Ray",34,10/15/1996,28,"5' 09""",185,Clemson,7
+WR,"Mooney, Darnell",1,10/29/1997,27,"5' 10""",180,Tulane,5
+WR,"Moore, Rondale",14,06/09/2000,24,"5' 07""",181,Purdue,4
+WR,"Washington, Casey",82,03/06/2001,23,"6' 01""",205,Illinois,R
+WR,"Dorsett II, Phillip",16,01/05/1993,32,"5' 10""",185,Miami,9
+WR,"Drummond, Dylan",81,01/17/2000,25,"6' 00""",190,Eastern Michigan,1
+WR,"Matthews, Jesse",86,08/12/1999,25,"5' 11""",190,San Diego State,2
+WR,"Polk, Makai",,08/04/2001,23,"6' 03""",192,Mississippi State,1
+WR,"Sills V, David",,05/29/1996,28,"6' 03""",211,West Virginia,3
+TE,"Dwelley, Ross",85,01/26/1995,30,"6' 05""",245,San Diego,7
+TE,"Pitts, Kyle",8,10/06/2000,24,"6' 05""",250,Florida,4
+TE,"Woerner, Charlie",89,10/16/1997,27,"6' 05""",250,Georgia,5
+TE,"Kalinic, Nikola",,01/21/1997,28,"6' 04""",248,York (Canada),2
+S,"Abernathy, Micah",29,02/10/1997,28,"6' 00""",195,Tennessee,2
+CB,"Alford, Dee",20,11/05/1997,27,"5' 11""",180,Tusculum,3
+ILB,"Andersen, Troy",44,04/23/1999,25,"6' 03""",245,Montana State,3
+S,"Bates III, Jessie",3,02/26/1997,28,"6' 01""",210,Wake Forest,7
+OG,"Bergeron, Matthew",65,02/26/2000,25,"6' 05""",315,Syracuse,2
+ILB,"Bertrand, JD",40,05/05/2000,24,"6' 01""",230,Notre Dame,R
+CB,"Brooks, Natrone",35,12/17/1999,25,"5' 10""",175,Southern Miss,1
+OLB,"Carter, Lorenzo",0,12/10/1995,29,"6' 05""",265,Georgia,7
+OC,"Dalman, Drew",67,10/15/1998,26,"6' 03""",305,Stanford,4
+DE,"Dorlus, Brandon",54,03/22/2001,23,"6' 03""",295,Oregon,R
+OLB,"Ebiketie, Arnold",17,01/23/1999,26,"6' 02""",250,Penn State,3
+ILB,"Elliss, Kaden",55,07/10/1995,29,"6' 02""",240,Idaho,6
+DT,"Goldman, Eddie",99,01/06/1994,31,"6' 03""",320,Florida State,7
+DE,"Graham, Ta'Quon",95,12/01/1998,26,"6' 03""",300,Texas,4
+S,"Grant, Richie",27,11/09/1997,27,"6' 00""",200,Central Florida,4
+CB,"Hamilton Sr., Antonio",33,01/24/1993,32,"6' 00""",200,South Carolina State,9
+CB,"Hand, Harrison",36,11/12/1998,26,"5' 11""",185,Temple,3
+OLB,"Harris, Demone",91,12/30/1995,29,"6' 04""",265,Buffalo,4
+DE,"Harrison, Zach",96,08/14/2001,23,"6' 05""",270,Ohio State,2
+S,"Hellams, DeMarcco",23,06/05/2000,24,"6' 01""",203,Alabama,2
+OG,"Hinton, Kyle",68,02/27/1998,27,"6' 02""",315,Washburn,2
+CB,"Hughes, Mike",21,02/11/1997,28,"5' 10""",190,Central Florida,7
+DE,"Jarrett, Grady",97,04/28/1993,31,"6' 01""",290,Clemson,10
+OLB,"Judon, Matthew",15,08/15/1992,32,"6' 03""",265,Grand Valley State,9
+CB,"King, Kevin",32,05/05/1995,29,"6' 03""",200,Washington,6
+PK,"Koo, Younghoe",6,08/03/1994,30,"5' 09""",195,Georgia Southern,7
+ILB,"Landman, Nate",53,11/19/1998,26,"6' 02""",240,Colorado,3
+OG,"Lindstrom, Chris",63,02/08/1997,28,"6' 04""",310,Boston College,6
+OLB,"Malone, DeAngelo",51,07/12/1999,25,"6' 03""",235,Western Kentucky,3
+OT,"Matthews, Jake",70,02/11/1992,33,"6' 05""",310,Texas A&M,11
+LS,"McCullough, Liam",49,06/05/1997,27,"6' 02""",245,Ohio State,3
+OT,"McGary, Kaleb",76,02/22/1995,30,"6' 07""",330,Washington,5
+OC/OG,"Neuzil, Ryan",64,07/31/1997,27,"6' 02""",305,Appalachian State,3
+OT,"Norton, Storm",77,05/16/1994,30,"6' 08""",310,Toledo,5
+DE,"Onyemata, David",90,11/13/1992,32,"6' 03""",300,Manitoba,9
+DE,"Orhorhoro, Ruke",98,10/13/2001,23,"6' 04""",295,Clemson,R
+OT,"Parker, Brandon",75,10/29/1995,29,"6' 08""",320,North Carolina A&T,7
+PK,"Patterson, Riley",37,09/07/1999,25,"5' 10""",190,Memphis,4
+CB,"Phillips III, Clark",22,12/19/2001,23,"5' 09""",185,Utah,2
+PT,"Pinion, Bradley",13,06/01/1994,30,"6' 05""",265,Clemson,10
+S,"Simmons, Justin",31,11/19/1993,31,"6' 02""",215,Boston College,9
+OLB,"Smith-Williams, James",50,07/30/1997,27,"6' 03""",265,North Carolina State,5
+DT,"Street, Kentavius",93,05/08/1996,28,"6' 02""",315,North Carolina State,6
+CB,"Terrell Jr., A.J.",24,09/23/1998,26,"6' 01""",200,Clemson,5
+OLB,"Trice, Bralen",48,02/26/2001,24,"6' 03""",245,Washington,R
+OG,"Wilkinson, Elijah",71,02/10/1995,30,"6' 05""",310,Massachusetts,8
+ILB,"Woods, Josh",42,07/01/1996,28,"6' 02""",240,Maryland,6
+DE,"Aho, Junior",79,02/02/1999,26,"6' 04""",272,SMU,1
+OC,"Cindric, Matthew",73,08/02/1999,25,"6' 03""",295,California,R
+OT/OG,"Fisher, Joey",,11/11/1999,25,"6' 04""",322,Shepherd,1
+OC/OG,"Gwyn, Jovaughn",56,03/18/1999,25,"6' 02""",310,South Carolina,2
+CB,"Jackson, Lamar",38,04/13/1998,26,"6' 02""",208,Nebraska,3
+OLB,"Kareem, Khalid",92,04/28/1998,26,"6' 04""",268,Notre Dame,4
+DT,"London, LaCale",94,08/05/1997,27,"6' 04""",330,Western Illinois,2
+S,"Sapp III, Benny",45,06/27/2000,24,"5' 11""",200,Northern Iowa,1
+OT,"Wheatley Jr., Tyrone",74,02/04/1997,28,"6' 05""",265,Morgan State,2
+OT,"Zierer, Kilian",,02/24/2000,25,"6' 07""",312,Auburn,2

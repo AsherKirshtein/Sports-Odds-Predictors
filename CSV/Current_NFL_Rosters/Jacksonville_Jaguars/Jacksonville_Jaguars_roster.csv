@@ -1,0 +1,70 @@
+Jersey Number,Player,Position,Date_of_Birth,Age,Height,Weight,School,Years_In_NFL
+QB,"Beathard, C.J.",19,11/16/1993,31,"6' 03""",215,Iowa,8
+QB,"Jones, Mac",10,09/05/1998,26,"6' 03""",220,Alabama,4
+QB,"Lawrence, Trevor",16,10/06/1999,25,"6' 06""",220,Clemson,4
+QB,"Wolford, John",18,10/16/1995,29,"6' 01""",200,Wake Forest,6
+RB,"Bigsby, Tank",4,08/30/2001,23,"6' 00""",215,Auburn,2
+RB,"Etienne Jr., Travis",1,01/26/1999,26,"5' 10""",215,Clemson,4
+RB,"Johnson, D'Ernest",2,02/27/1996,29,"5' 10""",208,South Florida,6
+RB,"Robinson, Keilan",31,02/16/2000,25,"5' 08""",191,Texas,R
+RB,"Rees-Zammit, Louis",84,02/02/2001,24,"6' 02""",209,No College,1
+WR,"Davis, Gabe",0,04/01/1999,25,"6' 02""",225,Central Florida,5
+WR,"Duvernay, Devin",12,09/12/1997,27,"5' 10""",202,Texas,5
+WR,"Jones, Tim",15,05/15/1998,26,"6' 01""",200,Southern Miss,3
+WR,"Kirk, Christian",13,11/18/1996,28,"5' 10""",200,Texas A&M,7
+WR,"Reynolds, Josh",87,02/16/1995,30,"6' 03""",192,Texas A&M,7
+WR,"Thomas Jr., Brian",7,10/08/2002,22,"6' 03""",209,LSU,R
+WR,"Washington, Parker",11,03/21/2002,22,"5' 10""",204,Penn State,2
+WR,"White Jr., David",83,07/18/2000,24,"6' 02""",201,Western Carolina,R
+WR,"Cephus, Joshua",80,04/05/2001,23,"6' 02""",193,UTSA,R
+WR,"Trammell, Austin",86,07/04/1998,26,"5' 10""",185,Rice,3
+TE,"Deguara, Josiah",81,02/14/1997,28,"6' 02""",238,Cincinnati,4
+TE,"Engram, Evan",17,09/02/1994,30,"6' 03""",240,Mississippi,8
+TE,"Farrell, Luke",89,10/14/1997,27,"6' 05""",250,Ohio State,4
+TE,"Strange, Brenton",85,12/27/2000,24,"6' 04""",253,Penn State,2
+TE,"Bowman, Shawn",49,05/16/2000,24,"6' 05""",249,Rutgers,R
+DE,"Abdullah, Yasir",56,04/12/2000,24,"6' 01""",240,Louisville,2
+DE,"Armstead, Arik",91,11/15/1993,31,"6' 07""",290,Oregon,10
+CB,"Brown, Montaric",30,08/24/1999,25,"6' 00""",190,Arkansas,3
+CB,"Campbell, Tyson",3,03/17/2000,24,"6' 01""",195,Georgia,4
+S,"Cisco, Andre",5,03/23/2000,24,"6' 01""",210,Syracuse,4
+OG,"Cleveland, Ezra",76,05/08/1998,26,"6' 06""",312,Boise State,5
+DE,"Cole, Myles",59,04/29/2000,24,"6' 06""",278,Texas Tech,R
+PT,"Cooke, Logan",9,07/28/1995,29,"6' 05""",230,Mississippi State,7
+CB,"Darby, Ronald",25,01/02/1994,31,"5' 11""",193,Florida State,10
+DE,"Dixon, De'Shaan",47,12/16/1998,26,"6' 05""",247,Norfolk State,2
+OC,"Fortner, Luke",79,05/15/1998,26,"6' 04""",307,Kentucky,3
+OT,"Foster, Javon",62,03/31/2000,24,"6' 05""",313,Missouri,R
+LB,"Giles-Harris, Joe",43,04/01/1997,27,"6' 02""",234,Duke,2
+DT,"Hamilton, DaVon",52,02/01/1997,28,"6' 03""",335,Ohio State,5
+OG/OT,"Hance, Blake",73,01/11/1996,29,"6' 06""",310,Northwestern,4
+OT,"Harrison, Anton",77,02/02/2002,23,"6' 04""",315,Oklahoma,2
+DE,"Hines-Allen, Josh",41,07/13/1997,27,"6' 05""",255,Kentucky,6
+OG,"Hodges, Cooper",75,07/13/2000,24,"6' 03""",305,Appalachian State,2
+DT,"Jefferson, Jordan",98,09/24/2001,23,"6' 03""",316,LSU,R
+S,"Johnson, Antonio",26,10/29/2001,23,"6' 02""",198,Texas A&M,2
+LB,"Johnson, Caleb",57,07/28/1998,26,"6' 02""",220,Houston Baptist,4
+CB,"Jones, Jarrian",22,05/08/2001,23,"6' 00""",190,Florida State,R
+DT,"Lacy, Tyler",93,11/10/1999,25,"6' 04""",279,Oklahoma State,2
+DT,"Ledbetter, Jeremiah",99,06/02/1994,30,"6' 03""",299,Arkansas,4
+PK,"Little, Cam",39,08/17/2003,21,"6' 01""",172,Arkansas,R
+OT,"Little, Walker",72,04/01/1999,25,"6' 07""",325,Stanford,4
+LB,"Lloyd, Devin",33,09/30/1998,26,"6' 03""",235,Utah,3
+LS,"Matiscik, Ross",46,09/13/1996,28,"6' 00""",240,Baylor,5
+LB,"Miller, Ventrell",51,01/15/1999,26,"6' 00""",232,Florida,2
+OC,"Morse, Mitch",65,04/21/1992,32,"6' 05""",305,Missouri,10
+LB,"Muma, Chad",48,08/18/1999,25,"6' 03""",239,Wyoming,3
+LB,"Oluokun, Foyesade",23,08/02/1995,29,"6' 03""",230,Yale,7
+DT,"Otomewo, Esezi",90,12/30/1998,26,"6' 05""",282,Minnesota,2
+CB,"Prince, De'Antre",24,10/12/2000,24,"6' 00""",183,Mississippi,R
+S,"Savage, Darnell",6,07/30/1997,27,"5' 11""",198,Maryland,6
+OG,"Scherff, Brandon",68,12/26/1991,33,"6' 05""",315,Iowa,10
+DT,"Smith, Maason",94,10/13/2002,22,"6' 05""",306,LSU,R
+S,"Thomas, Daniel",20,07/01/1998,26,"5' 10""",215,Auburn,5
+OT,"Van Lanen, Cole",70,04/23/1998,26,"6' 04""",312,Wisconsin,4
+DE,"Walker, Travon",44,12/18/2000,24,"6' 05""",272,Georgia,3
+S,"Wingard, Andrew",42,12/05/1996,28,"6' 00""",200,Wyoming,6
+CB,"Braswell, Christian",21,09/27/1999,25,"5' 10""",185,Rutgers,2
+OG/OT,"Daley, Dennis",78,08/07/1996,28,"6' 05""",326,South Carolina,6
+OG/OC,"Eiselen, Dieter",60,06/10/1997,27,"6' 04""",300,Yale,3
+CB,"McPhearson, Zech",34,03/21/1998,26,"5' 11""",185,Texas Tech,4

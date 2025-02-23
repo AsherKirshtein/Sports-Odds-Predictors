@@ -1,0 +1,78 @@
+Jersey Number,Player,Position,Date_of_Birth,Age,Height,Weight,School,Years_In_NFL
+QB,"Grier, Will",16,04/03/1995,29,"6' 02""",220,West Virginia,6
+QB,"Lance, Trey",19,05/09/2000,24,"6' 04""",226,North Dakota State,4
+QB,"Prescott, Dak",4,07/29/1993,31,"6' 02""",238,Mississippi State,9
+QB,"Rush, Cooper",10,11/21/1993,31,"6' 03""",225,Central Michigan,7
+RB,"Dowdle, Rico",23,06/14/1998,26,"5' 11""",215,South Carolina,5
+RB,"Vaughn, Deuce",42,11/02/2001,23,"5' 06""",176,Kansas State,2
+RB,"Davis, Malik",34,11/26/1998,26,"5' 11""",202,Florida,2
+WR,"Brooks, Jalen",83,05/07/2000,24,"6' 01""",205,South Carolina,2
+WR,"Cooks, Brandin",3,09/25/1993,31,"5' 10""",189,Oregon State,11
+WR,"Flournoy, Ryan",80,10/27/1999,25,"6' 01""",200,SE Missouri State,R
+WR,"Lamb, CeeDee",88,04/08/1999,25,"6' 02""",200,Oklahoma,5
+WR,"Mingo, Jonathan",81,04/20/2001,23,"6' 01""",220,Mississippi,2
+WR,"Tolbert, Jalen",1,02/27/1999,26,"6' 01""",195,South Alabama,3
+WR,"Turpin, KaVontae",9,08/02/1996,28,"5' 09""",153,TCU,3
+WR,"Cropper, Jalen",16,05/03/2001,23,"5' 11""",172,Fresno State,1
+WR,"Harmon, Kelvin",84,12/15/1996,28,"6' 02""",215,North Carolina State,3
+WR,"Williams, Seth",13,04/10/2000,24,"6' 03""",211,Auburn,1
+TE,"Fant, Princeton",85,03/11/1999,25,"6' 01""",235,Tennessee,1
+TE,"Ferguson, Jake",87,01/18/1999,26,"6' 05""",244,Wisconsin,3
+TE,"Schoonmaker, Luke",86,09/28/1998,26,"6' 05""",250,Michigan,2
+TE,"Spann-Ford, Brevyn",89,12/27/1999,25,"6' 06""",270,Minnesota,R
+TE,"Stephens Jr., John",81,09/23/1999,25,"6' 04""",221,Louisiana,2
+PT,"Anger, Bryan",5,10/06/1988,36,"6' 04""",202,California,13
+PK,"Aubrey, Brandon",17,03/14/1995,29,"6' 03""",218,Notre Dame,2
+OG,"Bass, T.J.",66,03/31/1999,25,"6' 04""",325,Oregon,2
+OC,"Beebe, Cooper",56,05/19/2001,23,"6' 03""",335,Kansas State,R
+S,"Bell, Markquese",14,01/06/1999,26,"6' 02""",205,Florida A&M,3
+CB,"Bland, DaRon",26,07/12/1999,25,"6' 00""",197,Fresno State,3
+CB,"Booth, Andrew",25,09/28/2000,24,"6' 00""",194,Clemson,3
+OT,"Bostick Jr., Earl",64,12/31/1998,26,"6' 06""",310,Kansas,1
+DT,"Brown, Earnest",51,01/08/1999,26,"6' 04""",300,Northwestern,2
+CB,"Butler, Josh",31,11/25/1996,28,"5' 11""",182,Michigan State,1
+CB,"Carson, Caelen",21,03/03/2002,22,"6' 00""",195,Wake Forest,R
+LB,"Clark, Damone",18,06/08/2000,24,"6' 02""",240,LSU,3
+CB,"Diggs, Trevon",7,09/20/1998,26,"6' 01""",195,Alabama,5
+OG/OT,"Edoga, Chuma",71,05/25/1997,27,"6' 03""",308,USC,6
+DE,"Golston, Chauncey",99,02/10/1998,27,"6' 05""",268,Iowa,4
+CB,"Goodwin, C.J.",29,02/04/1990,35,"6' 03""",190,California (PA),9
+OT,"Guyton, Tyler",60,06/11/2001,23,"6' 08""",322,Oklahoma,R
+CB,"Hall, Kemon",43,06/02/1997,27,"5' 11""",190,North Texas,3
+LB,"Harris, Darius",47,01/17/1996,29,"6' 02""",238,Middle Tennessee,5
+OC/OG,"Hoffman, Brock",67,07/02/1999,25,"6' 04""",302,Virginia Tech,2
+S,"Hooker, Malik",28,04/01/1996,28,"6' 01""",212,Ohio State,8
+LB,"Johnson, Buddy",57,02/27/1999,26,"6' 01""",240,Texas A&M,3
+DT,"Joseph, Linval",93,10/10/1988,36,"6' 04""",328,East Carolina,15
+LB,"Kendricks, Eric",50,02/29/1992,33,"6' 00""",232,UCLA,10
+DE,"Kneeland, Marshawn",94,07/08/2001,23,"6' 03""",268,Western Michigan,R
+DE,"Lawrence, DeMarcus",90,04/28/1992,32,"6' 03""",265,Boise State,11
+DE,"Lawson, Carl",55,06/29/1995,29,"6' 02""",260,Auburn,8
+CB,"Lewis, Jourdan",2,08/31/1995,29,"5' 10""",195,Michigan,8
+LB,"Liufau, Marist",35,02/09/2001,24,"6' 02""",239,Notre Dame,R
+FB,"Luepke, Hunter",40,02/28/2000,25,"6' 01""",238,North Dakota State,2
+S,"Mukuamu, Israel",24,11/28/1999,25,"6' 04""",205,South Carolina,4
+DT,"Odighizuwa, Osa",97,08/13/1998,26,"6' 02""",280,UCLA,4
+CB,"Oruwariye, Amani",27,02/09/1996,29,"6' 02""",205,Penn State,5
+LB,"Overshown, DeMarvion",13,08/13/2000,24,"6' 02""",220,Texas,2
+DE,"Parsons, Micah",11,05/26/1999,25,"6' 02""",245,Penn State,4
+OT/OG,"Richards, Asim",76,10/02/2000,24,"6' 04""",307,North Carolina,2
+DT,"Rogers, Justin",96,09/12/2001,23,"6' 02""",346,Auburn,R
+LS,"Sieg, Trent",44,05/19/1995,29,"6' 03""",240,Colorado State,7
+DT,"Smith, Mazi",58,06/16/2001,23,"6' 03""",337,Michigan,2
+OG,"Smith, Tyler",73,04/03/2001,23,"6' 05""",332,Tulsa,3
+OT,"Steele, Terence",78,06/04/1997,27,"6' 06""",310,Texas Tech,5
+S,"Thomas, Juanyeh",30,06/24/2000,24,"6' 01""",217,Georgia Tech,2
+OT,"Thomas, Nathan",62,08/22/2001,23,"6' 05""",331,Louisiana,R
+LB,"Vigil, Nick",41,08/20/1993,31,"6' 02""",239,Utah State,8
+OT/OG,"Waletzko, Matt",79,12/15/1999,25,"6' 07""",305,North Dakota,3
+DT,"Watkins, Carlos",92,12/05/1993,31,"6' 04""",305,Clemson,8
+DE,"Wheat, Tyrus",91,12/08/1999,25,"6' 02""",260,Mississippi State,2
+DE,"Williams, Sam",54,03/31/1999,25,"6' 04""",261,Mississippi,3
+S,"Wilson, Donovan",6,02/21/1995,30,"6' 00""",204,Texas A&M,6
+OG/OC,"Anderson, Jack",61,10/12/1998,26,"6' 05""",314,Texas Tech,4
+CB,"Barcoo, Luq",38,07/27/1998,26,"6' 00""",180,San Diego State,2
+DT,"Daxon, Denzel",95,03/27/1999,25,"6' 02""",304,Illinois,R
+LB,"Mogensen, Brock",59,02/09/2000,25,"6' 02""",234,South Dakota,R
+CB,"Pride, Troy",32,01/19/1998,27,"5' 11""",195,Notre Dame,3
+DE,"Vilain, Luiji",53,03/10/1998,26,"6' 04""",252,Wake Forest,3

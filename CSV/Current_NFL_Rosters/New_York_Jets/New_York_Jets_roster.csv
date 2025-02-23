@@ -1,0 +1,84 @@
+Jersey Number,Player,Position,Date_of_Birth,Age,Height,Weight,School,Years_In_NFL
+QB,"Rodgers, Aaron",8,12/02/1983,41,"6' 02""",223,California,20
+QB,"Taylor, Tyrod",2,08/03/1989,35,"6' 01""",217,Virginia Tech,14
+QB,"Travis, Jordan",3,05/02/2000,24,"6' 01""",200,Florida State,R
+QB,"Martinez, Adrian",15,01/07/2000,25,"6' 02""",220,Kansas State,1
+RB,"Allen, Braelon",0,01/20/2004,21,"6' 01""",235,Wisconsin,R
+RB,"Davis, Isaiah",32,02/21/2002,23,"6' 00""",220,South Dakota State,R
+RB,"Hall, Breece",20,05/31/2001,23,"5' 11""",217,Iowa State,3
+RB,"Nwangwu, Kene",34,02/09/1998,27,"6' 01""",213,Iowa State,4
+RB,"Evans, Zach",38,05/30/2001,23,"5' 11""",202,Mississippi,2
+WR,"Adams, Davante",17,12/24/1992,32,"6' 01""",215,Fresno State,11
+WR,"Charles, Irvin",19,04/13/1997,27,"6' 04""",219,Indiana (PA),2
+WR,"Corley, Malachi",14,03/21/2002,22,"5' 11""",215,Western Kentucky,R
+WR,"Gipson, Xavier",82,03/08/2001,23,"5' 09""",189,Stephen F. Austin,2
+WR,"Lazard, Allen",10,12/11/1995,29,"6' 05""",227,Iowa State,6
+WR,"Riley, Marcus",,05/09/1999,25,"5' 10""",175,Florida A&M,R
+WR,"Taylor, Malik",86,12/21/1995,29,"6' 01""",220,Ferris State,3
+WR,"Wilson, Garrett",5,07/22/2000,24,"6' 00""",183,Ohio State,3
+WR,"Smith, Brandon",87,12/10/1998,26,"6' 02""",220,Iowa,1
+WR,"Wilson, Ontaria",,08/12/1999,25,"6' 00""",175,Florida State,1
+WR,"Winston, Easop",85,12/10/1996,28,"5' 11""",192,Washington State,1
+TE,"Conklin, Tyler",83,07/30/1995,29,"6' 03""",248,Central Michigan,7
+TE,"Ruckert, Jeremy",89,08/11/2000,24,"6' 05""",250,Ohio State,3
+TE,"Yeboah, Kenny",88,10/30/1998,26,"6' 04""",250,Mississippi,4
+TE,"Johnson, Neal",46,08/03/2001,23,"6' 04""",250,Louisiana,R
+TE,"Kuntz, Zack",81,06/06/1999,25,"6' 08""",251,Old Dominion,1
+S,"Adams, Tony",22,01/24/1999,26,"6' 00""",203,Illinois,3
+LB,"Barnes, Zaire",53,09/03/1999,25,"6' 02""",227,Western Michigan,2
+CB,"Bernard-Converse, Jarrick",29,04/29/2000,24,"6' 01""",205,LSU,2
+CB,"Carter II, Michael",30,03/08/1999,25,"5' 11""",184,Duke,4
+LB,"Ciarlo, Jimmy",,02/28/2001,24,"6' 01""",225,Army,R
+S,"Clark, Chuck",36,04/19/1995,29,"6' 00""",209,Virginia Tech,8
+DE,"Clemons, Micheal",72,08/21/1997,27,"6' 05""",263,Texas A&M,3
+S,"Davis, Ashtyn",21,10/10/1996,28,"6' 01""",202,California,5
+LB,"Davis, Jamin",50,12/12/1998,26,"6' 04""",234,Kentucky,4
+CB,"Echols, Brandin",26,10/16/1997,27,"5' 11""",179,Kentucky,4
+LB,"Eguavoen, Sam",52,02/22/1993,32,"6' 01""",236,Texas Tech,6
+OT,"Fashanu, Olu",74,12/09/2002,22,"6' 06""",312,Penn State,R
+DT,"Fotu, Leki",92,08/23/1998,26,"6' 05""",335,Utah,5
+CB,"Gardner, Sauce",1,08/31/2000,24,"6' 03""",190,Cincinnati,3
+OG,"Hanson, Jake",62,04/29/1997,27,"6' 04""",303,Oregon,4
+DT,"Hector, Bruce",98,10/07/1994,30,"6' 02""",296,South Florida,3
+LS,"Hennessy, Thomas",42,06/11/1994,30,"6' 02""",246,Duke,8
+DE,"Johnson, Jermaine",11,01/07/1999,26,"6' 05""",254,Florida State,3
+PK,"Joseph, Greg",40,08/04/1994,30,"6' 00""",208,Florida Atlantic,5
+DT,"Kinlaw, Javon",54,10/03/1997,27,"6' 05""",319,South Carolina,5
+DT,"Mathis, Phidarian",51,04/26/1998,26,"6' 04""",312,Alabama,3
+LB,"McCrary-Ball, Marcelino",41,03/23/1999,25,"6' 00""",214,Indiana,1
+DE,"McDonald IV, Will",99,06/04/1999,25,"6' 04""",236,Iowa State,2
+DE,"McGregor, Braiden",91,07/21/2001,23,"6' 05""",267,Michigan,R
+S,"Mills, Jalen",35,04/06/1994,30,"6' 00""",191,LSU,9
+OT/OG,"Mitchell, Max",61,10/12/1999,25,"6' 06""",307,Louisiana,3
+S,"Monroe, Jarius",39,10/06/2000,24,"6' 01""",205,Tulane,R
+PT,"Morstead, Thomas",6,03/07/1986,38,"6' 04""",225,SMU,16
+OT,"Moses, Morgan",78,03/03/1991,34,"6' 06""",320,Virginia,11
+LB,"Mosley, C.J.",57,06/19/1992,32,"6' 02""",231,Alabama,10
+OC/OG,"Newman, Xavier",65,08/04/1999,25,"6' 02""",297,Baylor,2
+S,"Oliver, Isaiah",23,09/30/1996,28,"6' 00""",202,Colorado,7
+DE,"Reddick, Haason",7,09/22/1994,30,"6' 01""",240,Temple,8
+CB,"Reed, D.J.",4,11/11/1996,28,"5' 09""",188,Kansas State,7
+OG,"Schweitzer, Wes",71,09/11/1993,31,"6' 04""",300,San Jose State,9
+CB,"Sheffield, Kendall",27,05/30/1996,28,"5' 11""",212,Ohio State,4
+LB,"Sherwood, Jamien",44,01/12/2000,25,"6' 02""",216,Auburn,4
+S,"Simpson, Jaylin",25,03/17/2000,24,"6' 00""",179,Auburn,R
+OG,"Simpson, John",76,08/19/1997,27,"6' 04""",330,Clemson,5
+OT,"Smith, Tyron",77,12/12/1990,34,"6' 05""",320,USC,14
+CB,"Stiggers, Qwan'tez",37,01/08/2002,23,"5' 11""",197,No College,R
+LB,"Surratt, Chazz",55,02/16/1997,28,"6' 01""",233,North Carolina,3
+DT,"Taylor III, Leonard",96,05/29/2002,22,"6' 03""",305,Miami,R
+DT,"Thomas, Solomon",94,08/26/1995,29,"6' 03""",295,Stanford,8
+OC,"Tippmann, Joe",66,03/24/2001,23,"6' 06""",313,Wisconsin,2
+OG,"Vera-Tucker, Alijah",75,06/17/1999,25,"6' 04""",308,USC,4
+OT,"Warren, Carter",67,01/19/1999,26,"6' 05""",311,Pittsburgh,2
+DE,"Watts, Eric",58,10/01/2000,24,"6' 06""",277,Connecticut,R
+LB,"Williams, Quincy",56,08/28/1996,28,"5' 11""",230,Murray State,6
+DT,"Williams, Quinnen",95,12/21/1997,27,"6' 03""",303,Alabama,6
+PK,"Zuerlein, Greg",9,12/27/1987,37,"6' 00""",195,Missouri Western,13
+OT/OG,"Bailey, Zack",69,11/08/1995,29,"6' 05""",299,South Carolina,3
+FB,"Beck, Andrew",,05/15/1996,28,"6' 03""",255,Texas,6
+PK,"Carlson, Anders",18,06/16/1998,26,"6' 04""",220,Auburn,2
+OT,"Eze, Obinna",68,06/12/1998,26,"6' 06""",325,TCU,1
+OG,"Levao, Kohl",64,02/21/1998,27,"6' 05""",324,Hawaii,1
+LB,"Sirmon, Jackson",49,04/15/2000,24,"6' 02""",240,California,R
+CB,"Swilling, Tre",31,03/26/1999,25,"6' 01""",196,Georgia Tech,1
