@@ -10,6 +10,23 @@ import csv
 from datetime import datetime
 import re
 
+def parse_player_row(row_text, player_link):
+        words = row_text.split()
+
+        # Identify where the first numeric year appears
+        for i, word in enumerate(words):
+            if word.isdigit():  # First year (e.g., "1995")
+                college = " ".join(words[1:i])  # Everything between Name and first year
+                name = words[0]  # First word is usually the last name
+                first_season = words[i]  # First year
+                last_season = words[i+1]  # Second year
+                games_played = words[i+2]  # Games played
+                games_started = words[i+3] if len(words) > i+3 else "0"  # Handle missing value
+
+                return [name, college, first_season, last_season, games_played, games_started, player_link]
+
+        return None  # Return None if the format is incorrect
+
 def get_All_Player_data():
     
     chrome_options = Options()
@@ -31,16 +48,6 @@ def get_All_Player_data():
             # Print all rows found
             for tr in tr_elements:
                 row_text = tr.text.strip()
-                row_parts = row_text.split()
-                if len(row_parts) >= 7:
-                    name = " ".join(row_parts[:2])  # Name (First Last)
-                    college = row_parts[2]  # College
-                    years_played = row_parts[3]  # Years played
-                    first_season = row_parts[4]  # First season
-                    last_season = row_parts[5]  # Last season
-                    games_played = row_parts[6]  # Games played
-                    games_started = row_parts[7] if len(row_parts) > 7 else "0"  # Games started (default to 0)
-                    
                 try:
                     a_tag = tr.find_element(By.XPATH, "./td[1]/a")  # Find the <a> within the row
                     player_link = a_tag.get_attribute("href")
@@ -53,15 +60,18 @@ def get_All_Player_data():
                     writer = csv.writer(f)
                     if f.tell() == 0:
                         writer.writerow(["Name", "College", "Years_Played", "First_Season", "Last_Season", "Games_Played", "Games_Started", "Link"])
-                    if name != "Player":
-                        writer.writerow([name, college, years_played, first_season, last_season, games_played, games_started, player_link])
-                        print(f"Saved: {name}, {college}, {years_played}, {first_season}, {last_season}, {games_played}, {games_started}, {player_link}")
+                    parsed_data = parse_player_row(row_text, player_link)
+                    if parsed_data:
+                        writer.writerow(parsed_data)
+                        print(f"Saved: {parsed_data}")
 
         except Exception as e:
             print(f"Error on {url}: {e}")
-
     # Close the browser
     driver.quit()
+    
+    
+
 
 # Run the function
 get_All_Player_data()
