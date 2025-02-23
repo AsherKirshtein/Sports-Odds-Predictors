@@ -1,0 +1,807 @@
+Date, Time, Temperature, Dew Point,Humidity, Wind, Wind Speed, Wind Gust, Pressure, Precip., Condition
+2000-9-10,23:56:00,92 °F,59 °F,33 %,WNW,6 mph,0 mph,28.54 in,0.0 in,Fair
+2000-9-10,20:56:00,89 °F,63 °F,42 %,SSE,5 mph,0 mph,28.64 in,0.0 in,Partly Cloudy
+2000-9-10,21:56:00,90 °F,62 °F,39 %,CALM,0 mph,0 mph,28.64 in,0.0 in,Partly Cloudy
+2000-9-10,22:56:00,87 °F,65 °F,48 %,E,7 mph,0 mph,28.66 in,0.0 in,Fair
+2000-9-24,16:56:00,90 °F,0 °F,13 %,VAR,3 mph,0 mph,28.68 in,0.0 in,Fair
+2000-9-24,17:56:00,89 °F,0 °F,13 %,W,6 mph,0 mph,28.67 in,0.0 in,Fair
+2000-9-24,18:56:00,87 °F,33 °F,15 %,WSW,6 mph,0 mph,28.67 in,0.0 in,Fair
+2000-9-24,19:56:00,84 °F,0 °F,15 %,WNW,5 mph,0 mph,28.68 in,0.0 in,Fair
+2000-10-8,16:56:00,83 °F,48 °F,29 %,ESE,15 mph,0 mph,28.68 in,0.0 in,Mostly Cloudy
+2000-10-8,17:56:00,80 °F,48 °F,32 %,ESE,15 mph,22 mph,28.71 in,0.0 in,Mostly Cloudy
+2000-10-8,18:56:00,77 °F,48 °F,36 %,ESE,16 mph,23 mph,28.73 in,0.0 in,Mostly Cloudy
+2000-10-8,19:56:00,75 °F,48 °F,38 %,ESE,14 mph,26 mph,28.76 in,0.0 in,Mostly Cloudy
+2000-10-15,16:56:00,83 °F,38 °F,20 %,WNW,3 mph,0 mph,28.68 in,0.0 in,Fair
+2000-10-15,17:56:00,81 °F,39 °F,22 %,N,3 mph,0 mph,28.68 in,0.0 in,Fair
+2000-10-15,18:56:00,78 °F,41 °F,27 %,NW,3 mph,0 mph,28.69 in,0.0 in,Fair
+2000-10-15,19:56:00,75 °F,43 °F,32 %,CALM,0 mph,0 mph,28.70 in,0.0 in,Fair
+2000-10-29,16:56:00,71 °F,50 °F,47 %,S,7 mph,0 mph,28.75 in,0.0 in,Partly Cloudy
+2000-10-29,17:56:00,70 °F,50 °F,49 %,ESE,5 mph,0 mph,28.75 in,0.0 in,Mostly Cloudy
+2000-10-29,18:56:00,67 °F,52 °F,59 %,ENE,3 mph,0 mph,28.75 in,0.0 in,Mostly Cloudy
+2000-10-29,19:56:00,66 °F,51 °F,59 %,CALM,0 mph,0 mph,28.75 in,0.0 in,Partly Cloudy
+2000-11-5,16:56:00,66 °F,46 °F,48 %,W,7 mph,0 mph,28.60 in,0.0 in,Mostly Cloudy
+2000-11-5,17:56:00,64 °F,48 °F,56 %,S,6 mph,0 mph,28.59 in,0.0 in,Partly Cloudy
+2000-11-5,18:56:00,63 °F,47 °F,56 %,CALM,0 mph,0 mph,28.61 in,0.0 in,Fair
+2000-11-5,19:56:00,61 °F,49 °F,64 %,SE,3 mph,0 mph,28.60 in,0.0 in,Fair
+2000-11-26,23:56:00,52 °F,36 °F,54 %,ESE,3 mph,0 mph,28.88 in,0.0 in,Fair
+2000-11-26,20:56:00,56 °F,36 °F,47 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Fair
+2000-11-26,21:56:00,56 °F,31 °F,39 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Fair
+2000-11-26,22:56:00,54 °F,34 °F,47 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Fair
+2000-12-17,16:56:00,68 °F,24 °F,19 %,SSE,6 mph,0 mph,28.83 in,0.0 in,Partly Cloudy
+2000-12-17,17:56:00,64 °F,29 °F,27 %,W,8 mph,0 mph,28.85 in,0.0 in,Partly Cloudy
+2000-12-17,18:56:00,62 °F,26 °F,25 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Partly Cloudy
+2000-12-17,19:56:00,59 °F,29 °F,32 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Partly Cloudy
+2001-9-23,23:56:00,87 °F,41 °F,20 %,CALM,0 mph,0 mph,28.56 in,0.0 in,Fair
+2001-9-23,20:56:00,97 °F,40 °F,14 %,ESE,10 mph,0 mph,28.56 in,0.0 in,Fair
+2001-9-23,21:56:00,96 °F,41 °F,15 %,S,12 mph,0 mph,28.58 in,0.0 in,Fair
+2001-9-23,22:56:00,95 °F,41 °F,15 %,SE,10 mph,0 mph,28.59 in,0.0 in,Fair
+2001-9-30,16:56:00,97 °F,42 °F,15 %,ESE,15 mph,25 mph,28.54 in,0.0 in,Cloudy
+2001-9-30,17:56:00,96 °F,43 °F,16 %,SE,13 mph,0 mph,28.55 in,0.0 in,Cloudy
+2001-9-30,18:56:00,89 °F,44 °F,21 %,S,13 mph,22 mph,28.59 in,0.0 in,Cloudy
+2001-9-30,19:56:00,87 °F,44 °F,22 %,S,3 mph,0 mph,28.62 in,0.0 in,Cloudy
+2001-10-21,16:56:00,91 °F,40 °F,17 %,NNW,6 mph,0 mph,28.58 in,0.0 in,Cloudy
+2001-10-21,17:56:00,89 °F,42 °F,19 %,NNW,6 mph,0 mph,28.58 in,0.0 in,Cloudy
+2001-10-21,18:56:00,86 °F,38 °F,18 %,W,6 mph,0 mph,28.60 in,0.0 in,Cloudy
+2001-10-21,19:56:00,82 °F,37 °F,20 %,CALM,0 mph,0 mph,28.61 in,0.0 in,Cloudy
+2001-11-4,16:56:00,92 °F,42 °F,18 %,E,13 mph,0 mph,28.63 in,0.0 in,Mostly Cloudy
+2001-11-4,17:56:00,89 °F,45 °F,22 %,ENE,13 mph,0 mph,28.64 in,0.0 in,Mostly Cloudy
+2001-11-4,18:56:00,88 °F,46 °F,23 %,ENE,9 mph,0 mph,28.64 in,0.0 in,Mostly Cloudy
+2001-11-4,19:48:00,84 °F,52 °F,33 %,W,22 mph,28 mph,28.73 in,0.0 in,Mostly Cloudy / Windy
+2001-11-4,19:56:00,84 °F,46 °F,26 %,SW,15 mph,28 mph,28.68 in,0.0 in,Cloudy
+2001-11-11,16:56:00,81 °F,53 °F,38 %,WSW,9 mph,0 mph,28.75 in,0.0 in,Fair
+2001-11-11,17:56:00,79 °F,53 °F,40 %,WSW,5 mph,0 mph,28.75 in,0.0 in,Fair
+2001-11-11,18:56:00,76 °F,54 °F,46 %,SW,5 mph,0 mph,28.77 in,0.0 in,Fair
+2001-11-11,19:56:00,74 °F,55 °F,52 %,CALM,0 mph,0 mph,28.79 in,0.0 in,Fair
+2001-11-18,16:56:00,78 °F,42 °F,28 %,WNW,6 mph,0 mph,28.81 in,0.0 in,Mostly Cloudy
+2001-11-18,17:56:00,75 °F,45 °F,34 %,SW,3 mph,0 mph,28.82 in,0.0 in,Mostly Cloudy
+2001-11-18,18:56:00,75 °F,44 °F,33 %,W,3 mph,0 mph,28.82 in,0.0 in,Mostly Cloudy
+2001-11-18,19:56:00,70 °F,48 °F,46 %,SW,5 mph,0 mph,28.82 in,0.0 in,Mostly Cloudy
+2001-12-9,16:56:00,69 °F,20 °F,15 %,ESE,9 mph,0 mph,28.61 in,0.0 in,Mostly Cloudy
+2001-12-9,17:56:00,65 °F,22 °F,19 %,ESE,6 mph,0 mph,28.60 in,0.0 in,Mostly Cloudy
+2001-12-9,18:56:00,61 °F,25 °F,25 %,E,12 mph,0 mph,28.59 in,0.0 in,Mostly Cloudy
+2001-12-9,19:56:00,59 °F,26 °F,28 %,ENE,8 mph,0 mph,28.58 in,0.0 in,Mostly Cloudy
+2001-12-23,16:56:00,59 °F,28 °F,31 %,NNW,6 mph,0 mph,28.87 in,0.0 in,Mostly Cloudy
+2001-12-23,17:56:00,58 °F,28 °F,32 %,NW,6 mph,0 mph,28.88 in,0.0 in,Mostly Cloudy
+2001-12-23,18:56:00,57 °F,29 °F,34 %,WNW,7 mph,0 mph,28.89 in,0.0 in,Partly Cloudy
+2001-12-23,19:56:00,55 °F,31 °F,40 %,NW,8 mph,0 mph,28.89 in,0.0 in,Mostly Cloudy
+2002-9-22,16:56:00,106 °F,25 °F,6 %,VAR,5 mph,0 mph,28.56 in,0.0 in,Fair
+2002-9-22,17:56:00,103 °F,25 °F,6 %,WSW,6 mph,0 mph,28.56 in,0.0 in,Fair
+2002-9-22,18:56:00,101 °F,28 °F,8 %,WNW,6 mph,0 mph,28.56 in,0.0 in,Fair
+2002-9-22,19:56:00,96 °F,0 °F,10 %,CALM,0 mph,0 mph,28.57 in,0.0 in,Fair
+2002-9-29,16:56:00,91 °F,50 °F,24 %,W,15 mph,22 mph,28.54 in,0.0 in,Fair
+2002-9-29,17:56:00,88 °F,49 °F,26 %,WNW,16 mph,0 mph,28.55 in,0.0 in,Fair
+2002-9-29,18:56:00,86 °F,46 °F,25 %,W,14 mph,0 mph,28.56 in,0.0 in,Fair
+2002-9-29,19:56:00,84 °F,42 °F,23 %,W,12 mph,0 mph,28.59 in,0.0 in,Fair
+2002-10-20,16:56:00,84 °F,41 °F,22 %,WNW,10 mph,0 mph,28.55 in,0.0 in,Mostly Cloudy
+2002-10-20,17:56:00,83 °F,41 °F,23 %,WNW,8 mph,0 mph,28.54 in,0.0 in,Mostly Cloudy
+2002-10-20,18:56:00,81 °F,41 °F,24 %,CALM,0 mph,0 mph,28.56 in,0.0 in,Partly Cloudy
+2002-10-20,19:56:00,80 °F,42 °F,26 %,W,6 mph,0 mph,28.56 in,0.0 in,Mostly Cloudy
+2002-11-3,16:56:00,79 °F,29 °F,16 %,WSW,3 mph,0 mph,28.54 in,0.0 in,Fair
+2002-11-3,17:56:00,75 °F,35 °F,23 %,SW,8 mph,0 mph,28.55 in,0.0 in,Fair
+2002-11-3,18:56:00,71 °F,37 °F,29 %,SW,5 mph,0 mph,28.56 in,0.0 in,Fair
+2002-11-3,19:56:00,72 °F,34 °F,25 %,W,5 mph,0 mph,28.57 in,0.0 in,Fair
+2002-11-10,16:56:00,77 °F,33 °F,20 %,WSW,9 mph,0 mph,28.69 in,0.0 in,Partly Cloudy
+2002-11-10,17:56:00,74 °F,33 °F,22 %,SW,8 mph,0 mph,28.71 in,0.0 in,Fair
+2002-11-10,18:56:00,73 °F,0 °F,22 %,SW,8 mph,0 mph,28.71 in,0.0 in,Fair
+2002-11-10,19:56:00,71 °F,0 °F,24 %,WNW,8 mph,0 mph,28.73 in,0.0 in,Fair
+2002-11-24,16:56:00,74 °F,25 °F,16 %,WSW,5 mph,0 mph,28.74 in,0.0 in,Mostly Cloudy
+2002-11-24,17:56:00,71 °F,27 °F,19 %,WSW,5 mph,0 mph,28.74 in,0.0 in,Mostly Cloudy
+2002-11-24,18:56:00,67 °F,30 °F,25 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Mostly Cloudy
+2002-11-24,19:56:00,66 °F,29 °F,25 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Mostly Cloudy
+2002-12-8,16:56:00,68 °F,38 °F,33 %,WSW,7 mph,0 mph,28.90 in,0.0 in,Fair
+2002-12-8,17:56:00,65 °F,38 °F,37 %,W,3 mph,0 mph,28.91 in,0.0 in,Fair
+2002-12-8,18:56:00,65 °F,38 °F,37 %,WNW,3 mph,0 mph,28.93 in,0.0 in,Fair
+2002-12-8,19:56:00,59 °F,42 °F,53 %,S,3 mph,0 mph,28.95 in,0.0 in,Fair
+2002-12-21,17:56:00,48 °F,42 °F,80 %,SW,7 mph,0 mph,28.84 in,0.0 in,Cloudy
+2002-12-21,18:56:00,47 °F,41 °F,80 %,WSW,5 mph,0 mph,28.83 in,0.0 in,Cloudy
+2002-12-21,19:56:00,47 °F,41 °F,80 %,WSW,3 mph,0 mph,28.82 in,0.0 in,Cloudy
+2002-12-21,20:56:00,47 °F,40 °F,77 %,W,7 mph,0 mph,28.81 in,0.0 in,Cloudy
+2003-9-14,16:56:00,104 °F,34 °F,9 %,W,12 mph,0 mph,28.58 in,0.0 in,Fair
+2003-9-14,17:56:00,102 °F,33 °F,9 %,WSW,6 mph,0 mph,28.59 in,0.0 in,Fair
+2003-9-14,18:56:00,100 °F,37 °F,11 %,W,7 mph,0 mph,28.59 in,0.0 in,Fair
+2003-9-14,19:56:00,95 °F,40 °F,15 %,SSW,3 mph,0 mph,28.61 in,0.0 in,Fair
+2003-9-21,16:56:00,105 °F,22 °F,5 %,SSW,5 mph,0 mph,28.46 in,0.0 in,Fair
+2003-9-21,17:56:00,104 °F,23 °F,6 %,S,6 mph,0 mph,28.46 in,0.0 in,Fair
+2003-9-21,18:56:00,100 °F,29 °F,8 %,W,8 mph,0 mph,28.46 in,0.0 in,Fair
+2003-9-21,19:56:00,96 °F,36 °F,12 %,W,3 mph,0 mph,28.48 in,0.0 in,Fair
+2003-10-12,16:56:00,95 °F,52 °F,23 %,NNW,6 mph,0 mph,28.60 in,0.0 in,Fair
+2003-10-12,17:56:00,94 °F,53 °F,25 %,W,8 mph,0 mph,28.60 in,0.0 in,Fair
+2003-10-12,18:56:00,93 °F,54 °F,27 %,NW,8 mph,0 mph,28.61 in,0.0 in,Fair
+2003-10-12,19:56:00,91 °F,55 °F,29 %,NW,9 mph,0 mph,28.62 in,0.0 in,Fair
+2003-10-26,16:56:00,80 °F,13 °F,8 %,SSW,8 mph,0 mph,28.88 in,0.0 in,Partly Cloudy
+2003-10-26,17:56:00,78 °F,16 °F,10 %,SW,8 mph,0 mph,28.89 in,0.0 in,Mostly Cloudy
+2003-10-26,18:56:00,76 °F,17 °F,11 %,CALM,0 mph,0 mph,28.91 in,0.0 in,Mostly Cloudy
+2003-10-26,19:56:00,74 °F,17 °F,12 %,E,3 mph,0 mph,28.92 in,0.0 in,Partly Cloudy
+2003-11-2,16:56:00,74 °F,44 °F,34 %,W,15 mph,0 mph,28.60 in,0.0 in,Mostly Cloudy
+2003-11-2,17:56:00,72 °F,45 °F,38 %,W,15 mph,0 mph,28.61 in,0.0 in,Mostly Cloudy
+2003-11-2,18:56:00,70 °F,47 °F,44 %,WSW,10 mph,0 mph,28.63 in,0.0 in,Mostly Cloudy
+2003-11-2,19:56:00,69 °F,45 °F,42 %,W,9 mph,0 mph,28.64 in,0.0 in,Mostly Cloudy
+2003-11-23,16:56:00,59 °F,7 °F,13 %,WSW,10 mph,0 mph,28.96 in,0.0 in,Fair
+2003-11-23,17:56:00,57 °F,6 °F,13 %,W,6 mph,0 mph,28.95 in,0.0 in,Fair
+2003-11-23,18:56:00,54 °F,11 °F,18 %,WSW,8 mph,0 mph,28.96 in,0.0 in,Fair
+2003-11-23,19:56:00,51 °F,14 °F,23 %,WSW,7 mph,0 mph,28.96 in,0.0 in,Fair
+2003-12-14,16:56:00,64 °F,35 °F,34 %,ESE,3 mph,0 mph,28.70 in,0.0 in,Mostly Cloudy
+2003-12-14,17:56:00,60 °F,37 °F,42 %,CALM,0 mph,0 mph,28.69 in,0.0 in,Partly Cloudy
+2003-12-14,18:56:00,60 °F,37 °F,42 %,CALM,0 mph,0 mph,28.71 in,0.0 in,Fair
+2003-12-14,19:56:00,55 °F,38 °F,53 %,CALM,0 mph,0 mph,28.72 in,0.0 in,Fair
+2003-12-28,16:56:00,51 °F,6 °F,16 %,SW,6 mph,0 mph,29.10 in,0.0 in,Mostly Cloudy
+2003-12-28,17:56:00,48 °F,9 °F,21 %,SW,6 mph,0 mph,29.10 in,0.0 in,Mostly Cloudy
+2003-12-28,18:56:00,46 °F,12 °F,25 %,CALM,0 mph,0 mph,29.12 in,0.0 in,Mostly Cloudy
+2003-12-28,19:56:00,45 °F,11 °F,25 %,CALM,0 mph,0 mph,29.13 in,0.0 in,Mostly Cloudy
+2004-9-19,16:56:00,83 °F,71 °F,67 %,VAR,3 mph,0 mph,28.43 in,0.0 in,Mostly Cloudy
+2004-9-19,17:56:00,82 °F,66 °F,58 %,S,10 mph,0 mph,28.43 in,0.0 in,Mostly Cloudy
+2004-9-19,18:56:00,79 °F,67 °F,66 %,SSE,28 mph,35 mph,28.44 in,0.0 in,Mostly Cloudy / Windy
+2004-9-19,19:56:00,79 °F,67 °F,66 %,S,10 mph,0 mph,28.47 in,0.0 in,Mostly Cloudy
+2004-10-3,16:56:00,94 °F,36 °F,13 %,CALM,0 mph,0 mph,28.67 in,0.0 in,Fair
+2004-10-3,17:56:00,93 °F,38 °F,15 %,W,7 mph,0 mph,28.67 in,0.0 in,Fair
+2004-10-3,18:56:00,90 °F,38 °F,16 %,W,7 mph,0 mph,28.67 in,0.0 in,Fair
+2004-10-3,19:56:00,86 °F,39 °F,19 %,SW,5 mph,0 mph,28.69 in,0.0 in,Fair
+2004-10-24,16:56:00,77 °F,43 °F,30 %,WNW,8 mph,0 mph,28.56 in,0.0 in,Partly Cloudy
+2004-10-24,17:56:00,76 °F,42 °F,30 %,NNW,9 mph,0 mph,28.56 in,0.0 in,Partly Cloudy
+2004-10-24,18:56:00,74 °F,43 °F,33 %,NNW,7 mph,0 mph,28.58 in,0.0 in,Fair
+2004-10-24,19:56:00,74 °F,43 °F,33 %,VAR,7 mph,0 mph,28.58 in,0.0 in,Fair
+2004-11-14,16:56:00,71 °F,36 °F,28 %,E,12 mph,20 mph,28.73 in,0.0 in,Partly Cloudy
+2004-11-14,17:56:00,70 °F,37 °F,30 %,E,15 mph,0 mph,28.74 in,0.0 in,Mostly Cloudy
+2004-11-14,18:56:00,69 °F,37 °F,31 %,ENE,12 mph,0 mph,28.77 in,0.0 in,Mostly Cloudy
+2004-11-14,19:56:00,67 °F,38 °F,34 %,ENE,13 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
+2004-11-28,16:56:00,58 °F,14 °F,18 %,WNW,20 mph,29 mph,28.66 in,0.0 in,Fair
+2004-11-28,17:56:00,56 °F,13 °F,18 %,W,18 mph,0 mph,28.68 in,0.0 in,Fair
+2004-11-28,18:56:00,54 °F,15 °F,22 %,W,16 mph,0 mph,28.72 in,0.0 in,Fair
+2004-11-28,19:56:00,51 °F,18 °F,27 %,WSW,12 mph,0 mph,28.75 in,0.0 in,Fair
+2004-12-12,16:56:00,75 °F,44 °F,33 %,CALM,0 mph,0 mph,28.80 in,0.0 in,Fair
+2004-12-12,17:56:00,69 °F,46 °F,44 %,SW,5 mph,0 mph,28.81 in,0.0 in,Fair
+2004-12-12,18:56:00,65 °F,48 °F,54 %,WSW,3 mph,0 mph,28.82 in,0.0 in,Fair
+2004-12-12,19:56:00,62 °F,48 °F,60 %,SW,3 mph,0 mph,28.84 in,0.0 in,Fair
+2004-12-19,16:56:00,74 °F,20 °F,13 %,ENE,8 mph,0 mph,28.88 in,0.0 in,Fair
+2004-12-19,17:56:00,69 °F,24 °F,18 %,E,5 mph,0 mph,28.87 in,0.0 in,Fair
+2004-12-19,18:56:00,63 °F,28 °F,27 %,SSW,3 mph,0 mph,28.88 in,0.0 in,Fair
+2004-12-19,19:56:00,60 °F,28 °F,30 %,SSW,3 mph,0 mph,28.89 in,0.0 in,Fair
+2005-1-2,16:56:00,63 °F,45 °F,52 %,SE,6 mph,0 mph,28.77 in,0.0 in,Cloudy
+2005-1-2,17:56:00,60 °F,48 °F,64 %,SW,3 mph,0 mph,28.78 in,0.0 in,Cloudy
+2005-1-2,18:56:00,59 °F,48 °F,67 %,CALM,0 mph,0 mph,28.79 in,0.0 in,Cloudy
+2005-1-2,19:56:00,58 °F,48 °F,70 %,CALM,0 mph,0 mph,28.80 in,0.0 in,Cloudy
+2005-9-18,16:51:00,97 °F,22 °F,7 %,NW,5 mph,0 mph,28.57 in,0.0 in,Fair
+2005-9-18,17:51:00,97 °F,25 °F,8 %,NW,8 mph,0 mph,28.62 in,0.0 in,Fair
+2005-9-18,18:51:00,94 °F,29 °F,10 %,NW,9 mph,0 mph,28.57 in,0.0 in,Fair
+2005-9-18,19:51:00,93 °F,26 °F,9 %,NW,7 mph,0 mph,28.58 in,0.0 in,Fair
+2005-10-9,16:51:00,86 °F,27 °F,12 %,W,24 mph,0 mph,28.41 in,0.0 in,Partly Cloudy / Windy
+2005-10-9,17:51:00,83 °F,26 °F,13 %,WSW,15 mph,24 mph,28.43 in,0.0 in,Partly Cloudy
+2005-10-9,18:51:00,81 °F,27 °F,14 %,WSW,14 mph,0 mph,28.45 in,0.0 in,Fair
+2005-10-9,19:51:00,80 °F,24 °F,13 %,W,20 mph,0 mph,28.46 in,0.0 in,Partly Cloudy
+2005-10-23,16:51:00,85 °F,43 °F,23 %,VAR,5 mph,0 mph,28.60 in,0.0 in,Fair
+2005-10-23,17:51:00,84 °F,37 °F,19 %,NW,7 mph,0 mph,28.61 in,0.0 in,Fair
+2005-10-23,18:51:00,84 °F,39 °F,20 %,NW,5 mph,0 mph,28.62 in,0.0 in,Fair
+2005-10-23,19:51:00,79 °F,43 °F,28 %,CALM,0 mph,0 mph,28.63 in,0.0 in,Fair
+2005-11-6,16:51:00,81 °F,30 °F,16 %,CALM,0 mph,0 mph,28.68 in,0.0 in,Mostly Cloudy
+2005-11-6,17:51:00,80 °F,0 °F,17 %,NNW,7 mph,0 mph,28.65 in,0.0 in,Mostly Cloudy
+2005-11-6,18:51:00,76 °F,36 °F,23 %,NW,6 mph,0 mph,28.66 in,0.0 in,Mostly Cloudy
+2005-11-6,19:51:00,71 °F,36 °F,28 %,SW,6 mph,0 mph,28.67 in,0.0 in,Mostly Cloudy
+2005-11-27,16:51:00,57 °F,2 °F,11 %,W,16 mph,0 mph,28.84 in,0.0 in,Fair
+2005-11-27,17:51:00,55 °F,4 °F,13 %,WSW,9 mph,0 mph,28.85 in,0.0 in,Fair
+2005-11-27,18:51:00,52 °F,4 °F,14 %,SW,8 mph,0 mph,28.87 in,0.0 in,Fair
+2005-11-27,19:51:00,51 °F,3 °F,14 %,WSW,10 mph,0 mph,28.89 in,0.0 in,Fair
+2005-12-11,16:51:00,66 °F,14 °F,13 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Mostly Cloudy
+2005-12-11,17:51:00,63 °F,16 °F,16 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Cloudy
+2005-12-11,18:51:00,60 °F,18 °F,20 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Cloudy
+2005-12-11,19:51:00,58 °F,21 °F,24 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Cloudy
+2005-12-24,16:51:00,78 °F,28 °F,16 %,SW,6 mph,0 mph,28.81 in,0.0 in,Fair
+2005-12-24,17:51:00,72 °F,28 °F,20 %,WSW,3 mph,0 mph,28.82 in,0.0 in,Partly Cloudy
+2005-12-24,18:51:00,69 °F,29 °F,22 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Partly Cloudy
+2005-12-24,19:51:00,68 °F,29 °F,23 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Partly Cloudy
+2006-9-10,16:51:00,95 °F,52 °F,23 %,VAR,6 mph,0 mph,28.56 in,0.0 in,Mostly Cloudy
+2006-9-10,17:51:00,94 °F,49 °F,21 %,NW,5 mph,0 mph,28.57 in,0.0 in,Partly Cloudy
+2006-9-10,18:51:00,93 °F,51 °F,24 %,NNW,12 mph,0 mph,28.57 in,0.0 in,Partly Cloudy
+2006-9-10,19:51:00,91 °F,52 °F,26 %,NW,9 mph,0 mph,28.58 in,0.0 in,Fair
+2006-9-24,16:51:00,93 °F,39 °F,15 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Fair
+2006-9-24,17:51:00,92 °F,38 °F,15 %,N,3 mph,0 mph,28.65 in,0.0 in,Fair
+2006-9-24,18:51:00,90 °F,39 °F,17 %,NW,8 mph,0 mph,28.65 in,0.0 in,Fair
+2006-9-24,19:51:00,89 °F,38 °F,16 %,WNW,9 mph,0 mph,28.66 in,0.0 in,Fair
+2006-10-8,16:51:00,86 °F,47 °F,26 %,SE,3 mph,0 mph,28.55 in,0.0 in,Partly Cloudy
+2006-10-8,17:51:00,85 °F,46 °F,26 %,ENE,10 mph,0 mph,28.55 in,0.0 in,Mostly Cloudy
+2006-10-8,18:45:00,82 °F,55 °F,39 %,ESE,7 mph,0 mph,28.62 in,0.0 in,Mostly Cloudy
+2006-10-8,18:51:00,82 °F,54 °F,38 %,ESE,8 mph,0 mph,28.59 in,0.0 in,Mostly Cloudy
+2006-10-8,19:28:00,79 °F,57 °F,47 %,SE,7 mph,0 mph,28.65 in,0.0 in,Mostly Cloudy
+2006-10-8,19:51:00,76 °F,56 °F,50 %,ESE,12 mph,0 mph,28.62 in,0.0 in,Mostly Cloudy
+2006-10-16,23:51:00,67 °F,44 °F,44 %,E,6 mph,0 mph,28.49 in,0.0 in,Fair
+2006-10-16,20:51:00,75 °F,42 °F,31 %,ESE,3 mph,0 mph,28.43 in,0.0 in,Fair
+2006-10-16,21:51:00,73 °F,44 °F,35 %,ESE,5 mph,0 mph,28.45 in,0.0 in,Fair
+2006-10-16,22:51:00,72 °F,43 °F,35 %,CALM,0 mph,0 mph,28.45 in,0.0 in,Fair
+2006-11-12,16:51:00,76 °F,28 °F,17 %,SSW,8 mph,0 mph,28.72 in,0.0 in,Fair
+2006-11-12,17:51:00,73 °F,29 °F,20 %,SW,6 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+2006-11-12,18:51:00,70 °F,29 °F,22 %,SW,7 mph,0 mph,28.77 in,0.0 in,Mostly Cloudy
+2006-11-12,19:51:00,69 °F,28 °F,22 %,WSW,5 mph,0 mph,28.77 in,0.0 in,Mostly Cloudy
+2006-11-19,16:51:00,87 °F,22 °F,9 %,NNE,6 mph,0 mph,28.79 in,0.0 in,Fair
+2006-11-19,17:51:00,85 °F,24 °F,11 %,N,6 mph,0 mph,28.80 in,0.0 in,Fair
+2006-11-19,18:51:00,78 °F,28 °F,16 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Fair
+2006-11-19,19:51:00,72 °F,29 °F,20 %,E,7 mph,0 mph,28.82 in,0.0 in,Fair
+2006-12-10,16:51:00,65 °F,30 °F,27 %,WSW,14 mph,0 mph,28.85 in,0.0 in,Partly Cloudy
+2006-12-10,17:51:00,63 °F,31 °F,30 %,WSW,10 mph,0 mph,28.86 in,0.0 in,Partly Cloudy
+2006-12-10,18:51:00,61 °F,33 °F,35 %,SW,7 mph,0 mph,28.87 in,0.0 in,Fair
+2006-12-10,19:51:00,59 °F,0 °F,36 %,WSW,6 mph,0 mph,28.89 in,0.0 in,Fair
+2006-12-17,16:51:00,59 °F,23 °F,25 %,W,6 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
+2006-12-17,17:51:00,58 °F,22 °F,25 %,VAR,5 mph,0 mph,28.80 in,0.0 in,Mostly Cloudy
+2006-12-17,18:51:00,58 °F,19 °F,22 %,W,7 mph,0 mph,28.81 in,0.0 in,Mostly Cloudy
+2006-12-17,19:51:00,56 °F,23 °F,28 %,W,5 mph,0 mph,28.81 in,0.0 in,Mostly Cloudy
+2007-9-16,16:06:00,99 °F,64 °F,32 %,WSW,8 mph,25 mph,28.55 in,0.0 in,Mostly Cloudy
+2007-9-16,16:33:00,97 °F,61 °F,30 %,NW,15 mph,22 mph,28.55 in,0.0 in,Mostly Cloudy
+2007-9-16,16:40:00,95 °F,61 °F,32 %,NW,6 mph,22 mph,28.55 in,0.0 in,Mostly Cloudy
+2007-9-16,16:51:00,95 °F,62 °F,33 %,WNW,5 mph,0 mph,28.50 in,0.0 in,Mostly Cloudy
+2007-9-16,17:43:00,91 °F,64 °F,41 %,ENE,3 mph,0 mph,28.55 in,0.0 in,Mostly Cloudy
+2007-9-16,17:51:00,93 °F,65 °F,39 %,CALM,0 mph,0 mph,28.49 in,0.0 in,Mostly Cloudy
+2007-9-16,18:51:00,95 °F,61 °F,32 %,SE,5 mph,0 mph,28.49 in,0.0 in,Mostly Cloudy
+2007-9-16,19:11:00,93 °F,66 °F,41 %,S,3 mph,0 mph,28.55 in,0.0 in,Mostly Cloudy
+2007-9-16,19:51:00,93 °F,64 °F,38 %,S,5 mph,0 mph,28.56 in,0.0 in,Mostly Cloudy
+2007-9-16,19:58:00,93 °F,66 °F,41 %,SE,6 mph,0 mph,28.57 in,0.0 in,Mostly Cloudy
+2007-9-30,16:51:00,96 °F,48 °F,19 %,SSE,3 mph,0 mph,28.71 in,0.0 in,Partly Cloudy
+2007-9-30,17:51:00,94 °F,49 °F,21 %,N,9 mph,0 mph,28.71 in,0.0 in,Partly Cloudy
+2007-9-30,18:51:00,93 °F,49 °F,22 %,N,8 mph,0 mph,28.72 in,0.0 in,Partly Cloudy
+2007-9-30,19:51:00,91 °F,48 °F,23 %,NNW,8 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+2007-10-14,16:51:00,83 °F,36 °F,19 %,NW,6 mph,0 mph,28.58 in,0.0 in,Fair
+2007-10-14,17:51:00,83 °F,37 °F,19 %,W,7 mph,0 mph,28.59 in,0.0 in,Fair
+2007-10-14,18:51:00,81 °F,37 °F,21 %,SSW,3 mph,0 mph,28.60 in,0.0 in,Fair
+2007-10-14,19:51:00,79 °F,38 °F,23 %,CALM,0 mph,0 mph,28.60 in,0.0 in,Fair
+2007-11-11,16:51:00,78 °F,42 °F,28 %,W,6 mph,0 mph,28.58 in,0.0 in,Fair
+2007-11-11,17:51:00,76 °F,43 °F,31 %,NW,8 mph,0 mph,28.59 in,0.0 in,Fair
+2007-11-11,18:51:00,74 °F,41 °F,30 %,WNW,9 mph,0 mph,28.61 in,0.0 in,Fair
+2007-11-11,19:51:00,74 °F,34 °F,23 %,WNW,5 mph,0 mph,28.61 in,0.0 in,Fair
+2007-11-25,16:51:00,65 °F,21 °F,19 %,SW,5 mph,0 mph,28.79 in,0.0 in,Cloudy
+2007-11-25,17:51:00,65 °F,23 °F,20 %,CALM,0 mph,0 mph,28.80 in,0.0 in,Cloudy
+2007-11-25,18:51:00,64 °F,21 °F,19 %,NNW,3 mph,0 mph,28.82 in,0.0 in,Cloudy
+2007-11-25,19:51:00,62 °F,23 °F,22 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Cloudy
+2007-12-2,16:51:00,63 °F,30 °F,29 %,CALM,0 mph,0 mph,29.11 in,0.0 in,Fair
+2007-12-2,17:51:00,62 °F,30 °F,30 %,NNW,3 mph,0 mph,29.11 in,0.0 in,Fair
+2007-12-2,18:51:00,59 °F,36 °F,42 %,W,6 mph,0 mph,29.14 in,0.0 in,Fair
+2007-12-2,19:51:00,57 °F,38 °F,49 %,W,3 mph,0 mph,29.14 in,0.0 in,Fair
+2007-12-23,16:51:00,60 °F,14 °F,16 %,WSW,3 mph,0 mph,28.97 in,0.0 in,Partly Cloudy
+2007-12-23,17:51:00,57 °F,20 °F,24 %,CALM,0 mph,0 mph,28.97 in,0.0 in,Partly Cloudy
+2007-12-23,18:51:00,55 °F,18 °F,23 %,W,6 mph,0 mph,28.99 in,0.0 in,Partly Cloudy
+2007-12-23,19:51:00,51 °F,25 °F,36 %,WSW,5 mph,0 mph,29.00 in,0.0 in,Partly Cloudy
+2007-12-30,16:51:00,59 °F,20 °F,22 %,NNW,3 mph,0 mph,28.87 in,0.0 in,Fair
+2007-12-30,17:51:00,57 °F,23 °F,27 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Fair
+2007-12-30,18:51:00,54 °F,25 °F,33 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Fair
+2007-12-30,19:51:00,51 °F,28 °F,41 %,WSW,3 mph,0 mph,28.89 in,0.0 in,Fair
+2008-9-14,16:51:00,102 °F,29 °F,8 %,CALM,0 mph,0 mph,28.55 in,0.0 in,Fair
+2008-9-14,17:51:00,100 °F,33 °F,10 %,SSW,7 mph,0 mph,28.54 in,0.0 in,Fair
+2008-9-14,18:51:00,97 °F,39 °F,13 %,S,3 mph,0 mph,28.55 in,0.0 in,Fair
+2008-9-14,19:51:00,93 °F,40 °F,16 %,SW,3 mph,0 mph,28.57 in,0.0 in,Fair
+2008-10-5,16:51:00,83 °F,45 °F,26 %,SSW,7 mph,0 mph,28.54 in,0.0 in,Fair
+2008-10-5,17:51:00,82 °F,44 °F,26 %,SW,12 mph,0 mph,28.55 in,0.0 in,Fair
+2008-10-5,18:51:00,80 °F,45 °F,29 %,SSW,5 mph,0 mph,28.56 in,0.0 in,Fair
+2008-10-5,19:51:00,79 °F,46 °F,31 %,SSE,3 mph,0 mph,28.59 in,0.0 in,Fair
+2008-10-12,16:51:00,70 °F,12 °F,11 %,SW,7 mph,0 mph,28.73 in,0.0 in,Fair
+2008-10-12,17:51:00,69 °F,9 °F,10 %,WSW,8 mph,0 mph,28.75 in,0.0 in,Fair
+2008-10-12,18:51:00,68 °F,9 °F,10 %,W,8 mph,0 mph,28.76 in,0.0 in,Fair
+2008-10-12,19:51:00,66 °F,12 °F,12 %,W,13 mph,0 mph,28.77 in,0.0 in,Fair
+2008-11-10,23:51:00,58 °F,34 °F,41 %,SW,3 mph,0 mph,28.56 in,0.0 in,Partly Cloudy
+2008-11-10,20:51:00,61 °F,35 °F,38 %,CALM,0 mph,0 mph,28.78 in,0.0 in,Fair
+2008-11-10,21:51:00,59 °F,36 °F,42 %,CALM,0 mph,0 mph,28.80 in,0.0 in,Fair
+2008-11-10,22:51:00,58 °F,37 °F,46 %,E,7 mph,0 mph,28.79 in,0.0 in,Partly Cloudy
+2008-11-23,16:51:00,78 °F,23 °F,13 %,SW,5 mph,0 mph,28.79 in,0.0 in,Fair
+2008-11-23,17:51:00,74 °F,25 °F,16 %,CALM,0 mph,0 mph,28.80 in,0.0 in,Fair
+2008-11-23,18:51:00,72 °F,27 °F,19 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+2008-11-23,19:51:00,68 °F,28 °F,22 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Fair
+2008-12-7,16:51:00,63 °F,0 °F,31 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Mostly Cloudy
+2008-12-7,17:51:00,62 °F,0 °F,32 %,CALM,0 mph,0 mph,28.71 in,0.0 in,Mostly Cloudy
+2008-12-7,18:51:00,59 °F,35 °F,41 %,W,6 mph,0 mph,28.72 in,0.0 in,Mostly Cloudy
+2008-12-7,19:51:00,57 °F,37 °F,47 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Mostly Cloudy
+2008-12-14,16:51:00,53 °F,18 °F,25 %,WSW,7 mph,0 mph,28.76 in,0.0 in,Mostly Cloudy
+2008-12-14,17:51:00,52 °F,19 °F,27 %,WSW,6 mph,0 mph,28.77 in,0.0 in,Mostly Cloudy
+2008-12-14,18:51:00,50 °F,20 °F,31 %,WSW,3 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
+2008-12-14,19:51:00,50 °F,22 °F,33 %,CALM,0 mph,0 mph,28.80 in,0.0 in,Mostly Cloudy
+2008-12-28,16:51:00,58 °F,17 °F,20 %,WNW,7 mph,0 mph,29.01 in,0.0 in,Fair
+2008-12-28,17:51:00,54 °F,26 °F,34 %,WSW,3 mph,0 mph,29.01 in,0.0 in,Fair
+2008-12-28,18:51:00,51 °F,34 °F,52 %,WSW,5 mph,0 mph,29.02 in,0.0 in,Fair
+2008-12-28,19:51:00,52 °F,23 °F,32 %,W,3 mph,0 mph,29.02 in,0.0 in,Fair
+2009-9-13,13:51:00,100 °F,53 °F,21 %,SSE,10 mph,0 mph,28.51 in,0.0 in,Partly Cloudy
+2009-9-13,14:51:00,101 °F,52 °F,19 %,SSW,8 mph,22 mph,28.48 in,0.0 in,Partly Cloudy
+2009-9-13,15:51:00,100 °F,53 °F,21 %,ESE,6 mph,0 mph,28.46 in,0.0 in,Partly Cloudy
+2009-9-13,16:51:00,100 °F,52 °F,20 %,S,9 mph,0 mph,28.45 in,0.0 in,Partly Cloudy
+2009-9-27,23:51:00,83 °F,39 °F,21 %,CALM,0 mph,0 mph,28.60 in,0.0 in,Fair
+2009-9-27,20:51:00,90 °F,33 °F,13 %,ESE,5 mph,0 mph,28.48 in,0.0 in,Fair
+2009-9-27,21:51:00,88 °F,37 °F,16 %,E,6 mph,0 mph,28.48 in,0.0 in,Fair
+2009-9-27,22:51:00,85 °F,34 °F,16 %,E,9 mph,0 mph,28.49 in,0.0 in,Fair
+2009-10-11,16:51:00,85 °F,40 °F,20 %,W,8 mph,0 mph,28.48 in,0.0 in,Fair
+2009-10-11,17:51:00,84 °F,40 °F,21 %,NNW,8 mph,0 mph,28.49 in,0.0 in,Fair
+2009-10-11,18:51:00,82 °F,42 °F,24 %,N,6 mph,0 mph,28.50 in,0.0 in,Fair
+2009-10-11,19:51:00,81 °F,42 °F,25 %,NNW,6 mph,0 mph,28.52 in,0.0 in,Fair
+2009-11-1,16:51:00,86 °F,27 °F,12 %,WSW,5 mph,0 mph,28.71 in,0.0 in,Fair
+2009-11-1,17:51:00,83 °F,27 °F,13 %,WNW,3 mph,0 mph,28.73 in,0.0 in,Fair
+2009-11-1,18:51:00,82 °F,29 °F,14 %,NW,3 mph,0 mph,28.74 in,0.0 in,Fair
+2009-11-1,19:51:00,74 °F,0 °F,21 %,CALM,0 mph,0 mph,28.75 in,0.0 in,Fair
+2009-11-15,16:51:00,67 °F,24 °F,20 %,NNW,5 mph,0 mph,28.88 in,0.0 in,Fair
+2009-11-15,17:51:00,66 °F,24 °F,20 %,CALM,0 mph,0 mph,28.89 in,0.0 in,Fair
+2009-11-15,18:51:00,64 °F,26 °F,24 %,W,3 mph,0 mph,28.91 in,0.0 in,Fair
+2009-11-15,19:51:00,62 °F,23 °F,22 %,CALM,0 mph,0 mph,28.93 in,0.0 in,Fair
+2009-12-6,23:51:00,44 °F,21 °F,40 %,SW,5 mph,0 mph,28.59 in,0.0 in,Partly Cloudy
+2009-12-6,20:51:00,56 °F,37 °F,49 %,CALM,0 mph,0 mph,28.67 in,0.0 in,Mostly Cloudy
+2009-12-6,21:51:00,55 °F,37 °F,51 %,CALM,0 mph,0 mph,28.68 in,0.0 in,Mostly Cloudy
+2009-12-6,22:51:00,55 °F,37 °F,51 %,CALM,0 mph,0 mph,28.69 in,0.0 in,Mostly Cloudy
+2009-12-27,16:51:00,59 °F,15 °F,18 %,VAR,6 mph,0 mph,28.89 in,0.0 in,Partly Cloudy
+2009-12-27,17:51:00,58 °F,15 °F,19 %,W,7 mph,0 mph,28.90 in,0.0 in,Partly Cloudy
+2009-12-27,18:51:00,53 °F,24 °F,32 %,SW,5 mph,0 mph,28.93 in,0.0 in,Fair
+2009-12-27,19:51:00,52 °F,24 °F,34 %,CALM,0 mph,0 mph,28.94 in,0.0 in,Partly Cloudy
+2010-1-3,16:51:00,70 °F,19 °F,14 %,W,6 mph,0 mph,28.84 in,0.0 in,Partly Cloudy
+2010-1-3,17:51:00,67 °F,20 °F,17 %,W,6 mph,0 mph,28.84 in,0.0 in,Partly Cloudy
+2010-1-3,18:51:00,62 °F,22 °F,21 %,SW,3 mph,0 mph,28.86 in,0.0 in,Partly Cloudy
+2010-1-3,19:51:00,61 °F,22 °F,22 %,CALM,0 mph,0 mph,28.87 in,0.0 in,Partly Cloudy
+2010-9-26,16:51:00,103 °F,44 °F,14 %,ENE,6 mph,0 mph,28.52 in,0.0 in,Partly Cloudy
+2010-9-26,17:51:00,102 °F,41 °F,12 %,SE,6 mph,0 mph,28.52 in,0.0 in,Fair
+2010-9-26,18:51:00,100 °F,42 °F,14 %,SSE,5 mph,0 mph,28.52 in,0.0 in,Fair
+2010-9-26,19:51:00,97 °F,45 °F,17 %,CALM,0 mph,0 mph,28.53 in,0.0 in,Fair
+2010-10-10,16:51:00,89 °F,36 °F,15 %,SW,7 mph,0 mph,28.59 in,0.0 in,Fair
+2010-10-10,17:51:00,87 °F,36 °F,16 %,SW,7 mph,0 mph,28.59 in,0.0 in,Fair
+2010-10-10,18:51:00,85 °F,39 °F,20 %,CALM,0 mph,0 mph,28.60 in,0.0 in,Fair
+2010-10-10,19:51:00,83 °F,45 °F,26 %,CALM,0 mph,0 mph,28.61 in,0.0 in,Fair
+2010-10-31,16:51:00,79 °F,27 °F,15 %,W,7 mph,0 mph,28.77 in,0.0 in,Partly Cloudy
+2010-10-31,17:51:00,77 °F,29 °F,17 %,SW,5 mph,0 mph,28.76 in,0.0 in,Partly Cloudy
+2010-10-31,18:51:00,76 °F,30 °F,19 %,WNW,7 mph,0 mph,28.79 in,0.0 in,Partly Cloudy
+2010-10-31,19:51:00,75 °F,30 °F,19 %,WNW,6 mph,0 mph,28.80 in,0.0 in,Partly Cloudy
+2010-11-14,16:51:00,71 °F,19 °F,14 %,WNW,9 mph,0 mph,28.65 in,0.0 in,Partly Cloudy
+2010-11-14,17:51:00,69 °F,18 °F,14 %,W,8 mph,0 mph,28.65 in,0.0 in,Partly Cloudy
+2010-11-14,18:51:00,65 °F,23 °F,20 %,CALM,0 mph,0 mph,28.66 in,0.0 in,Fair
+2010-11-14,19:51:00,63 °F,22 °F,21 %,ESE,5 mph,0 mph,28.66 in,0.0 in,Fair
+2010-11-29,23:51:00,49 °F,20 °F,32 %,WNW,5 mph,0 mph,28.73 in,0.0 in,Fair
+2010-11-29,20:51:00,50 °F,11 °F,21 %,CALM,0 mph,0 mph,29.10 in,0.0 in,Fair
+2010-11-29,21:51:00,47 °F,16 °F,29 %,CALM,0 mph,0 mph,29.12 in,0.0 in,Fair
+2010-11-29,22:51:00,44 °F,18 °F,35 %,ESE,6 mph,0 mph,29.14 in,0.0 in,Fair
+2010-12-5,16:51:00,75 °F,18 °F,11 %,WSW,3 mph,0 mph,28.86 in,0.0 in,Mostly Cloudy
+2010-12-5,17:51:00,71 °F,22 °F,16 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Mostly Cloudy
+2010-12-5,18:51:00,68 °F,24 °F,19 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Mostly Cloudy
+2010-12-5,19:51:00,64 °F,27 °F,24 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Mostly Cloudy
+2010-12-12,16:51:00,77 °F,30 °F,18 %,W,3 mph,0 mph,28.85 in,0.0 in,Partly Cloudy
+2010-12-12,17:51:00,75 °F,30 °F,19 %,NW,3 mph,0 mph,28.88 in,0.0 in,Partly Cloudy
+2010-12-12,18:51:00,72 °F,0 °F,23 %,CALM,0 mph,0 mph,28.86 in,0.0 in,Partly Cloudy
+2010-12-12,19:51:00,67 °F,34 °F,30 %,CALM,0 mph,0 mph,28.86 in,0.0 in,Fair
+2010-12-25,19:51:00,63 °F,33 °F,33 %,E,9 mph,0 mph,28.79 in,0.0 in,Partly Cloudy
+2010-12-25,20:51:00,61 °F,0 °F,34 %,E,9 mph,0 mph,28.78 in,0.0 in,Partly Cloudy
+2010-12-25,21:51:00,61 °F,31 °F,32 %,E,10 mph,0 mph,28.78 in,0.0 in,Partly Cloudy
+2010-12-25,22:51:00,61 °F,30 °F,31 %,ESE,6 mph,0 mph,28.77 in,0.0 in,Partly Cloudy
+2011-9-11,16:51:00,93 °F,56 °F,29 %,W,5 mph,0 mph,28.63 in,0.0 in,Mostly Cloudy
+2011-9-11,17:51:00,94 °F,54 °F,26 %,SSW,6 mph,0 mph,28.63 in,0.0 in,Mostly Cloudy
+2011-9-11,18:06:00,93 °F,55 °F,28 %,SW,5 mph,0 mph,28.68 in,0.0 in,Mostly Cloudy
+2011-9-11,18:22:00,93 °F,55 °F,28 %,SSW,17 mph,22 mph,28.71 in,0.0 in,Mostly Cloudy
+2011-9-11,18:28:00,91 °F,55 °F,29 %,S,17 mph,24 mph,28.71 in,0.0 in,Mostly Cloudy
+2011-9-11,18:30:00,90 °F,55 °F,31 %,SSW,16 mph,24 mph,28.71 in,0.0 in,Mostly Cloudy
+2011-9-11,18:36:00,90 °F,55 °F,31 %,S,17 mph,25 mph,28.71 in,0.0 in,Mostly Cloudy
+2011-9-11,18:40:00,90 °F,57 °F,33 %,S,20 mph,25 mph,28.71 in,0.0 in,Mostly Cloudy
+2011-9-11,18:42:00,88 °F,57 °F,35 %,S,16 mph,25 mph,28.71 in,0.0 in,Mostly Cloudy
+2011-9-11,18:51:00,89 °F,57 °F,34 %,S,9 mph,0 mph,28.65 in,0.0 in,Mostly Cloudy
+2011-9-11,19:51:00,90 °F,55 °F,30 %,CALM,0 mph,0 mph,28.66 in,0.0 in,Mostly Cloudy
+2011-10-2,16:51:00,98 °F,45 °F,16 %,WNW,7 mph,0 mph,28.60 in,0.0 in,Partly Cloudy
+2011-10-2,17:51:00,97 °F,44 °F,16 %,N,6 mph,0 mph,28.59 in,0.0 in,Partly Cloudy
+2011-10-2,18:51:00,95 °F,45 °F,18 %,CALM,0 mph,0 mph,28.60 in,0.0 in,Partly Cloudy
+2011-10-2,19:51:00,93 °F,47 °F,20 %,SW,3 mph,0 mph,28.61 in,0.0 in,Fair
+2011-10-23,16:51:00,93 °F,28 °F,10 %,SW,7 mph,0 mph,28.68 in,0.0 in,Fair
+2011-10-23,17:51:00,92 °F,28 °F,10 %,WSW,3 mph,0 mph,28.63 in,0.0 in,Fair
+2011-10-23,18:51:00,87 °F,0 °F,14 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Fair
+2011-10-23,19:51:00,85 °F,34 °F,16 %,CALM,0 mph,0 mph,28.67 in,0.0 in,Fair
+2011-11-6,16:51:00,64 °F,34 °F,33 %,CALM,0 mph,0 mph,28.71 in,0.0 in,Partly Cloudy
+2011-11-6,17:51:00,63 °F,35 °F,35 %,CALM,0 mph,0 mph,28.71 in,0.0 in,Fair
+2011-11-6,18:51:00,62 °F,38 °F,41 %,CALM,0 mph,0 mph,28.72 in,0.0 in,Mostly Cloudy
+2011-11-6,19:51:00,61 °F,38 °F,42 %,CALM,0 mph,0 mph,28.72 in,0.0 in,Partly Cloudy
+2011-12-4,16:51:00,55 °F,30 °F,38 %,SW,6 mph,0 mph,28.85 in,0.0 in,Partly Cloudy
+2011-12-4,17:51:00,52 °F,35 °F,53 %,SSW,5 mph,0 mph,28.86 in,0.0 in,Partly Cloudy
+2011-12-4,18:51:00,51 °F,34 °F,52 %,S,5 mph,0 mph,28.86 in,0.0 in,Partly Cloudy
+2011-12-4,19:51:00,49 °F,36 °F,61 %,SE,8 mph,0 mph,28.86 in,0.0 in,Partly Cloudy
+2011-12-11,16:51:00,65 °F,31 °F,28 %,CALM,0 mph,0 mph,28.63 in,0.0 in,Cloudy
+2011-12-11,17:51:00,63 °F,34 °F,34 %,CALM,0 mph,0 mph,28.63 in,0.0 in,Cloudy
+2011-12-11,18:51:00,61 °F,0 °F,34 %,WSW,3 mph,0 mph,28.64 in,0.0 in,Cloudy
+2011-12-11,19:51:00,58 °F,34 °F,41 %,CALM,0 mph,0 mph,28.66 in,0.0 in,Cloudy
+2011-12-18,16:51:00,53 °F,43 °F,69 %,WSW,6 mph,0 mph,28.81 in,0.0 in,Mostly Cloudy
+2011-12-18,17:51:00,52 °F,43 °F,71 %,W,7 mph,0 mph,28.82 in,0.0 in,Mostly Cloudy
+2011-12-18,18:51:00,50 °F,41 °F,71 %,WSW,5 mph,0 mph,28.81 in,0.0 in,Partly Cloudy
+2011-12-18,19:51:00,50 °F,44 °F,80 %,WSW,6 mph,0 mph,28.81 in,0.0 in,Mostly Cloudy
+2012-1-1,16:51:00,78 °F,26 °F,15 %,ENE,13 mph,0 mph,28.93 in,0.0 in,Fair
+2012-1-1,17:51:00,74 °F,26 °F,17 %,ENE,10 mph,0 mph,28.94 in,0.0 in,Fair
+2012-1-1,18:51:00,69 °F,28 °F,22 %,E,8 mph,0 mph,28.96 in,0.0 in,Fair
+2012-1-1,19:51:00,70 °F,27 °F,20 %,ENE,13 mph,0 mph,28.97 in,0.0 in,Fair
+2012-9-9,16:51:00,91 °F,59 °F,34 %,ENE,12 mph,22 mph,28.62 in,0.0 in,Mostly Cloudy
+2012-9-9,17:51:00,91 °F,61 °F,36 %,SE,7 mph,0 mph,28.64 in,0.0 in,Mostly Cloudy
+2012-9-9,18:35:00,90 °F,59 °F,36 %,ENE,10 mph,0 mph,28.70 in,0.0 in,Mostly Cloudy
+2012-9-9,18:51:00,89 °F,59 °F,36 %,ENE,10 mph,0 mph,28.64 in,0.0 in,Cloudy
+2012-9-9,19:45:00,90 °F,61 °F,38 %,SW,10 mph,0 mph,28.74 in,0.0 in,Cloudy
+2012-9-9,19:51:00,88 °F,62 °F,42 %,W,15 mph,0 mph,28.68 in,0.0 in,Cloudy
+2012-9-23,16:51:00,102 °F,38 °F,11 %,WNW,10 mph,0 mph,28.60 in,0.0 in,Mostly Cloudy
+2012-9-23,17:51:00,102 °F,38 °F,11 %,W,8 mph,0 mph,28.59 in,0.0 in,Mostly Cloudy
+2012-9-23,18:51:00,98 °F,40 °F,13 %,WSW,5 mph,0 mph,28.60 in,0.0 in,Mostly Cloudy
+2012-9-23,19:51:00,95 °F,43 °F,17 %,CALM,0 mph,0 mph,28.62 in,0.0 in,Mostly Cloudy
+2012-9-30,16:51:00,101 °F,0 °F,9 %,WNW,9 mph,0 mph,28.56 in,0.0 in,Fair
+2012-9-30,17:51:00,99 °F,33 °F,10 %,WSW,9 mph,0 mph,28.56 in,0.0 in,Fair
+2012-9-30,18:51:00,96 °F,35 °F,12 %,WSW,7 mph,0 mph,28.57 in,0.0 in,Fair
+2012-9-30,19:51:00,93 °F,39 °F,15 %,WSW,6 mph,0 mph,28.58 in,0.0 in,Fair
+2012-10-14,16:51:00,92 °F,35 °F,13 %,SSW,8 mph,0 mph,28.67 in,0.0 in,Fair
+2012-10-14,17:51:00,89 °F,35 °F,15 %,SW,6 mph,0 mph,28.67 in,0.0 in,Fair
+2012-10-14,18:51:00,87 °F,36 °F,16 %,WSW,6 mph,0 mph,28.67 in,0.0 in,Fair
+2012-10-14,19:51:00,83 °F,38 °F,20 %,W,3 mph,0 mph,28.69 in,0.0 in,Fair
+2012-10-29,23:51:00,69 °F,0 °F,25 %,ESE,3 mph,0 mph,28.75 in,0.0 in,Fair
+2012-10-29,20:51:00,75 °F,33 °F,22 %,ESE,3 mph,0 mph,28.76 in,0.0 in,Fair
+2012-10-29,21:51:00,72 °F,34 °F,25 %,CALM,0 mph,0 mph,28.77 in,0.0 in,Fair
+2012-10-29,22:51:00,70 °F,39 °F,32 %,ESE,5 mph,0 mph,28.77 in,0.0 in,Fair
+2012-11-25,16:51:00,80 °F,0 °F,17 %,SSW,3 mph,0 mph,28.59 in,0.0 in,Fair
+2012-11-25,17:51:00,75 °F,33 °F,22 %,CALM,0 mph,0 mph,28.59 in,0.0 in,Fair
+2012-11-25,18:51:00,72 °F,34 °F,25 %,CALM,0 mph,0 mph,28.64 in,0.0 in,Fair
+2012-11-25,19:51:00,73 °F,33 °F,23 %,CALM,0 mph,0 mph,28.63 in,0.0 in,Fair
+2012-12-16,16:51:00,58 °F,35 °F,42 %,SSW,5 mph,0 mph,28.87 in,0.0 in,Mostly Cloudy
+2012-12-16,17:51:00,56 °F,37 °F,49 %,SW,6 mph,0 mph,28.89 in,0.0 in,Mostly Cloudy
+2012-12-16,18:51:00,54 °F,39 °F,57 %,CALM,0 mph,0 mph,28.91 in,0.0 in,Mostly Cloudy
+2012-12-16,19:51:00,53 °F,40 °F,61 %,CALM,0 mph,0 mph,28.92 in,0.0 in,Mostly Cloudy
+2012-12-23,16:51:00,65 °F,31 °F,28 %,W,3 mph,0 mph,28.81 in,0.0 in,Mostly Cloudy
+2012-12-23,17:51:00,61 °F,36 °F,39 %,SW,3 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
+2012-12-23,18:51:00,58 °F,38 °F,47 %,WSW,5 mph,0 mph,28.82 in,0.0 in,Mostly Cloudy
+2012-12-23,19:51:00,56 °F,38 °F,51 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Partly Cloudy
+2013-9-15,16:51:00,103 °F,49 °F,16 %,SE,6 mph,0 mph,28.43 in,0.0 in,Partly Cloudy
+2013-9-15,17:51:00,102 °F,47 °F,15 %,CALM,0 mph,0 mph,28.43 in,0.0 in,Fair
+2013-9-15,18:51:00,100 °F,50 °F,18 %,CALM,0 mph,0 mph,28.43 in,0.0 in,Fair
+2013-9-15,19:51:00,100 °F,49 °F,18 %,CALM,0 mph,0 mph,28.44 in,0.0 in,Fair
+2013-10-6,16:51:00,90 °F,14 °F,6 %,WNW,5 mph,0 mph,28.73 in,0.0 in,Fair
+2013-10-6,17:51:00,90 °F,15 °F,6 %,S,5 mph,0 mph,28.71 in,0.0 in,Fair
+2013-10-6,18:51:00,85 °F,19 °F,9 %,CALM,0 mph,0 mph,28.72 in,0.0 in,Fair
+2013-10-6,19:51:00,86 °F,21 °F,9 %,NW,5 mph,0 mph,28.72 in,0.0 in,Fair
+2013-10-17,23:51:00,66 °F,31 °F,27 %,SW,3 mph,0 mph,28.75 in,0.0 in,Fair
+2013-10-17,20:51:00,73 °F,29 °F,20 %,SW,3 mph,0 mph,28.66 in,0.0 in,Fair
+2013-10-17,21:51:00,70 °F,29 °F,22 %,CALM,0 mph,0 mph,28.67 in,0.0 in,Fair
+2013-10-17,22:51:00,72 °F,29 °F,20 %,NW,3 mph,0 mph,28.67 in,0.0 in,Fair
+2013-10-27,16:51:00,88 °F,26 °F,11 %,W,12 mph,0 mph,28.50 in,0.0 in,Mostly Cloudy
+2013-10-27,17:51:00,85 °F,26 °F,12 %,W,9 mph,0 mph,28.49 in,0.0 in,Mostly Cloudy
+2013-10-27,18:51:00,83 °F,26 °F,13 %,SW,8 mph,0 mph,28.50 in,0.0 in,Mostly Cloudy
+2013-10-27,19:51:00,81 °F,27 °F,14 %,WSW,8 mph,0 mph,28.50 in,0.0 in,Mostly Cloudy
+2013-11-10,16:51:00,82 °F,35 °F,18 %,WNW,6 mph,0 mph,28.75 in,0.0 in,Mostly Cloudy
+2013-11-10,17:51:00,81 °F,36 °F,20 %,W,8 mph,0 mph,28.76 in,0.0 in,Mostly Cloudy
+2013-11-10,18:51:00,74 °F,37 °F,26 %,WSW,6 mph,0 mph,28.77 in,0.0 in,Partly Cloudy
+2013-11-10,19:51:00,74 °F,36 °F,25 %,W,5 mph,0 mph,28.77 in,0.0 in,Fair
+2013-11-24,16:51:00,59 °F,40 °F,49 %,E,5 mph,0 mph,28.88 in,0.0 in,Mostly Cloudy
+2013-11-24,17:51:00,59 °F,40 °F,49 %,NE,6 mph,0 mph,28.89 in,0.0 in,Mostly Cloudy
+2013-11-24,18:51:00,59 °F,40 °F,49 %,VAR,5 mph,0 mph,28.90 in,0.0 in,Partly Cloudy
+2013-11-24,19:51:00,56 °F,39 °F,53 %,ENE,8 mph,0 mph,28.92 in,0.0 in,Fair
+2013-12-8,16:51:00,56 °F,22 °F,27 %,WNW,13 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
+2013-12-8,17:51:00,55 °F,19 °F,24 %,WNW,13 mph,0 mph,28.81 in,0.0 in,Mostly Cloudy
+2013-12-8,18:51:00,54 °F,19 °F,25 %,W,10 mph,0 mph,28.83 in,0.0 in,Mostly Cloudy
+2013-12-8,19:51:00,51 °F,23 °F,33 %,WSW,8 mph,0 mph,28.84 in,0.0 in,Mostly Cloudy
+2013-12-29,16:51:00,67 °F,30 °F,25 %,W,10 mph,0 mph,28.79 in,0.0 in,Fair
+2013-12-29,17:51:00,64 °F,30 °F,28 %,WSW,8 mph,0 mph,28.80 in,0.0 in,Fair
+2013-12-29,18:51:00,62 °F,29 °F,29 %,W,8 mph,0 mph,28.82 in,0.0 in,Fair
+2013-12-29,19:51:00,56 °F,31 °F,39 %,WSW,6 mph,0 mph,28.85 in,0.0 in,Fair
+2014-9-21,16:51:00,97 °F,53 °F,23 %,WNW,6 mph,0 mph,28.64 in,0.0 in,Partly Cloudy
+2014-9-21,17:51:00,97 °F,50 °F,20 %,W,6 mph,0 mph,28.64 in,0.0 in,Partly Cloudy
+2014-9-21,18:51:00,96 °F,51 °F,22 %,NNW,8 mph,0 mph,28.65 in,0.0 in,Fair
+2014-9-21,19:51:00,95 °F,52 °F,23 %,NNW,6 mph,0 mph,28.67 in,0.0 in,Fair
+2014-10-12,16:51:00,92 °F,39 °F,16 %,SW,15 mph,0 mph,28.55 in,0.0 in,Fair
+2014-10-12,17:51:00,90 °F,42 °F,19 %,SW,8 mph,0 mph,28.56 in,0.0 in,Fair
+2014-10-12,18:51:00,87 °F,41 °F,20 %,SW,9 mph,0 mph,28.57 in,0.0 in,Fair
+2014-10-12,19:51:00,85 °F,41 °F,21 %,WSW,7 mph,0 mph,28.58 in,0.0 in,Fair
+2014-10-26,16:51:00,86 °F,53 °F,32 %,VAR,3 mph,0 mph,28.59 in,0.0 in,Cloudy
+2014-10-26,17:51:00,86 °F,52 °F,31 %,W,7 mph,0 mph,28.59 in,0.0 in,Cloudy
+2014-10-26,18:51:00,85 °F,50 °F,30 %,WSW,6 mph,0 mph,28.59 in,0.0 in,Cloudy
+2014-10-26,19:51:00,82 °F,51 °F,34 %,WSW,6 mph,0 mph,28.59 in,0.0 in,Cloudy
+2014-11-9,16:51:00,85 °F,35 °F,17 %,CALM,0 mph,0 mph,28.60 in,0.0 in,Fair
+2014-11-9,17:51:00,82 °F,38 °F,21 %,CALM,0 mph,0 mph,28.59 in,0.0 in,Partly Cloudy
+2014-11-9,18:51:00,79 °F,38 °F,23 %,CALM,0 mph,0 mph,28.59 in,0.0 in,Fair
+2014-11-9,19:51:00,74 °F,41 °F,30 %,WSW,3 mph,0 mph,28.59 in,0.0 in,Fair
+2014-11-16,16:51:00,68 °F,1 °F,7 %,NNE,12 mph,0 mph,28.86 in,0.0 in,Fair
+2014-11-16,17:51:00,66 °F,1 °F,8 %,N,10 mph,0 mph,28.87 in,0.0 in,Partly Cloudy
+2014-11-16,18:51:00,65 °F,-3 °F,7 %,N,12 mph,0 mph,28.89 in,0.0 in,Fair
+2014-11-16,19:51:00,63 °F,0 °F,8 %,N,8 mph,0 mph,28.91 in,0.0 in,Fair
+2014-12-7,16:51:00,76 °F,47 °F,36 %,CALM,0 mph,0 mph,28.86 in,0.0 in,Cloudy
+2014-12-7,17:51:00,72 °F,46 °F,40 %,WSW,5 mph,0 mph,28.86 in,0.0 in,Cloudy
+2014-12-7,18:51:00,70 °F,47 °F,44 %,WNW,9 mph,0 mph,28.88 in,0.0 in,Mostly Cloudy
+2014-12-7,19:51:00,63 °F,52 °F,67 %,SW,6 mph,0 mph,28.90 in,0.0 in,Mostly Cloudy
+2014-12-21,20:51:00,57 °F,42 °F,57 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Mostly Cloudy
+2014-12-21,21:51:00,53 °F,44 °F,71 %,SW,3 mph,0 mph,28.83 in,0.0 in,Mostly Cloudy
+2014-12-21,22:51:00,54 °F,43 °F,66 %,E,3 mph,0 mph,28.85 in,0.0 in,Mostly Cloudy
+2014-12-21,23:51:00,54 °F,42 °F,64 %,E,6 mph,0 mph,28.84 in,0.0 in,Mostly Cloudy
+2015-9-13,16:51:00,102 °F,51 °F,18 %,NW,9 mph,0 mph,28.49 in,0.0 in,Partly Cloudy
+2015-9-13,17:51:00,101 °F,53 °F,20 %,W,7 mph,0 mph,28.48 in,0.0 in,Partly Cloudy
+2015-9-13,18:51:00,100 °F,53 °F,21 %,NNW,7 mph,0 mph,28.50 in,0.0 in,Mostly Cloudy
+2015-9-13,19:39:00,93 °F,60 °F,33 %,S,18 mph,30 mph,28.52 in,0.0 in,Mostly Cloudy
+2015-9-13,19:51:00,93 °F,59 °F,32 %,SSE,21 mph,29 mph,28.53 in,0.0 in,Mostly Cloudy / Windy
+2015-9-27,16:51:00,102 °F,48 °F,16 %,NE,6 mph,0 mph,28.54 in,0.0 in,Fair
+2015-9-27,17:51:00,101 °F,48 °F,17 %,WNW,9 mph,0 mph,28.54 in,0.0 in,Fair
+2015-9-27,18:51:00,100 °F,49 °F,18 %,NNW,5 mph,0 mph,28.55 in,0.0 in,Fair
+2015-9-27,19:51:00,99 °F,48 °F,18 %,N,5 mph,0 mph,28.56 in,0.0 in,Fair
+2015-10-4,16:51:00,93 °F,49 °F,22 %,S,17 mph,26 mph,28.39 in,0.0 in,Partly Cloudy
+2015-10-4,17:51:00,90 °F,50 °F,25 %,S,14 mph,21 mph,28.40 in,0.0 in,Partly Cloudy
+2015-10-4,18:51:00,89 °F,50 °F,26 %,SSW,10 mph,0 mph,28.42 in,0.0 in,Partly Cloudy
+2015-10-4,19:21:00,87 °F,53 °F,31 %,W,15 mph,0 mph,28.44 in,0.0 in,Partly Cloudy
+2015-10-4,19:51:00,85 °F,54 °F,34 %,WNW,16 mph,0 mph,28.45 in,0.0 in,Mostly Cloudy
+2015-10-26,20:51:00,78 °F,49 °F,36 %,SW,3 mph,0 mph,28.68 in,0.0 in,Fair
+2015-10-26,21:51:00,79 °F,48 °F,34 %,CALM,0 mph,0 mph,28.70 in,0.0 in,Fair
+2015-10-26,22:51:00,73 °F,52 °F,48 %,SSW,5 mph,0 mph,28.71 in,0.0 in,Fair
+2015-10-26,23:51:00,73 °F,48 °F,41 %,WSW,6 mph,0 mph,28.71 in,0.0 in,Fair
+2015-11-22,20:51:00,65 °F,33 °F,31 %,CALM,0 mph,0 mph,28.75 in,0.0 in,Fair
+2015-11-22,21:51:00,62 °F,35 °F,37 %,SSE,3 mph,0 mph,28.75 in,0.0 in,Fair
+2015-11-22,22:51:00,62 °F,33 °F,34 %,S,3 mph,0 mph,28.75 in,0.0 in,Fair
+2015-11-22,23:51:00,59 °F,37 °F,44 %,CALM,0 mph,0 mph,28.75 in,0.0 in,Fair
+2015-12-10,20:51:00,64 °F,35 °F,34 %,E,7 mph,0 mph,28.63 in,0.0 in,Mostly Cloudy
+2015-12-10,21:51:00,60 °F,36 °F,41 %,E,7 mph,0 mph,28.64 in,0.0 in,Mostly Cloudy
+2015-12-10,22:51:00,60 °F,35 °F,39 %,E,8 mph,0 mph,28.63 in,0.0 in,Mostly Cloudy
+2015-12-10,23:51:00,58 °F,34 °F,41 %,E,10 mph,0 mph,28.60 in,0.0 in,Mostly Cloudy
+2015-12-27,16:51:00,59 °F,13 °F,16 %,WSW,5 mph,0 mph,28.87 in,0.0 in,Fair
+2015-12-27,17:51:00,55 °F,15 °F,21 %,WSW,3 mph,0 mph,28.87 in,0.0 in,Fair
+2015-12-27,18:51:00,51 °F,17 °F,26 %,SW,5 mph,0 mph,28.88 in,0.0 in,Fair
+2015-12-27,19:51:00,52 °F,16 °F,24 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Fair
+2016-1-3,16:51:00,69 °F,30 °F,23 %,ENE,13 mph,0 mph,28.75 in,0.0 in,Cloudy
+2016-1-3,17:51:00,67 °F,28 °F,23 %,ENE,10 mph,0 mph,28.74 in,0.0 in,Cloudy
+2016-1-3,18:51:00,65 °F,28 °F,25 %,E,10 mph,0 mph,28.72 in,0.0 in,Cloudy
+2016-1-3,19:51:00,65 °F,27 °F,24 %,E,12 mph,0 mph,28.71 in,0.0 in,Cloudy
+2016-9-11,20:51:00,94 °F,49 °F,21 %,SW,5 mph,0 mph,28.66 in,0.0 in,Fair
+2016-9-11,21:51:00,93 °F,48 °F,21 %,WSW,6 mph,0 mph,28.66 in,0.0 in,Fair
+2016-9-11,22:51:00,91 °F,48 °F,23 %,CALM,0 mph,0 mph,28.66 in,0.0 in,Fair
+2016-9-11,23:51:00,90 °F,50 °F,25 %,CALM,0 mph,0 mph,28.66 in,0.0 in,Fair
+2016-9-18,13:51:00,101 °F,31 °F,9 %,W,5 mph,0 mph,28.71 in,0.0 in,Fair
+2016-9-18,14:51:00,103 °F,29 °F,7 %,VAR,6 mph,0 mph,28.69 in,0.0 in,Fair
+2016-9-18,15:51:00,103 °F,26 °F,7 %,W,6 mph,0 mph,28.68 in,0.0 in,Fair
+2016-9-18,16:51:00,104 °F,25 °F,6 %,W,12 mph,0 mph,28.67 in,0.0 in,Fair
+2016-10-2,16:51:00,76 °F,66 °F,71 %,E,14 mph,0 mph,28.66 in,0.0 in,Mostly Cloudy
+2016-10-2,17:51:00,75 °F,67 °F,76 %,E,10 mph,0 mph,28.65 in,0.0 in,Partly Cloudy
+2016-10-2,18:51:00,74 °F,65 °F,73 %,E,9 mph,0 mph,28.64 in,0.0 in,Partly Cloudy
+2016-10-2,19:51:00,71 °F,65 °F,81 %,E,12 mph,0 mph,28.64 in,0.0 in,Fair
+2016-10-17,20:51:00,82 °F,44 °F,26 %,W,7 mph,0 mph,28.61 in,0.0 in,Fair
+2016-10-17,21:51:00,78 °F,44 °F,30 %,W,3 mph,0 mph,28.62 in,0.0 in,Fair
+2016-10-17,22:51:00,79 °F,45 °F,30 %,NW,3 mph,0 mph,28.63 in,0.0 in,Fair
+2016-10-17,23:51:00,76 °F,46 °F,35 %,CALM,0 mph,0 mph,28.63 in,0.0 in,Fair
+2016-10-23,20:51:00,87 °F,45 °F,23 %,N,5 mph,0 mph,28.76 in,0.0 in,Mostly Cloudy
+2016-10-23,21:51:00,81 °F,46 °F,29 %,SW,3 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
+2016-10-23,22:51:00,79 °F,47 °F,32 %,ESE,6 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
+2016-10-23,23:51:00,79 °F,46 °F,31 %,E,8 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
+2016-11-13,16:51:00,83 °F,38 °F,20 %,WSW,6 mph,0 mph,28.82 in,0.0 in,Fair
+2016-11-13,17:51:00,80 °F,37 °F,21 %,W,3 mph,0 mph,28.82 in,0.0 in,Partly Cloudy
+2016-11-13,18:51:00,75 °F,41 °F,29 %,SW,5 mph,0 mph,28.84 in,0.0 in,Fair
+2016-11-13,19:51:00,74 °F,41 °F,30 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Fair
+2016-12-4,16:51:00,69 °F,13 °F,11 %,SW,3 mph,0 mph,28.75 in,0.0 in,Fair
+2016-12-4,17:51:00,66 °F,13 °F,13 %,WNW,7 mph,0 mph,28.75 in,0.0 in,Fair
+2016-12-4,18:51:00,59 °F,20 °F,22 %,SW,5 mph,0 mph,28.76 in,0.0 in,Fair
+2016-12-4,19:51:00,60 °F,21 °F,22 %,VAR,3 mph,0 mph,28.77 in,0.0 in,Fair
+2016-12-18,16:51:00,61 °F,18 °F,19 %,NW,6 mph,0 mph,28.90 in,0.0 in,Fair
+2016-12-18,17:51:00,59 °F,19 °F,21 %,WSW,6 mph,0 mph,28.92 in,0.0 in,Partly Cloudy
+2016-12-18,18:51:00,54 °F,23 °F,30 %,WSW,6 mph,0 mph,28.94 in,0.0 in,Fair
+2016-12-18,19:51:00,54 °F,22 °F,29 %,W,3 mph,0 mph,28.95 in,0.0 in,Fair
+2017-9-25,20:51:00,78 °F,23 °F,13 %,WSW,5 mph,0 mph,28.54 in,0.0 in,Fair
+2017-9-25,21:51:00,80 °F,21 °F,11 %,W,5 mph,0 mph,28.55 in,0.0 in,Fair
+2017-9-25,22:51:00,75 °F,22 °F,14 %,W,5 mph,0 mph,28.56 in,0.0 in,Fair
+2017-9-25,23:51:00,72 °F,24 °F,17 %,WSW,5 mph,0 mph,28.56 in,0.0 in,Fair
+2017-10-1,16:51:00,95 °F,33 °F,11 %,VAR,6 mph,18 mph,28.42 in,0.0 in,Fair
+2017-10-1,17:05:00,95 °F,33 °F,11 %,W,12 mph,0 mph,28.42 in,0.0 in,Fair
+2017-10-1,17:51:00,94 °F,34 °F,12 %,NNW,8 mph,0 mph,28.40 in,0.0 in,Partly Cloudy
+2017-10-1,18:51:00,92 °F,34 °F,13 %,NW,7 mph,0 mph,28.40 in,0.0 in,Fair
+2017-10-1,19:51:00,88 °F,35 °F,15 %,WSW,6 mph,0 mph,28.42 in,0.0 in,Fair
+2017-10-15,16:51:00,95 °F,16 °F,6 %,W,5 mph,0 mph,28.80 in,0.0 in,Fair
+2017-10-15,17:51:00,92 °F,18 °F,7 %,WSW,8 mph,0 mph,28.80 in,0.0 in,Partly Cloudy
+2017-10-15,18:51:00,87 °F,22 °F,9 %,W,5 mph,0 mph,28.81 in,0.0 in,Fair
+2017-10-15,19:51:00,84 °F,26 °F,12 %,W,3 mph,0 mph,28.82 in,0.0 in,Partly Cloudy
+2017-11-9,20:51:00,76 °F,47 °F,36 %,VAR,3 mph,0 mph,28.72 in,0.0 in,Fair
+2017-11-9,21:51:00,72 °F,48 °F,43 %,CALM,0 mph,0 mph,28.72 in,0.0 in,Fair
+2017-11-9,22:51:00,71 °F,48 °F,44 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Fair
+2017-11-9,23:51:00,68 °F,49 °F,50 %,E,5 mph,0 mph,28.72 in,0.0 in,Fair
+2017-11-26,16:51:00,87 °F,28 °F,12 %,WSW,3 mph,0 mph,28.73 in,0.0 in,Fair
+2017-11-26,17:51:00,80 °F,32 °F,17 %,WSW,5 mph,0 mph,28.72 in,0.0 in,Partly Cloudy
+2017-11-26,18:51:00,77 °F,34 °F,21 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Fair
+2017-11-26,19:51:00,74 °F,35 °F,24 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Fair
+2017-12-3,16:51:00,78 °F,41 °F,27 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Mostly Cloudy
+2017-12-3,17:51:00,77 °F,41 °F,28 %,WNW,8 mph,0 mph,28.65 in,0.0 in,Cloudy
+2017-12-3,18:51:00,71 °F,42 °F,35 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Mostly Cloudy
+2017-12-3,19:51:00,70 °F,42 °F,36 %,CALM,0 mph,0 mph,28.64 in,0.0 in,Mostly Cloudy
+2017-12-10,16:51:00,75 °F,8 °F,8 %,ENE,12 mph,0 mph,28.94 in,0.0 in,Cloudy
+2017-12-10,17:51:00,71 °F,9 °F,9 %,ENE,12 mph,0 mph,28.94 in,0.0 in,Cloudy
+2017-12-10,18:51:00,68 °F,10 °F,11 %,E,9 mph,0 mph,28.95 in,0.0 in,Cloudy
+2017-12-10,19:51:00,66 °F,11 °F,12 %,E,12 mph,0 mph,28.96 in,0.0 in,Cloudy
+2017-12-24,16:51:00,68 °F,22 °F,17 %,W,5 mph,0 mph,28.88 in,0.0 in,Mostly Cloudy
+2017-12-24,17:51:00,67 °F,23 °F,19 %,NW,3 mph,0 mph,28.88 in,0.0 in,Mostly Cloudy
+2017-12-24,18:51:00,64 °F,23 °F,21 %,WNW,5 mph,0 mph,28.90 in,0.0 in,Mostly Cloudy
+2017-12-24,19:51:00,59 °F,28 °F,31 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Mostly Cloudy
+2018-9-9,16:51:00,104 °F,53 °F,18 %,W,14 mph,21 mph,28.52 in,0.0 in,Fair
+2018-9-9,17:51:00,103 °F,51 °F,18 %,W,15 mph,0 mph,28.52 in,0.0 in,Fair
+2018-9-9,18:51:00,102 °F,51 °F,18 %,W,12 mph,0 mph,28.52 in,0.0 in,Fair
+2018-9-9,19:51:00,100 °F,51 °F,19 %,W,10 mph,0 mph,28.54 in,0.0 in,Fair
+2018-9-23,16:51:00,101 °F,36 °F,11 %,SSW,6 mph,0 mph,28.52 in,0.0 in,Partly Cloudy
+2018-9-23,17:51:00,100 °F,36 °F,11 %,S,6 mph,0 mph,28.51 in,0.0 in,Partly Cloudy
+2018-9-23,18:51:00,96 °F,40 °F,14 %,S,5 mph,0 mph,28.51 in,0.0 in,Partly Cloudy
+2018-9-23,19:51:00,94 °F,42 °F,17 %,SSW,3 mph,0 mph,28.52 in,0.0 in,Partly Cloudy
+2018-9-30,16:51:00,87 °F,67 °F,51 %,W,16 mph,0 mph,28.61 in,0.0 in,Cloudy
+2018-9-30,17:51:00,86 °F,62 °F,44 %,WNW,17 mph,0 mph,28.64 in,0.0 in,Cloudy
+2018-9-30,18:51:00,78 °F,66 °F,66 %,WSW,13 mph,25 mph,28.70 in,0.0 in,Light Rain
+2018-9-30,19:51:00,76 °F,69 °F,79 %,W,9 mph,0 mph,28.70 in,0.0 in,Light Rain
+2018-10-18,20:51:00,73 °F,48 °F,41 %,E,12 mph,0 mph,28.80 in,0.0 in,Fair
+2018-10-18,21:51:00,71 °F,49 °F,45 %,E,9 mph,0 mph,28.81 in,0.0 in,Fair
+2018-10-18,22:51:00,71 °F,49 °F,45 %,ENE,12 mph,0 mph,28.81 in,0.0 in,Fair
+2018-10-18,23:51:00,70 °F,50 °F,49 %,ENE,13 mph,0 mph,28.81 in,0.0 in,Fair
+2018-10-28,16:51:00,88 °F,42 °F,20 %,NNW,5 mph,0 mph,28.75 in,0.0 in,Mostly Cloudy
+2018-10-28,17:51:00,85 °F,46 °F,26 %,NNW,6 mph,0 mph,28.75 in,0.0 in,Mostly Cloudy
+2018-10-28,18:51:00,80 °F,52 °F,38 %,SW,6 mph,0 mph,28.76 in,0.0 in,Mostly Cloudy
+2018-10-28,19:51:00,79 °F,50 °F,36 %,W,3 mph,0 mph,28.77 in,0.0 in,Mostly Cloudy
+2018-11-18,16:51:00,71 °F,25 °F,18 %,W,6 mph,0 mph,28.80 in,0.0 in,Fair
+2018-11-18,17:51:00,69 °F,25 °F,19 %,W,6 mph,0 mph,28.80 in,0.0 in,Partly Cloudy
+2018-11-18,18:51:00,64 °F,30 °F,28 %,WSW,6 mph,0 mph,28.82 in,0.0 in,Fair
+2018-11-18,19:51:00,61 °F,31 °F,32 %,SW,5 mph,0 mph,28.83 in,0.0 in,Fair
+2018-12-9,16:51:00,69 °F,41 °F,36 %,WNW,7 mph,0 mph,28.99 in,0.0 in,Mostly Cloudy
+2018-12-9,17:51:00,67 °F,41 °F,39 %,WNW,6 mph,0 mph,28.99 in,0.0 in,Partly Cloudy
+2018-12-9,18:51:00,62 °F,45 °F,53 %,W,5 mph,0 mph,28.99 in,0.0 in,Mostly Cloudy
+2018-12-9,19:51:00,59 °F,46 °F,62 %,WSW,3 mph,0 mph,28.99 in,0.0 in,Partly Cloudy
+2018-12-23,16:51:00,71 °F,29 °F,21 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Mostly Cloudy
+2018-12-23,17:51:00,67 °F,33 °F,28 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Cloudy
+2018-12-23,18:51:00,64 °F,35 °F,34 %,CALM,0 mph,0 mph,28.86 in,0.0 in,Mostly Cloudy
+2018-12-23,19:51:00,63 °F,35 °F,35 %,CALM,0 mph,0 mph,28.85 in,0.0 in,Mostly Cloudy
+2019-9-8,16:51:00,100 °F,55 °F,22 %,W,17 mph,29 mph,28.49 in,0.0 in,Partly Cloudy
+2019-9-8,17:51:00,99 °F,59 °F,26 %,WNW,18 mph,0 mph,28.49 in,0.0 in,Partly Cloudy
+2019-9-8,18:51:00,96 °F,60 °F,30 %,W,14 mph,0 mph,28.50 in,0.0 in,Fair
+2019-9-8,19:51:00,96 °F,58 °F,28 %,WNW,17 mph,0 mph,28.51 in,0.0 in,Fair
+2019-9-22,16:51:00,96 °F,40 °F,14 %,N,5 mph,0 mph,28.65 in,0.0 in,Fair
+2019-9-22,17:51:00,95 °F,42 °F,16 %,NW,8 mph,0 mph,28.64 in,0.0 in,Partly Cloudy
+2019-9-22,18:51:00,93 °F,45 °F,19 %,N,8 mph,0 mph,28.64 in,0.0 in,Fair
+2019-9-22,19:51:00,93 °F,46 °F,20 %,N,5 mph,0 mph,28.66 in,0.0 in,Fair
+2019-9-29,16:51:00,88 °F,54 °F,31 %,NW,12 mph,0 mph,28.50 in,0.0 in,Partly Cloudy
+2019-9-29,17:51:00,87 °F,54 °F,32 %,WNW,12 mph,0 mph,28.49 in,0.0 in,Partly Cloudy
+2019-9-29,18:51:00,85 °F,49 °F,29 %,WNW,14 mph,0 mph,28.50 in,0.0 in,Partly Cloudy
+2019-9-29,19:51:00,84 °F,45 °F,25 %,W,14 mph,0 mph,28.51 in,0.0 in,Fair
+2019-10-13,16:51:00,90 °F,31 °F,12 %,CALM,0 mph,0 mph,28.59 in,0.0 in,Fair
+2019-10-13,17:51:00,88 °F,31 °F,13 %,NNW,8 mph,0 mph,28.59 in,0.0 in,Partly Cloudy
+2019-10-13,18:51:00,86 °F,31 °F,14 %,NW,7 mph,0 mph,28.59 in,0.0 in,Fair
+2019-10-13,19:51:00,84 °F,31 °F,15 %,NW,3 mph,0 mph,28.61 in,0.0 in,Partly Cloudy
+2019-10-31,20:51:00,61 °F,9 °F,13 %,SSW,3 mph,0 mph,28.88 in,0.0 in,Fair
+2019-10-31,21:51:00,59 °F,12 °F,16 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Fair
+2019-10-31,22:51:00,58 °F,10 °F,15 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Fair
+2019-10-31,23:51:00,53 °F,17 °F,24 %,CALM,0 mph,0 mph,28.89 in,0.0 in,Fair
+2019-12-1,16:51:00,67 °F,33 °F,28 %,SE,3 mph,0 mph,28.86 in,0.0 in,Partly Cloudy
+2019-12-1,17:51:00,62 °F,37 °F,39 %,WSW,3 mph,0 mph,28.87 in,0.0 in,Partly Cloudy
+2019-12-1,18:51:00,58 °F,39 °F,49 %,SW,5 mph,0 mph,28.88 in,0.0 in,Fair
+2019-12-1,19:51:00,58 °F,34 °F,41 %,W,3 mph,0 mph,28.89 in,0.0 in,Fair
+2019-12-8,16:51:00,61 °F,55 °F,81 %,NW,8 mph,0 mph,28.75 in,0.0 in,Cloudy
+2019-12-8,17:51:00,60 °F,56 °F,86 %,WSW,3 mph,0 mph,28.75 in,0.0 in,Cloudy
+2019-12-8,18:51:00,59 °F,55 °F,87 %,SW,5 mph,0 mph,28.76 in,0.0 in,Cloudy
+2019-12-8,19:51:00,58 °F,55 °F,90 %,CALM,0 mph,0 mph,28.75 in,0.0 in,Cloudy
+2019-12-15,16:51:00,61 °F,26 °F,26 %,W,17 mph,0 mph,28.71 in,0.0 in,Fair
+2019-12-15,17:51:00,59 °F,29 °F,32 %,WSW,12 mph,0 mph,28.73 in,0.0 in,Fair
+2019-12-15,18:51:00,57 °F,30 °F,36 %,W,14 mph,0 mph,28.75 in,0.0 in,Fair
+2019-12-15,19:51:00,56 °F,31 °F,39 %,W,9 mph,0 mph,28.77 in,0.0 in,Fair
+2020-9-20,16:51:00,104 °F,38 °F,10 %,CALM,0 mph,0 mph,28.57 in,0.0 in,Fair
+2020-9-20,17:51:00,102 °F,38 °F,11 %,CALM,0 mph,0 mph,28.58 in,0.0 in,Fair
+2020-9-20,18:51:00,101 °F,38 °F,11 %,VAR,6 mph,0 mph,28.58 in,0.0 in,Fair
+2020-9-20,19:51:00,101 °F,38 °F,11 %,WNW,7 mph,0 mph,28.59 in,0.0 in,Partly Cloudy
+2020-9-27,16:51:00,101 °F,34 °F,10 %,W,10 mph,0 mph,28.60 in,0.0 in,Fair
+2020-9-27,17:51:00,99 °F,32 °F,10 %,WSW,10 mph,0 mph,28.59 in,0.0 in,Fair
+2020-9-27,18:51:00,96 °F,33 °F,11 %,W,7 mph,0 mph,28.59 in,0.0 in,Fair
+2020-9-27,19:51:00,92 °F,35 °F,13 %,SW,5 mph,0 mph,28.60 in,0.0 in,Fair
+2020-10-25,20:51:00,75 °F,46 °F,36 %,WSW,7 mph,0 mph,28.48 in,0.0 in,Partly Cloudy
+2020-10-25,21:51:00,75 °F,46 °F,36 %,W,9 mph,0 mph,28.50 in,0.0 in,Partly Cloudy
+2020-10-25,22:51:00,73 °F,47 °F,39 %,WSW,8 mph,0 mph,28.51 in,0.0 in,Mostly Cloudy
+2020-10-25,23:51:00,73 °F,45 °F,37 %,SW,10 mph,0 mph,28.51 in,0.0 in,Mostly Cloudy
+2020-11-15,16:51:00,80 °F,14 °F,8 %,W,5 mph,0 mph,28.83 in,0.0 in,Fair
+2020-11-15,17:51:00,78 °F,18 °F,10 %,NW,6 mph,0 mph,28.83 in,0.0 in,Fair
+2020-11-15,18:51:00,70 °F,19 °F,14 %,WSW,5 mph,0 mph,28.84 in,0.0 in,Fair
+2020-11-15,19:51:00,69 °F,20 °F,15 %,W,5 mph,0 mph,28.86 in,0.0 in,Fair
+2020-12-6,16:51:00,70 °F,15 °F,12 %,NW,3 mph,0 mph,28.91 in,0.0 in,Fair
+2020-12-6,17:51:00,67 °F,16 °F,14 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Partly Cloudy
+2020-12-6,18:51:00,63 °F,19 °F,18 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Fair
+2020-12-6,19:51:00,60 °F,20 °F,21 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Fair
+2020-12-20,16:51:00,68 °F,22 °F,17 %,W,7 mph,0 mph,28.87 in,0.0 in,Fair
+2020-12-20,17:51:00,66 °F,24 °F,20 %,WNW,6 mph,0 mph,28.86 in,0.0 in,Fair
+2020-12-20,18:51:00,59 °F,28 °F,31 %,SW,6 mph,0 mph,28.87 in,0.0 in,Fair
+2020-12-20,19:51:00,57 °F,29 °F,34 %,WSW,3 mph,0 mph,28.88 in,0.0 in,Fair
+2020-12-26,16:51:00,70 °F,18 °F,14 %,CALM,0 mph,0 mph,28.79 in,0.0 in,Partly Cloudy
+2020-12-26,17:51:00,66 °F,20 °F,17 %,CALM,0 mph,0 mph,28.80 in,0.0 in,Partly Cloudy
+2020-12-26,18:51:00,63 °F,21 °F,20 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+2020-12-26,19:51:00,60 °F,25 °F,26 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+2021-9-19,16:51:00,98 °F,49 °F,19 %,WSW,12 mph,0 mph,28.57 in,0.0 in,Partly Cloudy
+2021-9-19,17:51:00,97 °F,46 °F,18 %,SW,6 mph,0 mph,28.57 in,0.0 in,Partly Cloudy
+2021-9-19,18:51:00,96 °F,43 °F,16 %,WNW,10 mph,0 mph,28.57 in,0.0 in,Partly Cloudy
+2021-9-19,19:51:00,95 °F,42 °F,16 %,WNW,8 mph,0 mph,28.58 in,0.0 in,Partly Cloudy
+2021-10-10,16:51:00,83 °F,31 °F,15 %,SSW,5 mph,0 mph,28.66 in,0.0 in,Fair
+2021-10-10,17:51:00,82 °F,31 °F,16 %,SSW,3 mph,0 mph,28.66 in,0.0 in,Fair
+2021-10-10,18:51:00,79 °F,34 °F,20 %,WSW,3 mph,0 mph,28.66 in,0.0 in,Fair
+2021-10-10,19:51:00,77 °F,33 °F,20 %,ESE,3 mph,0 mph,28.66 in,0.0 in,Fair
+2021-10-24,16:51:00,85 °F,38 °F,19 %,VAR,5 mph,0 mph,28.62 in,0.0 in,Mostly Cloudy
+2021-10-24,17:51:00,83 °F,39 °F,21 %,VAR,7 mph,0 mph,28.62 in,0.0 in,Mostly Cloudy
+2021-10-24,18:51:00,83 °F,40 °F,22 %,N,6 mph,0 mph,28.64 in,0.0 in,Mostly Cloudy
+2021-10-24,19:51:00,79 °F,40 °F,25 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Partly Cloudy
+2021-10-28,20:51:00,74 °F,36 °F,25 %,CALM,0 mph,0 mph,28.75 in,0.0 in,Fair
+2021-10-28,21:51:00,73 °F,38 °F,28 %,ENE,6 mph,0 mph,28.76 in,0.0 in,Fair
+2021-10-28,22:51:00,71 °F,37 °F,29 %,CALM,0 mph,0 mph,28.75 in,0.0 in,Fair
+2021-10-28,23:51:00,70 °F,38 °F,31 %,W,3 mph,0 mph,28.75 in,0.0 in,Fair
+2021-11-14,16:51:00,86 °F,27 °F,12 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Partly Cloudy
+2021-11-14,17:51:00,82 °F,28 °F,14 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Partly Cloudy
+2021-11-14,18:51:00,79 °F,31 °F,17 %,N,3 mph,0 mph,28.84 in,0.0 in,Partly Cloudy
+2021-11-14,19:51:00,72 °F,33 °F,24 %,W,3 mph,0 mph,28.85 in,0.0 in,Fair
+2021-12-13,20:51:00,60 °F,45 °F,57 %,CALM,0 mph,0 mph,28.83 in,0.0 in,Cloudy
+2021-12-13,21:51:00,62 °F,43 °F,50 %,E,9 mph,0 mph,28.82 in,0.0 in,Cloudy
+2021-12-13,22:51:00,62 °F,42 °F,48 %,CALM,0 mph,0 mph,28.84 in,0.0 in,Cloudy
+2021-12-13,23:51:00,61 °F,43 °F,52 %,SSW,3 mph,0 mph,28.84 in,0.0 in,Cloudy
+2021-12-25,20:51:00,58 °F,55 °F,90 %,SW,5 mph,0 mph,28.73 in,0.0 in,Cloudy
+2021-12-25,21:51:00,58 °F,50 °F,75 %,W,6 mph,0 mph,28.74 in,0.0 in,Cloudy
+2021-12-25,22:51:00,56 °F,53 °F,90 %,SW,3 mph,0 mph,28.74 in,0.0 in,Cloudy
+2021-12-25,23:51:00,56 °F,51 °F,84 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Cloudy
+2022-9-11,16:51:00,101 °F,59 °F,25 %,VAR,3 mph,0 mph,28.65 in,0.0 in,Partly Cloudy
+2022-9-11,17:51:00,100 °F,59 °F,26 %,CALM,0 mph,0 mph,28.63 in,0.0 in,Partly Cloudy
+2022-9-11,18:51:00,99 °F,59 °F,26 %,W,8 mph,0 mph,28.63 in,0.0 in,Partly Cloudy
+2022-9-11,19:51:00,97 °F,62 °F,31 %,W,12 mph,21 mph,28.65 in,0.0 in,Mostly Cloudy
+2022-9-25,16:51:00,103 °F,34 °F,9 %,W,5 mph,0 mph,28.63 in,0.0 in,Fair
+2022-9-25,17:51:00,101 °F,34 °F,10 %,CALM,0 mph,0 mph,28.64 in,0.0 in,Fair
+2022-9-25,18:51:00,98 °F,35 °F,11 %,CALM,0 mph,0 mph,28.64 in,0.0 in,Fair
+2022-9-25,19:51:00,94 °F,39 °F,15 %,SW,5 mph,0 mph,28.65 in,0.0 in,Fair
+2022-10-9,16:51:00,88 °F,47 °F,24 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+2022-10-9,17:51:00,88 °F,47 °F,24 %,CALM,0 mph,0 mph,28.73 in,0.0 in,Partly Cloudy
+2022-10-9,18:51:00,86 °F,47 °F,26 %,SW,5 mph,0 mph,28.74 in,0.0 in,Partly Cloudy
+2022-10-9,19:51:00,84 °F,47 °F,27 %,WSW,6 mph,0 mph,28.75 in,0.0 in,Partly Cloudy
+2022-10-20,20:51:00,79 °F,46 °F,31 %,CALM,0 mph,0 mph,28.68 in,0.0 in,Fair
+2022-10-20,21:51:00,76 °F,48 °F,37 %,SSE,3 mph,0 mph,28.70 in,0.0 in,Fair
+2022-10-20,22:51:00,77 °F,45 °F,32 %,ESE,3 mph,0 mph,28.70 in,0.0 in,Fair
+2022-10-20,23:51:00,75 °F,45 °F,34 %,ESE,3 mph,0 mph,28.70 in,0.0 in,Fair
+2022-11-6,16:51:00,78 °F,32 °F,19 %,SE,3 mph,0 mph,28.64 in,0.0 in,Fair
+2022-11-6,17:51:00,75 °F,33 °F,22 %,CALM,0 mph,0 mph,28.65 in,0.0 in,Fair
+2022-11-6,18:51:00,74 °F,32 °F,21 %,ENE,3 mph,0 mph,28.66 in,0.0 in,Fair
+2022-11-6,19:51:00,68 °F,37 °F,32 %,WSW,3 mph,0 mph,28.67 in,0.0 in,Fair
+2022-11-27,16:51:00,68 °F,21 °F,17 %,SW,6 mph,0 mph,28.81 in,0.0 in,Fair
+2022-11-27,17:51:00,64 °F,22 °F,20 %,CALM,0 mph,0 mph,28.80 in,0.0 in,Fair
+2022-11-27,18:51:00,62 °F,24 °F,23 %,CALM,0 mph,0 mph,28.81 in,0.0 in,Fair
+2022-11-27,19:51:00,58 °F,25 °F,28 %,CALM,0 mph,0 mph,28.82 in,0.0 in,Fair
+2022-12-12,20:51:00,49 °F,36 °F,61 %,WNW,16 mph,0 mph,28.67 in,0.0 in,Mostly Cloudy
+2022-12-12,21:51:00,48 °F,37 °F,66 %,CALM,0 mph,0 mph,28.67 in,0.0 in,Light Rain
+2022-12-12,22:51:00,48 °F,38 °F,68 %,W,3 mph,0 mph,28.68 in,0.0 in,Mostly Cloudy
+2022-12-12,23:51:00,47 °F,40 °F,77 %,SSW,5 mph,0 mph,28.68 in,0.0 in,Mostly Cloudy
+2022-12-25,20:51:00,58 °F,36 °F,44 %,SW,6 mph,0 mph,28.95 in,0.0 in,Fair
+2022-12-25,21:51:00,62 °F,33 °F,34 %,CALM,0 mph,0 mph,28.95 in,0.0 in,Fair
+2022-12-25,22:51:00,56 °F,34 °F,44 %,CALM,0 mph,0 mph,28.94 in,0.0 in,Fair
+2022-12-25,23:51:00,55 °F,36 °F,49 %,ESE,6 mph,0 mph,28.94 in,0.0 in,Fair
+2023-9-17,16:51:00,104 °F,34 °F,9 %,SSW,12 mph,17 mph,28.60 in,0.0 in,Fair
+2023-9-17,17:51:00,102 °F,35 °F,10 %,W,6 mph,0 mph,28.59 in,0.0 in,Fair
+2023-9-17,18:51:00,101 °F,35 °F,10 %,NW,9 mph,0 mph,28.59 in,0.0 in,Fair
+2023-9-17,19:51:00,99 °F,38 °F,12 %,NW,8 mph,0 mph,28.60 in,0.0 in,Fair
+2023-9-24,16:51:00,97 °F,39 °F,13 %,WNW,3 mph,0 mph,28.68 in,0.0 in,Fair
+2023-9-24,17:51:00,97 °F,40 °F,14 %,WSW,6 mph,0 mph,28.67 in,0.0 in,Fair
+2023-9-24,18:51:00,95 °F,38 °F,14 %,WSW,6 mph,0 mph,28.67 in,0.0 in,Fair
+2023-9-24,19:51:00,93 °F,39 °F,15 %,WSW,3 mph,0 mph,28.69 in,0.0 in,Fair
+2023-10-8,16:51:00,99 °F,42 °F,14 %,CALM,0 mph,0 mph,28.58 in,0.0 in,Partly Cloudy
+2023-10-8,17:51:00,98 °F,41 °F,14 %,VAR,3 mph,0 mph,28.57 in,0.0 in,Partly Cloudy
+2023-10-8,18:51:00,95 °F,40 °F,15 %,NNE,9 mph,21 mph,28.59 in,0.0 in,Mostly Cloudy
+2023-10-8,19:51:00,93 °F,40 °F,16 %,NNE,5 mph,0 mph,28.60 in,0.0 in,Mostly Cloudy
+2023-10-29,16:51:00,77 °F,10 °F,8 %,W,12 mph,0 mph,28.75 in,0.0 in,Fair
+2023-10-29,17:51:00,74 °F,9 °F,8 %,W,10 mph,0 mph,28.75 in,0.0 in,Fair
+2023-10-29,18:51:00,72 °F,14 °F,11 %,W,8 mph,0 mph,28.77 in,0.0 in,Fair
+2023-10-29,19:51:00,70 °F,16 °F,13 %,W,6 mph,0 mph,28.79 in,0.0 in,Fair
+2023-11-12,16:51:00,82 °F,30 °F,15 %,NE,10 mph,0 mph,28.76 in,0.0 in,Fair
+2023-11-12,17:51:00,80 °F,30 °F,16 %,ENE,6 mph,0 mph,28.77 in,0.0 in,Fair
+2023-11-12,18:51:00,78 °F,32 °F,19 %,VAR,3 mph,0 mph,28.78 in,0.0 in,Fair
+2023-11-12,19:51:00,73 °F,32 °F,22 %,E,5 mph,0 mph,28.79 in,0.0 in,Fair
+2023-11-26,16:51:00,70 °F,27 °F,20 %,NNE,9 mph,0 mph,28.77 in,0.0 in,Mostly Cloudy
+2023-11-26,17:51:00,69 °F,28 °F,22 %,NNE,7 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
+2023-11-26,18:51:00,68 °F,28 °F,22 %,NNW,6 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
+2023-11-26,19:51:00,64 °F,31 °F,29 %,SW,7 mph,0 mph,28.79 in,0.0 in,Mostly Cloudy
+2023-12-17,16:51:00,79 °F,19 °F,11 %,WSW,7 mph,0 mph,28.77 in,0.0 in,Fair
+2023-12-17,17:51:00,73 °F,21 °F,14 %,W,9 mph,0 mph,28.78 in,0.0 in,Fair
+2023-12-17,18:51:00,71 °F,22 °F,16 %,NNW,5 mph,0 mph,28.78 in,0.0 in,Partly Cloudy
+2023-12-17,19:51:00,64 °F,26 °F,24 %,SW,5 mph,0 mph,28.79 in,0.0 in,Partly Cloudy
+2024-1-7,16:51:00,53 °F,25 °F,34 %,W,14 mph,24 mph,28.52 in,0.0 in,Mostly Cloudy
+2024-1-7,17:06:00,50 °F,31 °F,48 %,NNW,13 mph,25 mph,28.53 in,0.0 in,Mostly Cloudy
+2024-1-7,17:51:00,50 °F,23 °F,35 %,WNW,13 mph,23 mph,28.54 in,0.0 in,Mostly Cloudy
+2024-1-7,18:51:00,49 °F,27 °F,43 %,NW,6 mph,0 mph,28.57 in,0.0 in,Mostly Cloudy
+2024-1-7,19:51:00,48 °F,28 °F,46 %,NW,6 mph,0 mph,28.58 in,0.0 in,Partly Cloudy
+2024-9-15,16:51:00,102 °F,47 °F,15 %,WSW,7 mph,20 mph,28.46 in,0.0 in,Partly Cloudy
+2024-9-15,17:51:00,101 °F,46 °F,15 %,WNW,5 mph,0 mph,28.46 in,0.0 in,Partly Cloudy
+2024-9-15,18:51:00,99 °F,48 °F,18 %,W,20 mph,0 mph,28.46 in,0.0 in,Fair
+2024-9-15,19:51:00,96 °F,50 °F,21 %,W,16 mph,0 mph,28.49 in,0.0 in,Fair
+2024-9-22,16:51:00,98 °F,38 °F,12 %,WSW,5 mph,0 mph,28.54 in,0.0 in,Fair
+2024-9-22,17:51:00,96 °F,38 °F,13 %,WSW,7 mph,0 mph,28.54 in,0.0 in,Fair
+2024-9-22,18:51:00,95 °F,39 °F,14 %,WSW,7 mph,0 mph,28.55 in,0.0 in,Fair
+2024-9-22,19:51:00,92 °F,40 °F,16 %,WSW,3 mph,0 mph,28.56 in,0.0 in,Fair
+2024-9-29,16:51:00,110 °F,26 °F,5 %,SSW,9 mph,0 mph,28.51 in,0.0 in,Fair
+2024-9-29,17:51:00,109 °F,26 °F,6 %,S,3 mph,0 mph,28.51 in,0.0 in,Fair
+2024-9-29,18:51:00,105 °F,31 °F,8 %,SE,3 mph,0 mph,28.51 in,0.0 in,Fair
+2024-9-29,19:51:00,104 °F,34 °F,9 %,W,15 mph,24 mph,28.53 in,0.0 in,Fair
+2024-11-3,16:51:00,63 °F,43 °F,48 %,NNW,7 mph,0 mph,28.49 in,0.0 in,Mostly Cloudy
+2024-11-3,17:51:00,60 °F,45 °F,57 %,E,9 mph,0 mph,28.50 in,0.0 in,Mostly Cloudy
+2024-11-3,18:51:00,62 °F,42 °F,48 %,VAR,5 mph,0 mph,28.53 in,0.0 in,Mostly Cloudy
+2024-11-3,19:51:00,61 °F,42 °F,50 %,NNE,6 mph,0 mph,28.53 in,0.0 in,Mostly Cloudy
+2024-11-10,16:51:00,82 °F,9 °F,6 %,CALM,0 mph,0 mph,28.75 in,0.0 in,Fair
+2024-11-10,17:51:00,78 °F,13 °F,8 %,SW,3 mph,0 mph,28.76 in,0.0 in,Fair
+2024-11-10,18:51:00,74 °F,17 °F,12 %,CALM,0 mph,0 mph,28.77 in,0.0 in,Fair
+2024-11-10,19:51:00,72 °F,20 °F,14 %,SW,3 mph,0 mph,28.78 in,0.0 in,Fair
+2024-12-8,16:51:00,74 °F,24 °F,16 %,CALM,0 mph,0 mph,28.77 in,0.0 in,Mostly Cloudy
+2024-12-8,17:51:00,71 °F,26 °F,19 %,CALM,0 mph,0 mph,28.77 in,0.0 in,Mostly Cloudy
+2024-12-8,18:51:00,69 °F,25 °F,19 %,CALM,0 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
+2024-12-8,19:51:00,65 °F,28 °F,25 %,CALM,0 mph,0 mph,28.78 in,0.0 in,Mostly Cloudy
+2024-12-15,16:51:00,70 °F,24 °F,18 %,W,5 mph,0 mph,28.83 in,0.0 in,Fair
+2024-12-15,17:51:00,67 °F,24 °F,20 %,W,7 mph,0 mph,28.84 in,0.0 in,Fair
+2024-12-15,18:51:00,66 °F,27 °F,23 %,W,5 mph,0 mph,28.86 in,0.0 in,Fair
+2024-12-15,19:51:00,59 °F,27 °F,29 %,CALM,0 mph,0 mph,28.87 in,0.0 in,Fair
+2025-1-5,16:51:00,69 °F,16 °F,13 %,SSW,3 mph,0 mph,28.86 in,0.0 in,Mostly Cloudy
+2025-1-5,17:51:00,66 °F,15 °F,14 %,W,6 mph,0 mph,28.87 in,0.0 in,Partly Cloudy
+2025-1-5,18:51:00,64 °F,14 °F,14 %,CALM,0 mph,0 mph,28.88 in,0.0 in,Partly Cloudy
+2025-1-5,19:51:00,60 °F,15 °F,17 %,CALM,0 mph,0 mph,28.90 in,0.0 in,Partly Cloudy

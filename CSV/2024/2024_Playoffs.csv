@@ -1,0 +1,13 @@
+Round,Day,Date,Time(ET),Location,Favorite,Score,Spread,Opponent,Underdog,Over/Under
+AFC Wild Card,Sat,"Jan 11, 2025",4:30,,Los Angeles Chargers (5),L 12-32,L -2.5,@,Houston Texans (4),O 41.5
+AFC Wild Card,Sat,"Jan 11, 2025",8:00,@,Baltimore Ravens (3),W 28-14,W -9,,Pittsburgh Steelers (6),U 44.5
+AFC Wild Card,Sun,"Jan 12, 2025",1:00,@,Buffalo Bills (2),W 31-7,W -7.5,,Denver Broncos (7),U 48.5
+NFC Wild Card,Sun,"Jan 12, 2025",4:30,@,Philadelphia Eagles (2),W 22-10,W -5.5,,Green Bay Packers (7),U 46
+NFC Wild Card,Sun,"Jan 12, 2025",8:00,@,Tampa Bay Buccaneers (3),L 20-23,L -3,,Washington Commanders (6),U 51.5
+NFC Wild Card,Mon,"Jan 13, 2025",8:00,N,Minnesota Vikings (5),L 9-27,L -2.5,,Los Angeles Rams (4),U 47.5
+AFC Divisional,Sat,"Jan 18, 2025",4:30,@,Kansas City Chiefs (1),W 23-14,L -9.5,,Houston Texans (4),U 41.5
+NFC Divisional,Sat,"Jan 18, 2025",8:15,@,Detroit Lions (1),L 31-45,L -8.5,,Washington Commanders (6),O 55.5
+NFC Divisional,Sun,"Jan 19, 2025",3:00,@,Philadelphia Eagles (2),W 28-22,L -7,,Los Angeles Rams (4),O 43.5
+AFC Divisional,Sun,"Jan 19, 2025",6:30,,Baltimore Ravens (3),L 25-27,L -1.5,@,Buffalo Bills (2),O 51.5
+NFC Championship,Sun,"Jan 26, 2025",3:00,@,Philadelphia Eagles (2),W 55-23,W -6,,Washington Commanders (6),O 47
+AFC Championship,Sun,"Jan 26, 2025",6:30,@,Kansas City Chiefs (1),W 32-29,W -1,,Buffalo Bills (2),O 49.5

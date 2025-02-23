@@ -10,7 +10,7 @@ import pandas as pd
 
 
 
-current_week_this_year = 10
+current_week_this_year = 18
 
 def combine_record(record):
     # Split the record by space to separate the prefix from the numbers
@@ -478,7 +478,7 @@ def check_vs_spread():
                     o_right +=1
     
     print('Spread Accuracy: ', s_right, 'Out of ', games_played, ': ' ,((s_right/games_played)*100), '%' )
-    print('Over Accuracy: ', o_right, 'Out of ', games_played, ': ' ,((o_right/games_played)*100), '%' )
+    print('Over/Under Accuracy: ', o_right, 'Out of ', games_played, ': ' ,((o_right/games_played)*100), '%' )
         
 def normalize_matchup(game):
     team1, team2, score = game
@@ -589,6 +589,11 @@ def predict_game(Team_1, Team_2):
 
         #print(Team_1, fin_score[0])
         #print(Team_2, fin_score[1])
+        fin_score = list(fin_score)
+
+        # Ensure there are no ties by adjusting the second score if both scores are equal
+        if fin_score[0] == fin_score[1]:
+            fin_score[0] += 1
         
         return [Team_1, Team_2, [fin_score[0], fin_score[1]]]
     
@@ -622,12 +627,12 @@ def check_all_possibilities():
 
 
 #week_to_predict = 1
-#prediction = predict_game(nfl_teams[5], nfl_teams[30])
-#print(prediction)
+prediction = predict_game(nfl_teams[15], nfl_teams[25])
+print(prediction)
 #predict_super_bowl()
 #check_winners()
 #check_vs_spread()
 
 #next_preds = predict_by_week(current_week_this_year+1)
 #write_weekly_predictions_to_CSV(next_preds)
-check_all_possibilities()
+#check_all_possibilities()
