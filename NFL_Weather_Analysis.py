@@ -35,7 +35,6 @@ def get_game_location(row_info):
          
 
 def get_Games(condition):
-    
     for year in tqdm(range(1990, 2025), desc=f'Getting {condition} games', unit="year"):
         directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/{year}'
         current_week=1
