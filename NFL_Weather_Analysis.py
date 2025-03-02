@@ -17,7 +17,9 @@ def get_game_location(row_info):
         hour, minute = map(int, row_info[2].split(":"))
         if hour < 12:  # Assuming all given times are PM
             hour += 12 
-        date = date.replace(hour=hour, minute=minute) 
+        date = date.replace(hour=hour, minute=minute)
+        if location == "Phoenix":
+            location = "Arizona"
         return location, date
     else:
         location = row_info[8]
@@ -31,6 +33,8 @@ def get_game_location(row_info):
         if hour < 12:  # Assuming all given times are PM
             hour += 12 
         date=date.replace(hour=hour, minute=minute)
+        if location == "Phoenix":
+            location = "Arizona"
         return location, date
          
 
@@ -58,8 +62,14 @@ def get_Games(condition):
                     if location == "NaN":
                         continue
                     else: 
-                        print(location, date)
-        
+                        d_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/Weather_Data/'
+                        f_name = d_path + f'{location}_weather.csv'
+                        with open(f_name, "r", encoding="utf-8", newline="") as weather_file:
+                            w_reader = csv.reader(weather_file)
+                            for line in w_reader:
+                                con = line[10]
+                                if con.lower() == condition.lower():
+                                    print(f'Found {condition} condtion in {location} on {date}')
 
 
-get_Games("k")
+get_Games("windy")

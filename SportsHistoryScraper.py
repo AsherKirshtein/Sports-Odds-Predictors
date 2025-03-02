@@ -123,7 +123,7 @@ def fix_names():
 
 def scrape_All_Years():
     #Doesn't take too long. I don't want it parallel just to keep everything organized nicely
-    for year in tqdm(range(2023, 2025), desc="Scraping data", unit="year"):
+    for year in tqdm(range(2024, 2025), desc="Scraping data", unit="year"):
         scrapePage(str(year))
 
  

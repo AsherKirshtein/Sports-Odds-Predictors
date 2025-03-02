@@ -44,7 +44,9 @@ nfl_teams = [
     "Seattle Seahawks", #28
     "Tampa Bay Buccaneers", #29
     "Tennessee Titans", #30
-    "Washington Commanders" #31
+    "Washington Commanders", #31
+    "Oakland Raiders", #addition for moves
+    "San Diego Chargers",
 ]
 
 current_week_this_year = 18
@@ -83,6 +85,8 @@ Team_Weather_Url =[
      "https://www.wunderground.com/history/daily/us/fl/tampa/KTPA/date/",
      "https://www.wunderground.com/history/daily/us/tn/nashville/KBNA/date/",
      "https://www.wunderground.com/history/daily/us/va/arlington/KDCA/date/",
+     "https://www.wunderground.com/history/daily/us/ca/oakland/KOAK/date/",
+     "https://www.wunderground.com/history/daily/us/ca/san-diego/KSAN/date/"
 ]
 
 
@@ -165,7 +169,7 @@ def scrape_table(url):
 
 
 def find_weather_by_team():
-    for index in range(0,32):
+    for index in range(33,34):
         directory_path = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/CSV/Weather_Data'
         place = re.sub(r'[^a-zA-Z0-9]', '',str(nfl_teams[index].split()[:-1]))
         file_path = os.path.join(directory_path, f'{place}_weather.csv')  # Change the filename as needed
@@ -183,7 +187,7 @@ def find_weather_by_team():
                 except:
                     continue
         
-        
-                
-    
+
+
+            
 find_weather_by_team()
