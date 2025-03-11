@@ -41,6 +41,7 @@ def get_last_away_game_scores(team_name, amount):
     formatted_games = []
     for game in games:
         game_date, opponent, score = game
+        print(game)
         score = score.lstrip("W")
         score = score.lstrip("L")
         score = score.lstrip("T")
@@ -72,17 +73,19 @@ def get_last_home_game_scores(team_name, amount):
     else:
         location = location[0]
     print(location)
-    # Fetch last 10 home games (team is the favorite)
     cur.execute("""
         SELECT 
             game_date, 
-            underdog AS opponent,  -- Since team is home, opponent is always the underdog
+            CASE 
+                WHEN favorite = %s THEN underdog 
+                ELSE favorite 
+            END AS opponent, 
             score
         FROM nfl_games
         WHERE location = %s  -- Team must be playing at home
         ORDER BY game_date DESC
         LIMIT %s;
-    """, (location, amount,))
+    """, (team_name, team_name, amount))
 
     games = cur.fetchall()
     

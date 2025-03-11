@@ -218,7 +218,7 @@ def get_stats_by_year(year, team):
 
 
 def get_all_teams_and_players():
-    for year in range(2020, 2025):
+    for year in range(2002, 2025):
         for team in team_abbr_map:
             get_stats_by_year(year, team)
 
