@@ -265,6 +265,16 @@ AFC_EAST = [ "Buffalo Bills", "Miami Dolphins", "New York Jets", "New England Pa
 AFC_SOUTH = [ "Houston Texans", "Indianapolis Colts", "Jacksonville Jaguars", "Tennessee Titans"]
 AFC_WEST = [ "Kansas City Chiefs", "Los Angeles Chargers", "Denver Broncos",  "Las Vegas Raiders"]
 
+NFC = ["Arizona Cardinals", "San Francisco 49ers", "Seattle Seahawks", "Los Angeles Rams", 
+       "New York Giants", "Philadelphia Eagles", "Washington Commanders", "Dallas Cowboys", 
+       "Tampa Bay Buccaneers", "New Orleans Saints", "Carolina Panthers", "Atlanta Falcons",
+       "Chicago Bears", "Detroit Lions", "Minnesota Vikings", "Green Bay Packers"]
+
+AFC = ["Baltimore Ravens", "Pittsburgh Steelers",  "Cincinnati Bengals", "Cleveland Browns",
+       "Buffalo Bills", "Miami Dolphins", "New York Jets", "New England Patriots",
+        "Houston Texans", "Indianapolis Colts", "Jacksonville Jaguars", "Tennessee Titans",
+        "Chicago Bears", "Detroit Lions", "Minnesota Vikings", "Green Bay Packers"]
+
 def divisional_rivals(t1,t2):
     if NFC_EAST.__contains__(t1) and NFC_EAST.__contains__(t2):
         return True
@@ -283,29 +293,31 @@ def divisional_rivals(t1,t2):
     if AFC_NORTH.__contains__(t1) and AFC_NORTH.__contains__(t2):
         return True
     return False
-    
+
+def conference_rivals(t1,t2):
+    if NFC.__contains__(t1) and NFC.__contains__(t2):
+        return True
+    elif AFC.__contains__(t1) and AFC.__contains__(t2):
+        return True
+    return False
+
 def predict(games):
     df = pd.DataFrame(games)
-
     # ✅ Assign each game a sequential game index (instead of using dates)
     df['game_index'] = np.arange(len(df))
-
     # Define Features (X) and Target (y) for team score and opponent score
     X = df[['game_index']]  # ✅ Use game index instead of date
     y_team = df['team_score']  # Team's score
     y_opponent = df['opponent_score']  # Opponent's score
-
     # ✅ Apply Min-Max Scaling to the `game_index` feature
     scaler = MinMaxScaler()
     X_scaled = scaler.fit_transform(X)
-
     # Train separate linear regression models for team and opponent scores
     model_team = LinearRegression()
     model_opponent = LinearRegression()
-
+    
     model_team.fit(X_scaled, y_team)
     model_opponent.fit(X_scaled, y_opponent)
-
     # ✅ Predict next game's score based on game index (not date)
     next_game_index = len(df)  # Next game is sequentially the next one
     next_game_scaled = scaler.transform(pd.DataFrame([[next_game_index]], columns=['game_index']))  # ✅ Fixed
@@ -315,15 +327,27 @@ def predict(games):
 
     return predicted_team_score, predicted_opponent_score
 
-def predict_rivals(team_1, team_2):
-    team_1_last_games = predict(get_last_game_scores(team_1, 10))
-    team_2_last_games = predict(get_last_game_scores(team_2, 10))
-    team_1_last_home_games = predict(get_last_home_game_scores(team_1, 10))
-    team_2_last_away_games = predict(get_last_away_game_scores(team_2, 10))
+def predict_rivals(team_1, team_2): 
+    team_1_last_games = predict(get_last_game_scores(team_1, 32))
+    team_2_last_games = predict(get_last_game_scores(team_2, 32))
+    team_1_last_home_games = predict(get_last_home_game_scores(team_1, 16))
+    team_2_last_away_games = predict(get_last_away_game_scores(team_2, 16))
     matchups = predict(get_last_matchups(team_1, team_2, 10))
     
     team_1_avg = ((matchups[0]*2) + team_1_last_games[0] + team_1_last_home_games[0] + team_2_last_games[1] + team_2_last_away_games[1])//6
     team_2_avg = ((matchups[1]*2) + team_1_last_games[1] + team_1_last_home_games[1] + team_2_last_games[0] + team_2_last_away_games[0])//6
+    
+    return team_1_avg, team_2_avg
+
+def predict_conference_rivals(team_1, team_2):
+    team_1_last_games = predict(get_last_game_scores(team_1, 32))
+    team_2_last_games = predict(get_last_game_scores(team_2, 32))
+    team_1_last_home_games = predict(get_last_home_game_scores(team_1, 16))
+    team_2_last_away_games = predict(get_last_away_game_scores(team_2, 16))
+    matchups = predict(get_last_matchups(team_1, team_2, 3))
+    
+    team_1_avg = ((matchups[0]) + team_1_last_games[0] + team_1_last_home_games[0] + team_2_last_games[1] + team_2_last_away_games[1])//5
+    team_2_avg = ((matchups[1]) + team_1_last_games[1] + team_1_last_home_games[1] + team_2_last_games[0] + team_2_last_away_games[0])//5
     
     return team_1_avg, team_2_avg
     
@@ -332,11 +356,13 @@ def predict_score(team_1, team_2):
     if divisional_rivals(team_1, team_2):
         return predict_rivals(team_1,team_2)
     
-    team_1_last_games = predict(get_last_game_scores(team_1, 10))
-    team_2_last_games = predict(get_last_game_scores(team_2, 10))
-    team_1_last_home_games = predict(get_last_home_game_scores(team_1, 10))
-    team_2_last_away_games = predict(get_last_away_game_scores(team_2, 10))
+    if conference_rivals(team_1, team_2):
+        return predict_conference_rivals(team_1, team_2)
     
+    team_1_last_games = predict(get_last_game_scores(team_1, 32))
+    team_2_last_games = predict(get_last_game_scores(team_2, 32))
+    team_1_last_home_games = predict(get_last_home_game_scores(team_1, 16))
+    team_2_last_away_games = predict(get_last_away_game_scores(team_2, 16))
     
     team_1_avg = (team_1_last_games[0] + team_1_last_home_games[0] + team_2_last_games[1] + team_2_last_away_games[1])//4
     team_2_avg = (team_1_last_games[1] + team_1_last_home_games[1] + team_2_last_games[0] + team_2_last_away_games[0])//4
@@ -362,8 +388,11 @@ def power_rank():
             else:
                 victories[nfl_teams[t2]] += 1
     
+    sorted_teams = sorted(victories.items(), key=lambda x: x[1], reverse=True)
+    print(sorted_teams)
+    return victories
 
     
             
         
-power_rank()
+print(power_rank())
