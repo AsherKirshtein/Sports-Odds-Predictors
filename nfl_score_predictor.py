@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import HuberRegressor
 from sklearn.preprocessing import MinMaxScaler
 from datetime import datetime
 
@@ -313,8 +314,8 @@ def predict(games):
     scaler = MinMaxScaler()
     X_scaled = scaler.fit_transform(X)
     # Train separate linear regression models for team and opponent scores
-    model_team = LinearRegression()
-    model_opponent = LinearRegression()
+    model_team = HuberRegressor(max_iter=1000)
+    model_opponent = HuberRegressor(max_iter=1000)
     
     model_team.fit(X_scaled, y_team)
     model_opponent.fit(X_scaled, y_opponent)
@@ -363,9 +364,10 @@ def predict_score(team_1, team_2):
     team_2_last_games = predict(get_last_game_scores(team_2, 32))
     team_1_last_home_games = predict(get_last_home_game_scores(team_1, 16))
     team_2_last_away_games = predict(get_last_away_game_scores(team_2, 16))
+    matchups = predict(get_last_matchups(team_1, team_2, 1))
     
-    team_1_avg = (team_1_last_games[0] + team_1_last_home_games[0] + team_2_last_games[1] + team_2_last_away_games[1])//4
-    team_2_avg = (team_1_last_games[1] + team_1_last_home_games[1] + team_2_last_games[0] + team_2_last_away_games[0])//4
+    team_1_avg = (matchups[0] + team_1_last_games[0] + team_1_last_home_games[0] + team_2_last_games[1] + team_2_last_away_games[1])//5
+    team_2_avg = (matchups[1] + team_1_last_games[1] + team_1_last_home_games[1] + team_2_last_games[0] + team_2_last_away_games[0])//5
     
     return team_1_avg, team_2_avg
 
@@ -389,10 +391,9 @@ def power_rank():
                 victories[nfl_teams[t2]] += 1
     
     sorted_teams = sorted(victories.items(), key=lambda x: x[1], reverse=True)
-    print(sorted_teams)
-    return victories
+    return sorted_teams
 
     
             
-        
+#print(predict_score("Dallas Cowboys", "Washington Commanders"))       
 print(power_rank())
