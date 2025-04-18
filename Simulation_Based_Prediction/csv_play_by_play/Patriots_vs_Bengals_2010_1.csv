@@ -1,0 +1,149 @@
+Quarter,Down,To Go,Location,Time,Formation,Play Type,Part of Field,Completion,Yards Gained,Spot of Ball
+1st,1st,10,NE 28,12:38,Shotgun,pass,short middle,(complete),5,NE 33
+1st,2nd,5,NE 33,11:59,,run,middle,,0,NE 33
+1st,1st,10,NE 41,11:27,,pass,short left,(complete),45,CIN 14
+1st,1st,10,CIN 14,10:34,,run,right guard,,5,CIN 9
+1st,2nd,5,CIN 9,9:52,,pass,short left,(complete),9,-1
+1st,1st,10,CIN 20,9:40,,reported,,,0,CIN 20
+1st,2nd,1,CIN 29,8:55,,run,left end,,-1,CIN 28
+1st,3rd,2,CIN 28,8:12,,pass,short,(incomplete),0,CIN 28
+1st,4th,2,CIN 28,8:09,,punt,,,46,"NE 26,"
+1st,1st,10,NE 30,7:59,,run,left guard,,9,NE 39
+1st,2nd,1,NE 39,7:18,,run,left end,,0,NE 39
+1st,3rd,1,NE 39,6:42,,run,middle,,0,NE 39
+1st,1st,10,NE 41,6:06,,pass,deep,(incomplete),0,NE 41
+1st,2nd,10,NE 41,6:00,,run,left tackle,,5,NE 46
+1st,3rd,5,NE 46,5:13,Shotgun,pass,short left,(complete),9,CIN 45
+1st,1st,10,CIN 45,4:45,,run,right tackle,,24,CIN 21
+1st,1st,10,CIN 21,3:56,Shotgun,pass,short right,(complete),5,CIN 16
+1st,2nd,5,CIN 16,3:23,,run,middle,,0,CIN 16
+1st,3rd,3,CIN 14,2:37,Shotgun,pass,short,(incomplete),0,CIN 14
+1st,4th,3,CIN 14,2:33,,field,,,0,-1
+1st,1st,10,CIN 20,2:29,,pass,short right,(complete),14,CIN 34
+1st,1st,10,CIN 34,1:53,,run,left tackle,,4,CIN 38
+1st,2nd,6,CIN 38,1:12,,reported,,,0,CIN 38
+1st,1st,15,CIN 33,1:05,Shotgun,pass,short right,(complete),4,CIN 29
+1st,2nd,11,CIN 29,0:29,Shotgun,pass,short right,(complete),0,CIN 29
+2nd,3rd,11,CIN 29,15:00,Shotgun,pass,short,(incomplete),0,CIN 29
+2nd,4th,11,CIN 29,14:56,,field,,,0,CIN 29
+2nd,1st,10,CIN 38,14:51,,run,right guard,,-1,CIN 37
+2nd,2nd,11,CIN 37,14:17,,pass,short right,(complete),5,CIN 42
+2nd,3rd,6,CIN 42,13:44,Shotgun,pass,short left,(complete),1,CIN 43
+2nd,4th,5,CIN 43,13:07,,punt,,,57,"end zone,"
+2nd,1st,10,NE 20,12:59,,run,middle,,0,NE 20
+2nd,2nd,6,NE 24,12:28,,pass,deep,(incomplete),0,NE 24
+2nd,3rd,6,NE 24,12:19,Shotgun,pass,short right,(complete),to,NE 24
+2nd,1st,10,NE 44,11:43,Shotgun,pass,short right,(complete),to,NE 44
+2nd,1st,10,CIN 24,11:05,,run,right guard,,3,CIN 21
+2nd,1st,15,CIN 29,10:39,Shotgun,pass,deep,(incomplete),0,CIN 29
+2nd,2nd,15,CIN 29,10:34,Shotgun,pass,short right,(complete),4,CIN 25
+2nd,3rd,11,CIN 25,9:48,Shotgun,pass,deep left,(complete),to,CIN 25
+2nd,1st,Goal,CIN 4,9:13,,pass,short,(incomplete),0,CIN 4
+2nd,2nd,Goal,CIN 4,9:08,Shotgun,pass,short,(incomplete),0,CIN 4
+2nd,3rd,Goal,CIN 4,9:04,Shotgun,pass,short middle,(complete),4,-1
+2nd,1st,10,CIN 20,8:58,Shotgun,pass,short,(incomplete),0,CIN 20
+2nd,2nd,10,CIN 20,8:54,,Huddle),,,0,CIN 20
+2nd,3rd,3,CIN 27,8:15,Shotgun,pass,short right,(complete),3,CIN 30
+2nd,1st,10,CIN 30,7:38,,Timeout #1 by NE #1,,,,CIN 30
+2nd,1st,10,CIN 30,7:38,Shotgun,pass,short left,(complete),11,CIN 41
+2nd,1st,10,CIN 41,6:54,,Huddle),,,0,CIN 41
+2nd,2nd,3,CIN 48,6:31,,Huddle),,,0,CIN 48
+2nd,1st,10,NE 48,5:49,,Huddle),,,0,NE 48
+2nd,1st,10,CIN 28,5:34,,to,,,0,CIN 28
+2nd,2nd,12,CIN 26,5:00,,run,middle,,0,CIN 26
+2nd,3rd,6,CIN 32,4:16,Shotgun,pass,short,(incomplete),0,CIN 32
+2nd,3rd,1,CIN 37,4:08,Shotgun,pass,short middle,(complete),4,CIN 41
+2nd,1st,10,CIN 41,3:32,,Huddle),,,0,CIN 41
+2nd,1st,10,NE 49,2:59,,Huddle),,,0,NE 49
+2nd,2nd,10,NE 49,2:53,,Huddle),,,0,NE 49
+2nd,3rd,1,NE 40,2:32,,Huddle),,,0,NE 40
+2nd,4th,1,NE 40,2:12,,Timeout #2 by NE #2,,,,NE 40
+2nd,4th,1,NE 40,2:12,,run,middle,,0,NE 40
+2nd,1st,10,NE 38,2:00,,pass,short,(incomplete),0,NE 38
+2nd,2nd,10,NE 38,1:56,,Huddle),,,0,NE 38
+2nd,3rd,7,NE 35,1:25,Shotgun,pass,deep,(incomplete),0,NE 35
+2nd,4th,7,NE 35,1:19,,field,,,0,-1
+2nd,1st,10,NE 32,1:08,,pass,short left,(complete),7,NE 39
+2nd,2nd,3,,0:42,,"Huddle,",,,0,NE 39
+2nd,1st,10,,0:34,,Timeout #3 by NE #3,,,,NE 39
+2nd,1st,10,,0:34,Shotgun,pass,short,(incomplete),0,THE 50
+2nd,2nd,10,,0:28,Shotgun,pass,short,(incomplete),0,THE 50
+2nd,3rd,10,,0:24,Shotgun,run,middle,,0,THE 50
+2nd,1st,10,CIN 39,0:07,,pass,short left,(complete),to,CIN 39
+2nd,2nd,8,CIN 37,0:06,,field,,,0,CIN 37
+2nd,1st,10,CIN 46,0:01,,81-Moss,,,0,CIN 46
+3rd,1st,10,CIN 20,14:48,Shotgun,pass,short middle,(complete),10,CIN 30
+3rd,1st,10,CIN 30,14:12,,Huddle),,,0,CIN 30
+3rd,2nd,3,,13:33,,Huddle),,,0,CIN 37
+3rd,1st,15,CIN 45,12:48,Shotgun,pass,short left,(complete),4,CIN 49
+3rd,2nd,11,CIN 49,12:15,,Huddle),,,0,CIN 49
+3rd,3rd,11,CIN 49,12:10,Shotgun,pass,short right,(complete),11,NE 40
+3rd,1st,10,NE 40,11:24,,Huddle),,,0,NE 40
+3rd,2nd,9,NE 39,10:43,,Huddle),,,0,NE 39
+3rd,1st,10,NE 20,10:01,,pass,short left,(complete),8,NE 12
+3rd,2nd,2,NE 12,9:20,,run,left tackle,,4,NE 8
+3rd,1st,Goal,NE 8,8:38,,scrambles,,,0,NE 8
+3rd,2nd,Goal,NE 1,7:58,,and,,,0,NE 1
+3rd,1st,10,NE 28,7:49,,pass,short right,(complete),-1,NE 27
+3rd,2nd,11,NE 27,7:15,,run,middle,,0,NE 27
+3rd,3rd,8,NE 30,6:32,Shotgun,pass,short middle,(complete),15,NE 45
+3rd,3rd,18,NE 20,6:07,Shotgun,pass,short middle,(complete),10,NE 30
+3rd,4th,8,NE 30,5:25,,punt,,,43,"CIN 27,"
+3rd,1st,10,CIN 27,5:13,,pass,short,(incomplete),0,CIN 27
+3rd,2nd,10,CIN 27,5:09,,Huddle),,,0,CIN 27
+3rd,3rd,8,CIN 29,4:38,Shotgun,pass,short middle,(complete),13,CIN 42
+3rd,1st,10,CIN 42,4:03,,Huddle),,,0,CIN 42
+3rd,2nd,1,NE 49,3:28,,Huddle),,,0,NE 49
+3rd,3rd,1,NE 49,3:24,Shotgun,pass,short middle,(complete),4,NE 45
+3rd,1st,10,NE 45,3:02,,Huddle),,,0,NE 45
+3rd,2nd,10,NE 45,2:59,,Huddle),,,0,NE 45
+3rd,3rd,5,NE 40,2:14,Shotgun,pass,short left,(complete),4,NE 36
+3rd,4th,1,NE 36,1:28,,reported,,,0,NE 36
+3rd,1st,10,NE 34,0:59,,run,left end,,6,NE 28
+3rd,2nd,4,NE 28,0:28,,Huddle),,,0,NE 28
+3rd,1st,10,NE 19,0:17,Shotgun,pass,short middle,(complete),12,NE 31
+4th,1st,10,NE 31,15:00,,pass,short right,(complete),9,NE 40
+4th,2nd,1,NE 40,14:28,,run,left guard,,5,NE 45
+4th,1st,10,NE 45,13:54,,run,right end,,0,NE 45
+4th,2nd,10,NE 45,13:07,,Timeout #1 by NE #1,,,,NE 45
+4th,2nd,10,NE 45,13:07,,pass,short right,(complete),7,CIN 48
+4th,3rd,3,CIN 48,12:41,,pass,short right,(complete),11,CIN 37
+4th,1st,10,CIN 37,12:04,Shotgun,pass,short middle,(complete),8,CIN 29
+4th,2nd,2,CIN 29,11:34,,run,right tackle,,-2,CIN 31
+4th,3rd,4,CIN 31,10:50,Shotgun,pass,short left,(complete),to,CIN 31
+4th,1st,10,CIN 19,10:18,,run,right end,,4,CIN 15
+4th,2nd,6,CIN 15,9:41,,run,right end,,7,CIN 8
+4th,1st,Goal,CIN 8,8:59,,run,right guard,,6,CIN 2
+4th,2nd,Goal,CIN 2,8:22,,reported,,,0,CIN 2
+4th,3rd,Goal,CIN 1,7:45,,reported,,,0,CIN 1
+4th,1st,10,CIN 24,7:36,Shotgun,pass,short left,(complete),-2,CIN 22
+4th,2nd,12,CIN 22,7:08,,"Huddle,",,,0,CIN 22
+4th,3rd,12,CIN 22,7:04,Shotgun,pass,short left,(complete),to,CIN 22
+4th,1st,10,CIN 47,6:47,,"Huddle,",,,0,CIN 47
+4th,2nd,10,CIN 47,6:42,,"Huddle,",,,0,CIN 47
+4th,3rd,6,NE 49,6:04,Shotgun,pass,deep,(incomplete),0,NE 49
+4th,4th,6,NE 49,5:59,Shotgun,pass,short left,(complete),to,NE 49
+4th,1st,10,NE 39,5:48,,"Huddle,",,,0,NE 39
+4th,2nd,8,NE 37,5:24,,"Huddle,",,,0,NE 37
+4th,1st,10,NE 27,4:54,,Timeout #2 by NE #2,,,,NE 37
+4th,1st,10,NE 27,4:54,Shotgun,pass,short left,(complete),to,NE 27
+4th,2nd,3,NE 20,4:50,Shotgun,pass,deep,(incomplete),0,NE 20
+4th,3rd,3,NE 20,4:45,Shotgun,pass,short middle,(complete),13,NE 7
+4th,1st,Goal,NE 7,4:16,,Huddle),,,0,NE 7
+4th,2nd,Goal,NE 1,4:04,,Timeout #1 by CIN #1,,,,NE 7
+4th,2nd,Goal,NE 1,4:04,,and,,,0,NE 1
+4th,2nd,Goal,NE 1,4:00,,and,,,0,NE 1
+4th,1st,10,CIN 37,3:57,,pass,short right,(complete),11,CIN 26
+4th,1st,10,CIN 26,3:11,,run,middle,,0,CIN 26
+4th,2nd,7,CIN 23,3:00,,Timeout #2 by CIN #2,,,,CIN 26
+4th,2nd,7,CIN 23,3:00,,run,left end,,8,CIN 15
+4th,1st,10,CIN 15,2:14,,run,middle,,0,CIN 15
+4th,2nd,10,CIN 15,2:08,,Timeout #3 by CIN #3,,,,CIN 15
+4th,2nd,15,CIN 20,2:08,,run,right tackle,,6,CIN 14
+4th,3rd,9,CIN 14,2:00,,run,middle,,0,CIN 14
+4th,4th,2,CIN 7,1:14,Shotgun,pass,short,(incomplete),0,CIN 7
+4th,1st,10,CIN 7,1:10,Shotgun,pass,short,(incomplete),0,CIN 7
+4th,2nd,10,CIN 7,1:06,Shotgun,pass,short right,(complete),9,CIN 16
+4th,3rd,1,CIN 16,0:38,,Huddle),,,0,CIN 16
+4th,1st,10,CIN 20,0:16,,"Huddle,",,,0,CIN 20
+4th,1st,10,CIN 36,0:11,,run,left guard,,9,CIN 45

@@ -1,0 +1,149 @@
+Quarter,Down,To Go,Location,Time,Formation,Play Type,Part of Field,Completion,Yards Gained,Spot of Ball
+1st,1st,10,IND 31,13:12,,pass,short left,(complete),7,IND 24
+1st,2nd,3,IND 24,12:33,,pass,short,(incomplete),0,IND 24
+1st,3rd,3,IND 24,12:28,Shotgun,pass,short middle,(complete),6,IND 18
+1st,1st,10,IND 18,11:48,,run,left tackle,,6,IND 12
+1st,2nd,4,IND 12,11:09,,run,right tackle,,4,IND 8
+1st,1st,Goal,IND 8,10:25,,run,left guard,,1,IND 7
+1st,2nd,Goal,IND 7,9:45,,pass,short,(incomplete),0,IND 7
+1st,3rd,Goal,IND 7,9:41,,Timeout #1 by HST #1,,,,IND 7
+1st,3rd,Goal,IND 7,9:41,Shotgun,pass,short,(incomplete),0,IND 7
+1st,4th,7,IND 7,9:35,,field,,,0,-1
+1st,4th,12,IND 12,9:35,,field,,,0,-1
+1st,1st,10,IND 20,9:25,,run,left guard,,5,IND 25
+1st,2nd,5,IND 25,8:49,,pass,short middle,(complete),7,IND 32
+1st,1st,10,IND 32,8:20,,run,middle,,0,IND 32
+1st,2nd,10,IND 32,7:32,,pass,short left,(complete),12,IND 44
+1st,1st,10,,7:03,,pass,short right,(complete),6,THE 50
+1st,2nd,4,,6:21,Shotgun,pass,short,(incomplete),0,THE 50
+1st,3rd,4,,6:16,Shotgun,pass,short,(incomplete),0,THE 50
+1st,4th,4,,6:10,,punt,,,34,"HST 16,"
+1st,1st,10,HOU 16,6:02,,pass,deep,(incomplete),0,HOU 16
+1st,1st,10,IND 31,5:53,,sacked,,,-7,IND 38
+1st,2nd,17,IND 38,5:24,,pass,short left,(complete),to,IND 38
+1st,3rd,10,IND 31,4:53,Shotgun,pass,short,(incomplete),0,IND 31
+1st,4th,10,IND 31,4:48,,field,,,0,-1
+1st,1st,10,IND 27,4:37,,run,left tackle,,1,IND 28
+1st,2nd,9,IND 28,4:02,Shotgun,pass,deep,(incomplete),0,IND 28
+1st,3rd,9,,3:54,Shotgun,pass,deep middle,(complete),22,THE 50
+1st,1st,10,HOU 35,3:31,,run,left tackle,,2,HST 33
+1st,2nd,3,HOU 28,2:35,,run,right tackle,,ob,HOU 28
+1st,2nd,13,HOU 38,2:07,Shotgun,pass,short,(incomplete),0,HOU 38
+1st,3rd,13,HOU 38,2:02,Shotgun,pass,deep,(incomplete),0,HOU 38
+1st,4th,8,HOU 38,2:02,,play,,,0,HOU 38
+1st,4th,13,HOU 38,1:53,,punt,,,38,"end zone,"
+1st,1st,10,HOU 20,1:45,,run,left tackle,,5,HST 25
+1st,2nd,5,HOU 25,1:07,,run,right end,,4,HST 29
+1st,3rd,1,HOU 29,0:29,,run,left guard,,4,HST 33
+2nd,1st,10,HOU 33,15:00,,run,right guard,,1,HST 34
+2nd,2nd,9,HOU 34,14:17,,pass,short right,(complete),to,HOU 34
+2nd,1st,10,IND 43,13:50,,pass,deep middle,(complete),21,IND 22
+2nd,1st,10,IND 22,13:06,,pass,deep middle,(complete),22,-1
+2nd,1st,10,IND 24,12:55,Shotgun,pass,short right,(complete),7,IND 31
+2nd,2nd,3,IND 31,12:29,,run,right tackle,,6,IND 37
+2nd,1st,10,IND 37,11:58,Shotgun,pass,short left,(complete),10,IND 47
+2nd,1st,10,IND 47,11:22,Shotgun,run,left guard,,4,HST 49
+2nd,2nd,6,HOU 49,10:45,Shotgun,pass,short middle,(complete),4,HST 45
+2nd,3rd,2,HOU 45,10:05,Shotgun,pass,short,(incomplete),0,HOU 45
+2nd,4th,2,HOU 45,9:59,,punt,,,31,"HST 14,"
+2nd,1st,10,HOU 14,9:50,,run,left end,,7,HST 21
+2nd,2nd,3,HOU 21,9:11,,run,right end,,10,HST 31
+2nd,1st,10,HOU 31,8:31,,pass,pass deep middle,(intercepted),0,HST 35
+2nd,1st,10,HOU 35,8:12,,pass,short left,(complete),3,HST 32
+2nd,2nd,7,HOU 32,7:46,,pass,short left,(complete),10,HST 22
+2nd,1st,10,HOU 22,7:09,,pass,short left,(complete),6,HST 16
+2nd,2nd,4,HOU 16,6:33,Shotgun,pass,short,(incomplete),0,HOU 16
+2nd,3rd,4,HOU 16,6:28,Shotgun,pass,short middle,(complete),7,HST 9
+2nd,1st,Goal,HOU 14,5:30,Shotgun,pass,short,(incomplete),0,HOU 14
+2nd,2nd,Goal,HOU 14,5:24,Shotgun,pass,short left,(complete),14,-1
+2nd,1st,10,HOU 24,5:10,Shotgun,pass,short,(incomplete),0,HOU 24
+2nd,2nd,10,HOU 24,5:05,,run,middle,,0,HOU 24
+2nd,3rd,12,HOU 22,4:24,Shotgun,sacked,,,-2,HST 20
+2nd,4th,14,HOU 20,4:02,,punt,,,58,"IND 22,"
+2nd,1st,10,IND 35,3:50,,pass,short right,(complete),12,IND 47
+2nd,1st,10,IND 47,3:21,Shotgun,run,middle,,0,IND 47
+2nd,2nd,8,IND 49,2:44,Shotgun,sacked,,,-7,IND 42
+2nd,3rd,10,IND 47,2:00,Shotgun,pass,short middle,(complete),8,HST 45
+2nd,4th,12,IND 45,1:46,,Timeout #2 by HST #2,,,,HST 45
+2nd,4th,2,HOU 45,1:36,Shotgun,pass,short right,(complete),3,HST 42
+2nd,1st,10,HOU 42,1:11,,pass,short right,(complete),10,HST 32
+2nd,1st,10,HOU 32,0:53,Shotgun,pass,deep right,(complete),26,HST 6
+2nd,1st,Goal,HOU 6,0:35,,run,right end,,ob,HOU 6
+2nd,2nd,Goal,HOU 5,0:31,,pass,short middle,(complete),3,HST 2
+2nd,3rd,Goal,HOU 2,0:21,,Timeout #2 by IND #2,,,,HST 2
+2nd,3rd,Goal,HOU 2,0:21,,pass,short,(incomplete),0,HOU 2
+2nd,4th,2,HOU 2,0:18,,field,,,0,-1
+2nd,1st,10,HOU 23,0:09,,kneels,,,-1,HST 22
+3rd,1st,10,HOU 34,14:53,,run,right tackle,,8,HST 42
+3rd,2nd,2,HOU 42,14:14,,run,left tackle,,7,HST 49
+3rd,1st,10,HOU 49,13:39,,run,right guard,,6,IND 45
+3rd,2nd,4,IND 45,13:00,,run,right tackle,,3,IND 42
+3rd,3rd,1,IND 42,12:27,,run,left end,,ob,IND 42
+3rd,1st,10,IND 29,11:59,,run,right guard,,6,IND 23
+3rd,2nd,4,IND 23,11:22,,run,left tackle,,2,IND 21
+3rd,3rd,2,IND 21,10:47,,run,left tackle,,1,IND 20
+3rd,4th,1,IND 20,10:04,,run,right end,,2,IND 18
+3rd,1st,10,IND 18,9:41,,run,right tackle,,4,IND 14
+3rd,2nd,6,IND 14,9:05,,pass,short,(incomplete),0,IND 14
+3rd,3rd,6,IND 14,9:00,Shotgun,pass,short middle,(complete),6,IND 8
+3rd,1st,Goal,IND 8,8:28,,run,left guard,,6,IND 2
+3rd,2nd,Goal,IND 2,7:43,,Timeout #1 by HST #1,,,,IND 2
+3rd,2nd,Goal,IND 2,7:43,,run,left end,,1,IND 1
+3rd,3rd,Goal,IND 1,7:06,,run,right tackle,,for,PAT
+3rd,1st,10,IND 20,6:54,,pass,short right,(complete),9,IND 29
+3rd,2nd,1,IND 29,6:27,,run,right end,,6,IND 35
+3rd,1st,10,IND 35,5:51,,pass,short right,(complete),6,IND 41
+3rd,2nd,4,,5:13,,pass,short middle,(complete),9,THE 50
+3rd,1st,10,,4:44,,run,middle,,0,THE 50
+3rd,1st,10,HOU 33,4:06,Shotgun,pass,short,(incomplete),0,HOU 33
+3rd,2nd,10,HOU 33,4:01,Shotgun,pass,short middle,(complete),6,HST 27
+3rd,3rd,4,HOU 27,3:13,,Timeout #1 by IND #1,,,,HST 27
+3rd,3rd,4,HOU 27,3:13,Shotgun,pass,deep,(incomplete),0,HOU 27
+3rd,1st,10,HOU 22,3:08,,pass,short,(incomplete),0,HOU 22
+3rd,2nd,10,HOU 22,3:04,Shotgun,pass,deep,(incomplete),0,HOU 22
+3rd,3rd,15,HOU 27,2:59,Shotgun,sacked,,,-7,HST 34
+3rd,4th,22,HOU 34,2:29,,punt,,,34,"end zone,"
+3rd,1st,10,HOU 20,2:21,,run,left end,,11,HST 31
+3rd,1st,10,HOU 31,1:43,,run,right end,,6,HST 37
+3rd,2nd,9,HOU 32,0:38,,pass,short right,(complete),to,HOU 32
+3rd,1st,10,HOU 41,0:09,,run,left tackle,,5,HST 46
+4th,2nd,5,HOU 46,15:00,,pass,short right,(complete),6,IND 48
+4th,1st,10,IND 48,14:21,,run,left guard,,2,IND 46
+4th,2nd,8,IND 46,13:36,,run,left guard,,4,IND 42
+4th,3rd,4,IND 42,12:53,Shotgun,pass,deep,(incomplete),0,IND 42
+4th,4th,4,IND 42,12:46,,punt,,,33,"IND 9,"
+4th,1st,1,IND 19,12:38,Shotgun,pass,short middle,(complete),19,IND 38
+4th,1st,10,IND 38,12:13,Shotgun,pass,short left,(complete),7,IND 45
+4th,2nd,3,IND 45,11:51,Shotgun,pass,short left,(complete),9,HST 46
+4th,1st,10,HOU 46,11:24,,pass,short middle,(complete),5,HST 41
+4th,2nd,5,HOU 41,10:54,Shotgun,pass,short,(incomplete),0,HOU 41
+4th,3rd,5,HOU 41,10:49,Shotgun,pass,deep middle,(complete),32,HST 9
+4th,1st,10,HOU 9,10:38,,run,right guard,,ob,HOU 9
+4th,1st,10,IND 49,10:12,,run,left guard,,13,IND 36
+4th,1st,10,IND 36,9:31,,run,middle,,0,IND 36
+4th,1st,10,IND 25,8:49,,run,left guard,,for,PAT
+4th,1st,10,IND 25,8:33,Shotgun,pass,short middle,(complete),7,IND 32
+4th,2nd,3,IND 32,8:06,Shotgun,pass,short middle,(complete),6,IND 38
+4th,1st,10,IND 38,7:41,Shotgun,pass,short left,(complete),to,IND 38
+4th,2nd,5,IND 43,7:20,Shotgun,pass,short middle,(complete),8,HST 49
+4th,1st,10,HOU 49,6:51,Shotgun,pass,short left,(complete),6,HST 43
+4th,2nd,4,HOU 43,6:32,,pass,short left,(complete),to,HOU 43
+4th,1st,10,HOU 36,6:12,Shotgun,pass,short,(incomplete),0,HOU 36
+4th,2nd,10,HOU 36,6:05,,pass,short,(incomplete),0,HOU 36
+4th,3rd,10,HOU 36,6:00,,pass,deep middle,(complete),19,HST 17
+4th,1st,10,HOU 17,5:30,Shotgun,pass,short,(incomplete),0,HOU 17
+4th,2nd,10,HOU 17,5:25,Shotgun,pass,short right,(complete),7,HST 10
+4th,3rd,3,HOU 10,4:54,,pass,short middle,(complete),10,-1
+4th,1st,10,IND 41,4:51,,run,left guard,,8,IND 33
+4th,2nd,2,IND 33,4:19,,run,middle,,0,IND 33
+4th,1st,10,IND 31,3:32,,run,right end,,0,IND 31
+4th,2nd,10,IND 31,3:29,,Timeout #2 by IND #2,,,,IND 31
+4th,2nd,10,IND 31,3:29,,run,middle,,0,IND 31
+4th,3rd,4,IND 25,3:22,,Timeout #3 by IND #3,,,,IND 31
+4th,3rd,4,IND 25,3:22,,run,left guard,,9,IND 16
+4th,1st,10,IND 16,2:38,,run,left end,,8,IND 8
+4th,2nd,2,IND 8,2:00,,run,right end,,for,PAT
+4th,1st,10,IND 23,1:44,,pass,short middle,(complete),4,IND 27
+4th,2nd,6,IND 27,1:27,Shotgun,pass,deep middle,(complete),73,-1
+4th,1st,10,IND 42,1:13,,kneels,,,-1,IND 43
+4th,2nd,11,IND 43,0:34,,kneels,,,-1,IND 44

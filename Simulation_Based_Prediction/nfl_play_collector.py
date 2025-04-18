@@ -219,43 +219,169 @@ def get_teams(plays):
             team_list = list(teams)  # or tuple(teams)
             return team_list[0], team_list[1]
 
+def get_play_type(play, index):
+        playtype = play[index]
+        yards_gained = 0
+        spot_of_ball = play[4] + " " + play[5]
+        if playtype == 'sacked':
+            yards_gained = play[index+5]
+            spot_of_ball = play[index + 2] + " " + play[index+3]
+        if playtype == 'FUMBLES':
+            index += 11
+            playtype = play[index]
+        if 'INTERCEPTED' in play and 'to' in play:
+            playtype = f'pass {play[index]} {play[index + 1]} {play[index + 2]} (intercepted)'
+            i = play.index('to')
+            spot_of_ball = play[i+1] + " " + play[i+2]
+            yards_gained = 0
+        elif playtype == 'right' or playtype == 'left':
+            playtype = f'run {play[index]} {play[index + 1]}'
+            if play[-1] == 'TOUCHDOWN.':
+                yards_gained = play[index+2]
+                spot_of_ball = 'PAT'
+            else:
+                yards_gained = play[index+6]
+                spot_of_ball = play[index+3] + " " + play[index+4]
+        elif playtype == 'up':
+            playtype = 'run middle'
+        elif playtype == 'pass':
+            if play[index + 1] == 'incomplete':
+                playtype = f'{play[index]} {play[index+2]} ({play[index+1]})'
+            else:
+                playtype = f'{play[index]} {play[index + 1]} {play[index + 2]} (complete)'
+                if play[index + 8] == 'TOUCHDOWN.':
+                    yards_gained = play[index + 6]
+                    spot_of_ball = -1
+                else:
+                    yards_gained = play[index+9]
+                    spot_of_ball = play[index+6] + " " + play[index+7]
+        elif playtype == 'punts':
+            playtype = 'punt'
+            yards_gained = play[index+1]
+            spot_of_ball = play[index + 4] + " " +play[index + 5]
         
+        elif playtype == 'kneels':
+            yards_gained = play[index + 5]
+            spot_of_ball = play[index + 2] + " " + play[index + 3]
+        elif playtype.isdigit():
+            yards = playtype
+            if play[index + 5] == 'No' and play[index + 6] == 'Good,':
+                playtype = f'field goal miss {play[index + 7]} {play[index + 8]} ({yards} yards)'
+            else:
+                playtype = f'field goal make ({yards} yards)'
+                spot_of_ball = -1
+        
+        if spot_of_ball == 'pushed ob':
+            spot_of_ball = spot_of_ball = play[index+5] + " " + play[index+6]
+        if spot_of_ball == 'ob at':
+            i = play.index('at')+1
+            spot_of_ball = play[i] + " " + play[i+1]
+            yards_gained = play[index+3]
+            
+        if yards_gained == 'no':
+            yards_gained = 0
+            
+        return playtype, yards_gained, spot_of_ball
+    
 def get_play_by_play():
-    csv_filename = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/Simulation_Based_Prediction/box_scores_urls.csv'
-    with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
-        reader = csv.reader(csvfile)
-        for row in reader:
-            if row.__contains__('Link'):
-                continue
-            plays = get_all_plays(row[0])
-            t1, t2 = get_teams(plays)
-            t1 = t1.split(" ")[-1]
-            t2 = t2.split(" ")[-1]
-            file_name = f'{t1}_vs_{t2}_{row[1]}_{row[2]}.csv'
-            print(file_name)
-            
-            
-            for drive in plays:
-                for play in drive:
-                    outcome = play.split(" ")
-                    down = outcome[0]
-                    if down == "&":
+        csv_filename = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/Simulation_Based_Prediction/box_scores_urls.csv'
+        csv_error_file = '/Users/asherkirshtein/Desktop/Sports Odds Predictors/Simulation_Based_Prediction/csv_play_by_play/errors.txt'
+        with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
+            reader = csv.reader(csvfile)
+            for row in reader:
+                try:
+                    if row.__contains__('Link'):
                         continue
-                    to_go = outcome[2]
-                    time = outcome[7].lstrip("(")
-                    quarter = outcome[9].strip(")")
-                    if outcome[10] == 'Timeout':
-                        play_type = outcome[10]
-                        timeout_number = outcome[11]
-                        team_to_call_to = outcome[13]
-                    elif outcome[10] == "(Shotgun)":
-                        play_type = f'Shotgun'
-                        
-                    what_happened = outcome[10:]
-                    print(f'{down} and {to_go} in the {quarter} with {time} on the clock: {what_happened}')
-            return
-            
-
-            
+                    plays = get_all_plays(row[0])
+                    t1, t2 = get_teams(plays)
+                    t1 = t1.split(" ")[-1]
+                    t2 = t2.split(" ")[-1]
+                    d_path = '/Users/asherkirshtein/Desktop/Sports Odds Predictors/Simulation_Based_Prediction/csv_play_by_play/'
+                    file_name = d_path + f'{t1}_vs_{t2}_{row[1]}_{row[2]}.csv'
+                    print(file_name)
+                    
+                    with open(file_name, 'w', newline='') as f:
+                        writer = csv.writer(f)
+                        writer.writerow(['Quarter','Down', 'To Go', 'Location', 'Time', 'Formation', 'Play Type',
+                                        'Part of Field', 'Completion', 'Yards Gained', 'Spot of Ball'])  # optional header
+                        for drive in plays:
+                            write_me = [None] * 11
+                            for play in drive:
+                                outcome = play.split(" ")
+                                down = outcome[0]
+                                if down == "&":
+                                    continue
+                                to_go = outcome[2]
+                                location = ""
+                                if '50' in outcome:
+                                    i = outcome.index('50')
+                                    outcome.insert(i, "THE")
+                                else:
+                                    location = outcome[4] + " " +outcome[5]
+                                time = outcome[7].lstrip("(")
+                                quarter = outcome[9].strip(")")
+                                index = 10
+                                formation = ""
+                                
+                                if outcome[10] == 'Timeout':
+                                    play_type = f'{outcome[10]} {outcome[11]} by {outcome[13]}' 
+                                    timeout_number = outcome[11]
+                                    team_to_call_to = outcome[13]
+                                elif outcome[index] == "(Shotgun)":
+                                    formation = "Shotgun"
+                                    index += 1
+                                player = outcome[index]
+                                index += 1
+                                
+                                
+                                if outcome[10] != 'Timeout':
+                                    play_type, yards_gained, spot_of_ball = get_play_type(outcome, index)
+                                    p = play_type.split(" ")
+                                    play_type = p[0]
+                                    completion = ""
+                                    part_of_field = ""
+                                    if play_type == 'pass':
+                                        completion = p[-1]
+                                        part_of_field = ' '.join(str(x) for x in p[1:-1])
+                                    elif play_type == 'run':
+                                        part_of_field = ' '.join(str(x) for x in p[1:])
+                                        
+                                    
+                                    write_me[0] = quarter
+                                    write_me[1] = down
+                                    write_me[2] = to_go
+                                    write_me[3] = location
+                                    write_me[4] = time
+                                    
+                                    write_me[5] = formation
+                                    write_me[6] = play_type
+                                    write_me[7] = part_of_field
+                                    write_me[8] = completion
+                                    write_me[9] = yards_gained
+                                    write_me[10] = spot_of_ball
+                                    
+                                else:
+                                    
+                                    write_me[0] = quarter
+                                    write_me[1] = down
+                                    write_me[2] = to_go
+                                    write_me[3] = location
+                                    write_me[4] = time
+                                    
+                                    write_me[5] = formation
+                                    write_me[6] = ""
+                                    write_me[7] = ""
+                                    write_me[8] = ""
+                                    write_me[9] = ""
+                                    write_me[6] = play_type + " " + timeout_number
+                                
+                                
+                    
+                                writer.writerow(write_me)
+                except:
+                    with open(csv_error_file, 'w', newline='') as wr:
+                                writer = csv.writer(wr)
+                                writer.writerow(play)
+                               
             
 get_play_by_play()

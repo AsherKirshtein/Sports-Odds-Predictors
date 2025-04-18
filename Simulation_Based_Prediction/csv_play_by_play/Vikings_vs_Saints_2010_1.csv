@@ -1,0 +1,138 @@
+Quarter,Down,To Go,Location,Time,Formation,Play Type,Part of Field,Completion,Yards Gained,Spot of Ball
+1st,1st,10,MIN 20,12:56,,run,right tackle,,3,MIN 23
+1st,2nd,7,MIN 23,12:16,,run,right tackle,,5,MIN 28
+1st,3rd,2,MIN 28,11:38,,run,left guard,,-1,MIN 27
+1st,4th,3,MIN 27,11:01,,punt,,,46,"NO 27,"
+1st,1st,10,NO 27,10:53,Shotgun,pass,short left,(complete),-2,NO 25
+1st,2nd,12,NO 25,10:14,,pass,short left,(complete),2,NO 27
+1st,3rd,10,NO 27,9:32,Shotgun,pass,deep,(incomplete),0,NO 27
+1st,4th,10,NO 27,9:26,,punt,,,43,"MIN 30,"
+1st,1st,10,MIN 30,9:16,,pass,short left,(complete),9,MIN 39
+1st,2nd,1,MIN 39,8:41,,pass,short,(incomplete),0,MIN 39
+1st,3rd,1,MIN 39,8:38,,run,left tackle,,2,MIN 41
+1st,1st,10,MIN 41,7:58,,pass,deep,(incomplete),0,MIN 41
+1st,2nd,10,MIN 41,7:51,,run,right end,,17,NO 42
+1st,2nd,20,MIN 31,7:22,Shotgun,pass,short right,(complete),6,MIN 37
+1st,2nd,30,MIN 21,6:56,Shotgun,run,middle,,0,MIN 21
+1st,3rd,16,MIN 35,6:15,Shotgun,pass,short left,(complete),13,MIN 48
+1st,4th,3,MIN 48,5:38,,punt,,,48,"NO 4,"
+1st,1st,10,NO 4,5:27,Shotgun,pass,short left,(complete),1,NO 5
+1st,2nd,9,NO 5,4:51,,pass,deep right,(complete),26,NO 31
+1st,1st,15,NO 26,3:50,Shotgun,pass,short,(incomplete),0,NO 26
+1st,2nd,15,NO 26,3:43,,Timeout #1 by NO #1,,,,NO 26
+1st,2nd,15,NO 26,3:43,Shotgun,pass,short left,(complete),19,NO 45
+1st,1st,10,NO 45,3:00,Shotgun,pass,short middle,(complete),7,MIN 48
+1st,2nd,3,MIN 48,2:22,Shotgun,pass,short left,(complete),6,MIN 42
+1st,1st,10,MIN 42,1:38,Shotgun,pass,short right,(complete),0,MIN 42
+1st,1st,10,MIN 42,1:39,,pass,short right,(complete),0,MIN 42
+1st,2nd,10,,0:52,Shotgun,sacked,,,-8,THE 50
+1st,3rd,18,,0:22,Shotgun,pass,short middle,(complete),10,MIN 40
+1st,4th,8,MIN 40,15:00,,punt,,,29,"MIN 11,"
+2nd,1st,10,MIN 11,14:53,,run,right guard,,0,MIN 11
+2nd,2nd,10,MIN 11,14:09,,pass,short right,(complete),11,MIN 22
+2nd,1st,10,MIN 22,13:31,,run,left tackle,,6,MIN 28
+2nd,2nd,4,MIN 28,12:52,,run,right tackle,,2,MIN 30
+2nd,3rd,2,MIN 30,12:08,,pass,short left,(complete),8,MIN 38
+2nd,1st,10,MIN 38,11:23,,run,right guard,,1,MIN 39
+2nd,2nd,9,MIN 39,10:44,,pass,short right,(complete),-2,MIN 37
+2nd,3rd,11,MIN 37,9:59,Shotgun,pass,short left,(complete),8,MIN 45
+2nd,3rd,11,MIN 37,9:33,,pass,short left,(complete),14,NO 49
+2nd,1st,10,NO 49,8:45,,run,left tackle,,9,NO 40
+2nd,2nd,1,NO 40,8:12,,run,right tackle,,4,NO 36
+2nd,1st,10,NO 36,7:36,,run,right tackle,,9,NO 27
+2nd,2nd,1,NO 27,7:13,,run,right guard,,3,NO 24
+2nd,1st,10,NO 24,6:33,,run,right guard,,-1,NO 25
+2nd,2nd,11,NO 25,5:52,,run,right end,,2,NO 23
+2nd,3rd,9,NO 23,5:36,,Timeout #2 by NO #2,,,,NO 23
+2nd,3rd,9,NO 23,5:36,Shotgun,pass,short,(incomplete),0,NO 23
+2nd,4th,9,NO 23,5:32,,field,,,0,-1
+2nd,1st,10,NO 32,5:22,,pass,short left,(complete),10,NO 42
+2nd,1st,20,NO 22,4:52,Shotgun,pass,short middle,(complete),6,NO 28
+2nd,2nd,14,NO 28,4:11,Shotgun,pass,short,(incomplete),0,NO 28
+2nd,3rd,19,NO 23,4:07,Shotgun,pass,short,(incomplete),0,NO 23
+2nd,4th,19,NO 23,3:59,,punt,,,58,"MIN 19,"
+2nd,1st,10,MIN 18,3:49,,pass,short left,(complete),12,MIN 30
+2nd,1st,10,MIN 30,3:15,,run,left guard,,1,MIN 31
+2nd,2nd,9,MIN 31,2:34,,pass,pass short middle,(intercepted),0,MIN 29
+2nd,1st,10,MIN 29,2:27,,run,left end,,-1,MIN 30
+2nd,2nd,11,MIN 30,2:00,,run,left tackle,,2,MIN 28
+2nd,3rd,9,MIN 28,1:29,Shotgun,pass,short,(incomplete),0,MIN 28
+2nd,4th,9,MIN 28,1:24,,field,,,0,MIN 28
+2nd,1st,10,MIN 36,1:19,Shotgun,pass,short middle,(complete),6,MIN 42
+2nd,2nd,4,MIN 42,0:56,Shotgun,pass,short left,(complete),3,MIN 45
+2nd,3rd,1,MIN 45,0:51,,Timeout #1 by MIN #1,,,,MIN 45
+2nd,3rd,1,MIN 45,0:51,,run,left end,,ob,MIN 45
+2nd,1st,10,MIN 47,0:46,Shotgun,pass,deep middle,(complete),33,NO 20
+2nd,1st,10,NO 20,0:40,,Timeout #2 by MIN #2,,,,NO 20
+2nd,1st,10,NO 20,0:40,,pass,deep middle,(complete),20,-1
+2nd,1st,10,NO 26,0:27,Shotgun,pass,short left,(complete),to,NO 26
+2nd,2nd,8,NO 28,0:23,Shotgun,pass,short right,(complete),2,NO 30
+3rd,1st,10,MIN 19,14:57,,run,right end,,ob,MIN 19
+3rd,1st,10,MIN 32,14:26,,run,left guard,,6,MIN 38
+3rd,2nd,4,MIN 38,13:54,,run,right tackle,,1,MIN 39
+3rd,3rd,3,MIN 39,13:14,Shotgun,pass,deep,(incomplete),0,MIN 39
+3rd,4th,3,MIN 39,13:08,,punt,,,41,"NO 20,"
+3rd,1st,10,NO 26,12:56,,run,right end,,0,NO 26
+3rd,2nd,10,NO 26,12:20,,run,middle,,0,NO 26
+3rd,1st,10,NO 37,11:41,,run,right tackle,,6,NO 43
+3rd,2nd,4,NO 43,11:01,,run,left guard,,5,NO 48
+3rd,1st,10,NO 48,10:27,Shotgun,pass,short left,(complete),9,MIN 43
+3rd,2nd,1,MIN 43,9:49,,run,right guard,,6,MIN 37
+3rd,1st,10,MIN 37,9:08,,run,right end,,-3,MIN 40
+3rd,2nd,8,MIN 35,8:19,Shotgun,pass,short left,(complete),14,MIN 21
+3rd,1st,10,MIN 21,7:36,,pass,short left,(complete),to,MIN 21
+3rd,1st,Goal,MIN 6,6:51,,run,left guard,,5,MIN 1
+3rd,2nd,Goal,MIN 1,6:17,,run,left guard,,for,PAT
+3rd,1st,10,MIN 16,6:08,,run,right tackle,,1,MIN 17
+3rd,2nd,9,MIN 17,5:24,,pass,deep,(incomplete),0,MIN 17
+3rd,3rd,9,MIN 17,5:18,Shotgun,pass,short,(incomplete),0,MIN 17
+3rd,4th,9,MIN 17,5:13,,punt,,,48,"NO 35,"
+3rd,1st,10,NO 31,5:02,Shotgun,pass,short left,(complete),2,NO 33
+3rd,2nd,8,NO 33,4:20,Shotgun,pass,short right,(complete),1,NO 34
+3rd,3rd,7,NO 34,3:36,Shotgun,pass,short left,(complete),1,NO 35
+3rd,4th,6,NO 35,3:05,,punt,,,36,"MIN 29,"
+3rd,1st,10,MIN 31,2:56,,run,left guard,,6,MIN 37
+3rd,2nd,4,MIN 37,2:19,,sacked,,,-9,MIN 28
+3rd,3rd,13,MIN 28,1:46,Shotgun,pass,short,(incomplete),0,MIN 28
+3rd,4th,13,MIN 28,1:40,,punt,,,46,"NO 26,"
+3rd,1st,10,NO 26,1:32,,run,left end,,1,NO 27
+3rd,2nd,9,NO 27,0:53,,pass,deep,(incomplete),0,NO 27
+3rd,3rd,9,NO 27,0:45,,Timeout #1 by NO #1,,,,NO 27
+3rd,3rd,9,NO 27,0:45,Shotgun,pass,short,(incomplete),0,NO 27
+3rd,4th,9,NO 27,0:36,,punt,,,47,"MIN 26,"
+3rd,4th,9,,0:27,,punt,,,THE,to MIN
+3rd,1st,10,MIN 13,0:19,,run,right guard,,3,MIN 16
+4th,2nd,7,MIN 16,15:00,,pass,short,(incomplete),0,MIN 16
+4th,3rd,7,MIN 16,14:57,Shotgun,pass,short,(incomplete),0,MIN 16
+4th,4th,7,MIN 16,14:51,,punt,,,49,"NO 35,"
+4th,1st,10,NO 40,14:43,,run,left guard,,6,NO 46
+4th,2nd,4,NO 46,14:05,Shotgun,pass,short right,(complete),10,MIN 44
+4th,1st,10,MIN 44,13:26,,run,left guard,,7,MIN 37
+4th,2nd,3,MIN 37,12:44,,run,left guard,,4,MIN 33
+4th,1st,10,MIN 33,12:05,,run,right guard,,1,MIN 32
+4th,2nd,9,MIN 32,11:19,Shotgun,pass,short right,(complete),14,MIN 18
+4th,1st,10,MIN 18,10:35,,run,right guard,,1,MIN 17
+4th,2nd,9,MIN 17,9:56,Shotgun,pass,short right,(complete),3,MIN 14
+4th,3rd,6,MIN 14,9:19,Shotgun,pass,short,(incomplete),0,MIN 14
+4th,4th,6,MIN 14,9:14,,field,,,0,MIN 14
+4th,1st,10,MIN 22,9:10,,pass,deep,(incomplete),0,MIN 22
+4th,2nd,10,MIN 22,9:05,,pass,short middle,(complete),6,MIN 28
+4th,3rd,4,MIN 28,8:20,Shotgun,pass,deep left,(complete),to,MIN 28
+4th,1st,10,NO 43,7:43,,pass,short middle,(complete),7,NO 36
+4th,1st,20,MIN 47,7:15,,pass,short right,(complete),-3,MIN 44
+4th,2nd,23,MIN 44,6:30,Shotgun,pass,short right,(complete),12,NO 44
+4th,3rd,11,NO 44,5:46,Shotgun,pass,deep,(incomplete),0,NO 44
+4th,4th,11,NO 44,5:40,,punt,,,32,"NO 12,"
+4th,1st,10,NO 12,5:32,,pass,short right,(complete),4,NO 16
+4th,2nd,6,NO 16,4:56,,run,right guard,,5,NO 21
+4th,3rd,1,NO 21,4:20,,pass,short left,(complete),7,NO 28
+4th,1st,10,NO 28,3:36,,run,right guard,,5,NO 33
+4th,2nd,5,NO 33,2:58,,run,right guard,,-2,NO 31
+4th,3rd,7,NO 31,2:17,Shotgun,pass,short right,(complete),9,NO 40
+4th,1st,10,NO 40,2:05,,Timeout #2 by MIN #2,,,,NO 40
+4th,1st,10,NO 40,2:05,,run,left end,,ob,NO 40
+4th,2nd,6,NO 44,1:59,,run,left guard,,10,MIN 46
+4th,1st,10,MIN 46,1:49,,Timeout #3 by MIN #3,,,,MIN 46
+4th,1st,10,MIN 46,1:49,,kneels,,,-1,MIN 47
+4th,2nd,11,MIN 47,1:08,,kneels,,,-1,MIN 48
+4th,3rd,12,MIN 48,0:34,,kneels,,,-1,MIN 49

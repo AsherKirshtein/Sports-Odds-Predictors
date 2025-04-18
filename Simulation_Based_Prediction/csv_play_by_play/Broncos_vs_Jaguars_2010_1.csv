@@ -1,0 +1,129 @@
+Quarter,Down,To Go,Location,Time,Formation,Play Type,Part of Field,Completion,Yards Gained,Spot of Ball
+1st,1st,10,JAX 8,10:24,,pass,short,(incomplete),0,JAX 8
+1st,2nd,10,JAX 8,10:18,Shotgun,run,middle,,0,JAX 8
+1st,3rd,5,JAX 13,9:35,Shotgun,pass,deep right,(complete),to,JAX 13
+1st,1st,10,JAX 36,9:13,,run,middle,,0,JAX 36
+1st,2nd,8,JAX 38,8:33,,run,middle,,0,JAX 38
+1st,2nd,14,JAX 32,8:07,,scrambles,,,0,JAX 32
+1st,3rd,9,JAX 37,7:35,Shotgun,pass,short,(incomplete),0,JAX 37
+1st,4th,9,JAX 37,7:31,,punt,,,56,"DEN 7,"
+1st,1st,10,DEN 7,7:23,,pass,short,(incomplete),0,DEN 7
+1st,2nd,10,DEN 7,7:18,Shotgun,pass,short left,(complete),13,DEN 20
+1st,1st,10,DEN 20,6:48,,run,right end,,4,DEN 24
+1st,2nd,6,DEN 24,6:05,,run,right end,,3,DEN 27
+1st,3rd,3,DEN 27,5:28,Shotgun,pass,short,(incomplete),0,DEN 27
+1st,4th,3,DEN 27,5:24,,punt,,,51,"JAX 22,"
+1st,1st,10,JAX 26,5:13,,run,left end,,1,JAX 27
+1st,2nd,9,JAX 27,4:31,Shotgun,pass,short,(incomplete),0,JAX 27
+1st,1st,10,JAX 42,4:26,Shotgun,pass,short middle,(complete),3,JAX 45
+1st,2nd,7,JAX 45,3:45,,run,right end,,18,DEN 37
+1st,1st,10,DEN 37,3:03,,run,left end,,5,DEN 32
+1st,2nd,5,DEN 32,2:26,,sacked,,,-5,DEN 37
+1st,3rd,10,DEN 37,2:00,,Timeout #1 by JAX #1,,,,DEN 37
+1st,3rd,10,DEN 37,2:00,Shotgun,pass,deep,(incomplete),0,DEN 37
+1st,4th,10,DEN 37,1:55,,punt,,,33,"DEN 4,"
+1st,1st,10,DEN 4,1:44,,run,right end,,3,DEN 7
+1st,2nd,7,DEN 7,1:12,Shotgun,pass,short left,(complete),11,DEN 18
+1st,1st,10,DEN 18,0:35,,run,left end,,-1,DEN 17
+2nd,2nd,11,DEN 17,15:00,,pass,short left,(complete),to,DEN 17
+2nd,1st,10,DEN 40,14:28,Shotgun,run,right end,,1,DEN 41
+2nd,2nd,9,DEN 41,13:47,Shotgun,pass,short right,(complete),6,DEN 47
+2nd,3rd,8,DEN 42,12:36,Shotgun,pass,short middle,(complete),11,JAX 47
+2nd,1st,10,JAX 47,11:52,,run,right end,,3,JAX 44
+2nd,2nd,7,JAX 44,11:12,,pass,short middle,(complete),4,JAX 40
+2nd,3rd,3,JAX 40,10:29,Shotgun,run,right end,,2,JAX 38
+2nd,4th,1,JAX 38,9:45,,Timeout #2 by JAX #2,,,,JAX 38
+2nd,4th,1,JAX 38,9:45,,run,right end,,2,JAX 36
+2nd,1st,10,JAX 36,9:05,,pass,short right,(complete),4,JAX 32
+2nd,2nd,6,JAX 32,8:25,,run,right end,,7,JAX 25
+2nd,1st,10,JAX 24,8:16,,pass,short left,(complete),8,JAX 32
+2nd,2nd,2,JAX 32,7:40,,run,middle,,0,JAX 32
+2nd,1st,10,JAX 34,7:02,,run,right end,,-1,JAX 33
+2nd,2nd,11,JAX 33,6:20,Shotgun,pass,short left,(complete),4,JAX 37
+2nd,3rd,7,JAX 37,5:41,Shotgun,pass,short middle,(complete),6,JAX 43
+2nd,4th,1,JAX 43,4:59,,punt,,,30,"DEN 27,"
+2nd,1st,10,DEN 27,4:50,,pass,short,(incomplete),0,DEN 27
+2nd,2nd,10,DEN 27,4:45,Shotgun,pass,deep,(incomplete),0,DEN 27
+2nd,3rd,10,DEN 27,4:40,Shotgun,sacked,,,-6,DEN 21
+2nd,4th,16,DEN 21,4:16,,punt,,,46,"JAX 33,"
+2nd,1st,10,JAX 40,3:59,,run,left end,,1,JAX 41
+2nd,2nd,9,JAX 41,3:19,Shotgun,run,right end,,7,JAX 48
+2nd,3rd,2,JAX 48,2:44,Shotgun,run,middle,,0,JAX 48
+2nd,4th,1,JAX 49,2:00,,run,middle,,0,JAX 49
+2nd,1st,10,DEN 47,1:26,Shotgun,pass,deep middle,(complete),26,DEN 21
+2nd,1st,10,DEN 21,0:58,Shotgun,pass,short left,(complete),21,-1
+2nd,1st,10,DEN 26,0:40,Shotgun,pass,deep left,(complete),41,JAX 33
+2nd,1st,Goal,JAX 8,0:32,,Timeout #1 by DEN #1,,,,JAX 33
+2nd,1st,10,JAX 33,0:32,Shotgun,pass,deep middle,(complete),25,JAX 8
+2nd,1st,Goal,JAX 8,0:25,,Timeout #1 by DEN #1,,,,JAX 8
+2nd,1st,Goal,JAX 8,0:25,Shotgun,pass,short,(incomplete),0,JAX 8
+2nd,2nd,Goal,JAX 8,0:20,Shotgun,pass,short middle,(complete),8,-1
+2nd,1st,10,JAX 32,0:10,,kneels,,,-1,JAX 31
+3rd,1st,10,JAX 47,14:52,,run,middle,,0,JAX 47
+3rd,2nd,6,DEN 49,14:09,,run,middle,,0,DEN 49
+3rd,1st,10,DEN 39,13:32,,run,middle,,0,DEN 39
+3rd,2nd,8,DEN 37,12:55,,run,left end,,2,DEN 35
+3rd,2nd,3,DEN 32,12:32,,run,middle,,0,DEN 32
+3rd,1st,10,DEN 26,12:01,,run,left end,,15,DEN 11
+3rd,1st,10,DEN 11,11:19,,run,left end,,1,DEN 10
+3rd,2nd,9,DEN 10,10:49,Shotgun,pass,short left,(complete),10,-1
+3rd,1st,10,DEN 20,10:42,,run,left end,,1,DEN 21
+3rd,2nd,9,DEN 21,10:09,,pass,short right,(complete),2,DEN 23
+3rd,3rd,7,DEN 23,9:29,Shotgun,pass,short right,(complete),9,DEN 32
+3rd,1st,10,DEN 32,8:54,,run,middle,,0,DEN 32
+3rd,2nd,7,DEN 35,8:15,,pass,short,(incomplete),0,DEN 35
+3rd,3rd,7,DEN 35,8:11,Shotgun,sacked,,,-7,DEN 28
+3rd,4th,14,DEN 28,7:49,,punt,,,47,"JAX 25,"
+3rd,1st,10,JAX 30,7:38,,pass,short right,(complete),-1,JAX 29
+3rd,2nd,11,JAX 29,7:01,Shotgun,pass,short,(incomplete),0,JAX 29
+3rd,3rd,11,JAX 29,6:55,Shotgun,pass,short left,(complete),10,JAX 39
+3rd,4th,1,JAX 39,6:16,,run,middle,,0,JAX 39
+3rd,1st,10,JAX 40,6:06,,pass,short middle,(complete),15,JAX 25
+3rd,1st,10,JAX 25,5:37,,run,right end,,17,JAX 8
+3rd,1st,Goal,JAX 8,4:49,,pass,short,(incomplete),0,JAX 8
+3rd,1st,Goal,JAX 1,4:44,,run,left end,,0,JAX 1
+3rd,2nd,Goal,JAX 1,4:12,,run,left end,,for,PAT
+3rd,1st,15,JAX 42,3:59,,pass,short,(incomplete),0,JAX 42
+3rd,2nd,15,JAX 42,3:54,Shotgun,run,middle,,0,JAX 42
+3rd,3rd,11,JAX 46,3:13,Shotgun,pass,deep middle,(complete),20,DEN 34
+3rd,1st,10,DEN 34,2:52,,run,right end,,0,DEN 34
+3rd,2nd,10,DEN 34,2:13,Shotgun,pass,short left,(complete),2,DEN 32
+3rd,3rd,8,DEN 32,1:30,Shotgun,pass,short right,(complete),5,DEN 27
+3rd,4th,3,DEN 27,0:50,,field,,,0,-1
+3rd,1st,10,DEN 20,0:45,,run,left end,,2,DEN 22
+4th,2nd,8,DEN 22,15:00,,temporarily,,,0,DEN 22
+4th,1st,10,DEN 49,14:33,,run,right end,,5,JAX 46
+4th,2nd,5,JAX 46,14:27,,run,right end,,1,JAX 45
+4th,3rd,4,JAX 45,13:44,Shotgun,scrambles,,,0,JAX 45
+4th,1st,10,JAX 40,12:58,,Timeout #1 by DEN #1,,,,JAX 45
+4th,1st,10,JAX 40,12:58,,run,left end,,0,JAX 40
+4th,2nd,10,JAX 40,12:15,Shotgun,pass,short,(incomplete),0,JAX 40
+4th,3rd,15,JAX 45,12:10,Shotgun,pass,short left,(complete),9,JAX 36
+4th,4th,6,JAX 36,11:26,,field,,,0,-1
+4th,1st,10,JAX 17,11:13,,pass,short right,(complete),2,JAX 19
+4th,1st,10,JAX 34,10:48,,run,right end,,8,JAX 42
+4th,2nd,2,,10:21,,run,middle,,0,JAX 42
+4th,1st,10,DEN 35,10:04,,run,middle,,0,DEN 35
+4th,2nd,10,DEN 35,9:27,,pass,short left,(complete),7,DEN 28
+4th,3rd,3,DEN 28,8:46,Shotgun,run,middle,,0,DEN 28
+4th,1st,10,DEN 24,8:06,,pass,deep middle,(complete),[R.Ayers].,"24 yards,"
+4th,1st,10,DEN 43,7:49,,pass,deep,(incomplete),0,DEN 43
+4th,2nd,10,DEN 43,7:42,Shotgun,pass,deep right,(complete),25,JAX 32
+4th,1st,10,JAX 32,6:56,,run,middle,,0,JAX 32
+4th,1st,10,JAX 21,6:21,,run,left end,,0,JAX 21
+4th,2nd,10,JAX 21,5:37,Shotgun,scrambles,,,0,JAX 21
+4th,3rd,3,JAX 14,4:51,Shotgun,pass,short,(incomplete),0,JAX 14
+4th,4th,3,JAX 14,4:47,,Timeout #3 by JAX #3,,,,JAX 14
+4th,4th,3,JAX 14,4:47,Shotgun,pass,short,(incomplete),0,JAX 14
+4th,1st,10,JAX 14,4:41,,run,right end,,6,JAX 20
+4th,2nd,4,JAX 20,3:57,,run,middle,,0,JAX 20
+4th,1st,10,JAX 28,3:14,,run,middle,,0,JAX 28
+4th,4th,3,JAX 35,2:23,,Timeout #2 by DEN #2,,,,JAX 28
+4th,3rd,6,JAX 32,2:22,,scrambles,,,0,JAX 32
+4th,4th,3,JAX 35,2:00,,punt,,,46,"DEN 19,"
+4th,1st,10,DEN 23,1:50,Shotgun,pass,short left,(complete),2,DEN 25
+4th,2nd,8,DEN 25,1:26,Shotgun,pass,short middle,(complete),11,DEN 36
+4th,1st,10,DEN 36,1:00,Shotgun,pass,deep,(incomplete),0,DEN 36
+4th,2nd,10,,0:53,Shotgun,pass,pass deep middle,(intercepted),0,THE 50
+4th,1st,10,,0:46,,kneels,,,-1,JAX 49
+4th,2nd,11,JAX 49,0:15,,kneels,,,-1,JAX 48

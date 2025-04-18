@@ -1,0 +1,170 @@
+Quarter,Down,To Go,Location,Time,Formation,Play Type,Part of Field,Completion,Yards Gained,Spot of Ball
+1st,1st,10,ARI 32,10:50,,pass,short left,(complete),to,ARI 32
+1st,1st,10,ARI 19,10:26,,run,right end,,3,ARZ 16
+1st,2nd,7,ARI 16,9:51,,pass,short,(incomplete),0,ARI 16
+1st,3rd,7,ARI 16,9:46,Shotgun,pass,short,(incomplete),0,ARI 16
+1st,4th,7,ARI 16,9:41,,field,,,0,-1
+1st,1st,10,ARI 43,9:31,,sacked,,,-9,ARZ 34
+1st,2nd,19,ARI 34,9:00,Shotgun,pass,short left,(complete),9,ARZ 43
+1st,3rd,10,ARI 43,8:17,Shotgun,pass,deep,(incomplete),0,ARI 43
+1st,4th,10,ARI 43,8:12,,punt,,,46,"SL 11,"
+1st,1st,10,LAR 11,8:05,,pass,short right,(complete),2,SL 13
+1st,2nd,8,LAR 13,7:24,,pass,short right,(complete),to,LAR 13
+1st,3rd,3,LAR 18,7:01,Shotgun,pass,short right,(complete),8,SL 26
+1st,1st,10,LAR 26,6:37,,pass,pass deep left,(intercepted),0,SL 39
+1st,1st,10,LAR 39,6:27,,run,middle,,0,LAR 39
+1st,2nd,11,LAR 40,5:47,Shotgun,pass,short right,(complete),1,SL 39
+1st,3rd,10,LAR 39,5:04,Shotgun,pass,deep,(incomplete),0,LAR 39
+1st,4th,10,LAR 39,4:57,,punt,,,29,"SL 10,"
+1st,1st,10,LAR 10,4:52,,run,right guard,,8,SL 18
+1st,2nd,2,LAR 18,4:16,,sacked,,,-7,SL 11
+1st,3rd,9,LAR 11,3:43,Shotgun,pass,short left,(complete),6,SL 17
+1st,4th,3,,3:06,,punt,,,THE,to ARZ
+1st,1st,10,ARI 40,2:55,,pass,short middle,(complete),3,ARZ 43
+1st,2nd,7,ARI 43,2:18,,run,middle,,0,ARI 43
+1st,3rd,7,ARI 43,1:38,Shotgun,pass,short middle,(complete),13,SL 44
+1st,1st,10,LAR 44,1:05,,run,right tackle,,4,SL 40
+1st,2nd,6,LAR 40,0:25,,pass,deep,(incomplete),0,LAR 40
+1st,3rd,6,LAR 40,0:19,Shotgun,pass,short,(incomplete),0,LAR 40
+1st,1st,10,LAR 35,0:14,,pass,deep middle,(complete),24,SL 11
+2nd,1st,10,LAR 11,15:00,,run,right tackle,,3,SL 8
+2nd,2nd,7,LAR 8,14:20,Shotgun,pass,short,(incomplete),0,LAR 8
+2nd,3rd,7,LAR 8,14:14,Shotgun,pass,short left,(complete),4,SL 4
+2nd,4th,3,LAR 4,13:57,,field,,,0,-1
+2nd,1st,10,LAR 23,13:47,,pass,short,(incomplete),0,LAR 23
+2nd,2nd,10,LAR 23,13:44,,run,left tackle,,ob,LAR 23
+2nd,1st,10,LAR 41,13:19,,pass,short,(incomplete),0,LAR 41
+2nd,2nd,10,LAR 41,13:11,,run,left guard,,7,SL 48
+2nd,3rd,3,LAR 48,12:32,Shotgun,pass,short right,(complete),5,ARZ 47
+2nd,1st,10,ARI 47,11:57,,run,middle,,0,ARI 47
+2nd,2nd,7,,11:17,,sacked,,,-6,THE 50
+2nd,3rd,13,,10:48,Shotgun,pass,deep,(incomplete),0,THE 50
+2nd,4th,13,,10:40,,punt,,,37,"ARZ 13,"
+2nd,1st,10,ARI 14,10:31,,pass,short,(incomplete),0,ARI 14
+2nd,2nd,10,ARI 14,10:27,,pass,short,(incomplete),0,ARI 14
+2nd,3rd,10,ARI 14,10:22,,Timeout #1 by ARZ #1,,,,ARI 14
+2nd,3rd,10,ARI 14,10:22,Shotgun,pass,deep,(incomplete),0,ARI 14
+2nd,4th,10,ARI 14,10:15,,punt,,,59,"SL 27,"
+2nd,1st,10,LAR 28,10:04,,pass,short right,(complete),to,LAR 28
+2nd,1st,10,LAR 39,9:32,,run,right tackle,,0,SL 39
+2nd,2nd,10,LAR 39,8:46,,run,right tackle,,0,SL 39
+2nd,3rd,10,LAR 39,8:09,Shotgun,pass,short middle,(complete),to,LAR 39
+2nd,1st,10,ARI 25,7:33,,run,right guard,,2,ARZ 23
+2nd,2nd,8,ARI 23,6:51,,pass,short right,(complete),4,ARZ 19
+2nd,3rd,13,ARI 28,5:43,Shotgun,pass,deep,(incomplete),0,ARI 28
+2nd,4th,13,ARI 28,5:33,,field,,,0,-1
+2nd,1st,10,ARI 24,5:22,,run,left end,,ob,ARI 24
+2nd,1st,10,ARI 45,4:50,,run,right end,,ob,ARI 45
+2nd,1st,10,LAR 40,4:23,,run,left end,,19,SL 21
+2nd,1st,10,LAR 21,3:44,,run,left guard,,20,SL 1
+2nd,1st,Goal,LAR 1,3:02,,run,left tackle,,for,PAT
+2nd,1st,10,LAR 37,2:49,Shotgun,pass,short right,(complete),4,SL 41
+2nd,2nd,6,LAR 41,2:14,,pass,short right,(complete),to,LAR 41
+2nd,3rd,7,LAR 40,2:00,,pass,short,(incomplete),0,LAR 40
+2nd,4th,7,LAR 40,1:57,,punt,,,55,"ARZ 5,"
+2nd,1st,10,ARI 14,1:47,Shotgun,run,middle,,0,ARI 14
+2nd,2nd,12,ARI 12,1:40,,Timeout #1 by SL #1,,,,ARI 14
+2nd,2nd,12,ARI 12,1:40,Shotgun,pass,short,(incomplete),0,ARI 12
+2nd,3rd,12,ARI 12,1:36,Shotgun,pass,short,(incomplete),0,ARI 12
+2nd,4th,12,ARI 12,1:32,,punt,,,51,"SL 37,"
+2nd,1st,10,LAR 37,1:20,Shotgun,run,middle,,0,LAR 37
+2nd,2nd,2,LAR 45,1:00,,play,,,0,LAR 45
+2nd,1st,10,ARI 48,0:32,Shotgun,pass,short,(incomplete),0,ARI 48
+2nd,2nd,10,ARI 48,0:27,Shotgun,pass,deep right,(complete),to,ARI 48
+2nd,1st,Goal,ARI 9,0:20,,Timeout #2 by ARZ #2,,,,ARI 48
+2nd,1st,Goal,ARI 9,0:20,Shotgun,pass,short middle,(complete),5,ARZ 4
+2nd,2nd,Goal,ARI 4,0:15,,Timeout #2 by SL #2,,,,ARZ 4
+2nd,2nd,Goal,ARI 4,0:15,Shotgun,pass,short,(incomplete),0,ARI 4
+2nd,3rd,Goal,ARI 4,0:11,,pass,short right,(complete),3,ARZ 1
+2nd,4th,Goal,ARI 1,0:05,,Timeout #3 by SL #3,,,,ARZ 1
+2nd,4th,Goal,ARI 1,0:05,,Timeout #3 by ARZ #3,,,,ARZ 1
+2nd,4th,Goal,ARI 1,0:05,,pass,short right,(complete),1,-1
+3rd,1st,10,LAR 20,15:00,,run,right tackle,,2,SL 22
+3rd,2nd,8,LAR 22,14:27,,run,middle,,0,LAR 22
+3rd,3rd,12,LAR 18,13:46,Shotgun,pass,short right,(complete),3,SL 21
+3rd,4th,9,LAR 21,13:10,,punt,,,63,"ARZ 16,"
+3rd,1st,10,ARI 22,12:57,,run,right guard,,1,ARZ 23
+3rd,2nd,9,ARI 23,12:23,,pass,short,(incomplete),0,ARI 23
+3rd,3rd,9,ARI 23,12:18,Shotgun,pass,short,(incomplete),0,ARI 23
+3rd,4th,19,ARI 13,12:14,,punt,,,52,"SL 35,"
+3rd,4th,19,ARI 13,12:05,,punt,,,42,"SL 45,"
+3rd,1st,10,ARI 38,11:54,,run,right end,,ob,ARI 38
+3rd,1st,10,ARI 27,11:19,,pass,short left,(complete),to,ARI 27
+3rd,2nd,8,ARI 25,10:49,,pass,short right,(complete),2,ARZ 23
+3rd,1st,10,ARI 11,10:25,,run,right tackle,,2,ARZ 9
+3rd,2nd,13,ARI 14,9:27,,run,middle,,0,ARI 14
+3rd,3rd,11,ARI 12,8:45,Shotgun,pass,short middle,(complete),5,ARZ 7
+3rd,3rd,6,ARI 7,8:38,Shotgun,pass,short,(incomplete),0,ARI 7
+3rd,4th,6,ARI 7,8:32,,field,,,0,-1
+3rd,1st,10,ARI 29,8:22,,pass,deep,(incomplete),0,ARI 29
+3rd,2nd,15,ARI 24,8:19,Shotgun,scrambles,,,0,ARI 24
+3rd,3rd,6,ARI 33,7:36,Shotgun,pass,short right,(complete),16,ARZ 49
+3rd,1st,10,ARI 49,7:02,,run,left end,,6,SL 45
+3rd,1st,14,ARI 45,7:02,Shotgun,sacked,,,-9,ARZ 36
+3rd,1st,10,ARI 20,6:16,,run,right end,,0,ARZ 20
+3rd,1st,20,ARI 10,5:56,Shotgun,pass,short left,(complete),4,ARZ 14
+3rd,2nd,16,ARI 14,5:08,Shotgun,pass,short,(incomplete),0,ARI 14
+3rd,3rd,16,ARI 14,5:04,,Timeout #1 by ARZ #1,,,,ARI 14
+3rd,3rd,16,ARI 14,5:04,Shotgun,pass,deep right,(complete),to,ARI 14
+3rd,1st,10,ARI 36,4:35,,run,left tackle,,-1,ARZ 35
+3rd,2nd,11,ARI 35,4:02,,pass,deep,(incomplete),0,ARI 35
+3rd,3rd,11,ARI 35,3:53,Shotgun,pass,deep,(incomplete),0,ARI 35
+3rd,4th,11,ARI 35,3:48,,punt,,,35,"SL 30,"
+3rd,1st,10,LAR 30,3:41,,run,right end,,ob,LAR 30
+3rd,2nd,1,LAR 39,3:06,,run,left tackle,,1,SL 40
+3rd,1st,10,LAR 40,2:23,,pass,short,(incomplete),0,LAR 40
+3rd,2nd,10,LAR 40,2:19,,run,left tackle,,0,SL 40
+3rd,3rd,10,LAR 40,1:56,Shotgun,pass,short,(incomplete),0,LAR 40
+3rd,4th,10,LAR 40,1:53,,punt,,,60,"end zone,"
+3rd,1st,10,ARI 20,1:44,Shotgun,pass,short,(incomplete),0,ARI 20
+3rd,2nd,10,ARI 20,1:39,Shotgun,pass,short,(incomplete),0,ARI 20
+3rd,3rd,10,ARI 20,1:34,Shotgun,pass,short middle,(complete),to,ARI 20
+3rd,1st,10,LAR 30,1:03,,pass,short right,(complete),9,SL 21
+3rd,2nd,1,LAR 21,0:27,,run,left end,,8,SL 13
+4th,1st,10,LAR 13,15:00,,run,middle,,0,LAR 13
+4th,2nd,11,LAR 14,14:24,Shotgun,pass,short,(incomplete),0,LAR 14
+4th,3rd,11,LAR 14,14:17,Shotgun,pass,short middle,(complete),10,SL 4
+4th,1st,10,LAR 5,14:08,,run,middle,,0,LAR 5
+4th,2nd,14,LAR 1,13:34,,run,middle,,0,LAR 1
+4th,3rd,12,LAR 3,13:00,,pass,short right,(complete),15,SL 18
+4th,1st,10,LAR 18,12:20,,pass,short right,(complete),to,LAR 18
+4th,1st,10,LAR 29,11:49,Shotgun,run,right tackle,,2,SL 31
+4th,2nd,8,LAR 31,11:04,,pass,short right,(complete),to,LAR 31
+4th,3rd,4,LAR 35,10:23,Shotgun,pass,short,(incomplete),0,LAR 35
+4th,4th,4,LAR 35,10:20,,punt,,,60,"ARZ 5,"
+4th,1st,10,ARI 14,10:09,,pass,short middle,(complete),to,ARI 14
+4th,1st,10,ARI 25,9:42,Shotgun,pass,deep left,(complete),20,ARZ 45
+4th,1st,10,ARI 45,9:08,,pass,deep,(incomplete),0,ARI 45
+4th,1st,15,ARI 40,8:56,Shotgun,pass,short left,(complete),6,ARZ 46
+4th,2nd,9,ARI 46,8:17,Shotgun,pass,short right,(complete),16,SL 38
+4th,1st,10,LAR 38,7:33,Shotgun,pass,deep middle,(complete),27,SL 11
+4th,1st,10,LAR 11,6:53,,run,left end,,5,SL 6
+4th,1st,20,LAR 21,6:26,Shotgun,pass,deep,(incomplete),0,LAR 21
+4th,2nd,20,LAR 21,6:18,Shotgun,pass,deep right,(complete),21,-1
+4th,1st,10,LAR 29,6:08,,pass,short right,(complete),6,SL 35
+4th,2nd,4,LAR 35,5:26,,pass,short right,(complete),5,SL 40
+4th,1st,10,LAR 40,4:51,,pass,short right,(complete),0,SL 40
+4th,2nd,10,LAR 40,4:42,,pass,short left,(complete),-6,SL 34
+4th,3rd,16,LAR 34,4:05,Shotgun,pass,deep right,(complete),to,LAR 34
+4th,1st,10,ARI 33,3:48,,run,right tackle,,1,ARZ 32
+4th,2nd,9,ARI 32,3:10,,pass,short right,(complete),8,ARZ 24
+4th,3rd,1,ARI 24,2:27,,run,middle,,0,ARI 24
+4th,1st,10,ARI 21,2:00,,pass,deep,(incomplete),0,ARI 21
+4th,2nd,10,ARI 21,1:55,Shotgun,pass,short,(incomplete),0,ARI 21
+4th,3rd,10,ARI 21,1:51,Shotgun,pass,short,(incomplete),0,ARI 21
+4th,4th,10,ARI 21,1:47,Shotgun,pass,pass short left,(intercepted),0,SL 29
+4th,1st,10,LAR 29,1:28,,run,right guard,,4,SL 25
+4th,1st,10,LAR 24,1:21,,pass,short left,(complete),to,LAR 24
+4th,2nd,1,LAR 33,1:15,Shotgun,pass,short,(incomplete),0,LAR 33
+4th,3rd,1,LAR 33,1:12,,run,middle,,0,LAR 33
+4th,1st,10,LAR 39,1:08,Shotgun,pass,short left,(complete),8,SL 47
+4th,2nd,2,LAR 47,0:48,Shotgun,pass,short,(incomplete),0,LAR 47
+4th,3rd,2,LAR 47,0:46,Shotgun,pass,short right,(complete),5,ARZ 48
+4th,1st,10,ARI 48,0:25,Shotgun,pass,short,(incomplete),0,ARI 48
+4th,2nd,10,ARI 48,0:20,Shotgun,pass,short,(incomplete),0,ARI 48
+4th,3rd,10,ARI 48,0:16,Shotgun,pass,short right,(complete),9,ARZ 39
+4th,4th,1,ARI 39,0:10,,Timeout #2 by SL #2,,,,ARZ 39
+4th,4th,1,ARI 39,0:09,,run,left tackle,,3,ARZ 36
+4th,1st,10,ARI 36,0:05,,Timeout #3 by SL #3,,,,ARZ 36
+4th,1st,10,ARI 36,0:05,,Timeout #2 by ARZ #2,,,,ARZ 36
+4th,1st,10,ARI 36,0:05,Shotgun,pass,deep right,(complete),at,INTERCEPTED by

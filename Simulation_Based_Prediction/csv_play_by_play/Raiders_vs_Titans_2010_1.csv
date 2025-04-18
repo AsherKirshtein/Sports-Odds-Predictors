@@ -1,0 +1,143 @@
+Quarter,Down,To Go,Location,Time,Formation,Play Type,Part of Field,Completion,Yards Gained,Spot of Ball
+1st,1st,10,TEN 24,13:35,,run,right end,,20,TEN 44
+1st,1st,10,TEN 44,12:56,,run,left tackle,,4,TEN 48
+1st,2nd,6,TEN 48,12:19,,pass,short right,(complete),11,OAK 41
+1st,1st,10,LV 41,11:39,,pass,short right,(complete),to,LV 41
+1st,2nd,12,LV 43,11:12,Shotgun,pass,short,(incomplete),0,LV 43
+1st,3rd,12,LV 43,11:07,Shotgun,sacked,,,-9,TEN 48
+1st,1st,10,TEN 34,10:53,,sacked,,,-7,TEN 41
+1st,2nd,17,TEN 41,10:21,,run,right tackle,,1,TEN 40
+1st,3rd,16,TEN 40,9:39,Shotgun,sacked,,,-8,TEN 48
+1st,1st,10,TEN 32,9:20,Shotgun,pass,short left,(complete),6,TEN 26
+1st,2nd,4,TEN 26,8:51,,run,left tackle,,7,TEN 19
+1st,1st,10,TEN 19,8:13,,run,right tackle,,-1,TEN 20
+1st,2nd,11,TEN 20,7:34,Shotgun,pass,short right,(complete),to,TEN 20
+1st,3rd,13,TEN 22,6:52,Shotgun,Aborted.,,,0,TEN 22
+1st,4th,7,TEN 16,6:22,,Goal,,,0,TEN 16
+1st,1st,10,TEN 26,6:12,,run,middle,,0,TEN 26
+1st,2nd,10,TEN 26,5:38,,run,left tackle,,1,TEN 27
+1st,3rd,9,TEN 27,4:55,Shotgun,pass,deep,(incomplete),0,TEN 27
+1st,1st,10,TEN 44,4:48,,pass,deep right,(complete),56,-1
+1st,1st,10,LV 20,4:38,,run,middle,,0,LV 20
+1st,2nd,3,LV 27,3:54,,run,left tackle,,3,OAK 30
+1st,1st,10,LV 30,3:08,,sacked,,,-8,OAK 22
+1st,1st,10,LV 23,3:06,,run,left end,,1,OAK 22
+1st,2nd,9,LV 22,2:28,Shotgun,run,middle,,0,LV 22
+1st,3rd,12,LV 25,1:49,Shotgun,pass,short,(incomplete),0,LV 25
+1st,4th,12,LV 25,1:43,,Goal,,,0,LV 25
+1st,1st,10,LV 17,1:35,,pass,short,(incomplete),0,LV 17
+1st,1st,5,LV 22,1:32,,run,right end,,ob,LV 22
+1st,1st,10,LV 35,0:49,,pass,short,(incomplete),0,LV 35
+1st,2nd,10,LV 35,0:43,,pass,deep,(incomplete),0,LV 35
+1st,3rd,10,LV 35,0:37,Shotgun,scrambles,,,0,LV 35
+2nd,4th,1,LV 44,15:00,,formation),,,0,LV 44
+2nd,1st,10,TEN 14,14:49,,pass,short right,(complete),to,TEN 14
+2nd,2nd,1,TEN 23,14:19,,run,middle,,0,TEN 23
+2nd,3rd,1,TEN 23,13:40,,run,left end,,8,TEN 31
+2nd,1st,10,TEN 31,12:59,,run,left tackle,,4,TEN 35
+2nd,2nd,6,,12:18,,scrambles,,,0,TEN 35
+2nd,1st,10,,11:32,,run,middle,,0,THE 50
+2nd,2nd,8,LV 48,10:55,Shotgun,run,left end,,-1,OAK 49
+2nd,3rd,14,TEN 46,9:58,Shotgun,pass,short left,(complete),8,OAK 46
+2nd,4th,6,LV 46,9:15,,formation),,,0,LV 46
+2nd,1st,10,LV 9,9:03,,run,right guard,,2,OAK 11
+2nd,2nd,8,LV 11,8:26,,run,middle,,0,LV 11
+2nd,3rd,6,LV 13,7:49,,pass,short,(incomplete),0,LV 13
+2nd,4th,6,LV 13,7:46,,formation),,,0,LV 13
+2nd,1st,10,TEN 39,7:34,,Timeout #1 by TEN #1,,,,
+2nd,1st,15,TEN 34,7:34,,run,middle,,0,TEN 34
+2nd,2nd,9,TEN 40,7:00,,pass,short,(incomplete),0,TEN 40
+2nd,3rd,9,TEN 40,6:52,Shotgun,pass,deep left,(complete),21,OAK 39
+2nd,1st,10,LV 39,6:12,,run,left tackle,,10,OAK 29
+2nd,1st,10,LV 29,5:31,,run,left tackle,,0,OAK 29
+2nd,2nd,10,LV 29,4:51,Shotgun,pass,short right,(complete),9,OAK 20
+2nd,3rd,1,LV 20,4:20,,run,right end,,ob,LV 20
+2nd,1st,10,LV 15,3:49,,run,left guard,,for,PAT
+2nd,1st,10,LV 20,3:39,,pass,short,(incomplete),0,LV 20
+2nd,2nd,15,LV 15,3:32,,sacked,,,-6,OAK 9
+2nd,3rd,23,LV 7,2:50,,run,middle,,0,LV 7
+2nd,4th,10,LV 20,2:09,,formation),,,0,LV 20
+2nd,1st,10,TEN 24,1:56,Shotgun,run,left guard,,for,PAT
+2nd,1st,10,LV 25,1:37,Shotgun,pass,short middle,(complete),12,OAK 37
+2nd,1st,10,TEN 48,1:29,Shotgun,pass,short middle,(complete),to,TEN 48
+2nd,1st,10,TEN 32,1:21,Shotgun,pass,short right,(complete),2,TEN 30
+2nd,2nd,8,TEN 30,0:53,,"Huddle,",,,0,TEN 30
+2nd,1st,10,TEN 21,0:47,,Timeout #1 by OAK #1,,,,TEN 30
+2nd,1st,15,TEN 26,0:47,Shotgun,pass,short,(incomplete),0,TEN 26
+2nd,1st,25,TEN 36,0:40,Shotgun,pass,short middle,(complete),to,TEN 36
+2nd,2nd,11,TEN 22,0:33,Shotgun,pass,deep,(incomplete),0,TEN 22
+2nd,3rd,11,TEN 22,0:26,Shotgun,pass,short right,(complete),10,TEN 12
+2nd,4th,2,TEN 13,0:19,,Timeout #2 by OAK #2,,,,TEN 12
+2nd,4th,1,TEN 12,0:19,,Goal,,,0,TEN 12
+2nd,1st,10,TEN 24,0:10,,kneels,,,-1,TEN 23
+3rd,1st,10,TEN 34,14:54,,run,right guard,,3,TEN 37
+3rd,2nd,7,TEN 37,14:18,,run,right end,,ob,TEN 37
+3rd,3rd,15,TEN 29,13:39,Shotgun,pass,short right,(complete),2,TEN 31
+3rd,4th,13,TEN 31,13:01,,formation),,,0,TEN 31
+3rd,1st,10,LV 19,12:45,,run,right tackle,,3,OAK 22
+3rd,2nd,7,LV 22,12:04,Shotgun,pass,short left,(complete),-5,OAK 17
+3rd,3rd,12,LV 17,11:22,Shotgun,scrambles,,,0,LV 17
+3rd,1st,10,LV 33,10:42,,pass,short left,(complete),11,OAK 44
+3rd,1st,15,LV 39,9:49,,kneels,,,-1,OAK 38
+3rd,2nd,16,LV 38,9:16,,pass,deep middle,(complete),27,TEN 35
+3rd,1st,10,TEN 35,8:38,,run,right guard,,-1,TEN 36
+3rd,2nd,11,TEN 36,7:58,,pass,short left,(complete),1,TEN 35
+3rd,3rd,10,TEN 35,7:09,Shotgun,pass,short,(incomplete),0,TEN 35
+3rd,4th,10,TEN 35,7:02,,Goal,,,0,TEN 35
+3rd,1st,10,TEN 43,6:57,,run,middle,,0,TEN 43
+3rd,2nd,7,TEN 46,6:22,,pass,short middle,(complete),3,TEN 49
+3rd,3rd,4,TEN 49,5:36,Shotgun,pass,short right,(complete),5,OAK 46
+3rd,1st,10,LV 46,5:08,,run,right guard,,3,OAK 43
+3rd,2nd,7,LV 43,4:30,Shotgun,sacked,,,-4,OAK 47
+3rd,3rd,11,LV 47,3:57,Shotgun,pass,deep middle,(complete),26,OAK 21
+3rd,1st,10,LV 19,3:33,,run,right guard,,4,OAK 15
+3rd,2nd,6,LV 15,2:54,,pass,short right,(complete),to,LV 15
+3rd,3rd,3,LV 12,2:28,Shotgun,run,middle,,0,LV 12
+3rd,1st,Goal,LV 4,1:51,,run,left guard,,for,PAT
+3rd,1st,10,LV 20,1:47,,pass,short,(incomplete),0,LV 20
+3rd,2nd,10,LV 20,1:42,,run,middle,,0,LV 20
+3rd,3rd,3,LV 27,1:05,Shotgun,pass,short right,(complete),at,INTERCEPTED by
+3rd,1st,Goal,LV 3,0:56,,run,left end,,2,OAK 1
+3rd,2nd,Goal,LV 1,0:19,,run,right guard,,0,OAK 1
+4th,3rd,Goal,LV 1,15:00,,pass,short right,(complete),1,-1
+4th,1st,10,LV 20,14:49,,run,middle,,0,LV 20
+4th,1st,10,LV 30,14:24,,Huddle),,,0,LV 30
+4th,2nd,10,LV 30,14:21,Shotgun,pass,short middle,(complete),16,OAK 46
+4th,1st,10,LV 46,13:56,,"Huddle,",,,0,LV 46
+4th,1st,10,TEN 33,13:34,,"Huddle,",,,0,TEN 33
+4th,2nd,8,TEN 31,13:09,,"Huddle,",,,0,TEN 31
+4th,3rd,8,TEN 31,13:05,Shotgun,pass,short left,(complete),11,TEN 20
+4th,1st,10,TEN 20,12:35,,"Huddle,",,,0,TEN 20
+4th,2nd,7,TEN 17,12:08,,"Huddle,",,,0,TEN 17
+4th,3rd,4,TEN 14,11:46,,Timeout #1 by OAK #1,,,,TEN 17
+4th,3rd,4,TEN 14,11:46,Shotgun,pass,short left,(complete),11,TEN 3
+4th,1st,Goal,TEN 8,10:44,Shotgun,run,middle,,0,TEN 8
+4th,2nd,Goal,TEN 7,10:04,Shotgun,pass,short left,(complete),7,-1
+4th,1st,10,TEN 20,9:58,,run,right guard,,3,TEN 23
+4th,2nd,7,TEN 23,9:26,,run,left end,,1,TEN 24
+4th,3rd,6,TEN 24,8:40,,Timeout #1 by TEN #1,,,,TEN 24
+4th,3rd,6,TEN 24,8:40,Shotgun,pass,short,(incomplete),0,TEN 24
+4th,4th,6,TEN 24,8:36,,formation),,,0,TEN 24
+4th,1st,10,LV 35,8:26,Shotgun,run,middle,,0,LV 35
+4th,1st,10,LV 48,8:03,,"Huddle,",,,0,LV 48
+4th,1st,10,TEN 27,7:36,,"Huddle,",,,0,TEN 27
+4th,2nd,1,TEN 18,7:07,,Huddle),,,0,TEN 18
+4th,1st,10,TEN 14,6:40,,"Huddle,",,,0,TEN 14
+4th,2nd,10,TEN 14,6:35,Shotgun,pass,short,(incomplete),0,TEN 14
+4th,3rd,10,TEN 14,6:29,Shotgun,pass,short,(incomplete),0,TEN 14
+4th,4th,10,TEN 14,6:25,Shotgun,pass,short middle,(complete),7,TEN 7
+4th,1st,10,TEN 8,6:17,,run,right tackle,,5,TEN 13
+4th,2nd,5,TEN 13,5:35,,run,right tackle,,2,TEN 15
+4th,3rd,3,TEN 15,4:54,,run,left tackle,,0,TEN 15
+4th,4th,3,TEN 15,4:46,,Timeout #2 by OAK #2,,,,TEN 15
+4th,4th,3,TEN 15,4:46,,formation),,,0,TEN 15
+4th,1st,10,LV 35,4:34,Shotgun,pass,short right,(complete),6,OAK 41
+4th,2nd,4,LV 41,4:05,,"Huddle,",,,0,LV 41
+4th,3rd,4,LV 41,4:00,Shotgun,pass,short middle,(complete),3,OAK 44
+4th,4th,1,LV 44,3:36,,Huddle),,,0,LV 44
+4th,1st,10,LV 44,3:32,,run,middle,,0,LV 44
+4th,2nd,6,LV 40,2:49,,run,left tackle,,0,OAK 40
+4th,3rd,6,LV 40,2:07,,run,right tackle,,12,OAK 28
+4th,1st,10,LV 28,2:00,,kneels,,,-1,OAK 29
+4th,2nd,11,LV 29,1:21,,kneels,,,-1,OAK 30
+4th,3rd,12,LV 30,0:39,,kneels,,,-1,OAK 31

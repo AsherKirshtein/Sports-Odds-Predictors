@@ -1,0 +1,155 @@
+Quarter,Down,To Go,Location,Time,Formation,Play Type,Part of Field,Completion,Yards Gained,Spot of Ball
+1st,1st,10,ATL 25,7:46,Shotgun,pass,short,(incomplete),0,ATL 25
+1st,1st,10,ATL 30,7:41,,pass,short right,(complete),4,ATL 34
+1st,2nd,6,ATL 34,7:06,,run,middle,,0,ATL 34
+1st,3rd,4,ATL 36,6:27,Shotgun,pass,short,(incomplete),0,ATL 36
+1st,4th,4,ATL 36,6:24,,formation),,,0,ATL 36
+1st,1st,10,PIT 13,6:15,,run,left guard,,3,PIT 16
+1st,2nd,7,PIT 16,5:33,,run,middle,,0,PIT 16
+1st,3rd,4,PIT 19,4:52,Shotgun,pass,short,(incomplete),0,PIT 19
+1st,4th,4,PIT 19,4:49,,formation),,,0,PIT 19
+1st,1st,10,ATL 32,4:37,,run,right tackle,,3,ATL 35
+1st,2nd,7,ATL 35,4:01,,pass,deep,(incomplete),0,ATL 35
+1st,3rd,7,ATL 35,3:56,Shotgun,sacked,,,-10,ATL 25
+1st,4th,17,ATL 25,3:37,,formation),,,0,ATL 25
+1st,1st,15,PIT 23,3:26,,run,right guard,,4,PIT 27
+1st,2nd,11,PIT 27,2:47,Shotgun,run,left tackle,,3,PIT 30
+1st,3rd,8,PIT 30,2:06,Shotgun,pass,short,(incomplete),0,PIT 30
+1st,4th,8,PIT 30,1:59,,formation),,,0,PIT 30
+1st,1st,10,ATL 38,1:50,,pass,deep,(incomplete),0,ATL 38
+1st,2nd,10,ATL 38,1:45,,pass,short left,(complete),10,ATL 48
+1st,1st,10,ATL 48,1:24,Shotgun,run,left guard,,4,PIT 48
+1st,2nd,6,PIT 48,0:48,,"Huddle,",,,0,PIT 48
+1st,3rd,1,PIT 43,0:11,,run,right tackle,,-2,PIT 45
+2nd,4th,3,PIT 45,15:00,,formation),,,0,PIT 45
+2nd,1st,10,PIT 10,14:53,,run,right guard,,0,PIT 10
+2nd,2nd,10,PIT 10,14:10,,run,left guard,,5,PIT 15
+2nd,3rd,5,PIT 15,13:24,Shotgun,pass,short right,(complete),for,to PIT
+2nd,4th,1,PIT 19,12:48,,formation),,,0,PIT 19
+2nd,1st,10,ATL 28,12:40,,run,left end,,3,ATL 31
+2nd,2nd,7,ATL 31,12:15,,run,left guard,,1,ATL 32
+2nd,3rd,6,ATL 32,11:41,Shotgun,pass,short right,(complete),16,ATL 48
+2nd,1st,10,ATL 48,11:17,,run,left tackle,,-2,ATL 46
+2nd,2nd,12,ATL 46,10:41,,pass,short middle,(complete),13,PIT 41
+2nd,1st,10,PIT 41,10:04,,pass,deep,(incomplete),0,PIT 41
+2nd,2nd,10,PIT 41,9:59,,Svitek,,,0,PIT 41
+2nd,3rd,9,PIT 40,9:26,Shotgun,pass,deep,(incomplete),0,PIT 40
+2nd,4th,9,PIT 40,9:18,,formation),,,0,PIT 40
+2nd,1st,10,PIT 7,9:11,,run,middle,,0,PIT 7
+2nd,2nd,1,PIT 16,8:33,,run,middle,,0,PIT 16
+2nd,3rd,1,PIT 16,8:03,,run,left guard,,5,PIT 21
+2nd,1st,10,PIT 21,7:19,,pass,short middle,(complete),17,PIT 38
+2nd,1st,10,PIT 38,6:52,,run,middle,,0,PIT 38
+2nd,2nd,8,PIT 40,6:12,,pass,deep middle,(complete),21,ATL 39
+2nd,1st,10,ATL 39,5:24,,run,left guard,,4,ATL 35
+2nd,2nd,6,ATL 35,4:41,,pass,pass short right,(intercepted),0,ATL 28
+2nd,1st,10,ATL 28,4:34,,Svitek,,,0,ATL 28
+2nd,1st,10,PIT 49,3:59,,pass,short left,(complete),9,PIT 40
+2nd,2nd,1,PIT 40,3:16,,run,right tackle,,5,PIT 35
+2nd,1st,10,PIT 35,2:39,,run,left tackle,,5,PIT 30
+2nd,2nd,5,PIT 30,2:00,,pass,short right,(complete),to,PIT 30
+2nd,3rd,3,PIT 28,1:54,Shotgun,pass,short,(incomplete),0,PIT 28
+2nd,4th,3,PIT 28,1:49,,Goal,,,0,PIT 28
+2nd,1st,10,PIT 36,1:45,Shotgun,pass,short right,(complete),13,PIT 49
+2nd,1st,10,PIT 49,1:18,,"Huddle,",,,0,PIT 49
+2nd,2nd,10,PIT 49,1:11,,Timeout #1 by PIT #1,,,,PIT 49
+2nd,2nd,10,PIT 49,1:11,Shotgun,pass,short,(incomplete),0,PIT 49
+2nd,3rd,10,PIT 49,1:07,Shotgun,pass,short left,(complete),10,ATL 41
+2nd,4th,18,PIT 41,0:59,,Timeout #2 by PIT #2,,,,ATL 41
+2nd,1st,10,ATL 41,0:59,Shotgun,pass,short left,(complete),4,ATL 37
+2nd,2nd,6,ATL 37,0:34,,"Huddle,",,,0,ATL 37
+2nd,3rd,6,ATL 37,0:24,Shotgun,pass,short,(incomplete),0,ATL 37
+2nd,4th,6,ATL 37,0:22,,Timeout #1 by ATL #1,,,,ATL 37
+2nd,4th,6,ATL 37,0:22,,Goal,,,0,ATL 37
+2nd,1st,10,ATL 45,0:17,Shotgun,pass,deep middle,(complete),17,PIT 38
+2nd,1st,10,PIT 38,0:10,,Timeout #2 by ATL #2,,,,PIT 38
+2nd,1st,10,PIT 38,0:10,Shotgun,pass,short left,(complete),to,PIT 38
+2nd,2nd,3,PIT 31,0:07,Shotgun,pass,short,(incomplete),0,PIT 31
+2nd,3rd,3,PIT 31,0:04,,Timeout #3 by PIT #3,,,,PIT 31
+2nd,3rd,3,PIT 31,0:04,,Goal,,,0,PIT 31
+3rd,1st,10,ATL 23,14:55,Shotgun,pass,short right,(complete),5,ATL 28
+3rd,2nd,5,ATL 28,14:25,,Huddle),,,0,ATL 28
+3rd,1st,10,ATL 35,13:59,,Huddle),,,0,ATL 35
+3rd,2nd,1,ATL 44,13:37,,"Huddle,",,,0,ATL 44
+3rd,1st,10,ATL 46,13:11,,Huddle),,,0,ATL 46
+3rd,2nd,10,ATL 46,13:07,,"Huddle,",,,0,ATL 46
+3rd,3rd,5,PIT 49,12:33,Shotgun,pass,short right,(complete),13,PIT 36
+3rd,3rd,10,ATL 46,12:19,Shotgun,pass,short right,(complete),14,PIT 40
+3rd,1st,10,PIT 40,12:02,,Huddle),,,0,PIT 40
+3rd,2nd,11,PIT 41,11:26,Shotgun,pass,deep middle,(complete),20,PIT 21
+3rd,1st,10,PIT 21,11:01,Shotgun,pass,deep,(incomplete),0,PIT 21
+3rd,2nd,10,PIT 21,10:55,,pass,short,(incomplete),0,PIT 21
+3rd,3rd,10,PIT 21,10:51,Shotgun,pass,short,(incomplete),0,PIT 21
+3rd,4th,10,PIT 21,10:45,,Goal,,,0,PIT 21
+3rd,1st,10,PIT 20,10:40,,run,middle,,0,PIT 20
+3rd,2nd,8,PIT 22,10:01,,pass,deep right,(complete),52,ATL 26
+3rd,1st,10,ATL 26,9:27,,run,left guard,,2,ATL 24
+3rd,2nd,8,ATL 24,8:45,,sacked,,,-6,ATL 30
+3rd,3rd,19,ATL 35,7:47,Shotgun,pass,deep right,(complete),17,ATL 18
+3rd,4th,2,ATL 18,6:58,,Goal,,,0,ATL 18
+3rd,1st,10,ATL 20,6:53,,run,right guard,,6,ATL 26
+3rd,2nd,4,ATL 26,6:16,,pass,short right,(complete),3,ATL 29
+3rd,3rd,1,ATL 29,5:56,,run,middle,,0,ATL 29
+3rd,1st,10,ATL 31,5:12,,pass,short left,(complete),7,ATL 38
+3rd,2nd,3,ATL 38,4:37,,Svitek,,,0,ATL 38
+3rd,3rd,1,ATL 40,3:57,,pass,short middle,(complete),9,ATL 49
+3rd,1st,10,ATL 49,3:19,,sacked,,,-5,ATL 44
+3rd,2nd,15,ATL 44,2:47,,pass,short middle,(complete),4,ATL 48
+3rd,3rd,11,ATL 48,2:11,Shotgun,pass,short,(incomplete),0,ATL 48
+3rd,4th,11,ATL 48,2:05,,formation),,,0,ATL 48
+3rd,1st,10,PIT 8,1:53,,pass,short middle,(complete),6,PIT 14
+3rd,2nd,4,PIT 14,1:13,,run,right guard,,1,PIT 15
+3rd,3rd,3,PIT 15,0:33,Shotgun,scrambles,,,0,PIT 15
+3rd,4th,1,PIT 17,0:21,,formation),,,0,PIT 17
+3rd,1st,10,ATL 37,0:13,,run,right guard,,1,ATL 38
+4th,2nd,9,ATL 38,15:00,,pass,short middle,(complete),7,ATL 45
+4th,3rd,2,ATL 45,14:15,Shotgun,pass,short,(incomplete),0,ATL 45
+4th,4th,2,ATL 45,14:10,,formation),,,0,ATL 45
+4th,1st,10,PIT 17,14:01,,run,middle,,0,PIT 17
+4th,2nd,8,PIT 19,13:19,,pass,short,(incomplete),0,PIT 19
+4th,3rd,8,PIT 19,13:15,Shotgun,pass,deep middle,(complete),24,PIT 43
+4th,1st,10,PIT 43,12:26,Shotgun,pass,deep right,(complete),25,ATL 32
+4th,1st,10,ATL 32,11:44,,run,middle,,0,ATL 32
+4th,2nd,10,ATL 32,11:02,,run,left tackle,,13,ATL 19
+4th,1st,10,ATL 19,10:23,,run,right guard,,-1,ATL 20
+4th,2nd,11,ATL 20,9:43,Shotgun,pass,short,(incomplete),0,ATL 20
+4th,3rd,11,ATL 20,9:40,Shotgun,pass,short right,(complete),for,to ATL
+4th,4th,7,ATL 16,8:58,,Goal,,,0,ATL 16
+4th,1st,10,ATL 31,8:49,,run,right end,,6,ATL 37
+4th,2nd,4,ATL 37,8:10,,run,left tackle,,3,ATL 40
+4th,3rd,1,ATL 40,7:27,,run,right end,,2,ATL 42
+4th,1st,10,ATL 42,6:51,,sacked,,,-10,ATL 32
+4th,2nd,10,ATL 42,6:48,,pass,deep middle,(complete),18,PIT 40
+4th,1st,10,PIT 40,6:11,,"Huddle,",,,0,PIT 40
+4th,2nd,4,PIT 34,5:58,,"Huddle,",,,0,PIT 34
+4th,3rd,1,PIT 31,5:45,,run,middle,,0,PIT 31
+4th,1st,10,PIT 29,5:05,,pass,short right,(complete),15,PIT 14
+4th,1st,10,PIT 14,4:58,,run,middle,,0,PIT 14
+4th,2nd,13,PIT 17,4:15,,pass,short right,(complete),5,PIT 12
+4th,3rd,8,PIT 12,4:07,Shotgun,pass,short middle,(complete),7,PIT 5
+4th,4th,1,PIT 5,3:28,,Goal,,,0,PIT 5
+4th,1st,10,PIT 20,3:24,,run,left guard,,7,PIT 27
+4th,2nd,3,PIT 27,2:50,,pass,short middle,(complete),12,PIT 39
+4th,1st,10,PIT 39,2:16,,pass,short right,(complete),5,PIT 44
+4th,2nd,5,PIT 44,2:05,,Timeout #1 by PIT #1,,,,PIT 44
+4th,2nd,5,PIT 44,2:05,,sacked,,,-9,PIT 35
+4th,3rd,14,PIT 35,1:59,Shotgun,sacked,,,-10,PIT 25
+4th,4th,24,PIT 25,1:53,,Timeout #1 by ATL #1,,,,PIT 25
+4th,4th,24,PIT 25,1:53,,formation),,,0,PIT 25
+4th,1st,10,ATL 21,1:45,Shotgun,pass,short right,(complete),at,INTERCEPTED by
+4th,1st,10,ATL 30,1:40,,run,right end,,3,ATL 27
+4th,2nd,7,ATL 27,1:33,,Timeout #2 by ATL #2,,,,ATL 27
+4th,2nd,7,ATL 27,1:33,,run,middle,,0,ATL 27
+4th,3rd,1,ATL 21,1:28,,Timeout #3 by ATL #3,,,,ATL 27
+4th,3rd,1,ATL 21,1:28,,run,middle,,0,ATL 21
+4th,4th,1,ATL 21,0:43,,Timeout #2 by PIT #2,,,,ATL 21
+4th,4th,1,ATL 21,0:43,,Goal,,,0,ATL 21
+4th,1st,10,ATL 30,0:39,Shotgun,run,middle,,0,ATL 30
+OT,1st,10,ATL 9,14:55,,run,left guard,,3,ATL 12
+OT,2nd,7,ATL 12,14:19,,pass,short right,(complete),9,ATL 21
+OT,1st,10,ATL 21,13:50,,run,right tackle,,3,ATL 24
+OT,2nd,7,ATL 24,13:16,,pass,short,(incomplete),0,ATL 24
+OT,3rd,7,ATL 24,13:10,Shotgun,pass,short right,(complete),9,ATL 33
+OT,3rd,17,ATL 14,12:52,Shotgun,pass,short,(incomplete),0,ATL 14
+OT,4th,17,ATL 14,12:48,,formation),,,0,ATL 14
+OT,1st,10,,12:36,,run,right tackle,,for,PAT

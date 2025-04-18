@@ -1,0 +1,144 @@
+Quarter,Down,To Go,Location,Time,Formation,Play Type,Part of Field,Completion,Yards Gained,Spot of Ball
+1st,1st,10,DET 20,9:03,,run,right guard,,1,DET 21
+1st,2nd,9,DET 21,8:27,Shotgun,run,left tackle,,5,DET 26
+1st,3rd,4,DET 26,7:51,Shotgun,pass,short,(incomplete),0,DET 26
+1st,4th,4,DET 26,7:46,,punt,,,35,"CHI 39,"
+1st,1st,10,CHI 39,7:35,,pass,deep,(incomplete),0,CHI 39
+1st,1st,10,DET 46,7:28,,scrambles,,,0,DET 46
+1st,1st,20,CHI 44,7:02,,run,left guard,,1,CHI 45
+1st,2nd,19,CHI 45,6:16,,sacked,,,-1,CHI 44
+1st,3rd,20,CHI 44,5:45,,pass,pass deep middle,(intercepted),0,CHI 42
+1st,1st,10,CHI 42,5:33,Shotgun,pass,short left,(complete),4,CHI 38
+1st,2nd,6,CHI 38,4:56,,run,right end,,-2,CHI 40
+1st,3rd,8,CHI 40,4:15,Shotgun,pass,short middle,(complete),6,CHI 34
+1st,1st,10,CHI 19,3:52,Shotgun,pass,short middle,(complete),2,CHI 17
+1st,2nd,8,CHI 17,3:15,Shotgun,pass,deep,(incomplete),0,CHI 17
+1st,3rd,8,CHI 17,3:08,Shotgun,pass,short right,(complete),10,CHI 7
+1st,1st,Goal,CHI 7,2:19,Shotgun,run,left tackle,,for,PAT
+1st,1st,10,CHI 25,2:09,,run,right guard,,2,CHI 27
+1st,2nd,8,CHI 27,1:36,,pass,deep left,(complete),32,DET 41
+1st,1st,10,DET 41,0:53,,run,right guard,,8,DET 33
+1st,2nd,2,DET 33,0:18,,pass,short right,(complete),13,DET 20
+2nd,1st,10,DET 20,15:00,,run,right guard,,3,DET 17
+2nd,2nd,7,DET 17,14:28,,pass,short,(incomplete),0,DET 17
+2nd,3rd,7,DET 17,14:22,,pass,short middle,(complete),6,DET 11
+2nd,1st,10,DET 12,13:53,,pass,short right,(complete),4,DET 8
+2nd,1st,10,DET 8,13:40,,run,right tackle,,2,DET 10
+2nd,2nd,8,DET 10,13:05,,run,right end,,-3,DET 7
+2nd,3rd,11,DET 7,12:21,Shotgun,run,right tackle,,1,DET 8
+2nd,4th,10,DET 8,11:44,,punt,,,44,"CHI 48,"
+2nd,1st,10,DET 43,11:33,,run,right guard,,0,DET 43
+2nd,2nd,10,DET 43,10:56,,formation),,,0,DET 43
+2nd,3rd,4,DET 37,10:07,,pass,short,(incomplete),0,DET 37
+2nd,4th,4,DET 37,10:03,,punt,,,27,"DET 10,"
+2nd,1st,10,DET 5,9:55,,run,left guard,,2,DET 7
+2nd,2nd,8,DET 7,9:15,Shotgun,pass,short,(incomplete),0,DET 7
+2nd,3rd,8,DET 7,9:09,Shotgun,pass,short right,(complete),5,DET 12
+2nd,4th,3,DET 12,8:30,,punt,,,42,"CHI 46,"
+2nd,1st,10,CHI 31,8:17,,pass,short left,(complete),5,CHI 36
+2nd,1st,20,CHI 21,7:40,,pass,deep left,(complete),21,CHI 42
+2nd,1st,10,CHI 42,7:00,,pass,deep,(incomplete),0,CHI 42
+2nd,2nd,10,CHI 42,6:56,,pass,short middle,(complete),15,DET 43
+2nd,1st,10,DET 43,6:14,,pass,short right,(complete),16,DET 27
+2nd,1st,10,DET 40,6:03,,run,right tackle,,8,DET 48
+2nd,2nd,2,DET 48,5:27,Shotgun,pass,short,(incomplete),0,DET 48
+2nd,3rd,2,,5:24,,run,left end,,2,THE 50
+2nd,1st,10,,4:44,Shotgun,pass,short left,(complete),3,CHI 47
+2nd,2nd,7,CHI 47,4:13,,run,left end,,1,CHI 46
+2nd,3rd,6,CHI 46,3:32,,pass,short right,(complete),9,CHI 37
+2nd,1st,10,CHI 37,2:53,,run,right end,,-1,CHI 38
+2nd,2nd,11,CHI 38,2:13,Shotgun,pass,short right,(complete),15,CHI 23
+2nd,1st,10,CHI 23,2:00,Shotgun,pass,deep right,(complete),19,CHI 4
+2nd,1st,Goal,CHI 4,1:33,,Huddle),,,0,CHI 4
+2nd,1st,10,CHI 21,1:25,Shotgun,pass,short middle,(complete),9,CHI 30
+2nd,1st,20,CHI 11,1:18,Shotgun,pass,short left,(complete),89,-1
+2nd,1st,10,DET 35,0:57,Shotgun,pass,short right,(complete),to,DET 35
+2nd,2nd,5,DET 40,0:52,Shotgun,pass,short right,(complete),5,DET 45
+2nd,1st,10,DET 45,0:29,,"Huddle,",,,0,DET 45
+2nd,1st,10,DET 37,0:20,,pass,short,(incomplete),0,DET 37
+2nd,2nd,10,DET 37,0:13,,pass,short left,(complete),13,DET 24
+2nd,1st,10,DET 24,0:08,,Timeout #1 by CHI #1,,,,DET 24
+2nd,1st,10,DET 24,0:08,,pass,short left,(complete),to,DET 24
+2nd,1st,10,DET 13,0:04,,Timeout #2 by DET #2,,,,DET 24
+2nd,1st,10,DET 13,0:04,,field,,,0,-1
+3rd,1st,10,DET 22,14:54,,S.,,,0,DET 22
+3rd,2nd,9,DET 23,14:21,Shotgun,pass,short,(incomplete),0,DET 23
+3rd,3rd,9,DET 23,14:18,Shotgun,pass,short,(incomplete),0,DET 23
+3rd,4th,14,DET 18,14:10,,punt,,,46,"CHI 36,"
+3rd,1st,10,CHI 36,13:57,,run,left guard,,5,CHI 41
+3rd,2nd,5,CHI 41,13:22,,pass,short left,(complete),8,CHI 49
+3rd,1st,10,DET 49,12:36,,run,right tackle,,6,DET 43
+3rd,2nd,4,DET 43,12:02,Shotgun,run,right tackle,,2,DET 41
+3rd,3rd,2,DET 41,11:26,Shotgun,pass,short,(incomplete),0,DET 41
+3rd,4th,2,DET 41,11:22,,punt,,,29,"DET 12,"
+3rd,1st,10,DET 15,11:14,,pass,short right,(complete),0,DET 15
+3rd,2nd,10,DET 15,10:36,Shotgun,sacked,,,-9,DET 6
+3rd,3rd,19,DET 6,10:01,Shotgun,pass,short right,(complete),1,DET 7
+3rd,4th,18,DET 7,9:23,,punt,,,48,"CHI 45,"
+3rd,1st,10,CHI 38,9:10,,pass,deep right,(complete),18,DET 44
+3rd,1st,10,DET 44,8:43,,pass,short right,(complete),9,DET 35
+3rd,2nd,1,DET 35,8:01,,run,right guard,,0,DET 35
+3rd,3rd,1,DET 35,7:21,Shotgun,pass,short right,(complete),5,DET 30
+3rd,1st,10,DET 30,6:44,,sacked,,,-8,DET 38
+3rd,2nd,18,DET 38,6:12,Shotgun,pass,short,(incomplete),0,DET 38
+3rd,3rd,18,DET 38,6:08,Shotgun,pass,short,(incomplete),0,DET 38
+3rd,4th,18,DET 38,6:02,,punt,,,38,"end zone,"
+3rd,1st,10,DET 20,5:54,,run,left guard,,-3,DET 17
+3rd,2nd,13,DET 17,5:20,Shotgun,pass,short right,(complete),12,DET 29
+3rd,3rd,1,DET 29,4:54,,Huddle),,,0,DET 29
+3rd,4th,1,DET 29,4:20,,punt,,,44,"CHI 27,"
+3rd,1st,10,CHI 27,4:11,,run,right end,,1,CHI 28
+3rd,2nd,9,CHI 28,3:35,,run,right guard,,0,CHI 28
+3rd,3rd,9,CHI 28,2:56,Shotgun,scrambles,,,0,CHI 28
+3rd,1st,10,CHI 39,2:10,,sacked,,,-5,CHI 34
+3rd,1st,10,CHI 39,1:54,,Aborted.,,,0,CHI 39
+3rd,2nd,7,CHI 36,1:15,Shotgun,pass,short,(incomplete),0,CHI 36
+3rd,3rd,7,CHI 36,1:11,Shotgun,pass,short left,(complete),8,CHI 28
+3rd,1st,10,CHI 28,0:29,Shotgun,pass,pass deep left,(intercepted),0,CHI 9
+3rd,1st,10,CHI 9,0:16,,run,right end,,ob,CHI 9
+4th,1st,10,CHI 26,15:00,,run,right guard,,4,CHI 30
+4th,2nd,6,CHI 30,14:23,,run,left guard,,5,CHI 35
+4th,3rd,1,CHI 35,13:58,,run,right tackle,,4,CHI 39
+4th,1st,10,CHI 39,13:17,,scrambles,,,0,CHI 39
+4th,2nd,5,CHI 44,12:47,,scrambles,,,0,CHI 44
+4th,1st,10,DET 48,12:15,,pass,short left,(complete),6,DET 42
+4th,2nd,4,DET 42,11:35,,run,right guard,,0,DET 42
+4th,3rd,4,DET 42,10:57,Shotgun,pass,deep,(incomplete),0,DET 42
+4th,4th,4,DET 42,10:52,,punt,,,33,"DET 9,"
+4th,1st,10,DET 9,10:45,,to,,,0,DET 9
+4th,1st,Goal,DET 1,10:37,,run,right guard,,0,DET 1
+4th,2nd,Goal,DET 1,9:51,,pass,short,(incomplete),0,DET 1
+4th,3rd,Goal,DET 1,9:45,,run,left guard,,0,DET 1
+4th,4th,Goal,DET 1,9:04,,run,right tackle,,0,DET 1
+4th,1st,10,DET 1,8:58,,run,middle,,0,DET 1
+4th,2nd,9,DET 2,8:18,,run,right tackle,,-1,DET 1
+4th,3rd,10,DET 1,7:14,,pass,short left,(complete),9,DET 10
+4th,4th,1,DET 10,6:31,,punt,,,36,"DET 46,"
+4th,1st,10,DET 41,6:20,,pass,short right,(complete),1,DET 40
+4th,2nd,9,DET 40,5:40,,sacked,,,-1,DET 41
+4th,3rd,10,DET 41,5:04,Shotgun,pass,short left,(complete),3,DET 38
+4th,4th,7,DET 38,4:24,,punt,,,24,"DET 14,"
+4th,1st,10,DET 14,4:18,Shotgun,pass,short,(incomplete),0,DET 14
+4th,2nd,10,DET 14,4:14,,run,right end,,0,DET 14
+4th,3rd,10,DET 14,3:35,Shotgun,pass,short,(incomplete),0,DET 14
+4th,4th,10,DET 14,3:29,,punt,,,42,"CHI 44,"
+4th,1st,10,CHI 44,3:21,Shotgun,run,right guard,,2,CHI 46
+4th,1st,20,CHI 34,3:15,,pass,deep,(incomplete),0,CHI 34
+4th,2nd,20,CHI 34,3:10,Shotgun,pass,short right,(complete),18,DET 48
+4th,3rd,2,DET 48,2:27,,pass,short right,(complete),13,DET 35
+4th,1st,10,DET 35,2:00,,pass,short,(incomplete),0,DET 35
+4th,1st,10,DET 30,1:55,,run,left end,,10,DET 20
+4th,1st,10,DET 20,1:45,,Timeout #1 by DET #1,,,,DET 20
+4th,1st,15,DET 25,1:45,,run,left guard,,-3,DET 28
+4th,2nd,18,DET 28,1:40,,Timeout #2 by DET #2,,,,DET 28
+4th,2nd,18,DET 28,1:40,,pass,deep left,(complete),28,-1
+4th,1st,10,DET 17,1:27,Shotgun,pass,deep left,(complete),24,DET 41
+4th,1st,10,DET 41,1:03,,"Huddle,",,,0,DET 41
+4th,2nd,2,DET 49,0:55,Shotgun,pass,short middle,(complete),10,CHI 41
+4th,1st,10,CHI 41,0:50,,Timeout #3 by DET #3,,,,CHI 41
+4th,1st,10,CHI 41,0:50,Shotgun,pass,short right,(complete),16,CHI 25
+4th,1st,10,CHI 25,0:31,,spiked,,,0,CHI 25
+4th,2nd,10,CHI 25,0:31,Shotgun,pass,deep,(incomplete),0,CHI 25
+4th,3rd,10,CHI 25,0:24,Shotgun,pass,deep,(incomplete),0,CHI 25
+4th,4th,10,CHI 25,0:18,Shotgun,pass,deep,(incomplete),0,CHI 25
+4th,1st,10,CHI 25,0:12,,kneels,,,-1,CHI 24
