@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import time, random
+import psycopg2
+import re
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -143,13 +145,15 @@ def get_all_plays(url):
     # Wait until at least one panel header is visible
     wait.until(EC.presence_of_all_elements_located((By.CLASS_NAME, "AccordionPanel__header")))
 
-    # Click each panel header to expand all drives
+    # Click each panel header to expand all drives EXCEPT the first one
     headers = driver.find_elements(By.CLASS_NAME, "AccordionPanel__header")
-    for header in headers:
+    for i, header in enumerate(headers):
+        if i == 0:
+            continue  # skip clicking the first one — it's already open
         try:
             driver.execute_script("arguments[0].scrollIntoView();", header)
             time.sleep(0.2)
-            driver.execute_script("arguments[0].click();", header)  # 💥 JS click avoids overlay issues
+            driver.execute_script("arguments[0].click();", header)
             time.sleep(0.4)
         except Exception as e:
             print(f"Click failed: {e}")
@@ -282,6 +286,71 @@ def get_play_type(play, index):
             yards_gained = 0
             
         return playtype, yards_gained, spot_of_ball
+ 
+def get_drive_results(link): 
+    options = Options()
+    options.add_argument('--headless')  # Remove this line if you want to see the browser
+    options.add_argument('--disable-gpu')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--window-size=1920,1080')
+    options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36")
+
+    driver = webdriver.Chrome(options=options)
+    
+    driver.get(link)
+    soup = BeautifulSoup(driver.page_source, 'html.parser')   
+    headers = soup.select('div.AccordionHeader')
+
+    drive_results = []
+
+    for header in headers:
+        team_logo_img = header.select_one('.AccordionHeader__Left__TeamLogoContainer img')
+        team_with_possession = team_logo_img['alt'] if team_logo_img else 'Unknown'
+
+        headline = header.select_one('.AccordionHeader__Left__Drives__Headline')
+        description = header.select_one('.AccordionHeader__Left__Drives__Description')
+
+        away_team = header.select_one('.AccordionHeader__Right__AwayTeam__Name')
+        away_score = header.select_one('.AccordionHeader__Right__AwayTeam__Score')
+
+        home_team = header.select_one('.AccordionHeader__Right__HomeTeam__Name')
+        home_score = header.select_one('.AccordionHeader__Right__HomeTeam__Score')
+
+        drive_results.append({
+            "possessing_team": team_with_possession,
+            "summary": headline.text.strip() if headline else 'N/A',
+            "description": description.text.strip() if description else 'N/A',
+            "away_team": away_team.text.strip() if away_team else '',
+            "away_score": away_score.text.strip() if away_score else '',
+            "home_team": home_team.text.strip() if home_team else '',
+            "home_score": home_score.text.strip() if home_score else ''
+        })
+
+    return drive_results
+
+def write_to_db(info):
+    conn = psycopg2.connect(
+    host="localhost",        # or your EC2 IP / Supabase URL
+    port="5432",
+    dbname="nfl_data",
+    user="asherkirshtein",
+    password="your_password"
+    )
+    cur = conn.cursor()
+
+    cur.execute("""
+        INSERT INTO play_by_play (
+            quarter, down, to_go, location, time, formation, play_type,
+            part_of_field, completion, yards_gained, spot_of_ball,
+            passer, runner, receiver, possession, summary, home_score, away_score
+        )
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+    """, info)
+
+    conn.commit()
+    cur.close()
+    conn.close()
+
     
 def get_play_by_play():
         csv_filename = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/Simulation_Based_Prediction/box_scores_urls.csv'
@@ -292,20 +361,24 @@ def get_play_by_play():
                 try:
                     if row.__contains__('Link'):
                         continue
+                    d_results = get_drive_results(row[0])
+                    Away_Team = d_results[0]['away_team']
+                    Home_Team = d_results[0]['home_team']
                     plays = get_all_plays(row[0])
                     t1, t2 = get_teams(plays)
                     t1 = t1.split(" ")[-1]
                     t2 = t2.split(" ")[-1]
                     d_path = '/Users/asherkirshtein/Desktop/Sports Odds Predictors/Simulation_Based_Prediction/csv_play_by_play/'
-                    file_name = d_path + f'{t1}_vs_{t2}_{row[1]}_{row[2]}.csv'
+                    file_name = d_path + f'{Away_Team}_@_{Home_Team}_{row[1]}_{row[2]}.csv'
                     print(file_name)
-                    
+                    drive_indexer = 0
                     with open(file_name, 'w', newline='') as f:
                         writer = csv.writer(f)
                         writer.writerow(['Quarter','Down', 'To Go', 'Location', 'Time', 'Formation', 'Play Type',
-                                        'Part of Field', 'Completion', 'Yards Gained', 'Spot of Ball'])  # optional header
+                                        'Part of Field', 'Completion', 'Yards Gained', 'Spot of Ball', 'Passer', 'Runner', 'Receiver', 'Possession', 'Summary','Home_Score', 'Away_Score'])  # optional header
                         for drive in plays:
-                            write_me = [None] * 11
+                            end_of_drive_info =d_results[drive_indexer]
+                            write_me = [None] * 18
                             for play in drive:
                                 outcome = play.split(" ")
                                 down = outcome[0]
@@ -326,14 +399,14 @@ def get_play_by_play():
                                 if outcome[10] == 'Timeout':
                                     play_type = f'{outcome[10]} {outcome[11]} by {outcome[13]}' 
                                     timeout_number = outcome[11]
-                                    team_to_call_to = outcome[13]
                                 elif outcome[index] == "(Shotgun)":
                                     formation = "Shotgun"
                                     index += 1
-                                player = outcome[index]
                                 index += 1
-                                
-                                
+                                passer = ''
+                                runner = ''
+                                receiver = ''
+                                names = [token for token in outcome if re.search(r'[A-Za-z]\.[A-Za-z]', token)]
                                 if outcome[10] != 'Timeout':
                                     play_type, yards_gained, spot_of_ball = get_play_type(outcome, index)
                                     p = play_type.split(" ")
@@ -343,9 +416,12 @@ def get_play_by_play():
                                     if play_type == 'pass':
                                         completion = p[-1]
                                         part_of_field = ' '.join(str(x) for x in p[1:-1])
+                                        passer = names[0]
+                                        if len(names) > 1:
+                                            receiver = names[1]
                                     elif play_type == 'run':
                                         part_of_field = ' '.join(str(x) for x in p[1:])
-                                        
+                                        runner = names[0]
                                     
                                     write_me[0] = quarter
                                     write_me[1] = down
@@ -359,6 +435,17 @@ def get_play_by_play():
                                     write_me[8] = completion
                                     write_me[9] = yards_gained
                                     write_me[10] = spot_of_ball
+                                    
+                                    write_me[11] = passer
+                                    write_me[12] = runner
+                                    write_me[13] = receiver
+                                    
+                                    write_me[14] = end_of_drive_info['possessing_team']
+                                    write_me[15] = end_of_drive_info['summary']
+                                    
+                                    write_me[16] = end_of_drive_info['home_score']
+                                    write_me[17] = end_of_drive_info['away_score']
+                                    
                                     
                                 else:
                                     
@@ -374,14 +461,20 @@ def get_play_by_play():
                                     write_me[8] = ""
                                     write_me[9] = ""
                                     write_me[6] = play_type + " " + timeout_number
-                                
-                                
-                    
-                                writer.writerow(write_me)
+                                    
+                                    write_me[14] = end_of_drive_info['possessing_team']
+                                    write_me[15] = end_of_drive_info['summary']
+                                    
+                                    write_me[16] = end_of_drive_info['home_score']
+                                    write_me[17] = end_of_drive_info['away_score']
+                                    
+                                write_to_db(write_me)
+                            drive_indexer += 1            
                 except:
                     with open(csv_error_file, 'w', newline='') as wr:
+                                print(play)
                                 writer = csv.writer(wr)
-                                writer.writerow(play)
+                                writer.writerow(wr)
                                
             
 get_play_by_play()
