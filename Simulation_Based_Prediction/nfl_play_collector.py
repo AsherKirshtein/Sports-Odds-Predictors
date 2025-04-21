@@ -354,7 +354,6 @@ def write_to_db(info):
     
 def get_play_by_play():
         csv_filename = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/Simulation_Based_Prediction/box_scores_urls.csv'
-        csv_error_file = '/Users/asherkirshtein/Desktop/Sports Odds Predictors/Simulation_Based_Prediction/csv_play_by_play/errors.txt'
         with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
             reader = csv.reader(csvfile)
             for row in reader:
@@ -365,18 +364,9 @@ def get_play_by_play():
                     Away_Team = d_results[0]['away_team']
                     Home_Team = d_results[0]['home_team']
                     plays = get_all_plays(row[0])
-                    t1, t2 = get_teams(plays)
-                    t1 = t1.split(" ")[-1]
-                    t2 = t2.split(" ")[-1]
-                    d_path = '/Users/asherkirshtein/Desktop/Sports Odds Predictors/Simulation_Based_Prediction/csv_play_by_play/'
-                    file_name = d_path + f'{Away_Team}_@_{Home_Team}_{row[1]}_{row[2]}.csv'
-                    print(file_name)
+                    print(f'{row[1]} week {row[2]}: {Away_Team} @ {Home_Team}')
                     drive_indexer = 0
-                    with open(file_name, 'w', newline='') as f:
-                        writer = csv.writer(f)
-                        writer.writerow(['Quarter','Down', 'To Go', 'Location', 'Time', 'Formation', 'Play Type',
-                                        'Part of Field', 'Completion', 'Yards Gained', 'Spot of Ball', 'Passer', 'Runner', 'Receiver', 'Possession', 'Summary','Home_Score', 'Away_Score'])  # optional header
-                        for drive in plays:
+                    for drive in plays:
                             end_of_drive_info =d_results[drive_indexer]
                             write_me = [None] * 18
                             for play in drive:
@@ -471,10 +461,8 @@ def get_play_by_play():
                                 write_to_db(write_me)
                             drive_indexer += 1            
                 except:
-                    with open(csv_error_file, 'w', newline='') as wr:
-                                print(play)
-                                writer = csv.writer(wr)
-                                writer.writerow(wr)
+                    print(play)
+                                
                                
             
 get_play_by_play()
