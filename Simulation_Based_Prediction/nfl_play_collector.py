@@ -2,7 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import time, random
 import psycopg2
+from concurrent.futures import ThreadPoolExecutor
 import re
+from tqdm import tqdm
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -337,38 +339,34 @@ def write_to_db(info):
     password="your_password"
     )
     cur = conn.cursor()
-
     cur.execute("""
         INSERT INTO play_by_play (
             quarter, down, to_go, location, time, formation, play_type,
             part_of_field, completion, yards_gained, spot_of_ball,
-            passer, runner, receiver, possession, summary, home_score, away_score
+            passer, runner, receiver, possession, summary, home_score, away_score, week,
+            year, play_number, Home_Team, Away_Team
         )
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
     """, info)
 
     conn.commit()
     cur.close()
     conn.close()
 
-    
-def get_play_by_play():
-        csv_filename = f'/Users/asherkirshtein/Desktop/Sports Odds Predictors/Simulation_Based_Prediction/box_scores_urls.csv'
-        with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
-            reader = csv.reader(csvfile)
-            for row in reader:
-                try:
-                    if row.__contains__('Link'):
-                        continue
+
+def scrape_row(row):
                     d_results = get_drive_results(row[0])
+                    week = row[2]
+                    year = row[1]
                     Away_Team = d_results[0]['away_team']
                     Home_Team = d_results[0]['home_team']
                     plays = get_all_plays(row[0])
-                    print(f'{row[1]} week {row[2]}: {Away_Team} @ {Home_Team}')
                     drive_indexer = 0
+                    play_number = 0
                     for drive in plays:
+                            play_number+=1
                             end_of_drive_info =d_results[drive_indexer]
-                            write_me = [None] * 18
+                            write_me = [None] * 23
                             for play in drive:
                                 outcome = play.split(" ")
                                 down = outcome[0]
@@ -435,7 +433,11 @@ def get_play_by_play():
                                     
                                     write_me[16] = end_of_drive_info['home_score']
                                     write_me[17] = end_of_drive_info['away_score']
-                                    
+                                    write_me[18] = week
+                                    write_me[19] = year
+                                    write_me[20] = play_number
+                                    write_me[21] = Home_Team
+                                    write_me[22] = Away_Team
                                     
                                 else:
                                     
@@ -458,10 +460,29 @@ def get_play_by_play():
                                     write_me[16] = end_of_drive_info['home_score']
                                     write_me[17] = end_of_drive_info['away_score']
                                     
+                                    write_me[18] = week
+                                    write_me[19] = year
+                                    write_me[20] = play_number
+                                    write_me[21] = Home_Team
+                                    write_me[22] = Away_Team
+                                    
                                 write_to_db(write_me)
                             drive_indexer += 1            
-                except:
-                    print(play)
+
+    
+def get_play_by_play():
+    csv_filename = '/Users/asherkirshtein/Desktop/Sports Odds Predictors/Simulation_Based_Prediction/box_scores_urls.csv'
+
+    with open(csv_filename, 'r', newline='', encoding='utf-8') as csvfile:
+        reader = list(csv.reader(csvfile))  # Convert to list so tqdm knows the total
+        for row_counter, row in enumerate(tqdm(reader, desc="Scraping rows"), start=1):
+            try:
+                if 'Link' in row[0]:  # cleaner header check
+                    continue
+                scrape_row(row)
+            except Exception as e:
+                print(f"❌ Failed on row {row_counter}: {row}")
+                print(f"Error: {e}")
                                 
                                
             
